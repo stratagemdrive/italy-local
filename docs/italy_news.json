@@ -1,0 +1,539 @@
+{
+  "country": "Italy",
+  "last_updated": "2026-10-07T07:15:07.349530+00:00",
+  "story_count": 76,
+  "stories": [
+    {
+      "title": "Popular and right against Brussels. The squeeze on short-term rentals hangs in the balance",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/07/news/popolari_e_destra_contro_bruxelles_in_bilico_la_stretta_sugli_affitti_brevi-425630416/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In the centre-right the early voting game, skepticism from Lega and Fi",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/06/nel-centrodestra-la-partita-del-voto-anticipato-scetticismo-di-lega-e-fi_50ced7b2-af92-411a-9262-d116362116c3.html",
+      "published_date": "2026-10-06T20:15:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU, specific clauses in future treaties for those who violate European values",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/ue-nei-futuri-trattati-clausole-specifiche-per-chi-viola-i-valori-europei_9aa21684-20f6-44d7-b154-55789abb7352.html",
+      "published_date": "2026-10-06T14:23:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trapped in a canal in the Milan area, deer saved by firefighters",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/intrappolato-in-un-canale-nel-milanese-cervo-salvato-dai-vigili-del-fuoco_9dfb7651-9312-484f-9c5b-26a10ce6e365.html",
+      "published_date": "2026-10-06T13:54:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Critical minerals, Tajani: «Working for an agreement with the Democratic Republic of Congo»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/minerali-critici-tajani-al-lavoro-un-accordo-la-repubblica-democratica-congo-AJq3ZtaB",
+      "published_date": "2026-10-06T13:51:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From specialist care to the optician, one in five young people pay in instalments",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/10/06/news/dalle_cure_specialistiche_all_ottica_un_giovane_su_cinque_paga_a_rate-425628889/?rss",
+      "published_date": "2026-10-06T09:17:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tajani, slight illness in Marino: sudden change in blood pressure, checks at Gemelli. Farnesina: \"He's fine\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/tajani-lieve-malore-a-marino-sbalzo-di-pressione-controlli-al-gemelli-farnesina-sta-bene-804c9d85-a732-4031-88fa-925b821b7434.html",
+      "published_date": "2026-10-04T14:54:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mattarella visits the Principality of Monaco, it is the first time for an Italian Head of State",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-02/mattarella-principato-monaco-39358420/",
+      "published_date": "2026-10-02T14:53:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meloni writes to von der Leyen: \"More flexibility is needed\". The EU's response: \"Already granted\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-01/meloni-von-der-leyen-ue-39350594/",
+      "published_date": "2026-10-01T20:04:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meloni asks the EU for more flexibility. Brussels, already granted",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/meloni-chiede-allue-piu-flessibilita-bruxelles-gia-concessa-3a264a1b-4ad8-421b-8e3a-2a6eb9928ad7.html",
+      "published_date": "2026-10-01T19:57:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Emergency, collection of signatures for popular initiative law 'I object to war'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/emergency-raccolta-firme-per-legge-di-iniziativa-popolare-io-obietto-la-guerra_13887234-caca-4909-9011-e5d06f372f21.html",
+      "published_date": "2026-10-07T07:05:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NATO sources, the Allied Military Committee visits Kiev",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/fonti-nato-il-comitato-militare-alleato-in-visita-a-kiev_7fa269b3-a410-489f-acb3-67868d7a7ebe.html",
+      "published_date": "2026-10-07T07:03:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Demonstrations on 7 October, intelligence working on possible tensions in Italy",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/manifestazioni-7-ottobre-intelligence-lavoro-possibili-tensioni-italia-AJjwcjbB",
+      "published_date": "2026-10-07T06:12:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Poggipolini, with hi-tech welding new orders from Leonardo",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/poggipolini-la-saldatura-hi-tech-nuove-commesse-leonardo-AJ5l90ZB",
+      "published_date": "2026-10-07T04:02:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Garlasco, the note that the Ris made disappear: \"No blood on the pedals of Stasi's bike\"",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/07/news/garlasco_ris_niente_sangue_pedali_bici_stasi-425630420/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military pensions, Usmia: «From 2032 there will be an alarm for pure contributors». Here's why and the simulations",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/pensioni-militari-l-usmia-dal-2032-e-allarme-i-contributivi-puri-ecco-perche-e-simulazioni-AJ5VxjaB",
+      "published_date": "2026-10-06T17:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lunar communications and intelligent satellites in Leonardo's new space move",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/spazio-iac-2026-turchia-leonardo-telespazio-ispace-luna/",
+      "published_date": "2026-10-06T15:01:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Villa Pamphili, Kaufmann's defense requests a new psychiatric evaluation",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/villa-pamphili-la-difesa-di-kaufmann-chiede-una-nuova-perizia-psichiatrica_8eb543db-ea8a-4e72-ba36-098d262f1cf2.html",
+      "published_date": "2026-10-06T13:25:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Strategic collaboration for the future and renewal of the Italian Army begins",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/al-via-la-collaborazione-strategica-per-il-futuro-e-il-rinnovamento-dellesercito-italiano-077b174a-d855-46ab-8d47-5f36fb2e09dc.html",
+      "published_date": "2026-10-06T13:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Garlasco, the commander of the Carabinieri Luongo: \"If someone from the force made a mistake they will pay\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/garlasco-il-comandante-dei-carabinieri-luongo-se-qualcuno-dellarma-ha-sbagliato-paghera-91e1c443-b208-48e0-a4b5-a28660301e04.html",
+      "published_date": "2026-10-05T18:31:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gas opens higher on the Amsterdam market (+1.1%)",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/il-gas-apre-in-rialzo-sul-mercato-di-amsterdam-11_cde307f6-0f61-46f2-b353-cc6c8bd0c0d1.html",
+      "published_date": "2026-10-07T06:30:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil prices rising, WTI traded at $89.97",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/prezzo-del-petrolio-in-aumento-wti-scambiato-a-8997-dollari_9a9f5490-2033-49cb-83b5-15398c0bd400.html",
+      "published_date": "2026-10-07T06:06:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Ten-year electricity offers, how long-term contracts work. Do they agree or not?",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/07/news/offerte_luce_dieci_anni_come_funzionano-425630079/?rss",
+      "published_date": "2026-10-07T03:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Excise duties, the government taken aback. Diesel starts to rise again after the end of the discounts",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/07/news/taglio_accise_sconti_prezzi_diesel_governo-425630666/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Eni, the price cap remains but the price of diesel at the pump increases without the cut in excise duties",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/eni-il-price-cap-resta-ma-il-prezzo-del-gasolio-alla-pompa-aumenta-senza-il-taglio-delle-accise-b840950c-ec7a-403c-ba74-827d81614023.html",
+      "published_date": "2026-10-06T17:43:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Stop the excise duty cut, the price of diesel rises again",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/carburanti-stop-taglio-accise-sale-di-nuovo-il-prezzo-del-gasolio-ec063dbd-2fc3-4c8e-b235-ddfe7ff11afe.html",
+      "published_date": "2026-10-06T17:09:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The government shocked by diesel increases, the cut in excise duties is back on the table",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/06/news/diesel_taglio_accise_governo-425629377/?rss",
+      "published_date": "2026-10-06T16:49:19+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Clashes at the student march, barricades and tear gas in Strasbourg",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/scontri-al-corteo-degli-studenti-barricate-e-lacrimogeni-a-strasburgo_8ce1e678-b7b7-42f0-8164-d014c7fd2f51.html",
+      "published_date": "2026-10-06T16:17:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Gas futures stable at 75.5 euros per megawatt hour",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/06/i-futures-su-gas-stabili-a-755-euro-al-megawattora_7ac4bc23-3596-4123-b4bd-6b5c336cee45.html",
+      "published_date": "2026-10-06T16:02:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Meloni with 18 other EU leaders: «Clear answers on energy costs»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/meloni-altri-18-leader-ue-risposte-chiare-costi-dell-energia-AJjtZlaB",
+      "published_date": "2026-10-06T13:33:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Taxi drivers in the square in Naples against 'Expensive fuel' and traffic",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/tassisti-in-piazza-a-napoli-contro-caro-carburante-e-traffico_26d2f83c-578c-4e42-a696-ec66836d4626.html",
+      "published_date": "2026-10-06T10:45:32+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Von der Leyen: \"We will launch a European task force to purchase energy. Support must be targeted\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/06/news/von_der_leyen_task_force_ue_acquisto_energia-425629028/?rss",
+      "published_date": "2026-10-06T10:02:29+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The collapsed walls, the devastated window frames: the damage after the explosion in an apartment building in Bergamo",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/bergamo-devastazione-dopo-scoppio-in-un-condominio-663dec66-cd7e-40fe-9d72-9836ca8407aa.html",
+      "published_date": "2026-10-06T08:19:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "All the numbers of the Dpfp. Almost 29 billion on energy and defense",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-03/numeri-dpfp-scostamento-energia-difesa-39369974/",
+      "published_date": "2026-10-03T13:15:53+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuels, Urso: \"Price cap in 10 thousand distributors, an Italian success that amazes Europe\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-03/urso-price-cap-carburanti-39365214/",
+      "published_date": "2026-10-03T06:49:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuels, Eni cuts prices for agriculture and fishing: 20% discount with Enilive",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-02/eni-sconto-carburante-39354369/",
+      "published_date": "2026-10-02T08:10:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "SpaceX aims to raise 40 billion to buy Nvidia chips",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/spacex-punta-raccogliere-40-miliardi-comprare-chip-nvidia-AJ3vwlbB",
+      "published_date": "2026-10-07T07:06:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The BTP-Bund spread opens higher at 109, yields rise",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/lo-spread-btp-bund-apre-in-rialzo-a-109-salgono-i-rendimenti_e3b12649-a1b6-427c-aca4-9aeef36777c9.html",
+      "published_date": "2026-10-07T06:42:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Euro down slightly, trading at 1.1226 dollars",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/euro-in-lieve-calo-scambiato-a-11226-dollari_dd3b4b4d-5230-4374-a99f-45261844b6f5.html",
+      "published_date": "2026-10-07T06:15:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gold price falling, Spot traded at $4,129",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/prezzo-delloro-in-calo-spot-scambiato-a-4.129-dollari_bea01908-426d-4b23-905b-7a5c5cfaeec1.html",
+      "published_date": "2026-10-07T06:10:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Alarm from the IMF on public debt: «Record levels, it can no longer be postponed»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/dall-fmi-allarme-debito-pubblico-livelli-record-non-si-puo-piu-rimandare-AJ1enEbB",
+      "published_date": "2026-10-07T06:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Diesel, the cut in excise duties returns. Flexibility on the Ecofin table",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/diesel-torna-taglio-accise-flessibilita-tavolo-ecofin-AJvHxUbB",
+      "published_date": "2026-10-07T05:23:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From 20 to 22 October at NetZero there will be a discussion on the electrification of the economy",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/dal-20-22-ottobre-netzero-confronto-elettrificazione-dell-economia-AJUh9JbB",
+      "published_date": "2026-10-07T04:02:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Data center, project for a network of 13 plants underway",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/data-center-via-progetto-una-rete-13-impianti-AJNfwKbB",
+      "published_date": "2026-10-07T03:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Preventive agreement, acceptances by November 2nd. Discounts for VAT numbers that confirm",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/10/07/news/concordato_preventivo_2_novembre_sconti_partite_iva-425630083/?rss",
+      "published_date": "2026-10-07T03:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Increasing coupons in three stages for the new BTP value, goodbye to the loyalty bonus",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/07/news/btp_valore_cedole_crescenti_premio_fedelta-425630688/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Reichlin: “Low wages, inflation and young people on the run: Italy is also at risk”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/07/news/reichlin_intervista-425630565/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inflation, EU-Treasury back and forth: “At Ecofin there is no talk of flexibility”. “We will discuss it”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/06/news/inflazione_europa_ue_tesoro_ecofin_riunione_flessibilita-425630102/?rss",
+      "published_date": "2026-10-06T20:06:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Uranium, Mike Pompeo appointed president of Reveille Resources",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/uranio-mike-pompeo-nominato-presidente-reveille-resources-AJMJXGbB",
+      "published_date": "2026-10-06T18:35:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ecofin towards an agreement on the new supervision of EU markets",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/06/lecofin-verso-un-accordo-sulla-nuova-supervisione-dei-mercati-ue_2a9a98e6-f42e-46d3-b869-1af96fb39796.html",
+      "published_date": "2026-10-06T16:51:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Social security, 11 million members and 80 billion in government bonds: this is how pension funds in Italy are growing",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/previdenza-11-milioni-iscritti-e-80-miliardi-titoli-stato-cosi-crescono-fondi-pensione-italia-AJfnk1ZB",
+      "published_date": "2026-10-06T16:49:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sources, 'unexpected discussion on flexibility at Ecofin, focus on extra profits'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/06/fonti-a-ecofin-non-atteso-confronto-su-flessibilita-punto-su-extraprofitti_02cb5e87-564e-4b7f-a4ac-88e329166d24.html",
+      "published_date": "2026-10-06T16:41:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stock market: Milan on the rise, banks always in the spotlight",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/06/borsa-milano-in-rialzo-banche-sempre-sotto-i-riflettori_7f81a32d-5e57-4ff2-bf44-d2d3250f8404.html",
+      "published_date": "2026-10-06T16:29:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stellantis, Fim-Cisl 2026 report: production grows by +28.3%. However, the Cassino case weighs heavily",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-06/stellantis-fim-cisl-report-produzione-39408816/",
+      "published_date": "2026-10-06T16:20:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Accenture, increasingly AI in insurance, 80% of clients trust the advice",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/06/accenture-sempre-piu-ia-nelle-assicurazioni-l80-dei-clienti-si-fida-dei_2ff992fd-a890-43ce-b3e1-4ed10dfafc76.html",
+      "published_date": "2026-10-06T16:14:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ion, revenues growing to 643 million dollars for the Pignataro group",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/06/news/ion_platform_risultati_terzo_trimestre_ricavi_indebitamento-425629889/?rss",
+      "published_date": "2026-10-06T16:13:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Early voting, in the centre-right the game is open but the snipe is in the hands of Meloni",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/voto-anticipato-centrodestra-partita-aperta-ma-boccino-e-mano-meloni-AJO6r7aB",
+      "published_date": "2026-10-07T07:08:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russians hit building in Chernihiv, 4 dead and 20 injured",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/russi-colpiscono-edificio-a-chernihiv-4-morti-e-20-feriti_a8507c49-cb49-4d21-9180-b68902726414.html",
+      "published_date": "2026-10-07T07:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death penalty, Christa Pike regains consciousness and speaks",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/pena-morte-christa-pike-riprende-conoscenza-e-parla-AJ0KcibB",
+      "published_date": "2026-10-07T05:47:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Government receives double confidence in the electoral law, with all eyes on Thursday",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/06/legge-elettorale-ok-della-camera-alla-fiducia-sullarticolo-2-227-si_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
+      "published_date": "2026-10-07T05:25:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Investigation into the death of David Rossi: two truths, after 13 years the shadow of the murder returns",
+      "source": "la Repubblica",
+      "url": "https://firenze.repubblica.it/cronaca/2026/10/07/news/david_rossi_inchiesta_caduta_siena_mps_commissione-425630203/?rss",
+      "published_date": "2026-10-07T05:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The weather forecast for Wednesday 7 October",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/le-previsioni-del-tempo-per-mercoledi-7-ottobre--b87f6bb2-70ce-4d51-9f6b-503833cbb97a.html",
+      "published_date": "2026-10-07T03:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thunderstorms arriving in the Tyrrhenian regions, yellow alert for six regions",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/maratona/2026/10/arrivano-freddo-e-maltempo-crollo-termico-su-quasi-tutta-italia-e-allerta-temporali-cb7ce83f-b552-463a-a439-086afe86a95c.html",
+      "published_date": "2026-10-07T03:38:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Appliances: for Italians, duration matters more than price",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/elettrodomestici-gli-italiani-durata-conta-piu-prezzo-AJSljKbB",
+      "published_date": "2026-10-07T03:04:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schlein-Conte meeting: primaries, background and the 'timing issue'",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-07/centrosinistra-campo-largo-schlein-conte-39411386/",
+      "published_date": "2026-10-07T00:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Costa Rica, Parliament approves law against illegal mining",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/costa-rica-il-parlamento-approva-legge-contro-lestrazione-mineraria-illegale_d55746b3-d0ff-4625-b0fb-9291f4b8d445.html",
+      "published_date": "2026-10-06T23:45:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andrea Sempio's version, interview with Porta a Porta",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/intervista-andrea-sempio-porta-a-porta-fd25ceb3-5d9f-4be0-9106-ee3057f78f4f.html",
+      "published_date": "2026-10-06T23:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christa Pike survives two lethal injections and wakes up in hospital",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/usa-liniezione-letale-ma-sopravvive-christa-pike-si-risveglia-in-ospedale-3bc28d65-2875-45de-90ee-2bde5e1c7ffa.html",
+      "published_date": "2026-10-06T23:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guardians and spies among the desks, the phobia of traitors on the right: \"Mantovano controls us all\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/07/news/voto_fiducia_traditori_destra_mantovano-425630603/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lega and FI's nightmare for the spring vote. FdI: “They have problems”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/07/news/voto_primavera_incubo_lega_fi_fdi-425630581/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melonellum, first two trusts. Green light for preferences and signatures. The opposition: unconstitutional",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/07/news/melonellum_legge_elettorale_prime_due_fiducie_preferenze_firme-425630573/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conte's pressure on the date of the primaries: \"We must hurry\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/07/news/primarie_pressing_conte_schlein-425630546/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mps, the road is uphill. The consultants' doubts about Lovaglio's two offers",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/07/news/mps_la_strada_e_in_salita_i_dubbi_dei_consulenti_sulle_due_offerte_di_lovaglio-425630534/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“We moved to Vigevano, with the money I spent in Milan I would have gotten a studio apartment”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/07/news/caro_casa_intervista_da_milano_a_vigevano-425630577/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crans, the former bartender accuses the Morettis: \"The emergency door? Locked six years ago\"",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/07/news/crans_ex_barista_moretti_porta_emergenza_chiusa-425630429/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milan, 13 million penthouse and small rooms for 700 euros a month: \"It's not a city for the middle class\"",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/07/news/caro_casa_milano_affitti_ceto_medio-425630307/?rss",
+      "published_date": "2026-10-06T23:00:00+00:00",
+      "category": "Local Events"
+    }
+  ]
+}
