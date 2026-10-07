@@ -17,6 +17,7 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
+from urllib.parse import quote
 
 import feedparser
 import requests
@@ -35,7 +36,7 @@ OUTPUT_DIR = "docs"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "italy_news.json")
 MAX_PER_CATEGORY = 20
 MAX_AGE_DAYS = 7
-MAX_ENTRIES_PER_FEED = 40
+MAX_ENTRIES_PER_FEED = 30
 CATEGORIES = ["Diplomacy", "Military", "Energy", "Economy", "Local Events"]
 HEADERS = {
     "User-Agent": (
@@ -214,22 +215,62 @@ def looks_english(text):
 
 
 _translator = GoogleTranslator(source="auto", target="en")
+MAX_URL_CHARS = 4500  # deep-translator sends text in the URL; keep requests short
+stats = {"requests": 0, "fallbacks": 0}
 
 
-def translate(text):
-    """Translate to English. Returns the original text if translation fails."""
-    text = (text or "").strip()
-    if not text or looks_english(text):
-        return text
-    for attempt in range(3):
+def _translate_call(text):
+    """One request to the free Google Translate web endpoint, with backoff."""
+    for attempt in range(4):
         try:
-            result = _translator.translate(text[:4500])
+            stats["requests"] += 1
+            result = _translator.translate(text)
             if result:
-                return result.strip()
+                return result
         except Exception as exc:
-            log.warning("Translation attempt %d failed: %s", attempt + 1, exc)
-            time.sleep(1.5 * (attempt + 1))
-    return text
+            wait = 5 * (attempt + 1)
+            log.warning("Translation retry in %ss: %s", wait, str(exc)[:80])
+            time.sleep(wait)
+    return None
+
+
+def _translate_chunk(lines):
+    """Translate a list of single-line strings in one request (newline-joined).
+    Falls back to smaller chunks if the line count comes back different."""
+    if not lines:
+        return []
+    result = _translate_call("\n".join(lines))
+    if result is not None:
+        out = [l.strip() for l in result.split("\n")]
+        if len(out) == len(lines):
+            return out
+    if len(lines) == 1:
+        return [result.strip() if result else lines[0]]
+    stats["fallbacks"] += 1
+    mid = len(lines) // 2
+    return _translate_chunk(lines[:mid]) + _translate_chunk(lines[mid:])
+
+
+def translate_all(texts):
+    """Translate many strings to English using as few requests as possible."""
+    results = list(texts)
+    todo = [(i, t) for i, t in enumerate(texts) if t and not looks_english(t)]
+    chunk, size = [], 0
+    for item in todo + [None]:
+        cost = len(quote(item[1])) + 3 if item else 0
+        if item is None or size + cost > MAX_URL_CHARS:
+            if chunk:
+                translated = _translate_chunk([t for _, t in chunk])
+                for (i, _), tr in zip(chunk, translated):
+                    results[i] = tr or results[i]
+                time.sleep(1)
+            chunk, size = [], 0
+        if item is not None:
+            chunk.append((item[0], item[1][:1400]))
+            size += cost
+    log.info("Translated %d snippets in %d requests (%d chunk splits)",
+             len(todo), stats["requests"], stats["fallbacks"])
+    return results
 
 
 def parse_date(entry):
@@ -271,57 +312,72 @@ def norm_title(title):
 # ---------------------------------------------------------------------------
 
 def fetch_feed(feed, known_urls, cutoff):
-    source, url, national = feed["source"], feed["url"], feed.get("national", False)
+    """Fetch one feed and return raw (untranslated) recent entries."""
+    source, url = feed["source"], feed["url"]
     try:
         resp = requests.get(url, headers=HEADERS, timeout=25)
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
     except Exception as exc:
-        log.warning("FEED FAILED  %-28s %s (%s)", source, url, exc)
+        log.warning("FEED FAILED  %-28s %s (%s)", source, url, str(exc)[:60])
         return []
-
     if not parsed.entries:
         log.warning("FEED EMPTY   %-28s %s", source, url)
         return []
 
-    stories = []
+    raw = []
+    now = datetime.now(timezone.utc)
     for entry in parsed.entries[:MAX_ENTRIES_PER_FEED]:
         link = (entry.get("link") or "").strip()
         if not link or link in known_urls:
             continue
         pub = parse_date(entry)
-        if pub is None or pub < cutoff or pub > datetime.now(timezone.utc) + timedelta(hours=6):
+        if pub is None or pub < cutoff or pub > now + timedelta(hours=6):
             continue
-        title_raw = strip_html(entry.get("title", ""))
-        if not title_raw:
+        title = strip_html(entry.get("title", ""))
+        if not title:
             continue
-        desc_raw = strip_html(entry.get("summary", ""))[:300]
+        known_urls.add(link)
+        raw.append({
+            "feed": feed,
+            "url": link,
+            "pub": pub,
+            "title_raw": title,
+            "desc_raw": strip_html(entry.get("summary", ""))[:160],
+        })
+    log.info("FEED OK      %-28s %3d entries, %3d new & recent  %s",
+             source, len(parsed.entries), len(raw), url)
+    return raw
 
-        title = translate(title_raw)
-        desc = translate(desc_raw) if desc_raw else ""
+
+def build_stories(raw):
+    """Translate raw entries, then filter and categorize them."""
+    texts = []
+    for r in raw:
+        texts.append(r["title_raw"])
+        texts.append(r["desc_raw"])
+    translated = translate_all(texts)
+
+    stories = []
+    for idx, r in enumerate(raw):
+        title, desc = translated[2 * idx], translated[2 * idx + 1]
         text = (title + " " + desc).lower()
-
         if has_term(text, EXCLUDE_TERMS):
             continue
-        if not is_about_country(text, national):
+        if not is_about_country(text, r["feed"].get("national", False)):
             continue
         category = classify(text)
         if category is None:
-            if not national:
+            if not r["feed"].get("national", False):
                 continue
             category = "Local Events"
-
         stories.append({
             "title": title,
-            "source": source,
-            "url": link,
-            "published_date": pub.isoformat(),
+            "source": r["feed"]["source"],
+            "url": r["url"],
+            "published_date": r["pub"].isoformat(),
             "category": category,
         })
-        known_urls.add(link)
-
-    log.info("FEED OK      %-28s %3d entries, %3d kept  %s",
-             source, len(parsed.entries), len(stories), url)
     return stories
 
 
@@ -387,10 +443,12 @@ def main():
     known_urls = {s.get("url") for s in existing if s.get("url")}
     log.info("Loaded %d existing stories", len(existing))
 
-    fresh = []
+    raw = []
     for feed in FEEDS:
-        fresh.extend(fetch_feed(feed, known_urls, cutoff))
+        raw.extend(fetch_feed(feed, known_urls, cutoff))
         time.sleep(0.5)
+    log.info("Collected %d new entries; translating ...", len(raw))
+    fresh = build_stories(raw)
     log.info("Found %d new relevant stories", len(fresh))
 
     grouped = merge(existing, fresh, cutoff)
