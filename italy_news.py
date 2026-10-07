@@ -44,7 +44,7 @@ HEADERS = {
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
 
-# national=True  -> domestic/national section; uncategorized stories default to Local Events.
+# national=True  -> domestic/national section; uncategorized stories that name Italy default to Local Events.
 # national=False -> general feed; only kept if it matches a category keyword.
 # strict=True   -> regional feed; story must explicitly mention Italy.
 # All other stories must mention Italy or at least not be clearly about another country.
@@ -53,9 +53,6 @@ FEEDS = [
     {"source": "ANSA", "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml", "national": True},
     {"source": "ANSA", "url": "https://www.ansa.it/sito/notizie/cronaca/cronaca_rss.xml", "national": True},
     {"source": "ANSA", "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml", "national": False},
-    {"source": "Corriere della Sera", "url": "https://xml2.corriereobjects.it/rss/politica.xml", "national": True},
-    {"source": "Corriere della Sera", "url": "https://xml2.corriereobjects.it/rss/economia.xml", "national": True},
-    {"source": "Corriere della Sera", "url": "https://xml2.corriereobjects.it/rss/homepage.xml", "national": False},
     {"source": "la Repubblica", "url": "https://www.repubblica.it/rss/politica/rss2.0.xml", "national": True},
     {"source": "la Repubblica", "url": "https://www.repubblica.it/rss/economia/rss2.0.xml", "national": True},
     {"source": "la Repubblica", "url": "https://www.repubblica.it/rss/cronaca/rss2.0.xml", "national": True},
@@ -94,7 +91,16 @@ FOREIGN_TERMS = [
     "german", "berlin", "france", "french", "paris", "britain", "british",
     "london", "venezuela", "brazil", "argentina", "mexico", "canada",
     "australia", "pakistan", "syria", "lebanon", "turkey", "egypt",
-    "saudi", "qatar", "taiwan",
+    "saudi", "qatar", "taiwan", "spain", "spanish", "madrid", "italy",
+    "italian", "rome", "poland", "polish", "warsaw", "thailand", "thai",
+    "bangkok", "uae", "emirates", "dubai", "abu dhabi", "chile", "peru",
+    "colombia", "cuba", "greece", "greek", "hungary", "hungarian", "orban",
+    "austria", "switzerland", "netherlands", "dutch", "belgium", "sweden",
+    "norway", "finland", "denmark", "portugal", "nigeria", "south africa",
+    "kenya", "sudan", "yemen", "iraq", "jordan", "kuwait", "bahrain",
+    "oman", "morocco", "algeria", "tunisia", "libya", "cambodia", "myanmar",
+    "vietnam", "malaysia", "indonesia", "philippines", "singapore",
+    "south korea", "seoul", "tokyo", "new york", "afghanistan",
 ]
 FOREIGN_TERMS = [t for t in FOREIGN_TERMS if t not in COUNTRY_TERMS]
 
@@ -107,7 +113,9 @@ EXCLUDE_TERMS = [
     "striker", "coach", "match", "derby", "horoscope", "zodiac", "recipe",
     "celebrity", "actor", "actress", "singer", "concert", "film", "movie",
     "tv series", "netflix", "fashion", "lottery", "lotto", "gossip",
-    "influencer", "reality show", "big brother",
+    "influencer", "reality show", "big brother", "uefa", "fifa", "nba",
+        "atp", "wta", "messi", "sinner", "alcaraz", "nadal", "ronaldo",
+        "real madrid", "fc barcelona", "juventus", "transfer window",
 ]
 
 CATEGORY_KEYWORDS = {
@@ -118,10 +126,10 @@ CATEGORY_KEYWORDS = {
         "multilateral", "summit", "united nations", "un general assembly",
         "security council", "european union", "eu", "european commission",
         "brussels", "asean", "gcc", "arab league", "g7", "g20", "sanctions",
-        "state visit", "official visit", "talks with", "agreement with",
+        "state visit", "official visit", "visits", "talks with", "agreement with",
         "memorandum", "mou", "relations with", "ties with", "cooperation with",
-        "president of", "prime minister of", "met with", "meets",
-        "visa", "migration pact", "mediation", "ceasefire", "peace",
+        "visa", "migration pact", "mediation", "ceasefire", "peace talks",
+        "peace plan", "foreign leaders", "state visit",
         "farnesina", "tajani",
     ],
     "Military": [
@@ -131,9 +139,9 @@ CATEGORY_KEYWORDS = {
         "drone", "drones", "fighter jet", "f-35", "tank", "tanks",
         "submarine", "warship", "frigate", "nato", "military exercise",
         "drill", "border clash", "artillery", "ammunition", "conscription",
-        "general staff", "commander", "airspace", "air defense",
-        "air defence", "military base", "arms", "war", "attack", "terror",
-        "terrorist", "insurgent", "security forces", "coast guard",
+        "general staff", "airspace", "air defense",
+        "air defence", "military base", "arms deal", "war", "warfare",
+        "terrorism", "terrorist", "insurgent", "security forces", "coast guard",
         "crosetto", "leonardo", "fincantieri", "carabinieri",
     ],
     "Energy": [
@@ -159,6 +167,8 @@ CATEGORY_KEYWORDS = {
         "consumer", "prices", "cost of living", "housing market", "real estate",
         "property", "tourism", "tourists", "startup", "merger", "acquisition",
         "ipo", "profit", "revenue", "credit rating", "imf", "world bank",
+        "ecofin", "excise", "spread", "yields", "stock market", "markets",
+        "euro", "dollar", "gold", "exchange rate", "currency",
         "istat", "pnrr", "inps", "ftse mib", "piazza affari", "maneuver", "budget law", "stellantis",
     ],
     "Local Events": [
@@ -299,9 +309,13 @@ def parse_date(entry):
     return None
 
 
+# On a tie, the more specific category wins.
+TIE_BREAK = ["Energy", "Military", "Economy", "Diplomacy", "Local Events"]
+
+
 def classify(text):
     scores = {cat: count_terms(text, kws) for cat, kws in CATEGORY_KEYWORDS.items()}
-    best = max(CATEGORIES, key=lambda c: scores[c])
+    best = max(TIE_BREAK, key=lambda c: scores[c])
     return best if scores[best] > 0 else None
 
 
@@ -378,7 +392,9 @@ def build_stories(raw):
             continue
         category = classify(text)
         if category is None:
-            if not r["feed"].get("national", False):
+            # Uncategorized domestic stories count as Local Events only if they
+            # clearly name the country, a city/region, or a national figure.
+            if not (r["feed"].get("national") and has_term(text, COUNTRY_TERMS)):
                 continue
             category = "Local Events"
         stories.append({
