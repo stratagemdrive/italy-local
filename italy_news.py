@@ -17,12 +17,10 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
-from urllib.parse import quote
 
 import feedparser
 import requests
 from dateutil import parser as dateparser
-from deep_translator import GoogleTranslator
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
@@ -48,7 +46,8 @@ HEADERS = {
 
 # national=True  -> domestic/national section; uncategorized stories default to Local Events.
 # national=False -> general feed; only kept if it matches a category keyword.
-# All stories must mention Italy or at least not be clearly about another country.
+# strict=True   -> regional feed; story must explicitly mention Italy.
+# All other stories must mention Italy or at least not be clearly about another country.
 FEEDS = [
     {"source": "ANSA", "url": "https://www.ansa.it/sito/notizie/politica/politica_rss.xml", "national": True},
     {"source": "ANSA", "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml", "national": True},
@@ -64,11 +63,9 @@ FEEDS = [
     {"source": "Il Sole 24 Ore", "url": "https://www.ilsole24ore.com/rss/economia.xml", "national": True},
     {"source": "Il Sole 24 Ore", "url": "https://www.ilsole24ore.com/rss/mondo.xml", "national": False},
     {"source": "Rai News", "url": "https://www.rainews.it/rss/politica", "national": True},
-    {"source": "Rai News", "url": "https://www.rainews.it/rss/economia", "national": True},
     {"source": "Rai News", "url": "https://www.rainews.it/rss/cronaca", "national": True},
     {"source": "AGI", "url": "https://www.agi.it/politica/rss", "national": True},
     {"source": "AGI", "url": "https://www.agi.it/economia/rss", "national": True},
-    {"source": "Il Fatto Quotidiano", "url": "https://www.ilfattoquotidiano.it/politica-palazzo/feed/", "national": True},
     {"source": "Analisi Difesa", "url": "https://www.analisidifesa.it/feed/", "national": False},
     {"source": "Formiche", "url": "https://formiche.net/feed/", "national": False},
 ]
@@ -214,38 +211,49 @@ def looks_english(text):
     return ascii_letters / len(letters) > 0.97 and False
 
 
-_translator = GoogleTranslator(source="auto", target="en")
-MAX_URL_CHARS = 4500  # deep-translator sends text in the URL; keep requests short
-stats = {"requests": 0, "fallbacks": 0}
+TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+MAX_CHUNK_CHARS = 1800  # characters of source text per request
+stats = {"requests": 0, "fallbacks": 0, "failures": 0}
 
 
 def _translate_call(text):
-    """One request to the free Google Translate web endpoint, with backoff."""
+    """One request to Google Translate's free web endpoint (no key), with backoff."""
     for attempt in range(4):
         try:
             stats["requests"] += 1
-            result = _translator.translate(text)
-            if result:
-                return result
+            resp = requests.post(
+                TRANSLATE_URL,
+                params={"client": "gtx", "sl": "auto", "tl": "en", "dt": "t"},
+                data={"q": text},
+                headers=HEADERS,
+                timeout=30,
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                return "".join(seg[0] for seg in data[0] if seg and seg[0])
+            log.warning("Translation HTTP %s, retrying", resp.status_code)
         except Exception as exc:
-            wait = 5 * (attempt + 1)
-            log.warning("Translation retry in %ss: %s", wait, str(exc)[:80])
-            time.sleep(wait)
+            log.warning("Translation error, retrying: %s", str(exc)[:80])
+        time.sleep(5 * (attempt + 1))
+    stats["failures"] += 1
     return None
 
 
 def _translate_chunk(lines):
     """Translate a list of single-line strings in one request (newline-joined).
-    Falls back to smaller chunks if the line count comes back different."""
+    Splits into smaller chunks if the line count comes back different."""
     if not lines:
         return []
+    if stats["failures"] >= 5:
+        return lines  # translation service unreachable; keep originals
     result = _translate_call("\n".join(lines))
-    if result is not None:
-        out = [l.strip() for l in result.split("\n")]
-        if len(out) == len(lines):
-            return out
+    if result is None:
+        return lines
+    out = [l.strip() for l in result.split("\n")]
+    if len(out) == len(lines):
+        return out
     if len(lines) == 1:
-        return [result.strip() if result else lines[0]]
+        return [result.strip()]
     stats["fallbacks"] += 1
     mid = len(lines) // 2
     return _translate_chunk(lines[:mid]) + _translate_chunk(lines[mid:])
@@ -257,8 +265,8 @@ def translate_all(texts):
     todo = [(i, t) for i, t in enumerate(texts) if t and not looks_english(t)]
     chunk, size = [], 0
     for item in todo + [None]:
-        cost = len(quote(item[1])) + 3 if item else 0
-        if item is None or size + cost > MAX_URL_CHARS:
+        cost = len(item[1]) + 1 if item else 0
+        if item is None or size + cost > MAX_CHUNK_CHARS:
             if chunk:
                 translated = _translate_chunk([t for _, t in chunk])
                 for (i, _), tr in zip(chunk, translated):
@@ -268,8 +276,8 @@ def translate_all(texts):
         if item is not None:
             chunk.append((item[0], item[1][:1400]))
             size += cost
-    log.info("Translated %d snippets in %d requests (%d chunk splits)",
-             len(todo), stats["requests"], stats["fallbacks"])
+    log.info("Translated %d snippets in %d requests (%d chunk splits, %d failed)",
+             len(todo), stats["requests"], stats["fallbacks"], stats["failures"])
     return results
 
 
@@ -297,9 +305,11 @@ def classify(text):
     return best if scores[best] > 0 else None
 
 
-def is_about_country(text, national):
+def is_about_country(text, feed):
     if has_term(text, COUNTRY_TERMS):
         return True
+    if feed.get("strict"):
+        return False  # regional/pan-national feed: must name the country
     return not has_term(text, FOREIGN_TERMS)
 
 
@@ -364,7 +374,7 @@ def build_stories(raw):
         text = (title + " " + desc).lower()
         if has_term(text, EXCLUDE_TERMS):
             continue
-        if not is_about_country(text, r["feed"].get("national", False)):
+        if not is_about_country(text, r["feed"]):
             continue
         category = classify(text)
         if category is None:
