@@ -1,8 +1,43 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-08T02:22:01.656007+00:00",
-  "story_count": 96,
+  "last_updated": "2026-10-08T17:45:41.452929+00:00",
+  "story_count": 100,
   "stories": [
+    {
+      "title": "Farnesina: “Attacco hacker al nostro sito, effetti mitigati dalla protezione”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/farnesina_attacco_hacker_sito-425634863/?rss",
+      "published_date": "2026-10-08T15:07:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Farnesina, 'attacco hacker al nostro sito, effetti mitigati da protezione'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/farnesina-attacco-hacker-al-nostro-sito-effetti-mitigati-da-protezione_4bb27fc8-89a2-464b-a4b2-16881cb5daa0.html",
+      "published_date": "2026-10-08T14:48:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fazzolari evoca le elezioni a giugno. Tajani: 'Per Fi si deve votare a fine legislatura'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/fazzolari-evoca-le-elezioni-a-giugno.-tajani-per-fi-si-deve-votare-a-fine-legislatura_859f8f8f-df6b-44e4-956c-1e05458513c9.html",
+      "published_date": "2026-10-08T11:53:37+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mosca, 'malsane' le accuse di Tajani di interferenze russe nelle elezioni",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/mosca-malsane-le-accuse-di-tajani-di-interferenze-russe-nelle-elezioni_90d7cdb9-88ab-4244-90b8-e829a629da2c.html",
+      "published_date": "2026-10-08T10:47:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "«Estendere anche ai fasteners il Made in Eu»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/estendere-anche-fasteners-made-eu-AJoRyzbB",
+      "published_date": "2026-10-08T05:09:07+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Italian detained in Egypt meets his lawyer, 'we will bring him back here'",
       "source": "ANSA",
@@ -109,25 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Mattarella visits the Principality of Monaco, it is the first time for an Italian Head of State",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-02/mattarella-principato-monaco-39358420/",
-      "published_date": "2026-10-02T14:53:26+00:00",
-      "category": "Diplomacy"
+      "title": "Beko, i sindacati: “Rispettare il piano industriale”. Urso: da Leonardo disponibilità su Siena",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/beko_i_sindacati_rispettare_piano_industriale-425634621/?rss",
+      "published_date": "2026-10-08T16:24:39+00:00",
+      "category": "Military"
     },
     {
-      "title": "Meloni writes to von der Leyen: \"More flexibility is needed\". The EU's response: \"Already granted\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-01/meloni-von-der-leyen-ue-39350594/",
-      "published_date": "2026-10-01T20:04:42+00:00",
-      "category": "Diplomacy"
+      "title": "Razzia di gruppo in un market a Modena, denunciati dieci giovani",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/razzia-di-gruppo-in-un-market-a-modena-denunciati-dieci-giovani_7ec8967f-1679-42b6-9379-39477cb905e7.html",
+      "published_date": "2026-10-08T16:16:52+00:00",
+      "category": "Military"
     },
     {
-      "title": "Meloni asks the EU for more flexibility. Brussels, already granted",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/meloni-chiede-allue-piu-flessibilita-bruxelles-gia-concessa-3a264a1b-4ad8-421b-8e3a-2a6eb9928ad7.html",
-      "published_date": "2026-10-01T19:57:00+00:00",
-      "category": "Diplomacy"
+      "title": "La Nato: 'In Italia un'esercitazione nucleare, senza armi reali'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/aeronautica-esercitazione-nato-in-italia-senza-armi-reali_e7f75d1f-0425-4383-972d-4f88770bdd85.html",
+      "published_date": "2026-10-08T16:13:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Difesa, che cosa è e chi partecipa a “Steadfast Noon”, l’esercitazione nucleare della Nato nei cieli italiani finita sotto la lente di Avs",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/difesa-che-cosa-e-e-chi-partecipa-steadfast-noon-l-esercitazione-nucleare-nato-cieli-italiani-finita-sotto-lente-avs-AJRaDYdB",
+      "published_date": "2026-10-08T15:03:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ungheria, cosa rivelano i documenti interni di Rosatom su Pak II",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/ungheria-cosa-rivelano-i-documenti-interni-di-rosatom-su-pak-ii/",
+      "published_date": "2026-10-08T15:00:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WSense porta le comunicazioni subacquee nel polo di Fincantieri",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/wsense-porta-le-comunicazioni-subacquee-nel-polo-di-fincantieri/",
+      "published_date": "2026-10-08T14:26:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sequestrato a Novara un container con rifiuti elettrici diretto in Africa",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/sequestrato-a-novara-un-container-con-rifiuti-elettrici-diretto-in-africa_8a43c79d-66c2-4466-acec-2ec577da72b1.html",
+      "published_date": "2026-10-08T13:52:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nascita 'record' nel Modenese, partorito bimbo di quasi 6 chili",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/nascita-record-nel-modenese-partorito-bimbo-di-quasi-6-chili_f36c8096-2f2a-4409-a199-a4880bb6e1f2.html",
+      "published_date": "2026-10-08T12:47:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Crosetto: scelta dei generali mandare i caccia in Arabia Saudita. Scontro con le opposizioni",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/crosetto_generali_caccia_arabia_saudita_opposizioni-425634259/?rss",
+      "published_date": "2026-10-08T10:53:13+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio, 'gli Stati Uniti vogliono un'Europa forte'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/rubio-gli-stati-uniti-vogliono-uneuropa-forte_500072fe-5f2f-42df-8484-4a201397b3bd.html",
+      "published_date": "2026-10-08T08:28:28+00:00",
+      "category": "Military"
     },
     {
       "title": "Cobra Warrior: Air Force trains in UK with allies",
@@ -200,60 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Demonstrations on 7 October, intelligence working on possible tensions in Italy",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/manifestazioni-7-ottobre-intelligence-lavoro-possibili-tensioni-italia-AJjwcjbB",
-      "published_date": "2026-10-07T06:12:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Poggipolini, with hi-tech welding new orders from Leonardo",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/poggipolini-la-saldatura-hi-tech-nuove-commesse-leonardo-AJ5l90ZB",
-      "published_date": "2026-10-07T04:02:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Garlasco, the note that the Ris made disappear: \"No blood on the pedals of Stasi's bike\"",
-      "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/07/news/garlasco_ris_niente_sangue_pedali_bici_stasi-425630420/?rss",
-      "published_date": "2026-10-06T23:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Military pensions, Usmia: «From 2032 there will be an alarm for pure contributors». Here's why and the simulations",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/pensioni-militari-l-usmia-dal-2032-e-allarme-i-contributivi-puri-ecco-perche-e-simulazioni-AJ5VxjaB",
-      "published_date": "2026-10-06T17:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lunar communications and intelligent satellites in Leonardo's new space move",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/spazio-iac-2026-turchia-leonardo-telespazio-ispace-luna/",
-      "published_date": "2026-10-06T15:01:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Villa Pamphili, Kaufmann's defense requests a new psychiatric evaluation",
+      "title": "Esperti Ue gas, 'stoccaggi bassi ma sistema flessibile, inverno in sicurezza'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/06/villa-pamphili-la-difesa-di-kaufmann-chiede-una-nuova-perizia-psichiatrica_8eb543db-ea8a-4e72-ba36-098d262f1cf2.html",
-      "published_date": "2026-10-06T13:25:36+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/esperti-ue-gas-stoccaggi-bassi-ma-sistema-flessibile-inverno-in-sicurezza_e53be2a8-4b6e-4a74-80eb-e8bc058706c5.html",
+      "published_date": "2026-10-08T17:11:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Strategic collaboration for the future and renewal of the Italian Army begins",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/al-via-la-collaborazione-strategica-per-il-futuro-e-il-rinnovamento-dellesercito-italiano-077b174a-d855-46ab-8d47-5f36fb2e09dc.html",
-      "published_date": "2026-10-06T13:20:00+00:00",
-      "category": "Military"
+      "title": "Il gas è in rialzo (+1,8%) a 79,5 euro al Megawattora",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/il-gas-e-in-rialzo-18-a-795-euro-al-megawattora_91f491be-a7cb-4418-a10c-0d27ae3e246e.html",
+      "published_date": "2026-10-08T16:10:18+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Garlasco, the commander of the Carabinieri Luongo: \"If someone from the force made a mistake they will pay\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/garlasco-il-comandante-dei-carabinieri-luongo-se-qualcuno-dellarma-ha-sbagliato-paghera-91e1c443-b208-48e0-a4b5-a28660301e04.html",
-      "published_date": "2026-10-05T18:31:00+00:00",
-      "category": "Military"
+      "title": "Telemarketing, verso lo sblocco delle telefonate degli operatori Tlc che offrono luce e gas",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/telemarketing_verso_lo_sblocco_delle_telefonate_degli_operatori_tlc_che_offrono_luce_e_gas-425634644/?rss",
+      "published_date": "2026-10-08T13:28:57+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Energy Dome, la batteria alla CO2 fatta a Piacenza",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/energy-dome-batteria-co2-fatta-piacenza-AJHeURcB",
+      "published_date": "2026-10-08T11:02:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Diesel, pressure from Palazzo Chigi to return to the Eni roof and avoid the excise duty cut",
@@ -368,32 +424,123 @@
       "category": "Energy"
     },
     {
-      "title": "Ten-year electricity offers, how long-term contracts work. Do they agree or not?",
+      "title": "Borsa: Milano e Francoforte scivolano, Europa incerta. Scende lo spread",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-e-francoforte-scivolano-europa-incerta.-scende-lo-spread_688a229e-308c-42a4-a912-5dfe556b0d2a.html",
+      "published_date": "2026-10-08T17:11:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Uniqlo supera H&M e diventa il secondo gruppo mondiale dell'abbigliamento",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/uniqlo-supera-hm-e-diventa-il-secondo-gruppo-mondiale-dellabbigliamento_2419bb52-022c-429f-8823-d6a44e22518a.html",
+      "published_date": "2026-10-08T16:37:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lo spread tra Btp e Bund chiude in calo a 111 punti base",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/lo-spread-tra-btp-e-bund-chiude-in-calo-a-111-punti-base_7775e4bf-6886-447f-8d8c-cdcec6cf9f4e.html",
+      "published_date": "2026-10-08T16:09:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borsa: Milano chiude in ampio calo, Ftse Mib -1,35%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-chiude-in-ampio-calo-ftse-mib-135_a42d9029-3255-4c37-8f5c-199f27ccf6fb.html",
+      "published_date": "2026-10-08T15:42:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nuovo hub pilota per l'Europa di RS Italia, 10mila metri quadrati nel Milanese",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/nuovo-hub-pilota-per-leuropa-di-rs-italia-10mila-metri-quadrati-nel_32730ff7-018d-413f-9ddb-9ea2b7d79a89.html",
+      "published_date": "2026-10-08T15:12:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nel 2025 una famiglia su 3 ha tagliato la spesa alimentare: conto più salato per le persone sole",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/07/news/offerte_luce_dieci_anni_come_funzionano-425630079/?rss",
-      "published_date": "2026-10-07T03:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/consumi_istat_2025_taglio_spesa_alimentari_sanita_perosne_sole-425634164/?rss",
+      "published_date": "2026-10-08T15:06:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Excise duties, the government taken aback. Diesel starts to rise again after the end of the discounts",
+      "title": "Europa e Cina faccia a faccia. Parte la trattativa sul deficit",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/cina-europa-deficit-commerciale-ue-pechino-auto-maros-segovic/",
+      "published_date": "2026-10-08T15:00:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "“Il proprietario di un alloggio su Airbnb mi chiede i danni per 1.057 euro con foto create dall’IA”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/07/news/taglio_accise_sconti_prezzi_diesel_governo-425630666/?rss",
-      "published_date": "2026-10-06T23:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/airbnb_proprietario_chiede_danni_usando_foto_manipolata_ia-425634729/?rss",
+      "published_date": "2026-10-08T14:01:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Eni, the price cap remains but the price of diesel at the pump increases without the cut in excise duties",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/eni-il-price-cap-resta-ma-il-prezzo-del-gasolio-alla-pompa-aumenta-senza-il-taglio-delle-accise-b840950c-ec7a-403c-ba74-827d81614023.html",
-      "published_date": "2026-10-06T17:43:00+00:00",
-      "category": "Energy"
+      "title": "Aerospazio, dal business satellitare spinta ai progetti hi tech",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/aerospazio-business-satellitare-spinta-progetti-hi-tech-AJPxnSdB",
+      "published_date": "2026-10-08T13:53:30+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Stop the excise duty cut, the price of diesel rises again",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/carburanti-stop-taglio-accise-sale-di-nuovo-il-prezzo-del-gasolio-ec063dbd-2fc3-4c8e-b235-ddfe7ff11afe.html",
-      "published_date": "2026-10-06T17:09:00+00:00",
-      "category": "Energy"
+      "title": "Borsa: Milano (-0,6%) riduce le perdite con l'Europa, lo spread scende a 110 punti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/borsa-milano-06-riduce-le-perdite-con-leuropa-lo-spread-scende-a-110-punti_9e208748-4cfe-45c1-9a97-237f838794bf.html",
+      "published_date": "2026-10-08T13:51:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "In Veneto l'anno idrologico si chiude con deficit del 23%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/in-veneto-lanno-idrologico-si-chiude-con-deficit-del-23_0f44f0c6-3bb6-41a5-8046-646fc3a2b668.html",
+      "published_date": "2026-10-08T12:40:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Valditara, spesi 23 miliardi per le scuole tra Pnrr e fondi nazionali",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/valditara-spesi-23-miliardi-per-le-scuole-tra-pnrr-e-fondi-nazionali_c3dffdec-f07a-47e2-90ca-7397f3da2cbd.html",
+      "published_date": "2026-10-08T12:26:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manovra: Manfredi, ai Comuni serve un miliardo di euro per 4 emergenze",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/manovra-manfredi-ai-comuni-serve-un-miliardo-di-euro-per-4-emergenze_f386decd-ef88-41b6-95f8-ee89c87b2462.html",
+      "published_date": "2026-10-08T12:01:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ue, via libera alla clausola su difesa e energia. All’Eurogruppo la richiesta di extra flessibilità",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/ue_via_libera_alla_clausola_su_difesa_e_energia-425634410/?rss",
+      "published_date": "2026-10-08T11:50:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Via libera Ue a 135 milioni di euro per catastrofi naturali in Spagna e Romania",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/via-libera-ue-a-135-milioni-di-euro-per-catastrofi-naturali-in-spagna-e-romania_9885131e-89f3-4679-ba99-0090d9ee23ac.html",
+      "published_date": "2026-10-08T10:12:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Intesa Sanpaolo stanzia 20 miliardi per le piccole imprese",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/intesa-sanpaolo-stanzia-20-miliardi-le-pmi-terziario-AJznA4cB",
+      "published_date": "2026-10-08T09:58:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pioggia di fondi pubblici per la cyber security: ecco come approfittarne",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/08/news/cyber_security_bandi_italiani_europei_fondi_candidati-425632806/?rss",
+      "published_date": "2026-10-08T03:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "New storm on government bonds. The IMF: difficult choices for governments",
@@ -417,262 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Mudec, the twelve years of the Il Sole 24 ORE Group between art and business",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/mudec-dodici-anni-gruppo-sole-24-ore-arte-e-impresa-AJSPrWcB",
-      "published_date": "2026-10-07T18:00:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Teatro alla Scala, friction over contract renewal",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/teatro-scala-frizioni-rinnovo-contratto-AJJYdUcB",
-      "published_date": "2026-10-07T17:54:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mps, Benetton sides with Intesa's offer: \"Edizione will transfer its shares\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/07/news/mps_benetton_schiera_edizione_opas_intesa_generali-425632673/?rss",
-      "published_date": "2026-10-07T17:27:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "DHL, world trade will grow by 3.4% per year and globalization at 25.8%",
+      "title": "Dombrovskis: 'Non possiamo continuare a introdurre flessibilità, esamineremo le richieste dell'Italia'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/dhl-commercio-mondiale-crescera-del-34-allanno-e-globalizzazione-al-258_3fbab8ca-c657-4821-a33e-3648e05fbc9b.html",
-      "published_date": "2026-10-07T17:20:14+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/dombrovskis-non-possiamo-continuare-a-introdurre-nuove-forme-di-flessibilita_acc6e3b4-48a3-4d6f-a6fe-45f9ceadf81b.html",
+      "published_date": "2026-10-08T17:30:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fuels, Meloni: \"Ready for a new cut in excise duties, but I hope for the price cap to be restored\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/carburanti-meloni-pronti-a-nuovo-taglio-delle-accise-ma-spero-nel-ripristino-del-price-cap-24e5dd77-782a-4bd6-a708-82745d59e36d.html",
-      "published_date": "2026-10-07T17:19:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Meloni: 'We are evaluating mobile excise duties, but I hope the price cap is fully restored'",
+      "title": "Giorgetti, fiduciosi che l'Ue seguirà una corretta interpretazione della flessibilità",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/meloni-valutiamo-accise-mobili-ma-spero-si-ripristini-pienamente-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
-      "published_date": "2026-10-07T17:09:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Diesel prices continue to rise, excise duties move after the companies' ceilings",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/07/eni-manteniamo-gasolio-benzina-a-prezzi-sostenibili-il-price-cap-serve-per_6291a355-dc3b-47cf-a6c9-164b37f60313.html",
-      "published_date": "2026-10-07T16:55:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The maneuver seeks resources, the banks say 'no to other contributions'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/la-manovra-cerca-risorse-le-banche-dicono-no-ad-altri-contributi_8c6f8afb-02e0-482f-ac9b-b18b01719939.html",
-      "published_date": "2026-10-07T16:30:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The BTP-Bund spread ends up growing at 115.2 points",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/lo-spread-btp-bund-termina-in-crescita-a-1152-punti_ab74c07c-1d51-4f70-a9f2-61ad843ce9e5.html",
-      "published_date": "2026-10-07T16:10:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan black top in Europe (-2.5%), Unicredit and Intesa lead the banks' declines",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-chiude-in-calo-del-251-sotto-la-soglia-dei-50.000_2dda54e9-caef-43ca-ba4f-50d5c58081e3.html",
-      "published_date": "2026-10-07T16:10:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Structural fiscal shock: the alarm on the financial risk of demographic aging",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/10/07/news/shock_fiscale_strutturale_l_allarme_sul_rischio_finanziario_dell_invecchiamento_demografico-425632466/?rss",
-      "published_date": "2026-10-07T16:09:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan black leader in Europe, Unicredit and Intesa lead the declines of the banks",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-maglia-nera-in-europa-unicredit-e-intesa-guidano-i-cali-delle_42ff55d3-c374-42e0-ba6c-d0dc119fa77d.html",
-      "published_date": "2026-10-07T16:08:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fringe benefit, so every euro of welfare generates an effect on the economy that is 4 times greater than an Irpef cut",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/fringe-benefit-cosi-ogni-euro-welfare-genera-sull-economia-effetto-quattro-volte-superiore-un-taglio-irpef-AJjMO4aB",
-      "published_date": "2026-10-07T15:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Laborers exploited in the Caserta area: 14 hours a day for one euro per box",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/braccianti-sfruttati-nel-casertano-14-ore-al-giorno-per-un-euro-a-cassetta-562d5992-b902-465a-9901-f188fd93df74.html",
-      "published_date": "2026-10-07T15:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Gangmastering, laborers reduced to slavery in the Caserta area",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/caporalato-braccianti-ridotti-in-schiavitu-nel-casertano-campania-indagati-lavoro-5d3bee4a-141c-49cb-9073-bbf2d5fa6434.html",
-      "published_date": "2026-10-07T14:53:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Deas brings made in Italy cybersecurity to Kuala Lumpur",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/deas-porta-il-made-in-italy-della-cybersicurezza-a-kuala-lumpur/",
-      "published_date": "2026-10-07T14:21:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Technology and startups, after Kuwait, Italy stops in the Emirates",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/tecnologia-start-up-urso-kuwait-emirati/",
-      "published_date": "2026-10-07T14:16:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bolivia, President Paz reports death threats to parliamentarians",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/bolivia-il-presidente-paz-denuncia-minacce-di-morte-ai-parlamentari_90fc92ca-c0ae-4543-8169-092e9c85d2cd.html",
-      "published_date": "2026-10-08T01:10:09+00:00",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/giorgetti-fiduciosi-che-lue-seguira-una-corretta-interpretazione-della-flessibilita_88a71559-e8a5-4737-bf45-085995cfc74a.html",
+      "published_date": "2026-10-08T17:25:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Max Parisi in the USA for the drug that steals time from cancer. “Bring it to Italy too”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/max_parisi_tumore_pancreas_stati_uniti_farmaco-425633353/?rss",
-      "published_date": "2026-10-08T01:02:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mancini: \"Primaries, an avoidable challenge. Strong leadership is needed. Gualtieri? He's running to Rome, for now\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/claudio_mancini_primarie_gualtieri_intervista-425633244/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The trilateral in the canteen between Conte and the Avs leaders: the primaries on the menu",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/trilaterale_conte_bonelli_fratoianni_primarie-425633226/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fears about the prize in the Senate. Risk of stopping the Consultation. The government is working on plan B",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/premio_di_maggioranza_meloni_consulta_governo-425633220/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magi: \"Controlled deputies. We use the balls in the ballot box to guarantee secrecy\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/riccardo_magi_legge_elettorale_fiducia_intervista-425633200/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melonellum, the right holds. Today the final vote in the Chamber, the prime minister is thinking about the blitz",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/legge_elettorale_melonellum_oggi_voto_finale_camera-425633193/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pardon for the jeweller: sentence partially served and process started without problems. No signal on Roggero",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/grazia_mattarella_guido_gianni_roggero_legittima_difesa-425633149/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The transversal party of equalisation: \"The proportional system reopens the games\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/melonellum_consulta_partito_proporzionale_pareggio_giochi_riaperti-425633094/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prime Minister Meloni sees Ursula: \"Glimpses of flexibility but the path is long\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/08/news/meloni_vede_von_der_leyen_flessibilita_trattativa_ue-425633125/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The capital of evictions: in Rome there are 4 a day while B&Bs are booming",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/09/news/casa_roma_sfratti_affitti_bb_vendite_studentati-425633307/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milan, shock and anger for the student massacred in front of the high school: \"It's neo-fascist violence\"",
-      "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/08/news/milano_studente_massacrato_davanti_liceo_einstein_neofascisti-425633063/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni and the premiership: Ellekappa's cartoon",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/08/news/meloni_premierato_vignetta_ellekappa-425633078/?rss",
-      "published_date": "2026-10-07T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather forecast, transit disturbances with rain and local thunderstorms. Drop in temperatures",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/previsioni_meteo_perturbazioni_piogge_calo_temperature-425633129/?rss",
-      "published_date": "2026-10-07T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Salvador, national state of emergency due to drought",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/el-salvador-stato-di-emergenza-nazionale-per-la-siccita_b77a28eb-8fbc-4101-a3f1-20755f950a9d.html",
-      "published_date": "2026-10-07T21:58:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral law, the government also receives the third vote of confidence in the Chamber. Today the final vote...",
+      "title": "La riforma elettorale diventa legge. Meloni: \"Risposta con i fatti a chi voleva il centrod...",
       "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-07/legge-elettorale-governo-incassa-terza-fiducia-camera-39418179/",
-      "published_date": "2026-10-07T21:57:42+00:00",
+      "url": "https://www.agi.it/politica/news/2026-10-08/legge-elettorale-via-libera-definitivo-camera-voto-segreto-39436654/",
+      "published_date": "2026-10-08T17:16:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Trucks and buses, Salvini: \"At work until 70 but tight controls on drivers\". No from CGIL",
+      "title": "Legge elettorale, il plauso di Meloni e la strategia: preparare il voto in primavera senza dirlo",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/il-plauso-meloni-e-strategia-preparare-voto-primavera-senza-dirlo-AJGkIXdB",
+      "published_date": "2026-10-08T15:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'È una ciociara', l'ira di Meloni sul consigliere Pd di Pontedera",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/e-una-ciociara-lira-di-meloni-sul-consigliere-pd-di-pontedera_f16e4604-1969-41c7-bcdc-ea76f9873045.html",
+      "published_date": "2026-10-08T15:23:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ok della Camera con 227 sì alla riforma elettorale. L'opposizione: 'Una legge truffa'. Meloni: 'Avanti così'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/ok-della-camera-con-227-si-alla-riforma-elettorale.-lopposizione-una-legge_232ae65f-c1d7-415a-b5f6-5d62f0c9fbe9.html",
+      "published_date": "2026-10-08T15:08:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maltempo, allerta arancione su Lazio e Campania",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/maltempo-allerta-arancione-su-lazio-e-campania_60dc37f6-8164-4ebf-86dd-9b3f26f3881a.html",
+      "published_date": "2026-10-08T15:01:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maltempo in Campania, disagi diffusi e allerta arancione",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/maltempo-campania-allerta-melito-tromba-aria-aversa-99c30426-1ac7-496b-b2e4-a68b5dca3b10.html",
+      "published_date": "2026-10-08T13:42:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni risponde a un consigliere Pd di Pontedera: “Orgogliosa di essere definita ciociara”",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/meloni-risponde-a-un-consigliere-pd-di-pontedera-orgogliosa-di-essere-definita-ciociara-063bfa61-3884-47de-bc74-9edf5ef6490a.html",
+      "published_date": "2026-10-08T13:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magi sospende il digiuno: \"Confido in Mattarella\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-08/magi-digiuno-legge-elettorale-39438466/",
+      "published_date": "2026-10-08T12:47:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veleno, uno dei protagonisti scrive a Mattarella: “Chiedo che venga riconosciuta la mia innocenza”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/07/news/camion_e_bus_salvini_apre_al_lavoro_fino_a_70_anni_ma_controlli_medici_su_autisti_ogni_24_mesi-425631826/?rss",
-      "published_date": "2026-10-07T21:55:26+00:00",
+      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/federico_scotta_veleno_diavoli_bassa_lettera_mattarella_innocenza-425633989/?rss",
+      "published_date": "2026-10-08T11:56:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pro Pal march blocked in Turin, police use water cannon",
+      "title": "Meloni, ora gli italiani potranno scegliere tutto, anche i parlamentari",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/bloccato-corteo-pro-pal-a-torino-la-polizia-usa-lidrante_e12894de-afc4-4ef6-98a1-e6b94d1cfdaf.html",
-      "published_date": "2026-10-07T21:33:27+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/meloni-ora-gli-italiani-potranno-scegliere-tutto-anche-i-parlamentari_cc27723a-14cd-4702-a477-695f479d54e4.html",
+      "published_date": "2026-10-08T11:09:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The wife of the pardoned jeweler: 'My hero, he saved my life'",
+      "title": "Meloni su legge elettorale, risposta coi fatti a chi sperava in un centrodestra diviso",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/moglie-gioielliere-graziato-lui-e-il-mio-eroe-mi-ha-salvato-la-vita_2152e632-ddab-40e4-92c3-84b6d6390976.html",
-      "published_date": "2026-10-07T20:27:20+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/meloni-su-legge-elettorale-risposta-coi-fatti-a-chi-sperava-in-un-centrodestra-diviso_65a1cf7e-50bd-486c-bcac-e30425930ae5.html",
+      "published_date": "2026-10-08T11:08:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Worker dies in an accident at work in the Bolognese Apennines",
+      "title": "Meloni replica agli insulti: \"Orgogliosa di essere definita ciociara\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-08/meloni-orgogliosa-ciociara-39433756/",
+      "published_date": "2026-10-08T09:25:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni: esponenti Pd mi insultano per essere ciociara, ma io ne sono fiera",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/meloni-esponenti-pd-mi-insultano-essere-ciociara-ma-io-ne-sono-fiera-AJRiDAdB",
+      "published_date": "2026-10-08T09:15:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melonellum, la legge elettorale dei paradossi: meno donne, poche preferenze, stabilità incerta",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/rubriche/la-verita-vi-prego/2026/10/08/news/melonellum_legge_elettorale_meno_donne_preferenze_stabilita-425633856/?rss",
+      "published_date": "2026-10-08T08:39:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La legge elettorale alla sfida finale. Meloni: 'Tranquilla? Lo sono sempre'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/operaio-muore-in-un-incidente-sul-lavoro-nellappennino-bolognese_474d7bd6-bfe3-4464-a9ee-c96afee8514d.html",
-      "published_date": "2026-10-07T20:23:27+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/la-legge-elettorale-alla-sfida-finale.-meloni-tranquilla-lo-sono-sempre_3b6319fb-ba23-405a-8f6e-c67558a8a218.html",
+      "published_date": "2026-10-08T07:57:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alberi caduti nella zona Nord, vento e pioggia a Roma: allagamenti nelle stazioni della Metro",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/alberi-caduti-nella-zona-nord-vento-e-pioggia-a-roma-allagamenti-nelle-stazioni-della-metro-maltempo-9b704cf5-4630-40c0-8d64-c0b5f858c80f.html",
+      "published_date": "2026-10-08T06:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fontana d'acqua spunta nella metro di Roma per il maltempo: viaggiatori attoniti",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/fontana-dacqua-spunta-nella-metro-di-roma-per-il-maltempo-viaggiatori-attoniti-video-032a40d5-03ab-4bbb-af1d-7847a6763512.html",
+      "published_date": "2026-10-08T04:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pioggia a catinelle, il camera car a Bologna del maltempo, pioggia al centro e nord Italia",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/pioggia-a-catinelle-il-camera-car-a-bologna-del-maltempo-pioggia-al-centro-e-nord-italia-nubifragi-e93fcf44-6e58-4e72-937f-1275859be71f.html",
+      "published_date": "2026-10-08T03:46:00+00:00",
       "category": "Local Events"
     }
   ]
