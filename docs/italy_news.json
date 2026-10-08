@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-07T17:38:48.163804+00:00",
-  "story_count": 93,
+  "last_updated": "2026-10-08T02:22:01.656007+00:00",
+  "story_count": 96,
   "stories": [
+    {
+      "title": "The Italian detained in Egypt meets his lawyer, 'we will bring him back here'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/litaliano-detenuto-in-egitto-incontra-il-suo-legale-lo-riporteremo-qui_dc10a1ee-f940-4cce-8f32-7a89727a9e9f.html",
+      "published_date": "2026-10-07T18:54:43+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Goodbye to Barbara Spinelli, a life between Europeanism and civil commitment",
       "source": "ANSA",
@@ -123,6 +130,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Cobra Warrior: Air Force trains in UK with allies",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/cobra-warrior-laeronautica-militare-si-addestra-nel-regno-unito-con-gli-alleati/",
+      "published_date": "2026-10-07T22:31:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Garlasco, the new investigation between witnesses and moves by the Stasi defense",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/garlasco-la-nuova-inchiesta-tra-testimoni-e-mosse-della-difesa-stasi_510698ef-384f-4707-bde8-ee97121f6ca0.html",
+      "published_date": "2026-10-07T18:51:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "7 October, Mattarella: \"Firmness against anti-Semitism. Intolerable human devastation in Gaza\"",
       "source": "AGI",
       "url": "https://www.agi.it/politica/news/2026-10-07/israele-7-ottobre-ricordo-mattarella-meloni-39415481/",
@@ -233,6 +254,27 @@
       "url": "https://www.rainews.it/video/2026/10/garlasco-il-comandante-dei-carabinieri-luongo-se-qualcuno-dellarma-ha-sbagliato-paghera-91e1c443-b208-48e0-a4b5-a28660301e04.html",
       "published_date": "2026-10-05T18:31:00+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Diesel, pressure from Palazzo Chigi to return to the Eni roof and avoid the excise duty cut",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/gasolio_tetto_eni_governo_taglio_accise-425633153/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Economist Nicolazzi: “Little margins for refineries to increase production”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/intervista_massimo_nicolazzi_petrolio_raffinerie_diesel-425632802/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Diesel prices continue to rise. Meloni thinks about mobile excise duties after the price cap",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-gasolio-sale-ancora.-meloni-pensa-ad-accise-mobili-dopo-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
+      "published_date": "2026-10-07T18:55:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sicily, waste-to-energy plants: CTS has given its OK",
@@ -354,25 +396,39 @@
       "category": "Energy"
     },
     {
-      "title": "The government shocked by diesel increases, the cut in excise duties is back on the table",
+      "title": "New storm on government bonds. The IMF: difficult choices for governments",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/06/news/diesel_taglio_accise_governo-425629377/?rss",
-      "published_date": "2026-10-06T16:49:19+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/nuova_tempesta_sui_titoli_di_stato_l_fmi_per_i_governi_scelte_difficili-425633248/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Clashes at the student march, barricades and tear gas in Strasbourg",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/06/scontri-al-corteo-degli-studenti-barricate-e-lacrimogeni-a-strasburgo_8ce1e678-b7b7-42f0-8164-d014c7fd2f51.html",
-      "published_date": "2026-10-06T16:17:28+00:00",
-      "category": "Energy"
+      "title": "Dear home in Rome. “I am against the developers who want to chase us away to build luxury apartments”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/casa_roma_emergenza_via_badoero_fondi-425633190/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Gas futures stable at 75.5 euros per megawatt hour",
+      "title": "Stocks, bonds and euro plummet, IMF raises the alarm on debt",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/06/i-futures-su-gas-stabili-a-755-euro-al-megawattora_7ac4bc23-3596-4123-b4bd-6b5c336cee45.html",
-      "published_date": "2026-10-06T16:02:32+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borse-bond-ed-euro-a-picco-fmi-lancia-lallarme-sul-debito_2dda54e9-caef-43ca-ba4f-50d5c58081e3.html",
+      "published_date": "2026-10-07T18:34:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mudec, the twelve years of the Il Sole 24 ORE Group between art and business",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/mudec-dodici-anni-gruppo-sole-24-ore-arte-e-impresa-AJSPrWcB",
+      "published_date": "2026-10-07T18:00:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Teatro alla Scala, friction over contract renewal",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/teatro-scala-frizioni-rinnovo-contratto-AJJYdUcB",
+      "published_date": "2026-10-07T17:54:38+00:00",
+      "category": "Economy"
     },
     {
       "title": "Mps, Benetton sides with Intesa's offer: \"Edizione will transfer its shares\"",
@@ -386,6 +442,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/dhl-commercio-mondiale-crescera-del-34-allanno-e-globalizzazione-al-258_3fbab8ca-c657-4821-a33e-3648e05fbc9b.html",
       "published_date": "2026-10-07T17:20:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fuels, Meloni: \"Ready for a new cut in excise duties, but I hope for the price cap to be restored\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/carburanti-meloni-pronti-a-nuovo-taglio-delle-accise-ma-spero-nel-ripristino-del-price-cap-24e5dd77-782a-4bd6-a708-82745d59e36d.html",
+      "published_date": "2026-10-07T17:19:00+00:00",
       "category": "Economy"
     },
     {
@@ -473,185 +536,143 @@
       "category": "Economy"
     },
     {
-      "title": "The housing plan for tourism comes to life, with a target of 63 thousand beds",
+      "title": "Bolivia, President Paz reports death threats to parliamentarians",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-piano-casa-per-il-turismo-entra-nel-vivo-obiettivo-63mila-posti_ab28277e-860b-408d-9c2f-2c8e2cbe8d06.html",
-      "published_date": "2026-10-07T14:06:17+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/bolivia-il-presidente-paz-denuncia-minacce-di-morte-ai-parlamentari_90fc92ca-c0ae-4543-8169-092e9c85d2cd.html",
+      "published_date": "2026-10-08T01:10:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Meloni: \"Ready for an intervention on excise duties, but I hope for the price cap to be restored\"",
+      "title": "Max Parisi in the USA for the drug that steals time from cancer. “Bring it to Italy too”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/max_parisi_tumore_pancreas_stati_uniti_farmaco-425633353/?rss",
+      "published_date": "2026-10-08T01:02:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mancini: \"Primaries, an avoidable challenge. Strong leadership is needed. Gualtieri? He's running to Rome, for now\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/claudio_mancini_primarie_gualtieri_intervista-425633244/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The trilateral in the canteen between Conte and the Avs leaders: the primaries on the menu",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/trilaterale_conte_bonelli_fratoianni_primarie-425633226/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fears about the prize in the Senate. Risk of stopping the Consultation. The government is working on plan B",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/premio_di_maggioranza_meloni_consulta_governo-425633220/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magi: \"Controlled deputies. We use the balls in the ballot box to guarantee secrecy\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/riccardo_magi_legge_elettorale_fiducia_intervista-425633200/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melonellum, the right holds. Today the final vote in the Chamber, the prime minister is thinking about the blitz",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/legge_elettorale_melonellum_oggi_voto_finale_camera-425633193/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pardon for the jeweller: sentence partially served and process started without problems. No signal on Roggero",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/grazia_mattarella_guido_gianni_roggero_legittima_difesa-425633149/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The transversal party of equalisation: \"The proportional system reopens the games\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/melonellum_consulta_partito_proporzionale_pareggio_giochi_riaperti-425633094/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prime Minister Meloni sees Ursula: \"Glimpses of flexibility but the path is long\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/08/news/meloni_vede_von_der_leyen_flessibilita_trattativa_ue-425633125/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The capital of evictions: in Rome there are 4 a day while B&Bs are booming",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/09/news/casa_roma_sfratti_affitti_bb_vendite_studentati-425633307/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milan, shock and anger for the student massacred in front of the high school: \"It's neo-fascist violence\"",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/08/news/milano_studente_massacrato_davanti_liceo_einstein_neofascisti-425633063/?rss",
+      "published_date": "2026-10-07T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni and the premiership: Ellekappa's cartoon",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/08/news/meloni_premierato_vignetta_ellekappa-425633078/?rss",
+      "published_date": "2026-10-07T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather forecast, transit disturbances with rain and local thunderstorms. Drop in temperatures",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/previsioni_meteo_perturbazioni_piogge_calo_temperature-425633129/?rss",
+      "published_date": "2026-10-07T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Salvador, national state of emergency due to drought",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/07/el-salvador-stato-di-emergenza-nazionale-per-la-siccita_b77a28eb-8fbc-4101-a3f1-20755f950a9d.html",
+      "published_date": "2026-10-07T21:58:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electoral law, the government also receives the third vote of confidence in the Chamber. Today the final vote...",
       "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-07/meloni-accise-price-cap-39422554/",
-      "published_date": "2026-10-07T14:00:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fuels, Meloni: «We are evaluating mobile excise duties. Flexibility, there is EU interest\"",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/carburanti-meloni-pronti-intervenire-accise-flessibilita-c-e-interesse-dell-ue-AJ16HBcB",
-      "published_date": "2026-10-07T13:49:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan below 50,000 points after the start of Wall Street, spread over 117",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/borsa-milano-sotto-i-50.000-punti-dopo-lavvio-di-wall-street-spread_6282b39c-61a5-42c0-8322-5f894b76c985.html",
-      "published_date": "2026-10-07T13:46:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Melons, we evaluate mobile excise duties, but I hope the price cap is fully restored",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/meloni-valutiamo-accise-mobili-ma-spero-si-ripristini-pienamente-il-price-cap_70308abe-48ca-4134-bf86-e5657d48d1c0.html",
-      "published_date": "2026-10-07T13:41:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Salvini, 'the possibility of mobile excise duties remains under consideration'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/07/salvini-resta-al-vaglio-la-possibilita-delle-accise-mobili_c0fa0ff7-b943-4f05-bae6-451499292e5a.html",
-      "published_date": "2026-10-07T13:23:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mattarella has signed three pardons, the jeweler Guido Gianni is also there",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/mattarella-ha-firmato-tre-grazie-ce-anche-il-gioielliere-guido-gianni_947e71bc-19c3-4be0-a615-e3df68b07f8d.html",
-      "published_date": "2026-10-07T17:35:05+00:00",
+      "url": "https://www.agi.it/politica/news/2026-10-07/legge-elettorale-governo-incassa-terza-fiducia-camera-39418179/",
+      "published_date": "2026-10-07T21:57:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Another 2 Georgians stopped with false passports while boarding a Tel Aviv flight",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/altri-2-georgiani-fermati-con-falsi-passaporti-ad-imbarco-volo-tel-aviv_8bddbec9-4679-4b23-8c3d-659560470ce3.html",
-      "published_date": "2026-10-07T17:32:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lecornu assures, 'no order to the police to clash with young people'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/lecornu-assicura-nessun-ordine-alla-polizia-di-scontrarsi-con-i-giovani_18ebc3d5-d330-4ec9-8cae-27e9c8bcbddc.html",
-      "published_date": "2026-10-07T17:25:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Newborn died due to postpartum problems, the former head physician under house arrest",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/ansa-boxneonato-mori-per-problemi-post-parto-lex-primaria-ai-domiciliari_24dab02a-90b4-452f-9c86-9c5513a99e5f.html",
-      "published_date": "2026-10-07T17:17:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children stolen from Fortuna's father, juvenile court in L'Aquila validates",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/figli-sottratti-al-papa-di-fortuna-tribunale-minori-laquila-convalida_1cf3ddf5-58bf-4a88-9f87-ba71abc729c4.html",
-      "published_date": "2026-10-07T17:16:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attack on the CGIL, all first degree convictions confirmed",
+      "title": "Trucks and buses, Salvini: \"At work until 70 but tight controls on drivers\". No from CGIL",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/07/news/assalto_cgil_roma_giorno_sentenza_appello_condanne-425631643/?rss",
-      "published_date": "2026-10-07T17:07:19+00:00",
+      "url": "https://www.repubblica.it/economia/2026/10/07/news/camion_e_bus_salvini_apre_al_lavoro_fino_a_70_anni_ma_controlli_medici_su_autisti_ogni_24_mesi-425631826/?rss",
+      "published_date": "2026-10-07T21:55:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mattarella grants three pardons",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-07/grazia-mattarella-stupefacenti-guido-giani-gioielliere-39425532/",
-      "published_date": "2026-10-07T16:54:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella signs three pardons: there is also a jeweler who killed two robbers",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/mattarella-firma-tre-grazie-clemenza-individuale-c-e-anche-gioielliere-AJPt3QcB",
-      "published_date": "2026-10-07T16:51:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella grants three pardons: there is also Guido Gianni, the jeweler who killed the two robbers",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/07/news/mattarella_concede_tre_grazie_gioielliere_guido_gianni_uccise_i_rapinatori-425632589/?rss",
-      "published_date": "2026-10-07T16:48:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alessandro Benetton: ok to Intesa's offer on MPS",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/alessandro-benetton-ok-all-offerta-intesa-mps-AJPCvRcB",
-      "published_date": "2026-10-07T16:44:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At the table with the Nobel: physicists having breakfast with Francis Halzen to celebrate him",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/07/news/francis_halzen_nobel_fisica_colazione_festeggiamento-425632523/?rss",
-      "published_date": "2026-10-07T16:31:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Timid signs of recovery for Italian wine",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/il-vino/2026/10/07/news/timidi_segnali_di_ripresa_per_il_vino_italiano-425632505/?rss",
-      "published_date": "2026-10-07T16:21:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Milan, a flash mob remembers victims of October 7th with 1200 white roses",
+      "title": "Pro Pal march blocked in Turin, police use water cannon",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/a-milano-flash-mob-ricorda-vittime-del-7-ottobre-con-1200-rose_1b916c53-1b25-49f4-9308-8a0507c8134f.html",
-      "published_date": "2026-10-07T16:12:23+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/bloccato-corteo-pro-pal-a-torino-la-polizia-usa-lidrante_e12894de-afc4-4ef6-98a1-e6b94d1cfdaf.html",
+      "published_date": "2026-10-07T21:33:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Gimbe, public healthcare loses 18.8 billion: costs, insurance and treatment waivers are growing",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/07/news/sanita-gimbe-tagli-miliardi-mancati-finanziamenti-425631314/?rss",
-      "published_date": "2026-10-07T16:09:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Railway massacre, the Supreme Court confirms convictions of the 2 railway workers: Ferrotramviaria acquitted",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/strage-ferroviaria-la-cassazione-conferma-condanne-dei-2-ferrovieri-assolta-ferrotramviaria-e238e361-444a-40ae-9b03-60b8a6c66444.html",
-      "published_date": "2026-10-07T16:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 2016 railway massacre: the Supreme Court confirms the two convictions, Ferrotramviaria acquitted",
+      "title": "The wife of the pardoned jeweler: 'My hero, he saved my life'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/lo-scontro-treni-nel-2016-la-cassazione-conferma-le-due-condanne-assolta-ferrotramviaria_f44b8e5e-0762-413a-bd23-5fb53a5dfd45.html",
-      "published_date": "2026-10-07T15:52:22+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/moglie-gioielliere-graziato-lui-e-il-mio-eroe-mi-ha-salvato-la-vita_2152e632-ddab-40e4-92c3-84b6d6390976.html",
+      "published_date": "2026-10-07T20:27:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Merz, 'those who vote for the AfD destroy credibility'",
+      "title": "Worker dies in an accident at work in the Bolognese Apennines",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/merz-chi-da-il-proprio-voto-allafd-distrugge-la-credibilita_5df58954-a800-40f4-861b-079a346b01ea.html",
-      "published_date": "2026-10-07T15:45:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "For Fiore and Castellino di Forza Nuova, the sentences for the 2021 attack on the CGIL were confirmed",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/fiore-e-castellino-di-forza-nuova-condannati-per-lassalto-alla-cgil-del-2021-86957222-0111-4f75-8774-af579cb2dd09.html",
-      "published_date": "2026-10-07T15:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire in Crans-Montana, Moretti asks for compensation. Zurich: \"Unfounded request, ready to resist\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/incendio-crans-montana-moretti-chiede-lindennita-zurich-richiesta-infondata-pronti-a-resistere-350a5a5c-4e88-44d2-9349-efef73f9b511.html",
-      "published_date": "2026-10-07T15:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "7 October: Mattarella's warning against hatred, Meloni calls for a stop to spiraling violence. Schlein: two peoples, two states",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/7-ottobre-monito-mattarella-contro-l-odio-meloni-si-impegna-contro-l-antisemitismo-schlein-non-dimentica-crimini-netanyahu-AJk7YEcB",
-      "published_date": "2026-10-07T14:55:00+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/operaio-muore-in-un-incidente-sul-lavoro-nellappennino-bolognese_474d7bd6-bfe3-4464-a9ee-c96afee8514d.html",
+      "published_date": "2026-10-07T20:23:27+00:00",
       "category": "Local Events"
     }
   ]
