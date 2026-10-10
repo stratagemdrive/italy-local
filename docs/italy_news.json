@@ -1,8 +1,29 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-10T01:59:17.218021+00:00",
+  "last_updated": "2026-10-10T16:05:13.793151+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The EU asks the US to withdraw sanctions from the ICC: \"Ready for any measure\". Nobel Pillay: «Unprecedented»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/l-ue-chiede-usa-ritirare-sanzioni-cpi-pronti-ogni-misura-AJ0mmmfB",
+      "published_date": "2026-10-10T10:27:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maiella, bikes and dogs on the summit despite the ban: the Park's post and the response to the insults",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/maiella_bici_e_cani_in_vetta_nonostante_il_divieto_il_post_del_parco_e_la_risposta_agli_insulti-425638707/?rss",
+      "published_date": "2026-10-10T08:48:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Non-EU parcels, the new tax is coming: what changes for returns and purchases",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/pacchi-extra-ue-arrivo-nuova-tassa-cosa-cambia-resi-e-acquisti-AJkwaxeB",
+      "published_date": "2026-10-10T06:49:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "“Columbus a hero”, Trump celebrates him and defends Little Italy. And on Meloni: “Excellent relations, I will meet her at the G20”",
       "source": "la Repubblica",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Vance accuses Microsoft of visa fraud, halt to green card programs",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/08/vance-accusa-microsoft-di-frode-sui-visti-stop-ai-programmi-sulle-green_a972cbbe-077d-4a5f-8265-bc06b35f9485.html",
-      "published_date": "2026-10-08T17:52:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Home, in the public heritage over 100 thousand unused homes. In the EU another 650 thousand properties are needed",
+      "title": "New Highway Code, the Carabinieri unions: «From driving permits to the collection of fines, too much bureaucracy on us»",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/casa-patrimonio-pubblico-oltre-100mila-abitazioni-non-utilizzate-ue-servono-altre-650mila-case-AJkFPScB",
-      "published_date": "2026-10-08T15:32:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ilsole24ore.com/art/nuovo-codice-strada-sindacati-carabinieri-dai-permessi-guida-riscossione-multe-troppa-burocrazia-di-noi-AJIiIeeB",
+      "published_date": "2026-10-10T12:50:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Farnesina: “Attacco hacker al nostro sito, effetti mitigati dalla protezione”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/08/news/farnesina_attacco_hacker_sito-425634863/?rss",
-      "published_date": "2026-10-08T15:07:49+00:00",
-      "category": "Diplomacy"
+      "title": "They spill waste and attack a mother and 12-year-old son who try to stop them",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/sversano-rifiuti-e-aggrediscono-madre-e-figlio-12enne-che-provano-a-fermarli_0151ae9d-c006-483a-9e2f-b0fa96f7c36b.html",
+      "published_date": "2026-10-10T09:09:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Alludes on social media to massacres and violent acts at school, 14-year-old reported",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/allude-social-stragi-e-atti-violenti-scuola-denunciato-14enne-AJ0gubfB",
+      "published_date": "2026-10-10T06:53:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The project for the \"super fighter\" starts in Turin. Two thousand places coming",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/parte-torino-progetto-il-super-caccia-arrivo-duemila-posti-AJ2FvzeB",
+      "published_date": "2026-10-10T03:32:01+00:00",
+      "category": "Military"
     },
     {
       "title": "Meloni distances himself. The anti-tycoon choice to avoid losing votes",
@@ -190,6 +218,13 @@
       "source": "Formiche",
       "url": "https://formiche.net/2026/10/gcap-inaugurata-a-torino-la-prima-sede-della-joint-venture-edgewing/",
       "published_date": "2026-10-09T11:22:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "10 meter sperm whale beached in front of Saporetti, perhaps stranded in a net",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/sabaudia-capodoglio-di-10-metri-spiaggiato-davanti-a-saporetti-forse-rimasto-incagliato-in-una-rete-cbcdee81-b5d0-4a9c-91e5-548429f9fd4a.html",
+      "published_date": "2026-10-09T11:09:00+00:00",
       "category": "Military"
     },
     {
@@ -249,39 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Garlasco, defense and consultants Sempio meeting on Monday on replies to pm",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/garlasco-lunedi-riunione-difesa-e-consulenti-sempio-su-repliche-a-pm_513af809-35e0-4323-9b5a-cf031f9ba9b6.html",
-      "published_date": "2026-10-08T16:41:06+00:00",
-      "category": "Military"
+      "title": "At the Trevi Days, energy transition and circular economy for a new future",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/alle-giornate-di-trevi-transizione-energetica-ed-economia-circolare-per-un-nuovo-futuro/",
+      "published_date": "2026-10-10T12:51:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Beko, i sindacati: “Rispettare il piano industriale”. Urso: da Leonardo disponibilità su Siena",
+      "title": "Mimit, diesel prices slightly decreasing, self-service petrol at 2.035",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/mimit-prezzi-gasolio-in-leggero-calo-benzina-self-a-2035_5ca745eb-4118-4f4a-9ed9-4667a2216e2b.html",
+      "published_date": "2026-10-10T08:10:45+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Glass and lace in Venice, the resistance of professions that do not want to disappear",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/08/news/beko_i_sindacati_rispettare_piano_industriale-425634621/?rss",
-      "published_date": "2026-10-08T16:24:39+00:00",
-      "category": "Military"
+      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/venezia_mestieri_vetri_merletti-425638514/?rss",
+      "published_date": "2026-10-10T07:13:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Razzia di gruppo in un market a Modena, denunciati dieci giovani",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/razzia-di-gruppo-in-un-market-a-modena-denunciati-dieci-giovani_7ec8967f-1679-42b6-9379-39477cb905e7.html",
-      "published_date": "2026-10-08T16:16:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "La Nato: 'In Italia un'esercitazione nucleare, senza armi reali'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/aeronautica-esercitazione-nato-in-italia-senza-armi-reali_e7f75d1f-0425-4383-972d-4f88770bdd85.html",
-      "published_date": "2026-10-08T16:13:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Difesa, che cosa è e chi partecipa a “Steadfast Noon”, l’esercitazione nucleare della Nato nei cieli italiani finita sotto la lente di Avs",
+      "title": "Hurricane Isaias on Florida: 72% of Gulf oil stopped",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/difesa-che-cosa-e-e-chi-partecipa-steadfast-noon-l-esercitazione-nucleare-nato-cieli-italiani-finita-sotto-lente-avs-AJRaDYdB",
-      "published_date": "2026-10-08T15:03:00+00:00",
-      "category": "Military"
+      "url": "https://www.ilsole24ore.com/art/uragano-isaias-florida-stop-72percento-petrolio-golfo-AJBkLafB",
+      "published_date": "2026-10-10T06:10:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Hurricane Isaias hits Florida: the hotel remains in darkness while guests seek shelter",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/uragano-isaias-che-si-abbatte-hotel-buio-clienti-riparo-senza-elettricita-video-a0844786-a914-4255-9c4e-6d8633e5ff91.html",
+      "published_date": "2026-10-10T05:39:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Electricity bills, fixed price race: the best offers on the market compared",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/10/news/bollette_luce_prezzo_fisso_le_migliori_offerte_sul_mercato_a_confronto-425637765/?rss",
+      "published_date": "2026-10-10T03:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "A summer of chiaroscuro for travel agencies",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/una-estate-chiaroscuro-le-agenzie-viaggio-AJuXzveB",
+      "published_date": "2026-10-10T02:32:02+00:00",
+      "category": "Energy"
     },
     {
       "title": "The price of gas rises to 80.33 euros per megawatt hour",
@@ -375,53 +424,109 @@
       "category": "Energy"
     },
     {
-      "title": "Energy Dome, la batteria alla CO2 fatta a Piacenza",
+      "title": "Tattoos and piercings, businesses more than doubled in 10 years",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/energy-dome-batteria-co2-fatta-piacenza-AJHeURcB",
-      "published_date": "2026-10-08T11:02:00+00:00",
-      "category": "Energy"
+      "url": "https://www.ilsole24ore.com/art/tatuaggi-e-piercing-imprese-piu-che-raddoppiate-10-anni-AJlT7ufB",
+      "published_date": "2026-10-10T14:19:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Bocchino sent emails to Lavitola, Ranucci attacks: \"He tried to influence Report\"",
-      "source": "la Repubblica",
-      "url": "https://roma.repubblica.it/cronaca/2026/10/08/news/lavitola_leggeva_mail_bocchino_ranucci_attacca-425633525/?rss",
-      "published_date": "2026-10-08T07:36:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Diesel, pressure from Palazzo Chigi to return to the Eni roof and avoid the excise duty cut",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/08/news/gasolio_tetto_eni_governo_taglio_accise-425633153/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Economist Nicolazzi: “Little margins for refineries to increase production”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/08/news/intervista_massimo_nicolazzi_petrolio_raffinerie_diesel-425632802/?rss",
-      "published_date": "2026-10-07T23:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Diesel prices continue to rise. Meloni thinks about mobile excise duties after the price cap",
+      "title": "Rauti, 'the Arctic is strategic for Euro-Atlantic security'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-gasolio-sale-ancora.-meloni-pensa-ad-accise-mobili-dopo-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
-      "published_date": "2026-10-07T18:55:38+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/rauti-lartico-e-strategico-per-la-sicurezza-euroatlantica_d18c6d52-1e50-450a-8563-f16dba953269.html",
+      "published_date": "2026-10-10T14:18:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sicily, waste-to-energy plants: CTS has given its OK",
+      "title": "Lombardi, from CSE investments in innovation and digital banks, we are a reliable partner",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/lombardida-cse-investimenti-su-innovazione-e-digitale-banchesiamo-partner-affidabile_bbbee4ba-2df1-43d2-b6cb-69fab9c1ba3c.html",
+      "published_date": "2026-10-10T12:39:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gronchi, 'in 2025 tourists spent almost 57 billion in Italy in addition to travel'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/gronchi-nel-2025-turisti-hanno-speso-quasi-57-miliardi-in-italia-oltre_a70a7004-d8df-4246-8a1c-f80cdd41f53f.html",
+      "published_date": "2026-10-10T11:47:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The companies of Central Italy: Regions fundamental for the new programming of EU funds",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ART_termovalorizzatori-AJU0uUcB",
-      "published_date": "2026-10-07T17:32:32+00:00",
-      "category": "Energy"
+      "url": "https://www.ilsole24ore.com/art/le-imprese-centro-italia-regioni-fondamentali-la-nuova-programmazione-fondi-ue-AJP7XPXB",
+      "published_date": "2026-10-10T11:37:43+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Dear energy, Confindustria Ceramica: “You cannot produce with gas at 80 euros”",
+      "title": "Italians crazy about tattoos, businesses double in 10 years",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-10/tatuaggi-italia-impennata-39468180/",
+      "published_date": "2026-10-10T10:37:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From 2019 to 2025, 111 thousand retail businesses in the municipalities disappeared",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/dal-2019-al-2025-scomparse-111mila-imprese-al-dettaglio-nei-comuni_f5450fea-ebc9-476f-aeae-5866feaa9569.html",
+      "published_date": "2026-10-10T09:33:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fuels: contribution from Saras to control prices in Sardinia",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/carburanti-saras-contributo-calmierare-prezzi-sardegna-AJokrifB",
+      "published_date": "2026-10-10T09:28:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "History of the convulsions of the economy and how, today, the recovery is freezing",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/10/07/news/caro_energia_confindustria_ceramica_con_il_gas_a_80_euro_non_si_puo_produrre-425632645/?rss",
-      "published_date": "2026-10-07T17:15:01+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/10/10/news/storia_delle_convulsioni_dell_economia_e_di_come_oggi_si_sta_congelando_la_ripresa-425638691/?rss",
+      "published_date": "2026-10-10T09:02:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EU budget, the Presidency of the Council proposes cuts of 141 billion to the budget",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/presidenza-consiglio-ue-propone-taglio-141-miliardi-futuro-bilancio-AJKCNhfB",
+      "published_date": "2026-10-10T08:46:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Presidency of the EU Council proposes a 141 billion cut from the future budget",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/presidenza-del-consiglio-ue-propone-taglio-141-miliardi-al-futuro-bilancio_5c35731f-42dc-486b-bd36-f8280c9a60f8.html",
+      "published_date": "2026-10-10T08:19:36+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Goldman votes for Europe: “Investor trust, but now reforms”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/10/news/goldman_vota_europa_fiducia_dagli_investitori_ma_ora_riforme-425636622/?rss",
+      "published_date": "2026-10-10T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Treasury, France and high oil prices weigh on the euro. Listed companies that \"win\" anyway",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/10/news/treasury_francia_e_caro-petrolio_pesanosull_euro_le_aziende_quotate_che_vincono_lo_stesso-425636615/?rss",
+      "published_date": "2026-10-10T08:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Exports resist the energy crisis. Diversifying key to growth",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/l-export-resiste-crisi-energetica-diversificare-chiave-la-crescita-AJ9iSweB",
+      "published_date": "2026-10-10T04:02:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Strengthened cooperation between Confindustria Alto Adige and Fraunhofer Italia",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/cooperazione-rafforzata-confindustria-alto-adige-e-fraunhofer-italia-AJ723weB",
+      "published_date": "2026-10-10T02:02:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Delfin's pro-Intesa letter: \"Commitment to give MPS shares\"",
@@ -459,248 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Stock market: Milan closes on the rise, leap by Fincantieri and Amplifon",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-chiude-in-rialzo-balzo-di-fincantieri-e-amplifon_ef2bab49-f0ac-4703-90fe-511bd35b3723.html",
-      "published_date": "2026-10-09T16:08:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The spread between BTPs and Bunds closes down at 109 points",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/lo-spread-tra-btp-e-bund-chiude-in-calo-a-109-punti_f53aaa5d-2174-464a-9413-23aac7806bd3.html",
-      "published_date": "2026-10-09T16:07:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tax on extra profits, the EU Commission slows down: \"States should take care of it\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/09/news/tassa_extraprofitti_commissione_ue_frena_facciano_stati-425637577/?rss",
-      "published_date": "2026-10-09T15:53:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan closes up by 0.91%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-chiude-in-rialzo-dello-091_bcf49cd5-59d8-4bdd-a316-4dcfa5518fd0.html",
-      "published_date": "2026-10-09T15:45:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Made in Italy, more SMEs on foreign markets: the plan",
+      "title": "At the base of Luna Rossa in Cagliari the scientific exhibition Ocean Climate Village",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/made-italy-piu-pmi-mercati-esteri-piano-AJ6qqueB",
-      "published_date": "2026-10-09T15:38:00+00:00",
-      "category": "Economy"
+      "url": "https://www.ilsole24ore.com/art/alla-base-luna-rossa-cagliari-mostra-scientifica-oceanclimate-village-AJbpLvfB",
+      "published_date": "2026-10-10T15:57:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Former Ilva, the bishops of Genoa and Tortona are also involved: \"Safeguard jobs\"",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/09/news/ex_ilva_in_campo_anche_i_vescovi_di_genova_e_tortona_salvaguardare_i_posti_di_lavoro-425636497/?rss",
-      "published_date": "2026-10-09T15:04:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Europe continues to rise after Wall Street, Milan +1.2%",
+      "title": "The pro-Pal march started in Milan, 'stop the agreements with Israel'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-leuropa-prosegue-in-rialzo-dopo-wall-street-milano-12_836f427c-00c1-4eb6-9db5-9e93adaefa32.html",
-      "published_date": "2026-10-09T13:56:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Calabrian farmers in the streets: the crisis is also Hormuz's fault",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/agricoltori-calabresi-piazza-crisi-e-anche-colpa-hormuz-AJjTtheB",
-      "published_date": "2026-10-09T13:22:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Salvini: 'I hope for a contribution of 5 billion to the maneuver from banks and insurance companies'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/09/salvini-spero-in-un-contributo-di-5-miliardi-alla-manovra-da-banche-e-assicurazioni_20c64de5-74c9-4d8f-b8c0-0516521643b0.html",
-      "published_date": "2026-10-09T13:07:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Esaote becomes Chinese: Midea 100% owner",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/la-cinese-midea-diventa-proprietaria-100percento-esaote-AJKmPfeB",
-      "published_date": "2026-10-09T12:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Unicredit, extraordinary board of directors on ongoing operations: the BdM and Commerz dossiers on Orcel's table",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/09/news/unicredit_cda_straordinario_operazioni_orcel_bdm_commerz-425636993/?rss",
-      "published_date": "2026-10-09T12:34:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "For Wanda Nara no 100 thousand euro check from the divorce with Icardi",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/per-wanda-nara-niente-assegno-da-100mila-euro-da-divorzio-con-icardi_4c7b4f28-c7a9-4da1-9e75-aede56761b53.html",
-      "published_date": "2026-10-09T11:56:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan positive (+0.74%) with Europe and Wall Street futures",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-positiva-074-con-leuropa-e-i-futures-di-wall-street_a0295318-125f-40ed-a546-54942949a3db.html",
-      "published_date": "2026-10-09T11:08:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The slowdown in Italian large-scale retail trade continues: 0.82% drop between 28 September and 4 October",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/rilevazione-settimanale/2026/10/09/news/continua_la_frenata_della_gdo_italiana_calo_dello_082_tra_il_28_settembre_e_il_4_ottobre-425636776/?rss",
-      "published_date": "2026-10-09T11:00:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Salvini, I hope for a voluntary contribution of 5 billion from banks and insurance companies",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/salvini-da-banche-assicurazioni-spero-contributo-volontario-a-manovra-di-5-miliardi_8800424b-633a-46d1-82e9-a11fbf12950b.html",
-      "published_date": "2026-10-09T10:22:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“Primary grammatical error”, D'Alema and the tips to the wide field",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/10/news/d_alema_primarie_errore_campo_largo-425638141/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/a-milano-partito-il-corteo-pro-pal-stop-agli-accordi-con-israele_2978f04f-1dee-4279-8616-fdaeb74ce1ae.html",
+      "published_date": "2026-10-10T15:37:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Filini: “Elections are also possible in 9 months but I think we will finish the legislature”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/10/news/filini_data_elezioni_fine_legislatura_intervista-425638138/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Early voting in June, Forza Italia blocks but Meloni alerts FdI",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/10/news/voto_anticipato_giugno_forza_italia_muro_meloni_allerta_fdi-425638135/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melonellum, the appeal and the mobilisations: the 300 campaign begins. M5S move for Onorato",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/10/news/legge_elettorale_ricorso_mobilitazioni_campagna_300_m5s_onorato-425638126/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cheli: \"With an ordinary rule they introduce a new regime, it is a twist towards the premiership\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/10/news/cheli_legge_elettorale_introducono_un_nuovo_regime_premierato_intervista-425638109/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“To go to class at the University of Bologna I sleep in a hostel in another province”",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/10/news/caro_casa_barbara_busnardo_studentessa_bologna_non_so_dove_dormire-425638168/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Goodbye student city in Bologna 660 euros for a room in the cellar",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/10/news/bologna_emergenza_casa_studenti_660_euro_stanza_in_cantina-425638149/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The invasion of data centers instead of rice fields. “Stop the savage advance”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/invasione_data_center_protesta-425638021/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather forecast, more rain and thunderstorms in the Centre-South, the sun returns to the North",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/previsioni_meteo_piogge_centro-sud_sole_nord-425638128/?rss",
-      "published_date": "2026-10-09T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Panama, waves of up to three meters threaten the south after the earthquake",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/panama-onde-fino-a-tre-metri-minacciano-il-sud-dopo-il-sisma_d29ce8df-5b8d-4c61-849e-13c57d78a54c.html",
-      "published_date": "2026-10-09T22:00:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella signs the reform, the Melonellum becomes law: final word to the Consulta",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/09/news/mattarella_firma_legge_elettorale-425637713/?rss",
-      "published_date": "2026-10-09T21:07:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ranucci, the court rejects the appeal against Rai: no reinstatement as host of Report",
-      "source": "la Repubblica",
-      "url": "https://roma.repubblica.it/cronaca/2026/10/09/news/ranucci_tribunale_lavoro_respinge_ricorso_reintegro_rai_conduzione_report-425637777/?rss",
-      "published_date": "2026-10-09T21:03:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The court rejects Ranucci's appeal for reinstatement to Report. The journalist: \"I respect the sentence and accept it calmly\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/il-tribunale-rigetta-il-ricorso-di-ranucci.-il-giornalista-rispetto-la-sentenza-e-la-accetto-serenamente_14aee77c-f639-40ec-a44a-9925c06e78d9.html",
-      "published_date": "2026-10-09T19:45:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella promulgated the electoral law",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/09/mattarella-ha-promulgato-la-legge-elettorale_b3de459f-a11e-40e2-9dee-6d7e76f64be4.html",
-      "published_date": "2026-10-09T19:08:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crans-Montana, average: the bill of Swiss hospitals for Italian families is 1.6 million",
+      "title": "Milan, numerous signs against Zionism equated to fascism at the Gaza march",
       "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/crans-montana-media-conto-ospedali-svizzeri-per-famiglie-italiane-e-di-16-mln-d2091344-5456-492d-95ae-c4100f513c03.html",
-      "published_date": "2026-10-09T18:59:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/milano-al-corteo-per-gaza-numerosi-cartelli-contro-il-sionismo-equiparato-al-fascismo-3baa7db8-4997-46a9-aaff-877f7f168276.html",
+      "published_date": "2026-10-10T15:24:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The story of the teacher from Marsala: 'I saw death, I sheltered the kids'",
+      "title": "La Russa: 'Trouble with the wall against the wall, summary for Milan with or without primaries'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/il-racconto-della-prof-di-marsala-ho-visto-la-morte-ho-riparato-i-ragazzi_72c1b11f-74b4-4440-bc5e-6cc24ff07cad.html",
-      "published_date": "2026-10-09T18:55:35+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/10/la-russa-guai-al-muro-contro-muro-sintesi-per-milano-con-o-senza_32a4c50c-c83c-41e0-b81c-eeda14eb69b1.html",
+      "published_date": "2026-10-10T15:19:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Earthquake in Panama, US agency issues tsunami warning for the East Pacific",
+      "title": "Students in the streets of Gaza, marches throughout Europe. National rally “The end of the genocide” in Rome",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/maratona/2026/10/studenti-in-piazza-per-gaza-cortei-in-50-citta-a-roma-raduno-nazionale-la-fine-del-genocidio-milano-torino-bologna-4ffd972c-09f4-4066-b789-1e0680faee08.html",
+      "published_date": "2026-10-10T15:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storms, flooding and landslides. Bad weather hits the South. In Lipari the streams overflowed, mud and houses flooded. Critical issues in Calabria",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/sisma-a-panama-agenzia-usa-dirama-allerta-tsunami-per-lest-pacifico_2ad982d6-e1bf-4890-99c9-97c1b5f52754.html",
-      "published_date": "2026-10-09T18:34:52+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
+      "published_date": "2026-10-10T14:57:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Magnitude 8 earthquake in Panama, panic in the capital",
+      "title": "Pro-Pal chant in the streets: 'Turn the spotlight back on Palestine'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/terremoto-di-magnitudo-8-a-panama-panico-nella-capitale_3c22f5bb-dfd5-4ee9-9ce2-97997d00f72a.html",
-      "published_date": "2026-10-09T18:28:51+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/i-pro-pal-scandono-in-piazza-riaccendere-i-riflettori-sulla-palestina_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
+      "published_date": "2026-10-10T14:31:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Hannoun remains in prison, the Supreme Court decides",
+      "title": "Pro-Pal march in Rome, 'turn the spotlight back on Palestine'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/i-pro-pal-sfilano-a-roma-riaccendere-i-riflettori-sulla-palestina_8151d838-5843-442b-82de-e1fcb114506b.html",
+      "published_date": "2026-10-10T14:27:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sardinia, a wrapper with a kilo of cocaine was found in Calasetta. The viral video on social media",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/sardegna-trovato-a-calasetta-un-involucro-con-un-chilo-di-cocaina-il-video-virale-sui-social-b08cf613-0bf4-40e5-a3d8-f12d5d5c8eab.html",
+      "published_date": "2026-10-10T14:21:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The tomb of a former mayor of the Bergamo area was damaged three times, a 92-year-old reported",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/danneggia-tre-volte-tomba-ex-sindaco-della-bergamasca-denunciata-92enne_fe8f74a8-65d9-4420-89ba-8b2de2a5912c.html",
+      "published_date": "2026-10-10T14:17:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gen. Masiello, for us it will always be a man who decides between a man's life and death",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/gen.-masiello-per-noi-sara-sempre-un-uomo-a-decidere-tra-vita_8a6c85d8-cce2-45bb-8442-dbbccb9ee416.html",
+      "published_date": "2026-10-10T14:09:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The death penalty is a defeat of civilization. Monsignor Paglia relaunches Pope Leo's appeal",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/pena-morte-papa-paglia/",
+      "published_date": "2026-10-10T14:07:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The pro-Palestine march starts in Turin, there are over 4 thousand in the square",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/parte-il-corteo-pro-palestina-a-torino-sono-oltre-4mila-in-piazza_c8369c1a-7954-44ef-a73a-699dda52ce41.html",
+      "published_date": "2026-10-10T14:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After scooters, a squeeze on e-bikes comes bike speeds and fines of up to 15 thousand euros",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/dopo-monopattini-stretta-su-e-bike-arrivano-bicivelox-e-multe-fino-a-15mila-euro_5d9f1f39-e4eb-4fa0-bbd1-a4a17d303b26.html",
+      "published_date": "2026-10-10T13:58:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Media, loud explosion heard at Riyadh airport, evacuation underway",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/media-udita-forte-esplosione-allaeroporto-di-riad-evacuazione-in-corso_9ab46c97-985a-4a5a-9ed4-346efd17bb11.html",
+      "published_date": "2026-10-10T13:44:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV after the Pentagon's announcement on the streaming execution: \"Death penalty inadmissible\"",
       "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/09/news/mohammad_hannoun_carcere_terni_cassazione_rigetta_istanza-425637803/?rss",
-      "published_date": "2026-10-09T18:13:16+00:00",
+      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/papa_leone_xiv_pena_di_morte-425639202/?rss",
+      "published_date": "2026-10-10T13:41:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Electoral law, Vannacci's game with the new rules",
+      "title": "Two-year-old girl hit in the courtyard of her house in Verona: she is serious, hospitalized in intensive care",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/bimba-di-due-anni-investita-nel-cortile-di-casa-a-verona-e-grave-ricoverata-in-terapia-intensiva-b9246d39-4fb6-407d-997d-52437d3abbb0.html",
+      "published_date": "2026-10-10T13:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Treviso, made fun of by bullies, throws himself from the first floor of the school: a 13-year-old is seriously injured",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/treviso-preso-in-giro-dai-bulli-si-getta-dal-primo-piano-della-scuola-grave-un-13enne-c7989907-1285-44e5-986c-4b6d0632362c.html",
+      "published_date": "2026-10-10T13:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Social insults to Poli Bortone, dismissal requested for 76 haters: \"Mayor must accept criticism\"",
+      "source": "la Repubblica",
+      "url": "https://bari.repubblica.it/cronaca/2026/10/10/news/insulti_social_a_poli_bortone_chiesta_archiviazione_per_76_hater_sindaca_deve_accettare_critiche-425639170/?rss",
+      "published_date": "2026-10-10T13:22:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cateno De Luca and the 2027 electoral challenge: the key role in Sicily and the alliance with Fratelli d'Italia",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/legge-elettorale-partita-vannacci-le-nuove-regole-AJaNNXdB",
-      "published_date": "2026-10-09T17:53:41+00:00",
+      "url": "https://www.ilsole24ore.com/art/cateno-de-luca-e-sfida-elettorale-2027-ruolo-chiave-sicilia-e-l-alleanza-fratelli-d-italia-AJdpxqfB",
+      "published_date": "2026-10-10T13:22:00+00:00",
       "category": "Local Events"
     }
   ]
