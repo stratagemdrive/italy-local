@@ -1,13 +1,41 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-09T17:17:21.387754+00:00",
+  "last_updated": "2026-10-10T01:59:17.218021+00:00",
   "story_count": 100,
   "stories": [
     {
+      "title": "“Columbus a hero”, Trump celebrates him and defends Little Italy. And on Meloni: “Excellent relations, I will meet her at the G20”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/esteri/2026/10/10/news/trump_festeggia_columbus_day_difende_little_italy-425638156/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump, 'great relationship with Meloni, we get along'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/trump-grande-rapporto-con-meloni-andiamo-daccordo_b670410c-fe1d-4fb6-84e5-c6354bb761ae.html",
+      "published_date": "2026-10-09T21:42:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The cases from the minicar gang rise to six, Iacopini remains serious",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/salgono-a-sei-i-casi-dalla-banda-della-minicar-iacopini-resta-gravenbsp_3d98a72b-ee37-4294-87b8-8eacba645393.html",
+      "published_date": "2026-10-09T19:09:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Conapi closes the year with a honey production of 2 thousand tons",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/le-storie/2026/10/09/news/conapi_chiude_l_annata_con_una_produzione_di_miele_di_2mila_tonnellate-425637825/?rss",
+      "published_date": "2026-10-09T18:12:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "ICC, 'US sanctions attack the rule of law, history will judge'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/09/cpi-sanzioni-usa-attacco-allo-stato-di-diritto-la-storia-giudichera_49524114-0f82-42a1-bb08-285b6525cb4c.html",
-      "published_date": "2026-10-09T16:05:41+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/09/cpi-sanzioni-usa-attacco-allo-stato-di-diritto-la-storia-giudichera_5aedbc65-f571-40dd-8858-64b94b176f30.html",
+      "published_date": "2026-10-09T16:05:53+00:00",
       "category": "Diplomacy"
     },
     {
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Farnesina, 'attacco hacker al nostro sito, effetti mitigati da protezione'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/farnesina-attacco-hacker-al-nostro-sito-effetti-mitigati-da-protezione_4bb27fc8-89a2-464b-a4b2-16881cb5daa0.html",
-      "published_date": "2026-10-08T14:48:49+00:00",
-      "category": "Diplomacy"
+      "title": "Meloni distances himself. The anti-tycoon choice to avoid losing votes",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/meloni_scelta_anti_trump-425638161/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "'Otherwise chef', at the FAO culinary competition for inclusion",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/altrementi-chef-allesposizione-fao-concorso-culinario-per-linclusione_9de3b866-a287-46df-85b1-33358c9cf72b.html",
-      "published_date": "2026-10-08T12:50:39+00:00",
-      "category": "Diplomacy"
+      "title": "The mystery of the weapons in Kiev, the aid package is ready but the government is now divided",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/mistero_armi_kiev_pronto_pacchetto_aiuti_governo_diviso-425638145/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Fazzolari evoca le elezioni a giugno. Tajani: 'Per Fi si deve votare a fine legislatura'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/fazzolari-evoca-le-elezioni-a-giugno.-tajani-per-fi-si-deve-votare-a-fine-legislatura_859f8f8f-df6b-44e4-956c-1e05458513c9.html",
-      "published_date": "2026-10-08T11:53:37+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU: «Positive evaluation of the safeguard clause for Italy, no risk»",
+      "title": "Hegseth: «Live execution of the terrorist Hasan». Vance: I won't watch it",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ue-valutazione-positiva-clausola-salvaguardia-l-italia-nessun-rischio-AJDkXIdB",
-      "published_date": "2026-10-08T11:06:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ilsole24ore.com/art/hegseth-esecuzione-diretta-terrorista-hasan-AJAD6peB",
+      "published_date": "2026-10-09T19:50:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Andreoli (Defence Services), we have valorised lighthouses and state property",
@@ -260,27 +281,6 @@
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/difesa-che-cosa-e-e-chi-partecipa-steadfast-noon-l-esercitazione-nucleare-nato-cieli-italiani-finita-sotto-lente-avs-AJRaDYdB",
       "published_date": "2026-10-08T15:03:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ungheria, cosa rivelano i documenti interni di Rosatom su Pak II",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/ungheria-cosa-rivelano-i-documenti-interni-di-rosatom-su-pak-ii/",
-      "published_date": "2026-10-08T15:00:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WSense porta le comunicazioni subacquee nel polo di Fincantieri",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/wsense-porta-le-comunicazioni-subacquee-nel-polo-di-fincantieri/",
-      "published_date": "2026-10-08T14:26:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sequestrato a Novara un container con rifiuti elettrici diretto in Africa",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/sequestrato-a-novara-un-container-con-rifiuti-elettrici-diretto-in-africa_8a43c79d-66c2-4466-acec-2ec577da72b1.html",
-      "published_date": "2026-10-08T13:52:12+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "Delfin's pro-Intesa letter: \"Commitment to give MPS shares\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/10/news/delfin_intesa_sanpaolo_lettera_mps-425638084/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Unicredit, focus on risk. I asked for the OK on Commerz",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/10/news/unicredit_risiko_ok_commerz-425638181/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, Meloni to ministers: \"Let's avoid accidents\". Salvini asks for 5 billion from the banks",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/10/news/manovra_banche_salvini_meloni-425637959/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Labor Court rejects Ranucci's appeal: no reinstatement to management",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/il-tribunale-del-lavoro-rigetta-il-ricorso-di-ranucci-niente-reintegro-alla-conduzione-86d755f3-029c-4915-8796-6678e3f33239.html",
+      "published_date": "2026-10-09T18:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "VAT recoveries sprint: the first 1,400 letters from the tax authorities are arriving",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/recuperi-iva-sprint-arrivo-prime-1400-lettere-fisco-AJCVeodB",
+      "published_date": "2026-10-09T17:57:48+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Stock market: Milan closes on the rise, leap by Fincantieri and Amplifon",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/borsa-milano-chiude-in-rialzo-balzo-di-fincantieri-e-amplifon_ef2bab49-f0ac-4703-90fe-511bd35b3723.html",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Foreign companies in Italy are growing, +16 thousand in 6 months to 677 thousand",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/imprese-straniere-in-italia-crescono-16mila-in-6-mesi-a-quota-677mila_83a40243-9f40-4a89-aa6c-29387d559fe0.html",
-      "published_date": "2026-10-09T09:58:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bank of Italy: 'In August the mortgage rate is one step away from 4%, the highest since 2024'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/bankitalia-ad-agosto-il-tasso-sui-mutui-a-un-passo-dal-4-ai-massimi-dal-2024_99bf60c4-fe92-4392-b91c-82574ecbe916.html",
-      "published_date": "2026-10-09T09:56:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ansaldo Energia, 470 million loan to grow",
+      "title": "“Primary grammatical error”, D'Alema and the tips to the wide field",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/09/news/ansaldo_energia_finanziamento_da_470_milioni_per_crescere-425636515/?rss",
-      "published_date": "2026-10-09T09:46:18+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/d_alema_primarie_errore_campo_largo-425638141/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Slots declining, gaming growing: demand migrates to other channels",
+      "title": "Filini: “Elections are also possible in 9 months but I think we will finish the legislature”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/filini_data_elezioni_fine_legislatura_intervista-425638138/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Early voting in June, Forza Italia blocks but Meloni alerts FdI",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/voto_anticipato_giugno_forza_italia_muro_meloni_allerta_fdi-425638135/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Melonellum, the appeal and the mobilisations: the 300 campaign begins. M5S move for Onorato",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/legge_elettorale_ricorso_mobilitazioni_campagna_300_m5s_onorato-425638126/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cheli: \"With an ordinary rule they introduce a new regime, it is a twist towards the premiership\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/cheli_legge_elettorale_introducono_un_nuovo_regime_premierato_intervista-425638109/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“To go to class at the University of Bologna I sleep in a hostel in another province”",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/10/news/caro_casa_barbara_busnardo_studentessa_bologna_non_so_dove_dormire-425638168/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Goodbye student city in Bologna 660 euros for a room in the cellar",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/10/news/bologna_emergenza_casa_studenti_660_euro_stanza_in_cantina-425638149/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The invasion of data centers instead of rice fields. “Stop the savage advance”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/invasione_data_center_protesta-425638021/?rss",
+      "published_date": "2026-10-09T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather forecast, more rain and thunderstorms in the Centre-South, the sun returns to the North",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/previsioni_meteo_piogge_centro-sud_sole_nord-425638128/?rss",
+      "published_date": "2026-10-09T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Panama, waves of up to three meters threaten the south after the earthquake",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/panama-onde-fino-a-tre-metri-minacciano-il-sud-dopo-il-sisma_d29ce8df-5b8d-4c61-849e-13c57d78a54c.html",
+      "published_date": "2026-10-09T22:00:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella signs the reform, the Melonellum becomes law: final word to the Consulta",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/09/news/mattarella_firma_legge_elettorale-425637713/?rss",
+      "published_date": "2026-10-09T21:07:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ranucci, the court rejects the appeal against Rai: no reinstatement as host of Report",
+      "source": "la Repubblica",
+      "url": "https://roma.repubblica.it/cronaca/2026/10/09/news/ranucci_tribunale_lavoro_respinge_ricorso_reintegro_rai_conduzione_report-425637777/?rss",
+      "published_date": "2026-10-09T21:03:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The court rejects Ranucci's appeal for reinstatement to Report. The journalist: \"I respect the sentence and accept it calmly\"",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/il-tribunale-rigetta-il-ricorso-di-ranucci.-il-giornalista-rispetto-la-sentenza-e-la-accetto-serenamente_14aee77c-f639-40ec-a44a-9925c06e78d9.html",
+      "published_date": "2026-10-09T19:45:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella promulgated the electoral law",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/09/mattarella-ha-promulgato-la-legge-elettorale_b3de459f-a11e-40e2-9dee-6d7e76f64be4.html",
+      "published_date": "2026-10-09T19:08:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crans-Montana, average: the bill of Swiss hospitals for Italian families is 1.6 million",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/crans-montana-media-conto-ospedali-svizzeri-per-famiglie-italiane-e-di-16-mln-d2091344-5456-492d-95ae-c4100f513c03.html",
+      "published_date": "2026-10-09T18:59:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The story of the teacher from Marsala: 'I saw death, I sheltered the kids'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/il-racconto-della-prof-di-marsala-ho-visto-la-morte-ho-riparato-i-ragazzi_72c1b11f-74b4-4440-bc5e-6cc24ff07cad.html",
+      "published_date": "2026-10-09T18:55:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquake in Panama, US agency issues tsunami warning for the East Pacific",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/sisma-a-panama-agenzia-usa-dirama-allerta-tsunami-per-lest-pacifico_2ad982d6-e1bf-4890-99c9-97c1b5f52754.html",
+      "published_date": "2026-10-09T18:34:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnitude 8 earthquake in Panama, panic in the capital",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/09/terremoto-di-magnitudo-8-a-panama-panico-nella-capitale_3c22f5bb-dfd5-4ee9-9ce2-97997d00f72a.html",
+      "published_date": "2026-10-09T18:28:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hannoun remains in prison, the Supreme Court decides",
+      "source": "la Repubblica",
+      "url": "https://genova.repubblica.it/cronaca/2026/10/09/news/mohammad_hannoun_carcere_terni_cassazione_rigetta_istanza-425637803/?rss",
+      "published_date": "2026-10-09T18:13:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electoral law, Vannacci's game with the new rules",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/slot-calo-gioco-crescita-domanda-migra-altri-canali-AJ92gUeB",
-      "published_date": "2026-10-09T09:34:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mortgage rates at two-year highs: close to 4% in August",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/09/news/tassi_mutui_taeg_4_per_cento_agosto_bankitalia-425636463/?rss",
-      "published_date": "2026-10-09T09:20:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Copyright, Meta loses at the TAR: the rules of the Guarantor for newspaper publishers are legitimate",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/09/news/tar_meta_equo_compenso_fnsi_fieg-425637710/?rss",
-      "published_date": "2026-10-09T17:13:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crans Montana. \"Medical expenses for Italians amount to 1.6 million\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/crans-montana.-le-spese-mediche-per-gli-italiani-ammontano-a-16-milioni_f294ae43-ec96-46dc-beee-d6702f9eed6f.html",
-      "published_date": "2026-10-09T16:48:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Liguria a new assisted suicide, \"I ask for respect\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/-in-liguria-un-nuovo-suicidio-assistito-chiedo-rispetto_c567ed81-8f0c-4cc9-974d-07ada3981a4a.html",
-      "published_date": "2026-10-09T16:43:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elderly people killed with psychotropic drugs, killer caregiver sentenced to 28 years",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/09/news/anziani_uccisi_badante_killer_condanna-425637663/?rss",
-      "published_date": "2026-10-09T16:42:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sassuolo, record-breaking baby: Everest was born weighing 5.6 kilos. “Almost double the size of a standard newborn”",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/09/news/sassuolo_nasce_everest_bimbo_record_peso-425636565/?rss",
-      "published_date": "2026-10-09T16:27:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cat set on fire in a park in Faenza: \"We are dismayed. Those who know must speak\"",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/09/news/gatto_incendiato_parco_faenza-425637588/?rss",
-      "published_date": "2026-10-09T16:12:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessman crushed by mini excavator, accident in front of his son",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/imprenditore-schiacciato-da-mini-escavatore-incidente-davanti-al-figlio_2232aab3-d27d-4a8f-8fd7-2b99af6504ce.html",
-      "published_date": "2026-10-09T15:54:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Waterspouts in the Trapani area, wall of the gymnasium at the school in Marsala falls",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/trombe-marine-nel-trapanese-cade-parete-della-palestra-in-scuola-a-marsala_cb1a3997-224c-40a5-9557-37732c08bc2c.html",
-      "published_date": "2026-10-09T15:52:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fair compensation, the TAR rejects Meta's appeal",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/equo-compenso-tar-respinge-ricorso-meta-AJShYteB",
-      "published_date": "2026-10-09T15:44:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tomorrow pro-Pal march in 50 cities to demand 'the end of the genocide'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/domani-pro-pal-in-corteo-in-50-citta-per-chiedere-la-fine-del-genocidio_75188469-31cc-4afa-ad48-9edb42b02165.html",
-      "published_date": "2026-10-09T15:41:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad weather: double waterspout in the Trapani area, damage and nine injured. A school destroyed in Marsala",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/maltempo-doppia-tromba-marina-nel-trapanese-danni-e-nove-feriti_8a1fb1c3-e77d-44de-ad4a-f0d636c72330.html",
-      "published_date": "2026-10-09T15:40:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Another bomb explodes in Rome, hitting a dealership in Centocelle",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/un-altro-ordigno-esplode-a-roma-colpita-una-concessionaria-a-centocelle_17f40ea5-4de2-4c1e-86f0-a22f1562fb20.html",
-      "published_date": "2026-10-09T15:27:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assisted suicide, third case in Liguria. “I ask for respect for my decision.”",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/09/news/suicidio_assistito_terzo_caso_liguria_chiedo_rispetto_associazione_luca_coscioni_medico_di_famiglia_asl_3_genova_47_anni_scl-425637004/?rss",
-      "published_date": "2026-10-09T15:27:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He died falling from a warehouse and his employer was arrested",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/mori-cadendo-da-capannone-arrestato-il-datore-di-lavoro_7e454dbd-413b-4fca-baa9-6ee15a751183.html",
-      "published_date": "2026-10-09T15:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The cases of the minicar gang rise to six, man hit on the street",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/salgono-a-sei-i-casi-della-banda-della-minicar-uomo-colpito-in-strada_1fe6f77b-0d06-48e5-9601-3698051fcde6.html",
-      "published_date": "2026-10-09T15:01:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Milan the new life of the former slaughterhouse passes through the recovery of the past",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/a-milano-nuova-vita-dell-ex-macello-passa-recupero-passato-AJtROqeB",
-      "published_date": "2026-10-09T15:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ascoli, Meloni is here and the mayor summons municipal employees and young people in uniform. Pd: “Istituto Luce”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/09/news/ascoli_meloni_sindaco_convoca_dipendenti_comunali_ragazzi_in_divisa-425637052/?rss",
-      "published_date": "2026-10-09T14:57:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electric car on fire in front of the Interior Ministry, no one injured",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/auto-elettrica-in-fiamme-davanti-al-viminale-nessun-ferito_3e8d37d3-26b4-4ade-afb5-4aed3285a192.html",
-      "published_date": "2026-10-09T14:29:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad weather: tomorrow orange alert on Campania, Calabria, Puglia and Sicily",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/maltempo-domani-allerta-arancione-su-campania-calabria-puglia-e-sicilia_ad340a30-10d9-4249-a7f3-6bd65e94b2a4.html",
-      "published_date": "2026-10-09T14:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "5S Senator moves to Mixed, joins Psi component as an 'anti-signature' move",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/09/senatore-5s-passa-al-misto-approda-a-componente-psi-come-mossa-anti-firme_2631db7b-ac41-4205-9c25-250046c3c74a.html",
-      "published_date": "2026-10-09T14:11:38+00:00",
+      "url": "https://www.ilsole24ore.com/art/legge-elettorale-partita-vannacci-le-nuove-regole-AJaNNXdB",
+      "published_date": "2026-10-09T17:53:41+00:00",
       "category": "Local Events"
     }
   ]
