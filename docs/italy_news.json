@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-10T16:05:13.793151+00:00",
+  "last_updated": "2026-10-11T01:25:00.940467+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Hannoun in Cassation, the attorney general: \"Her network has been rebuilt\"",
+      "source": "la Repubblica",
+      "url": "https://genova.repubblica.it/cronaca/2026/10/11/news/hannoun_in_cassazione_la_procuratrice_generalericostruita_la_sua_rete-425639721/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "New Highway Code, the Carabinieri unions: «From driving permits to the collection of fines, too much bureaucracy on us»",
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/nuovo-codice-strada-sindacati-carabinieri-dai-permessi-guida-riscossione-multe-troppa-burocrazia-di-noi-AJIiIeeB",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Crosetto: 'No new mission in Arabia, only redeployment'",
+      "title": "Analysts: 'The lifting of sanctions on diesel does not solve the problem, the problem is the Middle East'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/08/crosetto-nessuna-nuova-missione-in-arabia-solo-rischieramento_bb5c1b2f-cbe1-46b8-9f52-a47962556451.html",
-      "published_date": "2026-10-08T17:32:03+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/analisti-la-revoca-delle-sanzioni-su-diesel-non-risolve-il-problema-e-il-medio-oriente_6f93021c-b53e-47c0-bee8-f232437e9145.html",
+      "published_date": "2026-10-10T19:16:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The price of diesel drops, the hypothesis of mobile excise duties disappears",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/cala-prezzo-diesel-si-allontana-l-ipotesi-accise-mobili-AJxQg4fB",
+      "published_date": "2026-10-10T17:54:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "At the Trevi Days, energy transition and circular economy for a new future",
@@ -410,18 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Il gas è in rialzo (+1,8%) a 79,5 euro al Megawattora",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/il-gas-e-in-rialzo-18-a-795-euro-al-megawattora_91f491be-a7cb-4418-a10c-0d27ae3e246e.html",
-      "published_date": "2026-10-08T16:10:18+00:00",
-      "category": "Energy"
+      "title": "Maneuver, hunt for 10 billion. The government is looking at pensions",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/10/news/manovra_coperture_caccia_a_10_miliardi_taglio_pensioni-425640057/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Telemarketing, verso lo sblocco delle telefonate degli operatori Tlc che offrono luce e gas",
+      "title": "The battle of the provident funds. Federmeccanica to companies: \"Don't pay the contribution\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/08/news/telemarketing_verso_lo_sblocco_delle_telefonate_degli_operatori_tlc_che_offrono_luce_e_gas-425634644/?rss",
-      "published_date": "2026-10-08T13:28:57+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/11/news/fondi_previdenza_complementare_federmeccanica_contro_governo-425640112/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Assembly of the first prototype of the Sukhoi Su-75 Checkmate begins",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/al-via-lassemblaggio-del-primo-prototipo-del-sukhoi-su-75-checkmate/",
+      "published_date": "2026-10-10T22:34:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The price of diesel falls, the hypothesis of mobile excise duties fades away",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/cala-il-prezzo-del-diesel-sfuma-lipotesi-di-accise-mobili_fc9a51b0-f59b-4d39-9e1c-c4e3ba502521.html",
+      "published_date": "2026-10-10T19:33:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From Asia for the 'hidden gems', overtourism in the Dolomites",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/dallasia-per-le-gemme-nascoste-lovertourism-sulle-dolomiti_6626bef0-0466-46bf-99ca-68c9a668ae75.html",
+      "published_date": "2026-10-10T19:29:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rai, the Report team: \"Ranucci has never been disheartened or asked for his removal\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/10/news/rai_report_redazione_mai_sfiduciato_ranucci-425639555/?rss",
+      "published_date": "2026-10-10T19:13:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex Ilva: «Stop due to the order of judges and because we are without raw materials»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/ex-ilva-stop-l-ordine-giudici-e-perche-siamo-senza-materie-prime-AJ4wN1fB",
+      "published_date": "2026-10-10T16:48:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Tattoos and piercings, businesses more than doubled in 10 years",
@@ -515,192 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Exports resist the energy crisis. Diversifying key to growth",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/l-export-resiste-crisi-energetica-diversificare-chiave-la-crescita-AJ9iSweB",
-      "published_date": "2026-10-10T04:02:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Strengthened cooperation between Confindustria Alto Adige and Fraunhofer Italia",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/cooperazione-rafforzata-confindustria-alto-adige-e-fraunhofer-italia-AJ723weB",
-      "published_date": "2026-10-10T02:02:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Delfin's pro-Intesa letter: \"Commitment to give MPS shares\"",
+      "title": "The wide field is compacted, Schlein: \"You can't win with a moderate name\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/10/news/delfin_intesa_sanpaolo_lettera_mps-425638084/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/11/news/campo_largo_schlein_conte_nome_moderato-425640122/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Unicredit, focus on risk. I asked for the OK on Commerz",
+      "title": "Meloni irritated calls Tajani: \"Stop splitting the center-right over the names for the municipal elections\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/10/news/unicredit_risiko_ok_commerz-425638181/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/11/news/meloni_comunali_roma_milano_napoli_centrodestra_tajani-425640107/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Maneuver, Meloni to ministers: \"Let's avoid accidents\". Salvini asks for 5 billion from the banks",
+      "title": "Balduzzi: \"That enormous prize distorts the balance of power, the right is afraid of a draw\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/10/news/manovra_banche_salvini_meloni-425637959/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Labor Court rejects Ranucci's appeal: no reinstatement to management",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/il-tribunale-del-lavoro-rigetta-il-ricorso-di-ranucci-niente-reintegro-alla-conduzione-86d755f3-029c-4915-8796-6678e3f33239.html",
-      "published_date": "2026-10-09T18:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VAT recoveries sprint: the first 1,400 letters from the tax authorities are arriving",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/recuperi-iva-sprint-arrivo-prime-1400-lettere-fisco-AJCVeodB",
-      "published_date": "2026-10-09T17:57:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "At the base of Luna Rossa in Cagliari the scientific exhibition Ocean Climate Village",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/alla-base-luna-rossa-cagliari-mostra-scientifica-oceanclimate-village-AJbpLvfB",
-      "published_date": "2026-10-10T15:57:01+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/11/news/balduzzi_legge_elettorale_meloni_associazione_costituzionalisti_intervista-425640066/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The pro-Pal march started in Milan, 'stop the agreements with Israel'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/a-milano-partito-il-corteo-pro-pal-stop-agli-accordi-con-israele_2978f04f-1dee-4279-8616-fdaeb74ce1ae.html",
-      "published_date": "2026-10-10T15:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milan, numerous signs against Zionism equated to fascism at the Gaza march",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/milano-al-corteo-per-gaza-numerosi-cartelli-contro-il-sionismo-equiparato-al-fascismo-3baa7db8-4997-46a9-aaff-877f7f168276.html",
-      "published_date": "2026-10-10T15:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Russa: 'Trouble with the wall against the wall, summary for Milan with or without primaries'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/10/la-russa-guai-al-muro-contro-muro-sintesi-per-milano-con-o-senza_32a4c50c-c83c-41e0-b81c-eeda14eb69b1.html",
-      "published_date": "2026-10-10T15:19:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Students in the streets of Gaza, marches throughout Europe. National rally “The end of the genocide” in Rome",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/maratona/2026/10/studenti-in-piazza-per-gaza-cortei-in-50-citta-a-roma-raduno-nazionale-la-fine-del-genocidio-milano-torino-bologna-4ffd972c-09f4-4066-b789-1e0680faee08.html",
-      "published_date": "2026-10-10T15:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storms, flooding and landslides. Bad weather hits the South. In Lipari the streams overflowed, mud and houses flooded. Critical issues in Calabria",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
-      "published_date": "2026-10-10T14:57:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Pal chant in the streets: 'Turn the spotlight back on Palestine'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/i-pro-pal-scandono-in-piazza-riaccendere-i-riflettori-sulla-palestina_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
-      "published_date": "2026-10-10T14:31:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Pal march in Rome, 'turn the spotlight back on Palestine'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/i-pro-pal-sfilano-a-roma-riaccendere-i-riflettori-sulla-palestina_8151d838-5843-442b-82de-e1fcb114506b.html",
-      "published_date": "2026-10-10T14:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sardinia, a wrapper with a kilo of cocaine was found in Calasetta. The viral video on social media",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/sardegna-trovato-a-calasetta-un-involucro-con-un-chilo-di-cocaina-il-video-virale-sui-social-b08cf613-0bf4-40e5-a3d8-f12d5d5c8eab.html",
-      "published_date": "2026-10-10T14:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The tomb of a former mayor of the Bergamo area was damaged three times, a 92-year-old reported",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/danneggia-tre-volte-tomba-ex-sindaco-della-bergamasca-denunciata-92enne_fe8f74a8-65d9-4420-89ba-8b2de2a5912c.html",
-      "published_date": "2026-10-10T14:17:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gen. Masiello, for us it will always be a man who decides between a man's life and death",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/gen.-masiello-per-noi-sara-sempre-un-uomo-a-decidere-tra-vita_8a6c85d8-cce2-45bb-8442-dbbccb9ee416.html",
-      "published_date": "2026-10-10T14:09:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The death penalty is a defeat of civilization. Monsignor Paglia relaunches Pope Leo's appeal",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/pena-morte-papa-paglia/",
-      "published_date": "2026-10-10T14:07:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The pro-Palestine march starts in Turin, there are over 4 thousand in the square",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/parte-il-corteo-pro-palestina-a-torino-sono-oltre-4mila-in-piazza_c8369c1a-7954-44ef-a73a-699dda52ce41.html",
-      "published_date": "2026-10-10T14:01:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After scooters, a squeeze on e-bikes comes bike speeds and fines of up to 15 thousand euros",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/dopo-monopattini-stretta-su-e-bike-arrivano-bicivelox-e-multe-fino-a-15mila-euro_5d9f1f39-e4eb-4fa0-bbd1-a4a17d303b26.html",
-      "published_date": "2026-10-10T13:58:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Media, loud explosion heard at Riyadh airport, evacuation underway",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/media-udita-forte-esplosione-allaeroporto-di-riad-evacuazione-in-corso_9ab46c97-985a-4a5a-9ed4-346efd17bb11.html",
-      "published_date": "2026-10-10T13:44:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leo XIV after the Pentagon's announcement on the streaming execution: \"Death penalty inadmissible\"",
+      "title": "The debut of Ruffini and Gabrielli: \"We hope for a third name but we will be there at the gazebos\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/papa_leone_xiv_pena_di_morte-425639202/?rss",
-      "published_date": "2026-10-10T13:41:39+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/11/news/ruffini_gabrielli_partito_piu_uno_primarie-425640051/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two-year-old girl hit in the courtyard of her house in Verona: she is serious, hospitalized in intensive care",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/bimba-di-due-anni-investita-nel-cortile-di-casa-a-verona-e-grave-ricoverata-in-terapia-intensiva-b9246d39-4fb6-407d-997d-52437d3abbb0.html",
-      "published_date": "2026-10-10T13:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Treviso, made fun of by bullies, throws himself from the first floor of the school: a 13-year-old is seriously injured",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/treviso-preso-in-giro-dai-bulli-si-getta-dal-primo-piano-della-scuola-grave-un-13enne-c7989907-1285-44e5-986c-4b6d0632362c.html",
-      "published_date": "2026-10-10T13:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Social insults to Poli Bortone, dismissal requested for 76 haters: \"Mayor must accept criticism\"",
+      "title": "The impossible dream of public housing: 350 thousand families in line",
       "source": "la Repubblica",
-      "url": "https://bari.repubblica.it/cronaca/2026/10/10/news/insulti_social_a_poli_bortone_chiesta_archiviazione_per_76_hater_sindaca_deve_accettare_critiche-425639170/?rss",
-      "published_date": "2026-10-10T13:22:14+00:00",
+      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/casa_popolare_famiglie_attesa_sfratti_salari-425640063/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Cateno De Luca and the 2027 electoral challenge: the key role in Sicily and the alliance with Fratelli d'Italia",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/cateno-de-luca-e-sfida-elettorale-2027-ruolo-chiave-sicilia-e-l-alleanza-fratelli-d-italia-AJdpxqfB",
-      "published_date": "2026-10-10T13:22:00+00:00",
+      "title": "Naples, seaside city in the video installations of the Albergo dei Poveri",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/napoli_citta_di_mare_nelle_videoinstallazioni_dell_albergo_dei_poveri-425640033/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trentini, the case is not closed. After the USA, Italy is also investigating Maduro's torture",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/trentini_italia_indaga_torture_maduro-425639969/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Authorities, at least 309 injured in Houthi attack on Riyadh airport",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_8c3ae725-d7d5-428f-931e-df25e09934de.html",
+      "published_date": "2026-10-10T22:09:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather forecast: last rains in the Centre-South, then the anticyclone advances",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/previsioni_meteo_ottobrata_anticiclone_fine_pioggia-425640020/?rss",
+      "published_date": "2026-10-10T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nyt, 'at least 12 dead in Houthi attack on Riyadh airport'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7cff0445-1b45-412f-b938-a3a1fb44e687.html",
+      "published_date": "2026-10-10T20:59:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'At least two dead in Houthi attack on Riyadh airport, including a flight attendant'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/almeno-due-morti-in-attacco-houthi-su-scalo-riad-anche-unassistente-di-volo_d75ff486-7e1c-488f-b8bf-07f4539b0e35.html",
+      "published_date": "2026-10-10T20:31:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The death toll from Hurricane Isaias rises to four",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/sale-a-quattro-il-bilancio-dei-morti-per-luragano-isaias_3c7f1dbd-f3f3-4c14-8ffb-9d57b73787e0.html",
+      "published_date": "2026-10-10T19:50:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Five hikers in difficulty due to bad weather on the Maiella",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/cinque-escursionisti-in-difficolta-per-il-maltempo-sulla-maiella_87384f44-6304-4b59-a1e9-942767c4dcbb.html",
+      "published_date": "2026-10-10T19:37:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Municipal elections in Milan, the right goes haywire. Forza Italia attacks the League: \"They can run on their own\"",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/10/news/comunali_milano_centrodestra_scontro_forza_italia_lega_primarie-425639942/?rss",
+      "published_date": "2026-10-10T19:14:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bologna, thousands march for Palestine and against homophobia. Traffic blocked on the avenues",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/10/news/cortei_bologna_pro_pal_pride-425639543/?rss",
+      "published_date": "2026-10-10T19:07:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group photo of Campo Largo: 'The program will be done in two weeks'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/10/foto-di-gruppo-di-campo-largo-in-due-settimane-si-fa-il-programma_37552bcd-283e-4247-b47d-99f4fd42efba.html",
+      "published_date": "2026-10-10T18:44:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bad weather in Calabria, damage and landslides in Reggino due to heavy rain",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/maltempo-in-calabria-danni-e-frane-nel-reggino-per-le-forti-piogge_8604780e-0f5d-4de9-81d0-f26fec2d29f0.html",
+      "published_date": "2026-10-10T18:40:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storms, flooding and landslides: bad weather is scary in the South",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
+      "published_date": "2026-10-10T18:39:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A school massacre is evoked on social media, a 14-year-old reported",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/evoca-sui-social-una-strage-a-scuola-denunciato-un-14enne_c3571ba9-7190-461b-adc5-b8cfe98178ab.html",
+      "published_date": "2026-10-10T18:37:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pro-Pal demonstrations in 50 cities and there are those who praise October 7th",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/cortei-pro-pal-in-50-citta-e-ce-chi-inneggia-al-7-ottobre_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
+      "published_date": "2026-10-10T18:30:11+00:00",
       "category": "Local Events"
     }
   ]
