@@ -1,8 +1,22 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-11T01:25:00.940467+00:00",
+  "last_updated": "2026-10-11T16:33:47.285221+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Elezioni, Tajani tira dritto: “Non vogliamo dividere, ma vogliamo governare Milano”",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/11/news/comunali_milano_tajani_forza_italia_candidato_perego-425640913/?rss",
+      "published_date": "2026-10-11T14:09:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tajani insiste su Perego candidato sindaco a Milano, la Lega: 'Se non riescono i partiti, primarie'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/11/tajani-insiste-su-perego-candidato-sindaco-a-milano-la-lega-se-non-riescono-i-partiti_26d0830f-dcdc-450b-87ed-a9739b539582.html",
+      "published_date": "2026-10-11T11:42:21+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The EU asks the US to withdraw sanctions from the ICC: \"Ready for any measure\". Nobel Pillay: «Unprecedented»",
       "source": "Il Sole 24 Ore",
@@ -130,24 +144,108 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Farnesina under hacker attack after Moscow's accusations against Tajani",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/farnesina-sotto-attacco-hacker-le-accuse-mosca-tajani-AJqknudB",
-      "published_date": "2026-10-08T19:03:38+00:00",
-      "category": "Diplomacy"
+      "title": "Cede balconcino nel Napoletano, due feriti gravi",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/cede-balconcino-nel-napoletano-feriti-3d21f41a-ecaa-4cb5-9c1e-867fc18d192d.html",
+      "published_date": "2026-10-11T16:12:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Cyber attack on the Farnesina, authored by Russian hackers Noname",
+      "title": "Cede balcone di un'abitazione, quattro persone ferite nel Napoletano",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/08/attacco-cyber-alla-farnesina-autori-gli-hacker-russi-noname_d9bca9ac-9230-4a3b-85bd-c34cbbd51a3b.html",
-      "published_date": "2026-10-08T17:55:41+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/cede-balcone-di-unabitazione-quattro-persone-ferite-nel-napoletano_96e360d9-3d2d-4166-b92c-27026f7a8dec.html",
+      "published_date": "2026-10-11T16:06:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Presunta falsa paternità per due figli, marescialla dei Carabinieri indagata",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/presunta-falsa-paternita-per-due-figli-marescialla-dei-carabinieri-indagata_f837c902-c57f-4d30-a7cf-cb2af751180e.html",
+      "published_date": "2026-10-11T15:37:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nuovo attacco colpisce l'aeroporto di Riad, incendio a terminal",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/nuovo-attacco-colpisce-laeroporto-di-riad-incendio-a-terminal_bf5011f6-da02-4151-8917-d43bd0f893ee.html",
+      "published_date": "2026-10-11T14:58:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Incinta al settimo mese, muore con la bambina dopo le dimissioni dall’ospedale: aperta un’inchiesta",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/incinta-al-settimo-mese-muore-con-la-bambina-dopo-le-dimissioni-dallospedale-aperta-uninchiesta-1581c8f5-9c4d-4542-bafd-0608824aeef4.html",
+      "published_date": "2026-10-11T12:22:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Muore a 33 anni, al 7° mese di gravidanza, dopo dimissioni. Indagini di Procura e ospedale",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/muore-a-33-anni-al-settimo-mese-di-gravidanza-dopo-dimissioni-indagini-di-procura-e-ospedale-4ac4f7f6-99a2-4f39-a773-9292e81ae9c7.html",
+      "published_date": "2026-10-11T11:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ipotesi falsa paternità dei figli, indagata marescialla dei carabinieri",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/11/news/marescialla_carabinieri_indagata_paternita_figli-425640679/?rss",
+      "published_date": "2026-10-11T10:13:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mazzotta (Fincantieri), fondali e reti sottomarine asset strategici per il Paese",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/mazzotta-fincantieri-fondali-e-reti-sottomarine-asset-strategici-per-il-paese_6a7c2dc9-7622-4b6b-aba5-bb96c601a8e5.html",
+      "published_date": "2026-10-11T09:50:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Folgiero, 'Preparazione e responsabilità, valori comuni in azienda e in barca'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/folgiero-preparazione-e-responsabilita-valori-comuni-in-azienda-e-in-barca_5274b0c1-9e45-49d0-95fe-312434b79195.html",
+      "published_date": "2026-10-11T07:51:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Intercettato drone diretto in carcere, carico recuperato ma velivolo fugge",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/intercettato-drone-diretto-in-carcere-carico-recuperato-ma-velivolo-fugge_aad103ac-5ea1-47d4-b7a1-0d6e31cd1725.html",
+      "published_date": "2026-10-11T06:56:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Melito di Porto Salvo invasa da acqua e fango, i danni visti dal drone",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/melito-porto-salvo-invasa-da-acqua-e-fango-danni-visti-dal-drone-video-20c6d133-24fa-4d8a-9faf-3ef53caa5c08.html",
+      "published_date": "2026-10-11T04:11:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Hannoun in Cassation, the attorney general: \"Her network has been rebuilt\"",
       "source": "la Repubblica",
       "url": "https://genova.repubblica.it/cronaca/2026/10/11/news/hannoun_in_cassazione_la_procuratrice_generalericostruita_la_sua_rete-425639721/?rss",
       "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Una mail non letta. Così Pechino è riuscita ad avere accesso agli F-35",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/una-mail-non-letta-cosi-pechino-e-riuscita-ad-avere-accesso-agli-f-35/",
+      "published_date": "2026-10-10T14:58:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sardegna, trovato a Calasetta un involucro con un chilo di cocaina. Il video virale sui social",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/sardegna-trovato-a-calasetta-un-involucro-con-un-chilo-di-cocaina-il-video-virale-sui-social-b08cf613-0bf4-40e5-a3d8-f12d5d5c8eab.html",
+      "published_date": "2026-10-10T14:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bambina investita nel cortile di casa nel Veronese: è in gravissime condizioni",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/bambina_investita_verona_cortile_casa_condizioni-425639173/?rss",
+      "published_date": "2026-10-10T13:21:27+00:00",
       "category": "Military"
     },
     {
@@ -186,102 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The mystery of the weapons in Kiev, the aid package is ready but the government is now divided",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/10/news/mistero_armi_kiev_pronto_pacchetto_aiuti_governo_diviso-425638145/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth: «Live execution of the terrorist Hasan». Vance: I won't watch it",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/hegseth-esecuzione-diretta-terrorista-hasan-AJAD6peB",
-      "published_date": "2026-10-09T19:50:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Andreoli (Defence Services), we have valorised lighthouses and state property",
+      "title": "Il prezzo dei carburanti torna lievemente a salire, +1 millesimo per benzina e diesel",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/andreoli-difesa-servizi-abbiamo-valorizzato-fari-e-beni-demaniali_fd204292-3b70-4743-9408-3786b7ec9934.html",
-      "published_date": "2026-10-09T16:58:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mazzotta (Fincantieri), the ship of the future will be green and digital",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/mazzotta-fincantieri-la-nave-del-futuro-sara-green-e-digitale_17b60d1b-4458-4ace-a46a-5ddee1effa46.html",
-      "published_date": "2026-10-09T16:25:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fincantieri at Barcolana with 'Doers on board' and its crew",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/fincantieri-alla-barcolana-con-doers-on-board-e-il-proprio-equipaggio_55371d94-db54-49bc-8ee6-7179a4147c5e.html",
-      "published_date": "2026-10-09T12:37:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gcap, the first headquarters of the Edgewing joint venture inaugurated in Turin",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/gcap-inaugurata-a-torino-la-prima-sede-della-joint-venture-edgewing/",
-      "published_date": "2026-10-09T11:22:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "10 meter sperm whale beached in front of Saporetti, perhaps stranded in a net",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/sabaudia-capodoglio-di-10-metri-spiaggiato-davanti-a-saporetti-forse-rimasto-incagliato-in-una-rete-cbcdee81-b5d0-4a9c-91e5-548429f9fd4a.html",
-      "published_date": "2026-10-09T11:09:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Shield AI's wingman drone nears first flight. The X-Bat calendar",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/il-drone-gregario-di-shield-ai-si-avvicina-al-primo-volo-il-calendario-di-x-bat/",
-      "published_date": "2026-10-09T10:45:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon: «The shooting of the Fort Hood killer will be live streamed». UN: «It's torture»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/pentagono-fucilazione-dell-autore-strage-fort-hood-sara-diretta-streaming-AJ1AuHeB",
-      "published_date": "2026-10-09T05:27:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The first F-16 Block 72 flies for the Moroccan Air Force",
-      "source": "Analisi Difesa",
-      "url": "https://www.analisidifesa.it/2026/10/vola-il-primo-f-16-block-72-per-le-forze-aeree-del-marocco/",
-      "published_date": "2026-10-08T23:11:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ExoMars' Rosalind Franklin rover prepares for its first steps on Mars",
-      "source": "Analisi Difesa",
-      "url": "https://www.analisidifesa.it/2026/10/il-rover-rosalind-franklin-di-exomars-si-prepara-ai-suoi-primi-passi-su-marte/",
-      "published_date": "2026-10-08T23:08:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "32 Ecuador fishermen bombed by the US acquitted of drug trafficking charges",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/08/assolti-dallaccusa-di-narcotraffico-32-pescatori-dellecuador-bombardati-dagli-usa_32b3f9db-cafc-41fc-a4cf-17a75a80ceb4.html",
-      "published_date": "2026-10-08T20:02:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian soldiers in Arabia, the word \"mission\" on the Defense website triggers pressure from the opposition. Crosetto: «If someone made a mistake, they will pay»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/militari-italiani-arabia-un-errore-sito-difesa-scatta-pressing-opposizioni-crosetto-se-qualcuno-ha-sbagliato-paghera-AJnQqNdB",
-      "published_date": "2026-10-08T18:37:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Steadfast Noon', the NATO nuclear exercise, begins in Italy",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/al-via-in-italia-steadfast-noon-lesercitazione-nucleare-della-nato_e7f75d1f-0425-4383-972d-4f88770bdd85.html",
-      "published_date": "2026-10-08T18:35:32+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/il-prezzo-dei-carburanti-torna-lievemente-a-salire-1-millesimo-per-benzina-e-diesel_b90b1139-399c-4e20-b69c-4a792f4259e5.html",
+      "published_date": "2026-10-11T07:50:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Analysts: 'The lifting of sanctions on diesel does not solve the problem, the problem is the Middle East'",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Moles (Au), 'energy independence is fundamental for country security, nuclear power is needed'",
+      "title": "Soprusi su un 15enne, la procura contro l'assoluzione",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/08/moles-au-indipendenza-energetica-fondamentale-per-sicurezza-paese-serve-nucleare_ff692d4f-f24c-4f3f-b6df-f28aa972b0f4.html",
-      "published_date": "2026-10-08T16:59:58+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/soprusi-su-un-15enne-la-procura-contro-lassoluzione_2443bf16-0538-48aa-a015-7f9f36204a8c.html",
+      "published_date": "2026-10-11T13:58:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Più robot sui campi contro il calo addetti: così l'automazione cambia l’agricoltura",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/11/news/piu_robot_sui_campi_contro_il_calo_addetti_cosi_l_automazione_cambia_l_agricoltura-425636670/?rss",
+      "published_date": "2026-10-11T13:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Liguria, la Regione rafforza gli investimenti sugli Its",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/liguria-regione-rafforza-investimenti-its-AJIu6UeB",
+      "published_date": "2026-10-11T11:02:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trasporto pubblico, cambiano i bonus. Dal 2027 voucher per le famiglie fino a 20 mila euro di Isee",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/10/11/news/trasporto_pubblico_cambiano_i_bonus_dal_2027_voucher_per_le_famiglie_fino_a_20_mila_euro_di_isee-425639703/?rss",
+      "published_date": "2026-10-11T03:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Maneuver, hunt for 10 billion. The government is looking at pensions",
@@ -487,6 +515,13 @@
       "category": "Economy"
     },
     {
+      "title": "Insulti social a Poli Bortone, chiesta archiviazione per 76 hater: “Sindaca deve accettare critiche”",
+      "source": "la Repubblica",
+      "url": "https://bari.repubblica.it/cronaca/2026/10/10/news/insulti_social_a_poli_bortone_chiesta_archiviazione_per_76_hater_sindaca_deve_accettare_critiche-425639170/?rss",
+      "published_date": "2026-10-10T13:22:14+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Lombardi, from CSE investments in innovation and digital banks, we are a reliable partner",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/lombardida-cse-investimenti-su-innovazione-e-digitale-banchesiamo-partner-affidabile_bbbee4ba-2df1-43d2-b6cb-69fab9c1ba3c.html",
@@ -529,39 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "History of the convulsions of the economy and how, today, the recovery is freezing",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/10/10/news/storia_delle_convulsioni_dell_economia_e_di_come_oggi_si_sta_congelando_la_ripresa-425638691/?rss",
-      "published_date": "2026-10-10T09:02:14+00:00",
-      "category": "Economy"
+      "title": "Le ultime elezioni vinte a Bologna dal vero highlander della politica",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-11/casini-pier-ferdinando-bologna-ultimo-highlander-politica-39478432/",
+      "published_date": "2026-10-11T16:14:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "EU budget, the Presidency of the Council proposes cuts of 141 billion to the budget",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/presidenza-consiglio-ue-propone-taglio-141-miliardi-futuro-bilancio-AJKCNhfB",
-      "published_date": "2026-10-10T08:46:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Presidency of the EU Council proposes a 141 billion cut from the future budget",
+      "title": "Oltre 700 morti sul lavoro. Anmil, 'introdurre il reato di omicidio'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/10/presidenza-del-consiglio-ue-propone-taglio-141-miliardi-al-futuro-bilancio_5c35731f-42dc-486b-bd36-f8280c9a60f8.html",
-      "published_date": "2026-10-10T08:19:36+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/anmil-da-gennaio-ad-oggi-oltre-700-morti-sul-lavoro-istituire-reato_cf73ab34-468f-42d1-9268-b01d5af2b0da.html",
+      "published_date": "2026-10-11T15:10:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Goldman votes for Europe: “Investor trust, but now reforms”",
+      "title": "Conte: “Renzi? Mi depotenzia. Chiedo garanzie a Schlein”. La leader Pd: “Mai più l’errore del 2022”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/10/news/goldman_vota_europa_fiducia_dagli_investitori_ma_ora_riforme-425636622/?rss",
-      "published_date": "2026-10-10T08:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/11/news/campo_largo_primarie_conte_renzi_schlein-425640801/?rss",
+      "published_date": "2026-10-11T14:17:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Treasury, France and high oil prices weigh on the euro. Listed companies that \"win\" anyway",
+      "title": "Leone XIV, i messaggi dopo l’annuncio dell’intervento. Mattarella: “Il popolo italiano le è vicino”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/10/news/treasury_francia_e_caro-petrolio_pesanosull_euro_le_aziende_quotate_che_vincono_lo_stesso-425636615/?rss",
-      "published_date": "2026-10-10T08:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/leone_xiv_i_messaggi_dopo_l_annuncio_dell_intervento_mattarella_il_popolo_italiano_le_e_vicino-425640899/?rss",
+      "published_date": "2026-10-11T13:01:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: \"Agire sui rischi per evitare incidenti sul lavoro\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-11/lavoro-mattarella-incidenti-39481206/",
+      "published_date": "2026-10-11T12:13:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milano, la Lega insiste: primarie per il candidato. Il no di Forza Italia",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/milano-lega-insiste-primarie-il-candidato-no-forza-italia-AJzlTdgB",
+      "published_date": "2026-10-11T11:50:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni,ferma condanna degli attacchi Houthi contro aeroporto Riad",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/11/meloniferma-condanna-degli-attacchi-houthi-contro-aeroporto-riad_39698e7a-d268-4927-9fa2-5bc0a85cb1ca.html",
+      "published_date": "2026-10-11T10:35:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mondiali videosub, l’Italia conquista tre medaglie a Bali: argento e due bronzi per gli azzurri",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/mondiali-videosub-litalia-conquista-tre-medaglie-a-bali-argento-e-due-bronzi-per-gli-azzurri-8b23e015-7d58-41d1-94c6-065f295f451c.html",
+      "published_date": "2026-10-11T10:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: la Carta tutela la sicurezza sul lavoro, serve prevenzione",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/mattarella-garantire-sicurezza-lavoro-e-principio-costituzione-AJuwmXgB",
+      "published_date": "2026-10-11T09:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giornata nazionale per le vittime degli incidenti sul lavoro, aumentano le denunce di infortuni",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/giornata-nazionale-per-le-vittime-degli-incidenti-sul-lavoro-aumentano-le-denunce-di-infortuni-1cfb2323-d190-4145-abb6-a637ded25ac2.html",
+      "published_date": "2026-10-11T09:34:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nubifragio a Melito di Porto Salvo, cede la strada a contrada Prunella",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/-melito-di-porto-salvo-crollo-a-prunella-cedimento-strada-video-1f9f5cc5-6e5a-416f-af13-46cdda12f3a8.html",
+      "published_date": "2026-10-11T09:06:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il centrosinistra accelera, Conte e Schlein tre volte sul palco insieme",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-11/conte-schlein-renzi-centrosinistra-39474927/",
+      "published_date": "2026-10-11T04:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funaro: “Noi sindaci soli nell’emergenza abitativa. Meloni metta soldi per le case popolari”",
+      "source": "la Repubblica",
+      "url": "https://firenze.repubblica.it/cronaca/2026/10/11/news/emergenza_casa_intervista_sindaca_firenze_funaro-425639912/?rss",
+      "published_date": "2026-10-11T04:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Napoli città di mare nelle videoinstallazioni dell’Albergo dei Poveri",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/napoli_citta_di_mare_nelle_videoinstallazioni_dell_albergo_dei_poveri-425640032/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The wide field is compacted, Schlein: \"You can't win with a moderate name\"",
@@ -603,104 +701,6 @@
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/cronaca/2026/10/11/news/napoli_citta_di_mare_nelle_videoinstallazioni_dell_albergo_dei_poveri-425640033/?rss",
       "published_date": "2026-10-10T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trentini, the case is not closed. After the USA, Italy is also investigating Maduro's torture",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/trentini_italia_indaga_torture_maduro-425639969/?rss",
-      "published_date": "2026-10-10T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Authorities, at least 309 injured in Houthi attack on Riyadh airport",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/11/autorita-almeno-309-i-feriti-nellattacco-degli-houthi-allaeroporto-di-riad_8c3ae725-d7d5-428f-931e-df25e09934de.html",
-      "published_date": "2026-10-10T22:09:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather forecast: last rains in the Centre-South, then the anticyclone advances",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/previsioni_meteo_ottobrata_anticiclone_fine_pioggia-425640020/?rss",
-      "published_date": "2026-10-10T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nyt, 'at least 12 dead in Houthi attack on Riyadh airport'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/nyt-almeno-12-morti-nellattacco-degli-houthi-allaeroporto-di-riad_7cff0445-1b45-412f-b938-a3a1fb44e687.html",
-      "published_date": "2026-10-10T20:59:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'At least two dead in Houthi attack on Riyadh airport, including a flight attendant'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/10/almeno-due-morti-in-attacco-houthi-su-scalo-riad-anche-unassistente-di-volo_d75ff486-7e1c-488f-b8bf-07f4539b0e35.html",
-      "published_date": "2026-10-10T20:31:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The death toll from Hurricane Isaias rises to four",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/10/sale-a-quattro-il-bilancio-dei-morti-per-luragano-isaias_3c7f1dbd-f3f3-4c14-8ffb-9d57b73787e0.html",
-      "published_date": "2026-10-10T19:50:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five hikers in difficulty due to bad weather on the Maiella",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/cinque-escursionisti-in-difficolta-per-il-maltempo-sulla-maiella_87384f44-6304-4b59-a1e9-942767c4dcbb.html",
-      "published_date": "2026-10-10T19:37:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipal elections in Milan, the right goes haywire. Forza Italia attacks the League: \"They can run on their own\"",
-      "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/10/news/comunali_milano_centrodestra_scontro_forza_italia_lega_primarie-425639942/?rss",
-      "published_date": "2026-10-10T19:14:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bologna, thousands march for Palestine and against homophobia. Traffic blocked on the avenues",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/10/news/cortei_bologna_pro_pal_pride-425639543/?rss",
-      "published_date": "2026-10-10T19:07:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Group photo of Campo Largo: 'The program will be done in two weeks'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/10/foto-di-gruppo-di-campo-largo-in-due-settimane-si-fa-il-programma_37552bcd-283e-4247-b47d-99f4fd42efba.html",
-      "published_date": "2026-10-10T18:44:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad weather in Calabria, damage and landslides in Reggino due to heavy rain",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/maltempo-in-calabria-danni-e-frane-nel-reggino-per-le-forti-piogge_8604780e-0f5d-4de9-81d0-f26fec2d29f0.html",
-      "published_date": "2026-10-10T18:40:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storms, flooding and landslides: bad weather is scary in the South",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
-      "published_date": "2026-10-10T18:39:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A school massacre is evoked on social media, a 14-year-old reported",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/evoca-sui-social-una-strage-a-scuola-denunciato-un-14enne_c3571ba9-7190-461b-adc5-b8cfe98178ab.html",
-      "published_date": "2026-10-10T18:37:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Pal demonstrations in 50 cities and there are those who praise October 7th",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/cortei-pro-pal-in-50-citta-e-ce-chi-inneggia-al-7-ottobre_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
-      "published_date": "2026-10-10T18:30:11+00:00",
       "category": "Local Events"
     }
   ]
