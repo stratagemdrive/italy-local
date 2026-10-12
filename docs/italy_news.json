@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-12T01:55:05.097982+00:00",
+  "last_updated": "2026-10-12T20:09:18.465857+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Tajani, attacco Trump a Zelensky? Tocca a ucraini scegliere loro presidente",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/tajani-attacco-trump-a-zelensky-tocca-a-ucraini-scegliere-loro-presidente_8d2ee934-3389-4f7f-9dd7-e262aaa632c2.html",
+      "published_date": "2026-10-12T18:04:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Perego: \"If the League wants gazebos they should be used not only in Milan but for all the big cities\"",
       "source": "la Repubblica",
@@ -43,6 +50,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/10/11/tajani-insiste-su-perego-candidato-sindaco-a-milano-la-lega-se-non-riescono-i-partiti_26d0830f-dcdc-450b-87ed-a9739b539582.html",
       "published_date": "2026-10-11T11:42:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meloni irritata chiama Tajani: “Basta spaccare il centrodestra sui nomi per le Comunali”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/11/news/meloni_comunali_roma_milano_napoli_centrodestra_tajani-425640107/?rss",
+      "published_date": "2026-10-10T23:00:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Vajont, 63 years ago the disaster: for the United Nations it was the emblematic example of an avoidable disaster",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/vajont-63-anni-fa-il-disastro-per-le-nazioni-unite-fu-lesempio-emblematico-di-disastro-evitabile-32dc67da-a9b3-415a-b6ef-8c2a51f32978.html",
-      "published_date": "2026-10-09T12:03:00+00:00",
-      "category": "Diplomacy"
+      "title": "Lodi, muore dopo essere stato bloccato dai carabinieri: dava in escandescenza in strada",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/12/news/lodi_morto_bloccato_a_terra_carabinieri_malore-425643260/?rss",
+      "published_date": "2026-10-12T18:38:35+00:00",
+      "category": "Military"
     },
     {
-      "title": "Financial markets, EU agreement on centralized supervision",
+      "title": "AI, il Capo di Stato Maggiore dell’Aeronautica Conserva: «Possibile influenza sulle professionalità, ma l’elemento umano non verrà sostituito»",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ue-accordo-vigilanza-centralizzata-mercati-finanziari-AJ3ahXeB",
-      "published_date": "2026-10-09T10:32:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ilsole24ore.com/art/ai-capo-stato-maggiore-dell-aeronautica-conserva-possibile-influenza-professionalita-ma-l-elemento-umano-non-verra-sostituito-AJKfsXhB",
+      "published_date": "2026-10-12T17:44:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Lmdv: “Eredità bloccata per 300 milioni, Milleri dovrebbe essere teso con Essilux che perde il 50%”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/12/news/lmdv_eredita_bloccata_per_300_milioni_milleri_dovrebbe_essere_teso_con_essilux_che_perde_il_50-425643149/?rss",
+      "published_date": "2026-10-12T17:33:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leonardo Maria Del Vecchio, 'con Essilux che perde 50% Milleri dovrebbe essere teso'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/leonardo-maria-del-vecchio-con-essilux-che-perde-50-milleri-dovrebbe_9e62557b-eae7-4753-8831-1411362f9799.html",
+      "published_date": "2026-10-12T16:07:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fermato dai carabinieri muore dopo un malore, la Procura di Lodi indaga",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/fermato-dai-carabinieri-muore-dopo-un-malore-la-procura-di-lodi-indaga_b4873077-70fe-4d13-9d9c-3b2966dc7f7d.html",
+      "published_date": "2026-10-12T15:31:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Comandante della Nato, 'non vogliamo la guerra ma se attaccati combatteremo'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/12/comandante-della-nato-non-vogliamo-la-guerra-ma-se-attaccati-combatteremo_c8d0436a-01f4-47ef-8eb9-afaaa6ba5b4c.html",
+      "published_date": "2026-10-12T13:54:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Quante influenze esterne in Ue. Chi sono e come difendersi",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/quante-influenze-esterne-in-ue-chi-sono-e-come-difendersi/",
+      "published_date": "2026-10-12T13:26:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Metlen, Thales Alenia Space e Thales Hellas insieme per i nuovi satelliti militari greci",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/metlen-thales-alenia-space-e-thales-hellas-insieme-per-i-nuovi-satelliti-militari-greci/",
+      "published_date": "2026-10-12T08:05:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sopravvissuti al rogo di Crans, Kean: \"Sono svenuto e mi sono detto: non posso morire qui\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/domenica-in-crans-montana-c024b990-3d5f-49bc-815d-8405b736226a.html",
+      "published_date": "2026-10-12T03:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "L'auto inghiottita da una frana: le immagini dal drone a Reggio Calabria",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/maltempo-reggio-calabria-auto-inghiottita-da-frana-video-drone-a7dfec35-ec7f-415a-9613-0a194838be86.html",
+      "published_date": "2026-10-12T03:41:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Da Adolf Heusinger ad Aerodynamic: la lunga strategia americana contro l’URSS",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/da-adolf-heusinger-ad-aerodynamic-la-lunga-strategia-americana-contro-lurss/",
+      "published_date": "2026-10-11T22:14:37+00:00",
+      "category": "Military"
     },
     {
       "title": "Garlasco, a crucial week begins for Andrea Sempio",
@@ -207,81 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Ipotesi falsa paternità dei figli, indagata marescialla dei carabinieri",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/11/news/marescialla_carabinieri_indagata_paternita_figli-425640679/?rss",
-      "published_date": "2026-10-11T10:13:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mazzotta (Fincantieri), fondali e reti sottomarine asset strategici per il Paese",
+      "title": "I futures su gas corrono a 84,16 euro al megawattora",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/mazzotta-fincantieri-fondali-e-reti-sottomarine-asset-strategici-per-il-paese_6a7c2dc9-7622-4b6b-aba5-bb96c601a8e5.html",
-      "published_date": "2026-10-11T09:50:34+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/i-futures-su-gas-corrono-a-8416-euro-al-megawattora_9e4d6364-b0bf-48e1-9c36-fddf5ca29e8f.html",
+      "published_date": "2026-10-12T16:03:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Folgiero, 'Preparazione e responsabilità, valori comuni in azienda e in barca'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/folgiero-preparazione-e-responsabilita-valori-comuni-in-azienda-e-in-barca_5274b0c1-9e45-49d0-95fe-312434b79195.html",
-      "published_date": "2026-10-11T07:51:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Intercettato drone diretto in carcere, carico recuperato ma velivolo fugge",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/intercettato-drone-diretto-in-carcere-carico-recuperato-ma-velivolo-fugge_aad103ac-5ea1-47d4-b7a1-0d6e31cd1725.html",
-      "published_date": "2026-10-11T06:56:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The reform that divides: the artisans against everyone",
+      "title": "Risoluzione del centrodestra su Kiev: Trump mai citato, Meloni apre a un gruppo di Stati negoziatori",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/11/news/la_riforma_che_divide_gli_artigiani_contro_tutti-425637110/?rss",
-      "published_date": "2026-10-11T06:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.repubblica.it/politica/2026/10/12/news/bozza_risoluzione_guerra_ucraina_meloni_centrodestra_trump_zelensky-425642064/?rss",
+      "published_date": "2026-10-12T10:23:49+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Melito di Porto Salvo invasa da acqua e fango, i danni visti dal drone",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/melito-porto-salvo-invasa-da-acqua-e-fango-danni-visti-dal-drone-video-20c6d133-24fa-4d8a-9faf-3ef53caa5c08.html",
-      "published_date": "2026-10-11T04:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hannoun in Cassation, the attorney general: \"Her network has been rebuilt\"",
+      "title": "L’economista Eni: “Impatto minimo dall’accordo Usa-Russia sul diesel, i prezzi non scenderanno”",
       "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/11/news/hannoun_in_cassazione_la_procuratrice_generalericostruita_la_sua_rete-425639721/?rss",
-      "published_date": "2026-10-10T23:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Una mail non letta. Così Pechino è riuscita ad avere accesso agli F-35",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/una-mail-non-letta-cosi-pechino-e-riuscita-ad-avere-accesso-agli-f-35/",
-      "published_date": "2026-10-10T14:58:54+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sardegna, trovato a Calasetta un involucro con un chilo di cocaina. Il video virale sui social",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/sardegna-trovato-a-calasetta-un-involucro-con-un-chilo-di-cocaina-il-video-virale-sui-social-b08cf613-0bf4-40e5-a3d8-f12d5d5c8eab.html",
-      "published_date": "2026-10-10T14:21:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bambina investita nel cortile di casa nel Veronese: è in gravissime condizioni",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/10/news/bambina_investita_verona_cortile_casa_condizioni-425639173/?rss",
-      "published_date": "2026-10-10T13:21:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "New Highway Code, the Carabinieri unions: «From driving permits to the collection of fines, too much bureaucracy on us»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/nuovo-codice-strada-sindacati-carabinieri-dai-permessi-guida-riscossione-multe-troppa-burocrazia-di-noi-AJIiIeeB",
-      "published_date": "2026-10-10T12:50:00+00:00",
-      "category": "Military"
+      "url": "https://www.repubblica.it/economia/2026/10/12/news/diesel_eni_accordo_usa_russia_prezzi_trump_putin-425641911/?rss",
+      "published_date": "2026-10-12T06:53:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Dear fuel, farmers and hauliers take to the streets in the Foggia area",
@@ -403,304 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Diesel, Eni cuts the recommended price: it drops to 2.19 euros per litre",
+      "title": "Incognita clausola di salvaguardia sui tempi della manovra. Giorgetti: 'Chi può contribuisca'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
+      "published_date": "2026-10-12T19:32:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Giorgetti: 'La manovra sarà definita dopo la chiusura della procedura Ue sulla clausola di salvaguardia'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/giorgetti-la-manovra-sara-definita-dopo-la-chiusura-della-procedura-ue-sulla-clausola_33471279-fdf5-4723-b3ff-b8b6e1d29f99.html",
+      "published_date": "2026-10-12T18:53:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Dpfp, Giorgetti: nuova flessibilità per aiutare le famiglie, se Ue dice no sbaglia. Iperammortamento prorogato e rafforzato",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/gasolio-eni-taglia-prezzo-consigliato-scende-219-euro-litro-AJ4a3PeB",
-      "published_date": "2026-10-09T08:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gas is slightly down in Amsterdam at 78 euros",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/09/il-gas-e-in-leggero-ribasso-ad-amsterdam-a-78-euro_27e7d7c1-6c9a-4749-a577-d77c67f4dd99.html",
-      "published_date": "2026-10-09T07:38:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "At the Venice Conferenche, sustainability seeks new paths",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/10/08/news/alla_venice_conferenche_la_sostenibilita_cerca_nuove_strade-425635729/?rss",
-      "published_date": "2026-10-08T21:54:36+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The Olivetti nursery is reborn, the child-friendly nursery that teaches creativity",
-      "source": "la Repubblica",
-      "url": "https://torino.repubblica.it/cronaca/2026/10/12/news/ivrea_asilo_nido_olivetti_riapre-425641601/?rss",
-      "published_date": "2026-10-12T00:00:00+00:00",
+      "url": "https://www.ilsole24ore.com/art/dpfp-giorgetti-l-italia-dimostra-saper-rispettare-impegni-credibilita-risorsa-preservare-AJBm1mhB",
+      "published_date": "2026-10-12T16:50:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "Italy-Mexico trade growing, despite the slowdown in August",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/interscambio-italia-messico-in-crescita-nonostante-la-frenata-ad-agosto_d11a9264-b161-4ad5-8140-c78d1cf71c8a.html",
-      "published_date": "2026-10-11T23:56:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stellantis relaunches in Europe: 50 new models by 2030 and more production",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/11/news/stellantis_rilancia_in_europa_50_nuovi_modelli_entro_il_2030_e_piu_produzione-425641462/?rss",
-      "published_date": "2026-10-11T18:48:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stellantis unveils the car of the future, from the electric Citroën 2 CV to the Alfa Cuorerosso",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-svela-auto-del-futuro-da-citroen-2-cv-elettrica-a-alfa-cuorerosso_90226951-0829-428b-acbd-373cee5a3112.html",
-      "published_date": "2026-10-11T18:43:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Extraordinary board of directors of MPS after Intesa's moves",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/domani-cda-straordinario-di-mps-dopo-le-mosse-di-intesa_f52908bf-dfb2-435b-9206-5dca95b56b03.html",
-      "published_date": "2026-10-11T17:15:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Vidal (Stellantis), the future of the car must combine bold design and innovation",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/vidal-stellantis-il-futuro-dellauto-deve-unire-design-audace-e-innovazione_40897606-db5d-4f58-a63c-41531242b0f1.html",
-      "published_date": "2026-10-11T17:11:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stellantis in Paris with 60 products and 9 concept cars, 'the plan is becoming reality'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/stellantis-a-parigi-con-60-prodotti-e-9-concept-car-il-piano-sta-diventando-realta_d0563f36-4a90-439d-a594-f615c0100aef.html",
-      "published_date": "2026-10-11T17:06:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pensions and no tax area under 35, countdown for the financial maneuver",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/pensioni-e-no-tax-area-under-35-countdown-per-la-manovra-finanziaria-48b039d2-9345-45d5-8f0f-7ece5d83a43a.html",
-      "published_date": "2026-10-11T16:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Soprusi su un 15enne, la procura contro l'assoluzione",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/soprusi-su-un-15enne-la-procura-contro-lassoluzione_2443bf16-0538-48aa-a015-7f9f36204a8c.html",
-      "published_date": "2026-10-11T13:58:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Più robot sui campi contro il calo addetti: così l'automazione cambia l’agricoltura",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/11/news/piu_robot_sui_campi_contro_il_calo_addetti_cosi_l_automazione_cambia_l_agricoltura-425636670/?rss",
-      "published_date": "2026-10-11T13:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The financial week, spotlight on the US budget and inflation",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/11/news/la_settimana_finanziaria_riflettori_sulla_manovra_e_l_inflazione_usa-425640870/?rss",
-      "published_date": "2026-10-11T12:47:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Liguria, la Regione rafforza gli investimenti sugli Its",
+      "title": "Attacco hacker contro i supermercati francesi, colpiti i frigoriferi: persi milioni di euro di cibo",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/liguria-regione-rafforza-investimenti-its-AJIu6UeB",
-      "published_date": "2026-10-11T11:02:01+00:00",
+      "url": "https://www.ilsole24ore.com/art/attacco-hacker-contro-supermercati-francesi-colpiti-frigoriferi-persi-milioni-euro-cibo-AJ9RwmhB",
+      "published_date": "2026-10-12T16:48:30+00:00",
       "category": "Economy"
     },
     {
-      "title": "A woman of steel to lead change and gender equality",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/11/news/una_donna_di_acciaio_per_guidare_il_cambiamento_e_la_parita_di_genere-425640685/?rss",
-      "published_date": "2026-10-11T10:15:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Italian spending changes, cultural spending drops, ready meals boom",
+      "title": "Lo spread Btp-Bund a 109,9 punti",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/11/cambia-la-spesa-degli-italiani-cala-quella-culturale-boom-dei-piatti_98a7cf3d-1369-424c-93e5-f464c284b542.html",
-      "published_date": "2026-10-11T10:10:56+00:00",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/lo-spread-btp-bund-a-1099-punti_2ff9c3f9-2d7b-4376-863d-bc23d019c23f.html",
+      "published_date": "2026-10-12T16:02:41+00:00",
       "category": "Economy"
     },
     {
-      "title": "The Milanese Medisolve takes over the Austrian Mides",
+      "title": "Borsa: Milano chiude in rialzo, Ftse Mib +0,58%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/borsa-milano-chiude-in-rialzo-ftse-mib-058_2484c089-86f0-441e-a98d-cad4d7922938.html",
+      "published_date": "2026-10-12T15:45:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Le tende arrivano a Montecitorio, a Milano e in 10 atenei",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/le-tende-arrivano-a-montecitorio-a-milano-e-in-10-atenei_56b96fd7-2204-4477-8227-f7899807e135.html",
+      "published_date": "2026-10-12T15:36:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gran bazar AI. Nvidia pronta a entrare nel mercato dei modelli open-source",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/nvidia-compra-reflection-ai/",
+      "published_date": "2026-10-12T15:26:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stellantis, nuovo modello per Mirafiori. Belloni: “Ci stiamo lavorando”. Filosa: “Servono aiuti”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/12/news/stellantis_mirafiori_torino_filosa_belloni-425642863/?rss",
+      "published_date": "2026-10-12T15:05:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sardegna, pastori di nuovo in piazza: dal prezzo del latte «basso» ai costi «alti» di energia e mangime",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/la-milanese-medisolve-rileva-l-austriaca-mides-AJ7WvpeB",
-      "published_date": "2026-10-11T10:02:02+00:00",
+      "url": "https://www.ilsole24ore.com/art/sardegna-pastori-nuovo-piazza-prezzo-latte-basso-costi-alti-energia-e-mangime-AJQsUchB",
+      "published_date": "2026-10-12T14:43:14+00:00",
       "category": "Economy"
     },
     {
-      "title": "Ex Ilva, Giacomo: \"After 15 years I fear losing everything\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/ex-ilva-giacomo-dopo-15-anni-temo-di-perdere-tutto-d6ec9a27-4fcd-4768-a06d-dc7c049f4c2b.html",
-      "published_date": "2026-10-11T07:13:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "AI talent hunt: how much they cost and how much they yield to Italian companies",
+      "title": "Decreto fiscale Omnibus: che cosa cambia per redditi d’impresa e persone fisiche",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/caccia-talenti-dell-ai-quanto-costano-e-quanto-rendono-imprese-italiane-AJud5weB",
-      "published_date": "2026-10-11T06:39:45+00:00",
+      "url": "https://www.ilsole24ore.com/art/decreto-fiscale-omnibus-che-cosa-cambia-redditi-d-impresa-e-persone-fisiche-AJNduBbB",
+      "published_date": "2026-10-12T14:09:54+00:00",
       "category": "Economy"
     },
     {
-      "title": "Water bomb on Melito di Porto Salvo, a torrent overflows: entire streets of the town unusable",
+      "title": "Renzetti (Bankitalia), esercenti partecipino a pilot euro digitale",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/renzetti-bankitalia-esercenti-partecipino-a-pilot-euro-digitale_fc826f7c-31db-4656-83d8-553ea470168d.html",
+      "published_date": "2026-10-12T13:55:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manovra, Giorgetti: «Credibilità costruita vera risorsa da preservare». Istat: «Recupero delle retribuzioni si è arrestato»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/dpfp-istat-potere-d-acquisto-famiglie-cala-09percento-secondo-trimestre-2026-AJjleZhB",
+      "published_date": "2026-10-12T13:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Macron al Salone dell'Auto, visita agli stand Stellantis",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/macron-al-salone-dellauto-visita-agli-stand-stellantis_d63df5a4-20c9-4985-ba76-ebbfee594c4a.html",
+      "published_date": "2026-10-12T13:40:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Istat, con risalita inflazione attenzione a retribuzioni, recupero si è fermato",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/istat-con-risalita-inflazione-attenzione-a-retribuzioni-recupero-si-e-fermato_368dd89a-838c-420b-9aaf-625d024bcfcd.html",
+      "published_date": "2026-10-12T13:29:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Guardia di Finanza, all’aeroporto di Fiumicino 412 violazioni, 96,7 milioni di euro non dichirati e 2,5 milioni di euro sequestrati",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/guardia-finanza-all-aeroporto-fiumicino-412-violazioni-967-milioni-euro-non-dichirati-e-25-milioni-euro-sequestrati-AJM1CVhB",
+      "published_date": "2026-10-12T12:53:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ilaria Salis e i pagamenti degli ex assistenti, i suoi avvocati chiedono di annullare la condanna",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/12/news/ilaria_salis_pagamenti_ex_assistenti_appello_condanna-425642859/?rss",
+      "published_date": "2026-10-12T12:42:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Civita di Bagnoregio e Bolsena, le capitali italiane dell’arte contemporanea 2028",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/12/news/civita_di_bagnoregio_capitale_italiana_arte_contemporanea_2028-425642504/?rss",
+      "published_date": "2026-10-12T12:33:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Agcom, sanziona due società per circa 830.000 euro sul teleselling",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/agcom-sanziona-due-societa-per-circa-830.000-euro-sul-teleselling_a8c89ce6-c780-4020-a75f-80b5a42f2309.html",
+      "published_date": "2026-10-12T11:49:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Agcom multa Retelit Digital Services e Tekmind per 822.500 euro per spoofing di numeri italiani",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/telefonate-numeri-falsificati-agcom-multa-due-societa-822500-euro-AJdBdRhB",
+      "published_date": "2026-10-12T11:41:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lega: Salvini si dimette, \"passaggio concordato\" in vista del Congresso",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-12/salvini-dimissioni-lega-39501714/",
+      "published_date": "2026-10-12T19:51:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni: 'Sull'energia l'Ue dia risposte strutturali'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/meloni-sullenergia-servono-risposte-strutturali-e-di-lungo-periodo-_be052d8b-2d07-46d4-9113-56cefd85e6a2.html",
+      "published_date": "2026-10-12T19:24:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salvini si dimette da segretario della Lega: \"Necessario per ricandidarmi\"",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/salvini-si-dimette-da-segretario-della-lega-necessario-per-ricandidarmi_bdef9006-eaa9-4211-8fd7-635e42b1d1cb.html",
+      "published_date": "2026-10-12T18:41:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giorgetti: \"Usare parte dei fondi per l’energia per aiuti a famiglie e contro i rincari bollette\"",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/nuovo-temporale-a-melito-di-porto-salvo-esonda-un-torrente-548d755d-6115-479c-9f6e-0e9e3d356a52.html",
-      "published_date": "2026-10-11T04:14:00+00:00",
-      "category": "Economy"
+      "url": "https://www.rainews.it/articoli/2026/10/dpfp-bankitalia-corte-dei-conti-allarm-conti-pubblici-9ef1aa24-73d8-4de1-81ad-bd0658ecf1c0.html",
+      "published_date": "2026-10-12T18:40:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Trasporto pubblico, cambiano i bonus. Dal 2027 voucher per le famiglie fino a 20 mila euro di Isee",
+      "title": "Meloni ad Assolombarda: “Non siamo in Ue per dire sempre sì”. E rilancia su Ets e flessibilità",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/10/11/news/trasporto_pubblico_cambiano_i_bonus_dal_2027_voucher_per_le_famiglie_fino_a_20_mila_euro_di_isee-425639703/?rss",
-      "published_date": "2026-10-11T03:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/economia/2026/10/12/news/energia_case_e_incentivi_le_richieste_delle_imprese_al_governo-425642415/?rss",
+      "published_date": "2026-10-12T18:38:49+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Maneuver, hunt for 10 billion. The government is looking at pensions",
+      "title": "Lega, Salvini si dimette da segretario: “Ora pronto a ricandidarmi”. E chiede di azzerare i vice",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/10/news/manovra_coperture_caccia_a_10_miliardi_taglio_pensioni-425640057/?rss",
-      "published_date": "2026-10-10T23:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/12/news/salvini_dimissioni_segretario_lega_congresso-425643535/?rss",
+      "published_date": "2026-10-12T18:01:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Fujimori at the Peruvian Congress, 'tell us if you support violence or peace'",
+      "title": "Lega: Salvini si dimette da segretario, passo necessario per ricandidarsi",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/12/fujimori-al-congresso-peruviano-diteci-se-state-con-la-violenza-o-con-la-pace_97cdbdab-508b-4be1-98e8-25db25d07b9f.html",
-      "published_date": "2026-10-12T01:42:52+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/lega-salvini-si-dimette-da-segretario-passo-necessario-per-ricandidarsi_23879722-9630-4f09-8b0f-f5a5ffa46974.html",
+      "published_date": "2026-10-12T17:46:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "At least one dead and 11 injured in the new attack at Riyadh airport",
+      "title": "Meloni, Merz e De Wever a Costa: 'Corsia preferenziale agli investimenti sull'energia'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/12/almeno-un-morto-e-11-feriti-nel-nuovo-attacco-allaeroporto-di-riad_986f58f7-adc0-44f2-b4cb-132445c1fcaf.html",
-      "published_date": "2026-10-11T23:36:33+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/meloni-merz-e-de-wever-a-costa-corsia-preferenziale-agli-investimenti-sullenergia_c18625e8-b22a-4a11-90c9-20631fd03cf1.html",
+      "published_date": "2026-10-12T17:11:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Jewish professors against Reggio Children “They want to recant”. “No, it's fake”",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/12/news/reggio_children_insegnanti_ebrei-425641691/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boschi: \"To beat the right, the radicalism of the Pd and Avs is not enough, a broad moderate front is needed\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/12/news/boschi_battere_destre_serve_fronte_moderato_intervista-425641613/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sparks on the left on Renzi. Conte: I want guarantees, Schlein: let's not divide ourselves",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/12/news/renzi_conte_voglio_garanzie_schlein_non_dividiamoci_campo_largo-425641607/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Pius XII to Francis: this is how the secret about the health of the pontiffs fell",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/12/news/salute_pontefici_papa_leone_francesco_pio_xii_gemelli-425641584/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ricina, the web search trap. The questions changed after the crime",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/12/news/ricina_ricerche_web_reddit_pc_scuole-425641495/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The hot autumn of the former Ilva begins: workers in procession, Salis asks for steel for Cornigliano",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/12/news/genova_ex_ilva_lavoratori_corteo_salis_cornigliano-425641293/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Morandi Law”, after years compensation has been paid to the families of the 43 victims of the collapse",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/12/news/legge_morandi_ristori_solidarieta_vittime_crollo_6_milioni_450mila_euro_incontro_giana_possetti_aspi_comitato-425641261/?rss",
-      "published_date": "2026-10-11T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather forecast: more instability, then temperature rise from mid-week",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/12/news/previsioni_meteo_anticiclone_temperature_rialzo_piogge-425641603/?rss",
-      "published_date": "2026-10-11T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salis da Fazio: “The primaries are divisive, but we mayors can lend a hand to the centre-left”",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/11/news/salis_nove_fazio_primarie_divisive_sindaci_centrosinistra-425641640/?rss",
-      "published_date": "2026-10-11T20:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Landslide in a cave in Sardinia, speleologist stuck ten meters underground",
+      "title": "Mattarella: 'Asprezze e contrapposizioni non facciano disperdere l'unità'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/frana-in-una-grotta-in-sardegna-speleologo-bloccato-a-dieci-metri-di-profondita_22b8f0a8-3695-4eff-a3cf-19be7c6166b6.html",
-      "published_date": "2026-10-11T20:28:52+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/mattarella-asprezze-e-contrapposizioni-non-facciano-disperdere-unita-ditalia_585b4d90-7fe6-47c0-9aa9-d7d494d81813.html",
+      "published_date": "2026-10-12T16:51:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sardinia, cave vault collapses: young man trapped at 10 meters. Research in progress",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/speleologo_intrappolato_grotta_sardegna-425641594/?rss",
-      "published_date": "2026-10-11T20:18:27+00:00",
+      "title": "Lega, Salvini: ci sarà segreteria politica e aggiorneremo il simbolo",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/lega-salvini-ci-sara-segreteria-politica-e-aggiorneremo-simbolo-AJKyihhB",
+      "published_date": "2026-10-12T16:11:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Landslide in a cave in Sardinia, the stranded speleologist is alive",
+      "title": "Salvini, ci un sarà segreteria politica e aggiorneremo il simbolo della Lega",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/frana-in-una-grotta-in-sardegna-e-vivo-lo-speleologo-bloccato_3565bab1-dced-43d2-a48d-75f8fa21a901.html",
-      "published_date": "2026-10-11T20:05:48+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/salvini-ci-un-sara-segreteria-politica-e-aggiorneremo-il-simbolo-della-lega_785e18d7-b975-4f3f-a477-268d51fb1e3f.html",
+      "published_date": "2026-10-12T15:18:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Reggio Children, storm over the request to Jewish educators. Meghnagi: “Third Reich methods”",
+      "title": "Renzi, saremo noi a fare la differenza tra vittoria e sconfitta",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/renzi-saremo-noi-a-fare-la-differenza-tra-vittoria-e-sconfitta_2d4aff62-7330-41f6-a21d-ed4d947f0fc9.html",
+      "published_date": "2026-10-12T13:48:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Il Conte Bracula\" il vampiro comico di Bracardi",
       "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/reggio-children-bufera-sulla-richiesta-agli-educatori-ebrei-meghnagi-metodi-da-terzo-reich-a4b7f7ef-888e-4d6d-96df-3f65d5ea783c.html",
-      "published_date": "2026-10-11T19:57:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/come-ridevamo-il-conte-dracula-di-giorgio-bracardi-renzo-arbore-c561af60-1010-4d7c-89f2-fe192220b4ee.html",
+      "published_date": "2026-10-12T13:23:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Treviso, falls from the roof of the car while shooting a video: 23 year old in danger of life",
+      "title": "Morta a 18 mesi per un'infezione dopo la nascita, il gip dispone nuove indagini",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/morta-a-18-mesi-per-uninfezione-dopo-la-nascita-il-gip-dispone-nuove-indagini_c6437513-4e60-437d-a07d-52fa3bb31de5.html",
+      "published_date": "2026-10-12T12:21:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milano si candida a sede per 'governance' mondiale dell'Intelligenza artificiale",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/milano-si-candida-a-sede-per-governance-mondiale-dellintelligenza-artificiale_4e8fe6c5-72c7-467e-bba7-33411fb8e3e4.html",
+      "published_date": "2026-10-12T11:53:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni: \"L'Italia non è in Europa per dire sempre sì\", il messaggio prima del Consiglio Ue",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/meloni-litalia-non-e-in-europa-per-dire-sempre-si-il-messaggio-prima-del-consiglio-ue-0363bc06-c3c2-48a3-bb6a-099329b2d262.html",
+      "published_date": "2026-10-12T11:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: “L’Ue è lo spazio in cui agire, rinsaldare il modello sociale”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/11/news/treviso_23_anni_cade_dalla_macchina_girava_un_video-425641554/?rss",
-      "published_date": "2026-10-11T19:33:10+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/12/news/mattarella_europa_spazio_agire_cida-425642683/?rss",
+      "published_date": "2026-10-12T11:31:24+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A car hits a group of cyclists in the Florentine area, seven injured",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/unauto-travolge-un-gruppo-di-ciclisti-7-in-ospedale.-due-in-prognosi-riservata_cbe6c769-1495-4c81-9e25-f1ac9d04052b.html",
-      "published_date": "2026-10-11T18:58:24+00:00",
+      "title": "Mattarella: \"Alleanza del lavoro guardi al futuro e ai giovani\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/mattarella-alleanza-del-lavoro-guardi-al-futuro-e-ai-giovani-710afa9f-d0f9-45ea-96ed-050298de842b.html",
+      "published_date": "2026-10-12T11:29:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The progressive camp seeks unity, Schlein-Conte sparks on Renzi",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/11/il-campo-progressista-cerca-unita-scintille-schlein-conte-su-renzi_8ff8b73b-b3d0-4ee2-a2a8-2c6a05b93d22.html",
-      "published_date": "2026-10-11T18:55:46+00:00",
+      "title": "Assolombarda, Meloni: 'Sull'energia servono risposte strutturali. L'Italia non è in Europa...",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-12/meloni-energia-crescita-ue-39493698/",
+      "published_date": "2026-10-12T10:42:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Motorcycles against cars, one dead and four injured in the Rodigo area",
+      "title": "Mattarella, asprezze e contrapposizioni non facciano disperdere unità d'Italia",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/moto-contro-auto-un-morto-e-quattro-feriti-nel-rodigino_0bfeee87-bfd3-4f79-9d5a-fc079406737c.html",
-      "published_date": "2026-10-11T18:53:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Friars of Assisi, let us pray for the Holy Father",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/11/frati-di-assisi-preghiamo-per-il-santo-padre_2d67b235-3a2c-44c0-b7c3-5a34c7b8ce19.html",
-      "published_date": "2026-10-11T18:47:58+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/mattarella-asprezze-e-contrapposizioni-non-facciano-disperdere-unita-ditalia_49f70db3-0ce7-4678-9285-f0cca54f3ad0.html",
+      "published_date": "2026-10-12T09:57:11+00:00",
       "category": "Local Events"
     }
   ]
