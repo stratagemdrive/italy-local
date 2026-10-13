@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-12T20:09:18.465857+00:00",
+  "last_updated": "2026-10-13T03:20:40.549573+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Fermato dai carabinieri muore dopo un malore, la Procura di Lodi indaga",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/fermato-dai-carabinieri-muore-dopo-un-malore-indaga-la-procura-di-lodi_e606ab1a-e369-4fab-928e-839ae4b59bd8.html",
+      "published_date": "2026-10-12T19:01:08+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Lodi, muore dopo essere stato bloccato dai carabinieri: dava in escandescenza in strada",
       "source": "la Repubblica",
       "url": "https://milano.repubblica.it/cronaca/2026/10/12/news/lodi_morto_bloccato_a_terra_carabinieri_malore-425643260/?rss",
@@ -169,13 +176,6 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/leonardo-maria-del-vecchio-con-essilux-che-perde-50-milleri-dovrebbe_9e62557b-eae7-4753-8831-1411362f9799.html",
       "published_date": "2026-10-12T16:07:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fermato dai carabinieri muore dopo un malore, la Procura di Lodi indaga",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/fermato-dai-carabinieri-muore-dopo-un-malore-la-procura-di-lodi-indaga_b4873077-70fe-4d13-9d9c-3b2966dc7f7d.html",
-      "published_date": "2026-10-12T15:31:19+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,27 @@
       "category": "Energy"
     },
     {
+      "title": "Ex bonus Renzi in busta paga: come recuperare fino a 1.200 euro col 730, ancora pochi giorni",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/13/news/ex_bonus_renzi_come_recuperare_730_trattamento_integrativo-425643680/?rss",
+      "published_date": "2026-10-13T03:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fmi, nel 2026 in Italia inflazione al 3,3%, area euro al 3,1%, Usa al 3,6%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/13/fmi-nel-2026-in-italia-inflazione-al-33-area-euro-al-31-usa-al-36_48625214-8d5f-4dde-8d3d-223ff257a200.html",
+      "published_date": "2026-10-13T02:01:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manovra, tempi lunghi. A rischio il taglio dell’Irpef, ipotesi estensione flat tax",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/13/news/manovra_taglio_irpef_flat_tax-425644038/?rss",
+      "published_date": "2026-10-12T23:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Incognita clausola di salvaguardia sui tempi della manovra. Giorgetti: 'Chi può contribuisca'",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
@@ -543,25 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Civita di Bagnoregio e Bolsena, le capitali italiane dell’arte contemporanea 2028",
+      "title": "Mattarella: “Bisogna agire nella dimensione europea”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/12/news/civita_di_bagnoregio_capitale_italiana_arte_contemporanea_2028-425642504/?rss",
-      "published_date": "2026-10-12T12:33:40+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/13/news/mattarella_bisogna_agire_dimensione_europea-425644018/?rss",
+      "published_date": "2026-10-12T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Agcom, sanziona due società per circa 830.000 euro sul teleselling",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/agcom-sanziona-due-societa-per-circa-830.000-euro-sul-teleselling_a8c89ce6-c780-4020-a75f-80b5a42f2309.html",
-      "published_date": "2026-10-12T11:49:25+00:00",
-      "category": "Economy"
+      "title": "Il nodo aiuti all’Ucraina nella sfida Schlein-Conte, caccia al compromesso",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/13/news/nodo_aiuti_ucraina_sfida_schlein_conte_compromesso-425644011/?rss",
+      "published_date": "2026-10-12T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Agcom multa Retelit Digital Services e Tekmind per 822.500 euro per spoofing di numeri italiani",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/telefonate-numeri-falsificati-agcom-multa-due-societa-822500-euro-AJdBdRhB",
-      "published_date": "2026-10-12T11:41:00+00:00",
-      "category": "Economy"
+      "title": "La scommessa dei russi sulle divisioni italiane: “Alcuni non sono ostili”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/13/news/scommessa_russi_divisioni_italiane_ucraina-425643974/?rss",
+      "published_date": "2026-10-12T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Casa e studio, così non si può”, le tende arrivano a Montecitorio",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/13/news/casa_studio_tende_studenti_piazza_montecitorio-425643920/?rss",
+      "published_date": "2026-10-12T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giorgetti punta le banche: “Contributi da chi può”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/13/news/giorgetti_audizione_dpfp_contributo_banche_manovra-425644060/?rss",
+      "published_date": "2026-10-12T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Previsioni meteo, rimonta dell'alta pressione: soleggiato al Centro-Nord, clima ventoso al Sud",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/13/news/previsioni_meteo_alta_pressione_azzorre_vento_sud-425644001/?rss",
+      "published_date": "2026-10-12T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manovra: Giorgetti vuole usare i Fondi per l'energia per sostenere le famiglie",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-12/giorgetti-manovra-energia-famiglie-39502339/",
+      "published_date": "2026-10-12T21:31:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salvini si dimette da segretario della Lega: \"Necessario per ricandidarmi\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/salvini-si-dimette-da-segretario-della-lega-necessario-per-ricandidarmi-7fa61a52-569a-4283-a87c-b7b70345c284.html",
+      "published_date": "2026-10-12T20:33:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lega: Salvini si dimette, \"passaggio concordato\" in vista del Congresso",
@@ -575,13 +631,6 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/meloni-sullenergia-servono-risposte-strutturali-e-di-lungo-periodo-_be052d8b-2d07-46d4-9113-56cefd85e6a2.html",
       "published_date": "2026-10-12T19:24:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salvini si dimette da segretario della Lega: \"Necessario per ricandidarmi\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/salvini-si-dimette-da-segretario-della-lega-necessario-per-ricandidarmi_bdef9006-eaa9-4211-8fd7-635e42b1d1cb.html",
-      "published_date": "2026-10-12T18:41:34+00:00",
       "category": "Local Events"
     },
     {
@@ -607,9 +656,9 @@
     },
     {
       "title": "Lega: Salvini si dimette da segretario, passo necessario per ricandidarsi",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/lega-salvini-si-dimette-da-segretario-passo-necessario-per-ricandidarsi_23879722-9630-4f09-8b0f-f5a5ffa46974.html",
-      "published_date": "2026-10-12T17:46:31+00:00",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/lega-salvini-si-dimette-segretario-passo-necessario-ricandidarsi-AJR1MvhB",
+      "published_date": "2026-10-12T17:51:00+00:00",
       "category": "Local Events"
     },
     {
@@ -652,55 +701,6 @@
       "source": "Rai News",
       "url": "https://www.rainews.it/video/2026/10/come-ridevamo-il-conte-dracula-di-giorgio-bracardi-renzo-arbore-c561af60-1010-4d7c-89f2-fe192220b4ee.html",
       "published_date": "2026-10-12T13:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morta a 18 mesi per un'infezione dopo la nascita, il gip dispone nuove indagini",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/12/morta-a-18-mesi-per-uninfezione-dopo-la-nascita-il-gip-dispone-nuove-indagini_c6437513-4e60-437d-a07d-52fa3bb31de5.html",
-      "published_date": "2026-10-12T12:21:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milano si candida a sede per 'governance' mondiale dell'Intelligenza artificiale",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/milano-si-candida-a-sede-per-governance-mondiale-dellintelligenza-artificiale_4e8fe6c5-72c7-467e-bba7-33411fb8e3e4.html",
-      "published_date": "2026-10-12T11:53:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni: \"L'Italia non è in Europa per dire sempre sì\", il messaggio prima del Consiglio Ue",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/meloni-litalia-non-e-in-europa-per-dire-sempre-si-il-messaggio-prima-del-consiglio-ue-0363bc06-c3c2-48a3-bb6a-099329b2d262.html",
-      "published_date": "2026-10-12T11:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella: “L’Ue è lo spazio in cui agire, rinsaldare il modello sociale”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/12/news/mattarella_europa_spazio_agire_cida-425642683/?rss",
-      "published_date": "2026-10-12T11:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella: \"Alleanza del lavoro guardi al futuro e ai giovani\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/mattarella-alleanza-del-lavoro-guardi-al-futuro-e-ai-giovani-710afa9f-d0f9-45ea-96ed-050298de842b.html",
-      "published_date": "2026-10-12T11:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assolombarda, Meloni: 'Sull'energia servono risposte strutturali. L'Italia non è in Europa...",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-12/meloni-energia-crescita-ue-39493698/",
-      "published_date": "2026-10-12T10:42:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella, asprezze e contrapposizioni non facciano disperdere unità d'Italia",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/12/mattarella-asprezze-e-contrapposizioni-non-facciano-disperdere-unita-ditalia_49f70db3-0ce7-4678-9285-f0cca54f3ad0.html",
-      "published_date": "2026-10-12T09:57:11+00:00",
       "category": "Local Events"
     }
   ]
