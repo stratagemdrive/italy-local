@@ -1,8 +1,22 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-13T17:54:42.831239+00:00",
+  "last_updated": "2026-10-14T01:33:12.618951+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Manovra, Meloni rallenta l’iter e attende il sì dell’Europa. Ira di Tajani per l’Irpef",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/14/news/manovra_meloni_taglio_irpef_tajani-425646242/?rss",
+      "published_date": "2026-10-13T23:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Slittano i tempi della manovra. Tensione sul taglio dell'Irpef",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/13/slittano-i-tempi-della-manovra.-tensione-sul-taglio-dellirpef_5bd42336-64a7-46bf-b4e1-fda7a507461a.html",
+      "published_date": "2026-10-13T19:46:33+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tajani raises on Fi's line and reassures Schifani",
       "source": "ANSA",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Non-EU parcels, the new tax is coming: what changes for returns and purchases",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/pacchi-extra-ue-arrivo-nuova-tassa-cosa-cambia-resi-e-acquisti-AJkwaxeB",
-      "published_date": "2026-10-10T06:49:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Columbus a hero”, Trump celebrates him and defends Little Italy. And on Meloni: “Excellent relations, I will meet her at the G20”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/esteri/2026/10/10/news/trump_festeggia_columbus_day_difende_little_italy-425638156/?rss",
-      "published_date": "2026-10-09T23:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Fincantieri completa l’acquisizione di Xtera attraverso la joint venture con Prysmian",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/fincantieri-completa-lacquisizione-di-xtera-attraverso-la-joint-venture-con-prysmian/",
+      "published_date": "2026-10-13T21:37:22+00:00",
+      "category": "Military"
     },
     {
       "title": "Sempio will not make statements to prosecutors, 'the defense only with the 5 consultations'",
@@ -183,6 +190,13 @@
       "source": "Rai News",
       "url": "https://www.rainews.it/video/2026/10/garlasco-delitto-poggi-contromosse-difesa-sempio-prove-formidabili-tg1-la-venia-955d0149-0b04-4562-a27f-e6520eb1b877.html",
       "published_date": "2026-10-13T11:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Revoca il consenso durante una pratica sadomaso: compagno arrestato per tortura",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/violenza-donne-cronaca-chieri-12-ore-di-violenze-sulla-compagna-arrestato-per-tortura-1c6bc57a-96b9-4d12-82de-3a7efc8b2969.html",
+      "published_date": "2026-10-13T07:39:00+00:00",
       "category": "Military"
     },
     {
@@ -267,20 +281,6 @@
       "source": "Rai News",
       "url": "https://www.rainews.it/video/2026/10/domenica-in-crans-montana-c024b990-3d5f-49bc-815d-8405b736226a.html",
       "published_date": "2026-10-12T03:48:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "L'auto inghiottita da una frana: le immagini dal drone a Reggio Calabria",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/maltempo-reggio-calabria-auto-inghiottita-da-frana-video-drone-a7dfec35-ec7f-415a-9613-0a194838be86.html",
-      "published_date": "2026-10-12T03:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Da Adolf Heusinger ad Aerodynamic: la lunga strategia americana contro l’URSS",
-      "source": "Analisi Difesa",
-      "url": "https://www.analisidifesa.it/2026/10/da-adolf-heusinger-ad-aerodynamic-la-lunga-strategia-americana-contro-lurss/",
-      "published_date": "2026-10-11T22:14:37+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,20 @@
       "category": "Energy"
     },
     {
+      "title": "Codice della strada, multe più basse per eccesso di velocità. Patente e libretto, salta l’obbligo",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/13/news/codice_strada_bozza_cdm_novita-425645771/?rss",
+      "published_date": "2026-10-13T20:13:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Dagli aiuti per adeguare gli immobili ai mutui sospesi: ok al decreto per i Campi Flegrei",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/dagli-aiuti-adeguare-immobili-mutui-sospesi-ok-decreto-i-campi-flegrei-AJzf4wiB",
+      "published_date": "2026-10-13T19:56:22+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Tajani: 'With more flexibility we will be able to do more when manoeuvring'",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/10/13/tajani-con-piu-flessibilita-potremo-fare-di-piu-in-manovra_412f6282-41ef-46e2-839b-dd6d56cd6b61.html",
@@ -550,18 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Dimon, 'more serious difficulties for the US economy if rates rise by another 1%'",
+      "title": "Meloni: 'Tra l'Italia e gli Usa un'amicizia fondata su libertà e democrazia'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/13/dimon-difficolta-piu-gravi-per-economia-usa-se-tassi-salissero-di-un-altro_49106a6d-4ee2-4a6b-a85a-e90699d49cbf.html",
-      "published_date": "2026-10-13T14:02:29+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-tra-litalia-e-gli-usa-unamicizia-fondata-su-liberta-e-democrazia_69e8b0d4-d4a3-46fb-bdd8-2049d0f7a0e8.html",
+      "published_date": "2026-10-13T23:04:12+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "D-Marin acquires the San Rocco tourist port in Trieste",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/d-marin-acquisisce-porto-turistico-san-rocco-trieste-AJYbCaiB",
-      "published_date": "2026-10-13T14:00:08+00:00",
-      "category": "Economy"
+      "title": "Meloni: \"Tra Italia e Usa amicizia fondata su libertà e democrazia\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/meloni-tra-italia-e-usa-amicizia-fondata-su-liberta-e-democrazia-d3068d15-9b8e-42d3-9e1d-b63595bbe1f2.html",
+      "published_date": "2026-10-13T23:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Sos inflazione, Bruxelles agisca”. La destra cambia la risoluzione",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/14/news/inflazione_flessibilita_bruxelles_risoluzione_destra-425646144/?rss",
+      "published_date": "2026-10-13T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salvini in crisi incassa l’Autonomia. Sì alle intese con le regioni del Nord",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/14/news/salvini_autonomia_calderoli_intese_regioni_nord-425646040/?rss",
+      "published_date": "2026-10-13T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manovra, ok allo scostamento. Giorgetti avverte i partiti: “Vedo nuvoloni all’orizzonte”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/14/news/manovra_slitta_ok_scostamento_giorgetti_nuvoloni-425646209/?rss",
+      "published_date": "2026-10-13T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sportwashing e conti falsi: tutti i guai del Manchester City",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/rubriche/outlook/2026/10/14/news/sportwashing_e_conti_falsi_tutti_i_guai_del_manchester_city-425645690/?rss",
+      "published_date": "2026-10-13T22:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il capogruppo di Forza Italia si collega a torso nudo dalla Spa: bufera in Comune ad Alessandria",
+      "source": "la Repubblica",
+      "url": "https://torino.repubblica.it/cronaca/2026/10/13/news/il_capogruppo_di_forza_italia_in_diretta_a_torso_nudo_dalla_spa_bufera_in_comune_ad_alessandria-425646189/?rss",
+      "published_date": "2026-10-13T21:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "L'Autonomia all'ultimo miglio, l'accelerazione avvicina il voto in primavera",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/13/lautonomia-allultimo-miglio-laccelerazione-avvicina-il-voto-in-primavera_56419bf5-53dd-4d72-9c3c-1ee6bafb1f26.html",
+      "published_date": "2026-10-13T19:22:46+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The family in the woods, the three children towards the weekend together with their parents",
@@ -645,62 +701,6 @@
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/politica/2026/10/13/news/ucraina_conte_mozione_schlein_meloni_consiglio_europeo-425645286/?rss",
       "published_date": "2026-10-13T16:48:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MPS Assembly, ISS opinion: \"Vote against Lovaglio's two Ops\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/13/news/assemblea_mps_il_parere_di_iss_votate_contro_le_due_ops_di_lovaglio-425645532/?rss",
-      "published_date": "2026-10-13T16:45:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On appeal 8 years to former ultra Lucci, acquitted of attempted murder",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/inchiesta-curve-in-appello-otto-anni-per-lex-capo-ultra-lucci_4fa28949-b8b9-4047-94a6-124c045ae81d.html",
-      "published_date": "2026-10-13T16:17:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Festival of the Regions from 25 to 27 October, Mattarella and Meloni in Florence",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/13/festival-delle-regioni-dal-25-al-27-ottobre-mattarella-e-meloni-a-firenze_8af83f16-1200-40d4-b406-2c3c516f2490.html",
-      "published_date": "2026-10-13T16:09:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violence at the police station, two policemen convicted of torture",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/violenze-in-questura-a-verona-due-agenti-condannati-per-tortura_b08c9e9a-f394-468a-ae7c-211a8268b680.html",
-      "published_date": "2026-10-13T16:06:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ferry shipwreck in the Red Sea with a thousand deaths, Rina sentenced to pay 60 million",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/13/news/al_salam_boccaccio_98_tirrenia_mar_rosso_naufragio_rina_tribunale_genova_sharia_italia_egitto-425645245/?rss",
-      "published_date": "2026-10-13T15:53:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Energy and competitiveness. What menu for the next European Council",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/energia-e-competitivita-quale-menu-per-il-prossimo-consiglio-europeo/",
-      "published_date": "2026-10-13T15:42:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baby abandoned in a bag, Bertolaso: 'We would like to call him Leone'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/bimbo-abbandonato-in-un-sacchetto-bertolaso-vorremmo-chiamarlo-leone_21c2bc71-371e-4ab4-9f4b-db05bc56ad16.html",
-      "published_date": "2026-10-13T15:39:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antonio Berloni, the elegant modesty of a successful character",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/berloni-pesaro-girelli/",
-      "published_date": "2026-10-13T15:31:26+00:00",
       "category": "Local Events"
     }
   ]
