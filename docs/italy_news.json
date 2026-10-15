@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-15T01:07:44.162805+00:00",
+  "last_updated": "2026-10-15T15:30:40.513812+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Fabrizio Corona non si ferma all'alt dei carabinieri: inseguito per 700 metri, guidava senza patente",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/fabrizio-corona-non-si-ferma-allalt-dei-carabinieri-inseguito-per-700-metri-guidava-senza-patente-93c0e1da-bf3c-4991-a291-6070d8857430.html",
+      "published_date": "2026-10-15T14:14:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Danneggiamenti nelle occupazioni a Torino, 27 identificati",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/danneggiamenti-nelle-occupazioni-a-torino-27-identificati_d2dab34c-db1d-4ede-a2d4-cacb4d279a7c.html",
+      "published_date": "2026-10-15T13:02:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fabrizio Corona denunciato a Milano per guida senza patente",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/fabrizio-corona-denunciato-a-milano-per-guida-senza-patente_d2c37634-86ad-47ec-ac45-cc9cd555ffbc.html",
+      "published_date": "2026-10-15T11:25:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Su Garlasco \"Non abbiamo sbagliato\", Garofano ex Ris sulle prime indagini",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/su-garlasco-non-abbiamo-sbagliato-garofano-ex-ris-sulle-prime-indagini-lintervista-18c489a7-ce8c-4776-9c8b-4950a4116c3e.html",
+      "published_date": "2026-10-15T04:17:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Il Fondo monetario avverte: “La spesa pubblica corre, sarà sfida tra difesa e sociale”",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/economia/2026/10/15/news/fondo_monetario_fmi_spesa_pubblica_sfida_difesa_sociale-425648800/?rss",
@@ -256,32 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Sempio will not make statements to prosecutors, 'the defense only with the 5 consultations'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/sempio-non-fara-dichiarazioni-ai-pm-la-difesa-solo-con-le-5-consulenze_1dcb26d2-0a2a-42a2-a1ea-d5afbae6a2c4.html",
-      "published_date": "2026-10-13T15:41:59+00:00",
-      "category": "Military"
+      "title": "Puglia, carburanti esauriti in diversi distributori di Cerignola",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/cerignola-foggia-carburanti-esauriti-in-diversi-distributori-puglia--f1b47835-890a-446c-9416-97121453e6d3.html",
+      "published_date": "2026-10-15T13:35:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Italy invests in post-war Ukraine. Why the agreement between Med-Or and Kyiv matters",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/litalia-investe-nellucraina-del-dopoguerra-perche-conta-laccordo-tra-med-or-e-kyiv/",
-      "published_date": "2026-10-13T15:36:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Space, this is how the Czech group Csg aims for orbits",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/spazio-difesa-industria-csg-mda-canada/",
-      "published_date": "2026-10-13T15:35:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lodi, two carabinieri investigated for the death of Agostino Conigliaro: registered with the criminal shield",
+      "title": "Il Sud stretto dai blocchi: benzina e merci scarseggiano per le proteste ex Ilva e autotrasportatori",
       "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/13/news/lodi_due_carabinieri_indagati_per_la_morte_di_agostino_conigliaro_iscritti_con_lo_scudo_penale-425645137/?rss",
-      "published_date": "2026-10-13T15:02:58+00:00",
-      "category": "Military"
+      "url": "https://bari.repubblica.it/cronaca/2026/10/15/news/allarme_carburante_puglia_sicilia_ex_ilva_eni_proteste_blocchi_tir_pompe_benzina-425649375/?rss",
+      "published_date": "2026-10-15T13:21:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Il portavoce di Meloni verso un incarico nella comunicazione Eni dopo la fine della legislatura",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/fabrizio_alfano_portavoce_meloni_eni_comunicazione_incarico-425649308/?rss",
+      "published_date": "2026-10-15T09:24:18+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Borsa: l'Europa incerta, in calo i titoli di Stato",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-incerta-in-calo-i-titoli-di-stato_4b2e3ecd-3723-48a1-9441-d7d7448f7227.html",
+      "published_date": "2026-10-15T09:18:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "FdI prova a stanare il filorusso Vannacci. Salvini: sì al loro gas",
@@ -396,32 +424,137 @@
       "category": "Energy"
     },
     {
-      "title": "Sources, 'European Council will ask the Commission for measures on energy'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/13/fonti-consiglio-europeo-chiedera-alla-commissione-misure-sullenergia_4a06d0a9-faba-489a-94d2-7f9ab8878f4f.html",
-      "published_date": "2026-10-13T15:57:37+00:00",
-      "category": "Energy"
+      "title": "Da Pax Silica al quantum. Italia e Usa trasformano la diplomazia tecnologica in partnership industriali",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/da-pax-silica-al-quantum-italia-e-usa-trasformano-la-diplomazia-tecnologica-in-partnership-industriali/",
+      "published_date": "2026-10-15T14:24:53+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Green energy from Hera for the Leonardo supercomputer in Bologna",
+      "title": "Manovra da 23,5 miliardi nel 2027, coperture anche da tagli ministeri e giochi",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-coperture-anche-da-tagli-ministeri-e-giochi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
+      "published_date": "2026-10-15T14:21:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stellantis, tra le richieste della piattaforma Fiom 1.000 euro una tantum",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/stellantis-tra-le-richieste-della-piattaforma-fiom-1.000-euro-una-tantum_da9fda53-3f2b-4acd-b499-0112885298a4.html",
+      "published_date": "2026-10-15T14:09:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cdp cala l’asso dei mercati: a Milano il primo Investor Day con oltre 150 big della finanza",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/cdp-cala-l-asso-mercati-milano-primo-investor-day-oltre-150-big-finanza-AJ1cgmkB",
+      "published_date": "2026-10-15T13:54:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stellantis, al via il confronto con i sindacati",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/stellantis-al-via-il-confronto-con-i-sindacati_e3502a07-e7a5-4491-bde6-40d86c77e1b8.html",
+      "published_date": "2026-10-15T13:48:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A Venezia ticket d'accesso 12 giorni in più, anche a Ferragosto",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/15/a-venezia-ticket-daccesso-12-giorni-in-piu-anche-a-ferragosto_184778f9-176b-4b58-84e9-936af7266228.html",
+      "published_date": "2026-10-15T13:02:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Dal 2011 al 2024 espatriato il 6% dei giovani italiani",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/dal-2011-al-2024-espatriato-il-6-dei-giovani-italiani_9ec78c91-9b94-4923-b71b-bfed086f9feb.html",
+      "published_date": "2026-10-15T12:39:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borsa: l'Europa in ordine sparso, Milano -0,8%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-leuropa-in-ordine-sparso-milano-08_a0cefb5e-deb2-4093-a74e-74022ef810df.html",
+      "published_date": "2026-10-15T11:16:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Restrizioni su stufe e camini, dal 15 ottobre multe fino a 5mila euro",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/restrizioni-stufe-e-camini-15-ottobre-multe-fino-5mila-euro-AJbnvckB",
+      "published_date": "2026-10-15T11:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nel Mezzogiorno il 22,5% dei pensionati percepisce tra 500 e mille euro mensili",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/nel-mezzogiorno-225percento-pensionati-percepisce-500-e-mille-euro-mensili-AJZveXkB",
+      "published_date": "2026-10-15T10:21:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inps, oltre 4,5 milioni di pensionati con trattamenti inferiori a 1000 euro",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/inps-oltre-45-milioni-di-pensionati-con-trattamenti-inferiori-a-1000-euro_12c12dd0-45bb-429b-a21f-e12f5529053f.html",
+      "published_date": "2026-10-15T10:09:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Inps, la spesa per le pensioni nel 2025 sale a 372,4 miliardi, +2,3%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/inps-la-spesa-per-le-pensioni-nel-2025-sale-a-3724-miliardi-23_9d04d992-2df2-4eab-a922-c853cccf5439.html",
+      "published_date": "2026-10-15T09:34:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Istat, 5,4 milioni di persone in povertà assoluta nel 2025, sono il 9,3%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/istat-54-milioni-di-persone-in-poverta-assoluta-nel-2025-sono-il-93_0a76bc02-eac0-4bc3-98f1-6640ff6b2542.html",
+      "published_date": "2026-10-15T09:34:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Codice della strada, pugno di ferro sull’Rc auto: multe fino a 4mila euro per chi circola senza polizza",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/codice-strada-pugno-ferro-sull-rc-auto-multe-fino-4mila-euro-chi-circola-senza-polizza-AJRl3fjB",
+      "published_date": "2026-10-15T09:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cinque milioni di italiani in povertà assoluta, a rischio minori e famiglie numerose",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/13/news/hera_energia_rinnovabile_supercomputer_leonardo_bologna-425645391/?rss",
-      "published_date": "2026-10-13T15:45:14+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/cronaca/2026/10/15/news/cinque_milioni_di_italiani_in_poverta_assoluta_a_rischio_minori_e_famiglie_numerose-425649357/?rss",
+      "published_date": "2026-10-15T09:23:16+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Houthi media, 'explosions heard in Sanaa, oil plant hit'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/13/media-houthi-esplosioni-udite-a-sanaa-colpito-impianto-petrolifero_b2e3b8bc-6034-4b1d-a12c-d17bddc03cec.html",
-      "published_date": "2026-10-13T14:16:11+00:00",
-      "category": "Energy"
+      "title": "Istat: oltre 5,4 milioni di persone in povertà assoluta nel 2025",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-15/istat-poverta-assoluta-39541779/",
+      "published_date": "2026-10-15T08:59:31+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sources, 'the European Council will ask the Commission for measures on energy'",
+      "title": "Intesa a Parigi con le eccellenze italiane, interesse da investitori",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/13/fonti-il-consiglio-europeo-chiedera-alla-commissione-misure-sullenergia_faa5a6fc-863e-4298-b356-d8094cad3bd8.html",
-      "published_date": "2026-10-13T13:46:49+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/intesa-a-parigi-con-le-eccellenze-italiane-interesse-da-investitori_4d121d36-8373-4176-ab15-174c946d73c7.html",
+      "published_date": "2026-10-15T08:50:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Prezzi carburanti poco mossi, benzina self a 2,035 euro",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/prezzi-carburanti-poco-mossi-benzina-self-a-2035-euro_717a1d49-2d41-4130-9d85-42aeb4905bf1.html",
+      "published_date": "2026-10-15T08:05:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borsa: Milano in calo, scivolano Technoprobe, Stm e Prysmian",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/borsa-milano-in-calo-scivolano-technoprobe-stm-e-prysmian_05eb914c-f0f1-415c-b80d-ae9daa7a0b38.html",
+      "published_date": "2026-10-15T07:47:31+00:00",
+      "category": "Economy"
     },
     {
       "title": "Recordati, i fondi contrari al rilancio di Respighi",
@@ -431,137 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Il risiko rallenta la trattativa: contratto dei bancari al palo",
+      "title": "Mattarella richiama le Camere: “Troppe giornate nazionali senza criteri omogenei, contenete numero”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/14/news/il_risiko_rallenta_la_trattativa_contratto_dei_bancari_al_palo-425648630/?rss",
-      "published_date": "2026-10-14T23:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/mattarella_richiama_camere_giornate_nazionali-425649952/?rss",
+      "published_date": "2026-10-15T15:18:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Da Berkshire altri 330 milioni, Bending Spoons vola al Nasdaq",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/14/news/berkshire_hathaway_investimento_bending_spoons-425648458/?rss",
-      "published_date": "2026-10-14T19:01:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "La premier riapre sullo sconto Irpef, 'più che favorevole all'estensione al 33%'",
+      "title": "Dal 'riciclo della carta' alla 'meraviglia', l'Italia delle 51 giornate nazionali. Stretta di Mattarella: \"Sono troppe\"",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/la-premier-riapre-sullo-sconto-irpef-piu-che-favorevole-allestensione-al-33_f6c0f2d0-13d5-4356-b55a-e57f2a51ced4.html",
-      "published_date": "2026-10-14T18:25:48+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/15/mattarella-promulga-la-giornata-carta-ma-avverte-aumentano-vertiginosamente_bee606e2-7f6b-4081-87f4-9e9bfb7d4346.html",
+      "published_date": "2026-10-15T15:15:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Lo spread tra Btp e Bund chiude in rialzo a 108 punti",
+      "title": "Mattarella promulga la Giornata della carta ma avverte, aumentano vertiginosamente",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-108-punti_4c9a34fb-a54c-4f44-bc4f-683d6a3891df.html",
-      "published_date": "2026-10-14T16:20:07+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/15/mattarella-promulga-la-giornata-della-carta-ma-avverte-aumentano-vertiginosamente_6f396d74-b5dc-43b3-9228-ed77e7dab72f.html",
+      "published_date": "2026-10-15T15:06:35+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Borsa: Milano chiude in calo con le banche, scivola Prysmian",
+      "title": "Boccia, con il Dpb Giorgetti presenta il conto del fallimento di Meloni",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-milano-chiude-in-calo-con-le-banche-scivola-prysmian_240b8400-4c47-4795-99cb-33bc6325697e.html",
-      "published_date": "2026-10-14T16:19:49+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/15/boccia-con-il-dpb-giorgetti-presenta-il-conto-del-fallimento-di-meloni_389ada8d-7406-4f54-a589-de2ec5f07628.html",
+      "published_date": "2026-10-15T15:01:07+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Mollie, per creare piattaforma finanziaria Ai offre azioni a team o startup up",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/mollie-per-creare-piattaforma-finanziaria-ai-offre-azioni-a-team-o-startup-up_6861fb2e-9a61-4322-b34e-c5f93c7ae674.html",
-      "published_date": "2026-10-14T16:13:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Borsa: Milano chiude in calo dello 0,61%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-milano-chiude-in-calo-dello-061_c76ff924-a04b-4be9-b694-f326581817ba.html",
-      "published_date": "2026-10-14T15:39:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Il turismo organizzato varrà 11,3 miliardi di euro a fine 2026",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/il-turismo-organizzato-varra-113-miliardi-di-euro-a-fine-2026_1e88ff4f-f829-46c7-8caf-35d7b35d80e9.html",
-      "published_date": "2026-10-14T15:15:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Borsa: l'Europa contrastata dopo Wall Street, Milano -0,5%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-leuropa-contrastata-dopo-wall-street-milano-05_e2fa8d7c-014e-47b2-bc62-44bed687a72c.html",
-      "published_date": "2026-10-14T14:26:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lufthansa si aggiudica il 44,9% di Tap con offerta da 1 miliardo e 200 milioni di euro",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/14/news/lufthansa_si_aggiudica_il_449_di_tap_con_offerta_da_1_miliardo_e_200_milioni_di_euro-425647545/?rss",
-      "published_date": "2026-10-14T14:03:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Meloni, 'il governo ha restituito ai lavoratori più di quanto preso con fiscal drag'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/meloni-il-governo-ha-restituito-ai-lavoratori-piu-di-quanto-preso-con-fiscal-drag_eb89160c-45b6-47fe-95eb-9a4b1c538d43.html",
-      "published_date": "2026-10-14T13:46:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "L'inflazione Usa accelera a settembre al 3,7%, sopra le attese",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/linflazione-usa-accelera-a-settembre-al-37-sopra-le-attese_85bcbd31-7318-46b4-8dbf-7bdf5ab2e626.html",
-      "published_date": "2026-10-14T13:40:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stellantis: sindacati, richiesta aumenti del 3,3% annui, +150 euro",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/stellantis-sindacati-richiesta-aumenti-del-33-annui-150-euro_92b5c41f-8345-454d-91b9-e7ea0bb7262c.html",
-      "published_date": "2026-10-14T13:17:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Borsa: l'Europa rallenta dopo l'inflazione Usa, Milano -0,3%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-leuropa-rallenta-dopo-linflazione-usa-milano-03_0c5b9bc4-8ef8-45a8-9e33-5a3b8c3e2d16.html",
-      "published_date": "2026-10-14T12:49:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Borsa: l'Europa conferma il rialzo, lente sull' inflazione Usa",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-leuropa-conferma-il-rialzo-lente-sull-inflazione-usa_6de98192-54a4-4920-b412-4b868f03a3ba.html",
-      "published_date": "2026-10-14T11:32:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nel 2026 per ogni negozio che apre quasi tre chiudono",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-14/dati-chiusura-negozi-39529234/",
-      "published_date": "2026-10-14T11:00:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Legale famiglia Caliendo, 'danni 960mila euro ma manca richiesta a Oppido'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/legale-famiglia-caliendo-danni-960mila-euro-ma-manca-richiesta-a-oppido_ebfb6da7-5345-4a49-8451-efc1d0e97404.html",
-      "published_date": "2026-10-14T10:47:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tre Cime, dalle scritte “Tourists go home” allo spray sulle orme dei dinosauri",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/14/news/tre_cime_dalle_scritte_tourists_go_home_allo_spray_sulle_orme_dei_dinosauri-425647012/?rss",
-      "published_date": "2026-10-14T09:30:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Centro Studi Confindustria: stima Pil 2026 alzata a +1%, il 2027 resta a +0,6%",
+      "title": "Il caro gasolio getta l’autotrasporto nel caos. E le imprese minacciano il fermo nazionale",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/centro-studi-confindustria-stima-2026-alzata-1percento-2027-resta-06percento-AJXcYPjB",
-      "published_date": "2026-10-14T08:31:00+00:00",
-      "category": "Economy"
+      "url": "https://www.ilsole24ore.com/art/il-caro-gasolio-getta-l-autotrasporto-caos-e-imprese-minacciano-fermo-nazionale-AJWB7vkB",
+      "published_date": "2026-10-15T14:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gli autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti, il governo intervenga”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/15/news/autotrasportatori_sciopero_nazionale_proteste_spontanee_governo-425650227/?rss",
+      "published_date": "2026-10-15T14:45:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zecca dello Stato, da Magna Grecia a sapori di oggi: la Calabria diventa moneta",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/zecca-dello-stato-da-magna-grecia-a-sapori-di-oggi-la-calabria-diventa-moneta_ecb555a0-09cd-4f0c-9c51-943d98d175cf.html",
+      "published_date": "2026-10-15T14:34:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella promulga la Giornata del riciclo della carta ma avverte: \"Sono troppe\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-15/mattarella-giornata-nazionale-39546786/",
+      "published_date": "2026-10-15T13:24:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella promulga la «giornata della carta» ma avverte: «Giornate nazionali vertiginosamente aumentate, esorto a contenerle»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/mattarella-promulga-giornata-carta-ma-avverte-giornate-nazionali-vertiginosamente-aumentate-esorto-contenerle-AJi5wokB",
+      "published_date": "2026-10-15T13:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schlein: 'restano le differenze tra alleati su Kiev, ma ieri passi avanti'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/15/schlein-restano-le-differenze-tra-alleati-su-kiev-ma-ieri-passi-avanti_3d8ea6f8-6b53-4d31-9308-f875a5f58376.html",
+      "published_date": "2026-10-15T13:15:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La difesa Cavallini ribadisce la richiesta sul Dna, giudici si riservano",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/la-difesa-cavallini-ribadisce-la-richiesta-sul-dna-giudici-si-riservano_3fe0e37d-16c6-42f9-bf6d-52dadcb0e0eb.html",
+      "published_date": "2026-10-15T12:32:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conte, pronti al tavolo di programma anche per il progetto di politica estera",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/15/conte-pronti-al-tavolo-di-programma-anche-per-il-progetto-di-politica-estera_48a949b3-14ad-4da7-82b1-aedb27a43c09.html",
+      "published_date": "2026-10-15T11:42:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ue, Meloni al prevertice degli Amici della coesione: “Ora serve un bilancio ambizioso”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/merz_consiglio_europeo_bilancio_comune_difesa-425649413/?rss",
+      "published_date": "2026-10-15T11:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mazzi, il 22 ottobre Salvini presenta a Stato-Regioni il bando tipo per i balneari",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/15/mazzi-il-22-ottobre-salvini-presenta-a-stato-regioni-il-bando-tipo-per-i-balneari_d4b1d27d-e047-4284-a93f-14f20d9becff.html",
+      "published_date": "2026-10-15T11:07:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Kiev, un passo verso il compromesso: Schlein e Conte si riavvicinano. Ora si attende l’assemblea dem",
@@ -603,104 +701,6 @@
       "source": "Rai News",
       "url": "https://www.rainews.it/maratona/2026/10/consiglio-ue-meloni-in-parlamento-putin-provoca-la-ue-cerca-un-nuovo-nemico-maratona-44886cff-0b7b-443f-a371-62a3666d85e7.html",
       "published_date": "2026-10-14T20:28:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lega, Salvini trova uno sfidante: Garavaglia in campo per il Nord",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/14/news/garavaglia_candidato_congresso_lega-425648058/?rss",
-      "published_date": "2026-10-14T19:43:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tregua in Aula sull'Ucraina nel campo largo. Schlein: 'Passo in avanti'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/tregua-in-aula-sullucraina-nel-campo-largo.-schlein-passo-in-avanti_0528f090-892f-4688-a73d-7e75bce4a908.html",
-      "published_date": "2026-10-14T19:27:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Silvia Salis: “Io federatrice?Non sanno neanche se stanno insieme. Non faccio da copertina”",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/14/news/silvia_salis_io_federatricenon_sanno_neanche_se_stanno_insieme_non_faccio_da_copertina-425648435/?rss",
-      "published_date": "2026-10-14T19:26:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lega e FnV le spine nel fianco del governo sull'Ucraina",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/lega-e-fnv-le-spine-nel-fianco-del-governo-sullucraina_149bf1f3-a13b-427d-825d-5d6189f71f65.html",
-      "published_date": "2026-10-14T18:51:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La foto-risposta di Magi e Fratoianni a Meloni, un abbraccio in Transatlantico",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/la-foto-risposta-di-magi-e-fratoianni-a-meloni-un-abbraccio-in-transatlantico_c352dbbf-51bd-46f3-93f5-be5e8ecdc58c.html",
-      "published_date": "2026-10-14T18:18:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schlein, il voto di oggi passo in avanti nel lavoro unitario",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/schlein-il-voto-di-oggi-passo-in-avanti-nel-lavoro-unitario_1caf6ad3-9a17-4bf5-ac41-a170dae391fb.html",
-      "published_date": "2026-10-14T18:14:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garavaglia sfida Salvini e si candida al congresso della Lega",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/garavaglia-mi-candido-al-congresso-la-lega-non-e-di-estrema-destra_afe2fa8e-58c0-416b-a5d4-c229d489fc75.html",
-      "published_date": "2026-10-14T18:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dinastia Gasbarrini, medici dei Papi da Pio XII a Leone XIV. Così li curano da tre generazioni",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/14/news/gasbarrini_famiglia_medici_papi_leone_xiv-425648320/?rss",
-      "published_date": "2026-10-14T18:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garavaglia, chi è l’ex ministro bocconiano che sfida Salvini al congresso",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/garavaglia-chi-e-l-ex-ministro-bocconiano-che-sfida-salvini-congresso-AJjJCwjB",
-      "published_date": "2026-10-14T17:49:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schlein, avete paura di perdere, la novità siamo noi, l'alleanza progressista",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/schlein-avete-paura-di-perdere-la-novita-siamo-noi-lalleanza-progressista_b9c548dd-a2e5-44bc-83fc-d1dcead78138.html",
-      "published_date": "2026-10-14T17:36:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conte, ultimamente Meloni sparisce, è sparita anche la manovra...",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/conte-ultimamente-meloni-sparisce-e-sparita-anche-la-manovra..._32f0c9cb-f935-48dc-8db0-38fdcec452ac.html",
-      "published_date": "2026-10-14T17:27:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La maggioranza vota la linea di Meloni sull'Ucraina, ma Salvini prende le distanze",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/ucraina-maggioranza-vota-linea-di-meloni-ma-salvini-prende-le-distanze-tg3-acquarulo-457dcfaf-29cb-44d7-ad32-ae3019822157.html",
-      "published_date": "2026-10-14T17:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Domani Mattarella in Slovenia, si parla delle sfide Ue al vertice Arraiolos",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/domani-mattarella-in-slovenia-si-parla-delle-sfide-ue-al-vertice-arraiolos_0f4c64d5-7424-4eea-bd36-32144d30d85a.html",
-      "published_date": "2026-10-14T16:54:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, sono più che favorevole all'estensione dell'aliquota Irpef al 33%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-sono-piu-che-favorevole-allestensione-dellaliquota-irpef-al-33_cb4e7876-9681-4d76-938e-237f3c330760.html",
-      "published_date": "2026-10-14T16:53:59+00:00",
       "category": "Local Events"
     }
   ]
