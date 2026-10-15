@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-14T15:44:32.683259+00:00",
+  "last_updated": "2026-10-15T01:07:44.162805+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Il Fondo monetario avverte: “La spesa pubblica corre, sarà sfida tra difesa e sociale”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/15/news/fondo_monetario_fmi_spesa_pubblica_sfida_difesa_sociale-425648800/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tg1, il minorenne a Pm e carabinieri 'era uno scherzo'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/tg1-il-minorenne-a-pm-e-carabinieri-era-uno-scherzo_296ae58d-d8c8-46d4-8679-7a18ecf917ab.html",
+      "published_date": "2026-10-14T18:51:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uno dei minorenni della banda della minicar: 'Era uno scherzo'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/uno-dei-minorenni-della-banda-della-minicar-era-uno-scherzo_65555a49-3948-4536-8119-b7ad101d1c41.html",
+      "published_date": "2026-10-14T18:41:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gli aggressori della Minicar: due minorenni di cui \"tutti avevano paura\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/gli-aggressori-della-minicar-due-minorenni-di-cui-tutti-avevano-paura-c394476c-0233-4bb8-9996-29acf7b808de.html",
+      "published_date": "2026-10-14T17:42:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Confessano i due minorenni della banda della minicar, uno è figlio di un carabiniere",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/denunciati-due-componenti-della-banda-della-minicar.-i-due-minorenni-hanno_65555a49-3948-4536-8119-b7ad101d1c41.html",
@@ -256,32 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Annual meeting of the Ready network in defense of LGBTQIA+ rights in Turin",
+      "title": "FdI prova a stanare il filorusso Vannacci. Salvini: sì al loro gas",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/fdi_prova_stanare_filorusso_vannacci_salvini_gas-425648735/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Meloni all’attacco di Trump: “Intesa con Putin rischiosa”. Energia, pressing sulla Ue",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/meloni_attacca_trump_intesa_putin_rischiosa_energia_ue-425648729/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tetto al gas, accordo con l’Europa più vicino: Roma chiede una flessibilità più lunga",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/15/news/tetto_gas_accordo_ue_roma_flessibilita_meloni_manovra_irpef-425648776/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Meloni in Parlamento a tutto campo, focus su Ucraina ed energia",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/meloni-in-parlamento-tutto-campo-focus-ucraina-energia-chinzari-tg1-7c9204f9-b9de-412a-964c-b66d3f134843.html",
+      "published_date": "2026-10-14T18:50:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fed, 'crescita economica moderata, aziende segnalano caro-diesel'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/a-torino-assemblea-annuale-della-rete-ready-in-difesa-dei-diritti-lgbtqia_42c1cdde-60c6-4720-ac61-7fb4fc9e94d7.html",
-      "published_date": "2026-10-13T13:02:41+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/fed-crescita-economica-moderata-aziende-segnalano-caro-diesel_ed30859e-f51d-409d-8507-4e83d036b7ef.html",
+      "published_date": "2026-10-14T18:10:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Poggi crime, the countermoves of the Sempio defense: \"We have formidable evidence\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/garlasco-delitto-poggi-contromosse-difesa-sempio-prove-formidabili-tg1-la-venia-955d0149-0b04-4562-a27f-e6520eb1b877.html",
-      "published_date": "2026-10-13T11:55:00+00:00",
-      "category": "Military"
+      "title": "Il prezzo del gas sale a 87,40 euro al megawattora",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/il-prezzo-del-gas-sale-a-8740-euro-al-megawattora_c1e029c3-d289-47f3-953a-03c6c59c6c30.html",
+      "published_date": "2026-10-14T16:45:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Revoca il consenso durante una pratica sadomaso: compagno arrestato per tortura",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/violenza-donne-cronaca-chieri-12-ore-di-violenze-sulla-compagna-arrestato-per-tortura-1c6bc57a-96b9-4d12-82de-3a7efc8b2969.html",
-      "published_date": "2026-10-13T07:39:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Weapons, cash and 141 kilos of drugs: huge seizure in Turin",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/torino-maxi-sequestro-di-droga-e-armi-dfb39ced-0c6c-4087-8e2e-ff41d5be9127.html",
-      "published_date": "2026-10-13T06:22:00+00:00",
-      "category": "Military"
+      "title": "Meloni a Futuro nazionale, se non difendete gli interessi italiani quali difendete?",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-a-futuro-nazionale-se-non-difendete-gli-interessi-italiani-quali-difendete_250d1dc2-d262-46fa-b770-9527389e434a.html",
+      "published_date": "2026-10-14T16:10:49+00:00",
+      "category": "Energy"
     },
     {
       "title": "Caro energia, Meloni contro l’Ue. Ma la svolta putiniana di Trump la costringe a bussare a Bruxelles",
@@ -375,53 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Arera, the main share of LNG imports into Italy from the USA",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/13/arera-dagli-usa-la-quota-principale-dellimport-di-gnl-in-italia_d36ec8ae-0122-4030-8b88-14a562169696.html",
-      "published_date": "2026-10-13T13:21:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The energy transition is slowing down, despite the boom in renewables",
+      "title": "Recordati, i fondi contrari al rilancio di Respighi",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/10/13/news/la_transizione_energetica_frena_nonostante_il_boom_delle_rinnovabili-425644839/?rss",
-      "published_date": "2026-10-13T11:38:20+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/15/news/recordati_fondi_rilancio_respighi-425648726/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy, the EIB invests 9 billion in partner countries: climate priority",
+      "title": "Il risiko rallenta la trattativa: contratto dei bancari al palo",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/10/13/news/energia_la_bei_investe_9_miliardi_nei_paesi_partner_priorita_al_clima-425644535/?rss",
-      "published_date": "2026-10-13T09:50:29+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/14/news/il_risiko_rallenta_la_trattativa_contratto_dei_bancari_al_palo-425648630/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Batteries, for Bw Ess projects in Italy worth over 1 billion",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/batterie-bw-ess-progetti-italia-oltre-1-miliardo-AJA7sHhB",
-      "published_date": "2026-10-13T07:04:13+00:00",
-      "category": "Energy"
+      "title": "Da Berkshire altri 330 milioni, Bending Spoons vola al Nasdaq",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/14/news/berkshire_hathaway_investimento_bending_spoons-425648458/?rss",
+      "published_date": "2026-10-14T19:01:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy, gradual protections: the ministry considers an extension until 31 December 2027. Here's what can happen",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/energia-tutele-graduali-ministero-valuta-proroga-fino-31-dicembre-2027-ecco-cosa-puo-succedere-AJWw5uhB",
-      "published_date": "2026-10-13T06:09:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "I futures su gas corrono a 84,16 euro al megawattora",
+      "title": "La premier riapre sullo sconto Irpef, 'più che favorevole all'estensione al 33%'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/12/i-futures-su-gas-corrono-a-8416-euro-al-megawattora_9e4d6364-b0bf-48e1-9c36-fddf5ca29e8f.html",
-      "published_date": "2026-10-12T16:03:26+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/la-premier-riapre-sullo-sconto-irpef-piu-che-favorevole-allestensione-al-33_f6c0f2d0-13d5-4356-b55a-e57f2a51ced4.html",
+      "published_date": "2026-10-14T18:25:48+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Assolombarda, Meloni: 'Structural answers are needed regarding energy. Italy is not in Europe...",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-12/meloni-energia-crescita-ue-39493698/",
-      "published_date": "2026-10-12T10:42:41+00:00",
-      "category": "Energy"
+      "title": "Lo spread tra Btp e Bund chiude in rialzo a 108 punti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-108-punti_4c9a34fb-a54c-4f44-bc4f-683d6a3891df.html",
+      "published_date": "2026-10-14T16:20:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borsa: Milano chiude in calo con le banche, scivola Prysmian",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-milano-chiude-in-calo-con-le-banche-scivola-prysmian_240b8400-4c47-4795-99cb-33bc6325697e.html",
+      "published_date": "2026-10-14T16:19:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mollie, per creare piattaforma finanziaria Ai offre azioni a team o startup up",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/mollie-per-creare-piattaforma-finanziaria-ai-offre-azioni-a-team-o-startup-up_6861fb2e-9a61-4322-b34e-c5f93c7ae674.html",
+      "published_date": "2026-10-14T16:13:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borsa: Milano chiude in calo dello 0,61%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/borsa-milano-chiude-in-calo-dello-061_c76ff924-a04b-4be9-b694-f326581817ba.html",
+      "published_date": "2026-10-14T15:39:17+00:00",
+      "category": "Economy"
     },
     {
       "title": "Il turismo organizzato varrà 11,3 miliardi di euro a fine 2026",
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Mini-ventilatori, cuffie e led. L’elettronica da pochi euro fa pagare un conto salato all’ambiente",
+      "title": "Kiev, un passo verso il compromesso: Schlein e Conte si riavvicinano. Ora si attende l’assemblea dem",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/14/news/giornata_internazionale_dei_rifiuti_elettronici_danno_economico_fast_tech-425646762/?rss",
-      "published_date": "2026-10-14T08:00:32+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/ucraina_compromesso_schlein_conte_riavvicinamento-425648763/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "L’inflazione spinge l’Irpef: 35,4 miliardi di fiscal drag nei conti 2026-2029",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/l-inflazione-spinge-l-irpef-354-miliardi-fiscal-drag-conti-2026-2029-AJ0wF8iB",
-      "published_date": "2026-10-14T05:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "In arrivo nuovi centri commerciali, aumenta la permanenza dei consumatori",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/in-arrivo-nuovi-centri-commerciali-aumenta-permanenza-consumatori-AJMdXqiB",
-      "published_date": "2026-10-14T04:04:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Manovra, il governo punta sulla flessibilità Ue per aiutare le famiglie contro il caro energia",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-14/manovra-governo-aiuti-famiglie-energia-39513290/",
-      "published_date": "2026-10-14T02:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Codice della strada, multe più basse per eccesso di velocità. Patente e libretto, salta l’obbligo",
+      "title": "Tregua nel campo largo, astensioni incrociate sulle mozioni per l’Ucraina",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/13/news/codice_strada_bozza_cdm_novita-425645771/?rss",
-      "published_date": "2026-10-13T20:13:37+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/tregua_campo_largo_astensioni_incrociate_mozioni_ucraina-425648755/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Dagli aiuti per adeguare gli immobili ai mutui sospesi: ok al decreto per i Campi Flegrei",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/dagli-aiuti-adeguare-immobili-mutui-sospesi-ok-decreto-i-campi-flegrei-AJzf4wiB",
-      "published_date": "2026-10-13T19:56:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tajani: 'With more flexibility we will be able to do more when manoeuvring'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/13/tajani-con-piu-flessibilita-potremo-fare-di-piu-in-manovra_412f6282-41ef-46e2-839b-dd6d56cd6b61.html",
-      "published_date": "2026-10-13T17:36:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Autonomy, the last OK in CDM today. Mess over the maneuver: enters and exits the agenda",
+      "title": "Zelensky ringrazia l’Italia, Zakharova liquida Meloni: “Il gasolio non è affare suo”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/13/news/autonomia_cdm_meloni_accetta_richiesta_salvini-425645206/?rss",
-      "published_date": "2026-10-13T17:27:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "La premier Meloni in Parlamento: rischio attacco russo? “Putin provoca Ue, cerca un nuovo nemico\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/la-premier-meloni-al-senato-comunicazioni-in-vista-del-consiglio-europeo--9dee9d96-3871-4033-b7f7-c82ba8ec5fd7.html",
-      "published_date": "2026-10-14T15:37:00+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/zelensky_ringrazia_italia_zakharova_liquida_meloni_diesel-425648739/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Verini (Pd): “Gli applausi a Meloni su Kiev? Consenso circoscritto. A M5S dico: basta ipocrisie”",
+      "title": "Lazio, Lotito ai pm: “Io minacciato, giravo con 2 pistole per paura. Ho contro pezzi della politica”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/14/news/verini_pd_applausi_meloni_ucraina_consenso_circoscritto_intervista-425647929/?rss",
-      "published_date": "2026-10-14T15:34:45+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/lotito_lazio_pm_minacce_armato_due_pistole-425648615/?rss",
+      "published_date": "2026-10-14T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Meloni: 'L'intesa di Trump sul gasolio russo è rischiosa. Non siamo guerrafondai'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-lintesa-di-trump-sul-gasolio-russo-e-rischiosa.-non-siamo-guerrafondai_a88938b7-13d2-405b-959f-54aa581fe58c.html",
-      "published_date": "2026-10-14T14:59:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesta sul caro carburanti in Calabria si allarga ai pescatori",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/protesta-sul-caro-carburanti-in-calabria-si-allarga-ai-pescatori_09535e0b-b848-4f35-9319-bf345c4cdd96.html",
-      "published_date": "2026-10-14T13:05:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sanchez risponde alla lettera di Littizzetto, nessuno meglio di Schlein per l'Italia",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/sanchez-risponde-alla-lettera-di-littizzetto-nessuno-meglio-di-schlein-per-litalia_7cfbd950-62f9-4dce-afef-62cd0d977a7e.html",
-      "published_date": "2026-10-14T12:16:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni: “Se l'Ucraina domani smettesse di difendersi noi non avremmo la pace\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/meloni-se-lucraina-domani-smettesse-di-difendersi-noi-non-avremmo-la-pace-3903b49d-c49e-4e53-acda-c053acd0c806.html",
-      "published_date": "2026-10-14T11:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Green Building Forum Italia a Roma il 28 novembre",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/green-building-forum-italia-a-roma-il-28-novembre_4d322fdd-91b7-4e09-b990-3235f555a916.html",
-      "published_date": "2026-10-14T11:13:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“A mano a mano”, Intesa Sanpaolo si racconta attraverso le persone",
+      "title": "Meloni e il rapporto con Trump raccontato da Ellekappa",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/14/news/a_mano_a_mano_intesa_sanpaolo_si_racconta_attraverso_le_persone-425647291/?rss",
-      "published_date": "2026-10-14T11:03:54+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/15/news/meloni_critica_trump_russia_ellekappa-425648673/?rss",
+      "published_date": "2026-10-14T22:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Dalla casa alle infrastrutture, racconto di Intesa Sanpaolo attraverso le persone",
+      "title": "Meloni in Parlamento: “Putin provoca la Ue\".Ok delle Camere, opposizioni: \"Governo debole\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/maratona/2026/10/consiglio-ue-meloni-in-parlamento-putin-provoca-la-ue-cerca-un-nuovo-nemico-maratona-44886cff-0b7b-443f-a371-62a3666d85e7.html",
+      "published_date": "2026-10-14T20:28:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lega, Salvini trova uno sfidante: Garavaglia in campo per il Nord",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/14/news/garavaglia_candidato_congresso_lega-425648058/?rss",
+      "published_date": "2026-10-14T19:43:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tregua in Aula sull'Ucraina nel campo largo. Schlein: 'Passo in avanti'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/14/dalla-casa-alle-infrastrutture-racconto-di-intesa-sanpaolo-attraverso-le-persone_67fdb702-cb95-449d-86f5-82a041185781.html",
-      "published_date": "2026-10-14T10:45:42+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/tregua-in-aula-sullucraina-nel-campo-largo.-schlein-passo-in-avanti_0528f090-892f-4688-a73d-7e75bce4a908.html",
+      "published_date": "2026-10-14T19:27:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "FnV: 'Colpiti molto negativamente dalla scelta di Meloni contro l'accordo con Putin'",
+      "title": "Silvia Salis: “Io federatrice?Non sanno neanche se stanno insieme. Non faccio da copertina”",
+      "source": "la Repubblica",
+      "url": "https://genova.repubblica.it/cronaca/2026/10/14/news/silvia_salis_io_federatricenon_sanno_neanche_se_stanno_insieme_non_faccio_da_copertina-425648435/?rss",
+      "published_date": "2026-10-14T19:26:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lega e FnV le spine nel fianco del governo sull'Ucraina",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/fnv-colpiti-molto-negativamente-dalla-scelta-di-meloni-contro-laccordo-con_b7f6990d-7d6a-4a8c-a4ac-faf37fdc49d8.html",
-      "published_date": "2026-10-14T10:27:03+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/lega-e-fnv-le-spine-nel-fianco-del-governo-sullucraina_149bf1f3-a13b-427d-825d-5d6189f71f65.html",
+      "published_date": "2026-10-14T18:51:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Meloni: «Sul gasolio dal presidente Trump una scelta rischiosa»",
+      "title": "La foto-risposta di Magi e Fratoianni a Meloni, un abbraccio in Transatlantico",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/la-foto-risposta-di-magi-e-fratoianni-a-meloni-un-abbraccio-in-transatlantico_c352dbbf-51bd-46f3-93f5-be5e8ecdc58c.html",
+      "published_date": "2026-10-14T18:18:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schlein, il voto di oggi passo in avanti nel lavoro unitario",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/schlein-il-voto-di-oggi-passo-in-avanti-nel-lavoro-unitario_1caf6ad3-9a17-4bf5-ac41-a170dae391fb.html",
+      "published_date": "2026-10-14T18:14:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garavaglia sfida Salvini e si candida al congresso della Lega",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/garavaglia-mi-candido-al-congresso-la-lega-non-e-di-estrema-destra_afe2fa8e-58c0-416b-a5d4-c229d489fc75.html",
+      "published_date": "2026-10-14T18:07:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dinastia Gasbarrini, medici dei Papi da Pio XII a Leone XIV. Così li curano da tre generazioni",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/14/news/gasbarrini_famiglia_medici_papi_leone_xiv-425648320/?rss",
+      "published_date": "2026-10-14T18:02:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garavaglia, chi è l’ex ministro bocconiano che sfida Salvini al congresso",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/meloni-consiglio-ue-soluzioni-energia-ucraina-e-immigrazione-AJApcQjB",
-      "published_date": "2026-10-14T09:20:00+00:00",
+      "url": "https://www.ilsole24ore.com/art/garavaglia-chi-e-l-ex-ministro-bocconiano-che-sfida-salvini-congresso-AJjJCwjB",
+      "published_date": "2026-10-14T17:49:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Spese Difesa, Meloni: \"Chi dice che siamo guerrafondai mente sapendo di farlo\"",
+      "title": "Schlein, avete paura di perdere, la novità siamo noi, l'alleanza progressista",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/schlein-avete-paura-di-perdere-la-novita-siamo-noi-lalleanza-progressista_b9c548dd-a2e5-44bc-83fc-d1dcead78138.html",
+      "published_date": "2026-10-14T17:36:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conte, ultimamente Meloni sparisce, è sparita anche la manovra...",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/conte-ultimamente-meloni-sparisce-e-sparita-anche-la-manovra..._32f0c9cb-f935-48dc-8db0-38fdcec452ac.html",
+      "published_date": "2026-10-14T17:27:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La maggioranza vota la linea di Meloni sull'Ucraina, ma Salvini prende le distanze",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/spese-difesa-meloni-chi-dice-che-siamo-guerrafondai-mente-sapendo-di-farlo-447f67dc-0171-4576-93f5-98dcfb89abd1.html",
-      "published_date": "2026-10-14T08:19:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/ucraina-maggioranza-vota-linea-di-meloni-ma-salvini-prende-le-distanze-tg3-acquarulo-457dcfaf-29cb-44d7-ad32-ae3019822157.html",
+      "published_date": "2026-10-14T17:25:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ucraina, Meloni: \"Intesa di Trump sul gasolio russo scelta molto rischiosa\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/ucraina-meloni-intesa-di-trump-sul-gasolio-russo-scelta-molto-rischiosa-dc635595-b7cf-48d2-8a12-2cb535e840b9.html",
-      "published_date": "2026-10-14T08:18:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Energia, Meloni: \"Su aumento dei costi risposta deve essere coordinata e rapida\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/energia-meloni-su-aumento-dei-costi-risposta-deve-essere-coordinata-e-rapida-68e75e47-c63e-46fe-b78f-dd4da75f1544.html",
-      "published_date": "2026-10-14T08:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, firmeremo l'accordo sul bilancio Ue solo quando sarà giusto per l'Italia",
+      "title": "Domani Mattarella in Slovenia, si parla delle sfide Ue al vertice Arraiolos",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-firmeremo-laccordo-sul-bilancio-ue-solo-quando-sara-giusto-per_691cd2d9-8ea0-4d10-bacb-0b8becbe909f.html",
-      "published_date": "2026-10-14T08:04:38+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/domani-mattarella-in-slovenia-si-parla-delle-sfide-ue-al-vertice-arraiolos_0f4c64d5-7424-4eea-bd36-32144d30d85a.html",
+      "published_date": "2026-10-14T16:54:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Meloni, se l'E3 pensa di far meglio sull'Ucraina almeno abbia un mandato ufficiale",
+      "title": "Meloni, sono più che favorevole all'estensione dell'aliquota Irpef al 33%",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-se-le3-pensa-di-far-meglio-sullucraina-almeno-abbia-un-mandato-ufficiale_f160b561-1aa2-442e-8661-3714ac149c9f.html",
-      "published_date": "2026-10-14T07:38:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, fondi per la difesa non sottratti agli ospedali, non siamo guerrafondai",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-fondi-per-la-difesa-non-sottratti-agli-ospedali-non-siamo_ca25307c-2063-44dd-9125-47c0a8849413.html",
-      "published_date": "2026-10-14T07:36:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, intesa di Trump sul gasolio russo è rischiosa, legittima Mosca",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-intesa-di-trump-sul-gasolio-russo-e-rischiosa-legittima-mosca_c88e1586-1605-4f76-a475-85853ef7d862.html",
-      "published_date": "2026-10-14T07:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, energia il peso maggiore, serve risposta coordinata e rapida",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-energia-il-peso-maggiore-serve-risposta-coordinata-e-rapida_543ff5ef-a866-48ed-8a0c-255afe7db2c4.html",
-      "published_date": "2026-10-14T07:19:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manovra, via libera al Dpb per la Ue. Giorgetti: «Nuvoloni all’orizzonte»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/conti-via-libera-piano-la-ue-giorgetti-nuvoloni-all-orizzonte-AJqHK8iB",
-      "published_date": "2026-10-14T05:15:00+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-sono-piu-che-favorevole-allestensione-dellaliquota-irpef-al-33_cb4e7876-9681-4d76-938e-237f3c330760.html",
+      "published_date": "2026-10-14T16:53:59+00:00",
       "category": "Local Events"
     }
   ]
