@@ -1,8 +1,78 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-19T00:39:44.553566+00:00",
+  "last_updated": "2026-10-19T17:18:44.453562+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Regeni's family members to Egyptian ambassador, 'take action on provisional'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/familiari-di-regeni-a-ambasciatore-egitto-si-attivi-su-provvisionale-rpt_73f3044e-3bf1-433e-918d-fefb87dcf754.html",
+      "published_date": "2026-10-19T17:13:30+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The summit on public order at Palazzo Chigi. Tomorrow the CDM, expected a law decree after the violence",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/a-palazzo-chigi-il-vertice-sullordine-pubblico.-domani-il-cdm-atteso-un-decreto-legge_397d8359-98ac-4ba2-840f-a55dcb988745.html",
+      "published_date": "2026-10-19T16:46:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "For true digital sovereignty. Ecipe suggests to the EU how to achieve it",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/per-una-vera-sovranita-digitale-lecipe-suggerisce-allue-come-raggiungerla/",
+      "published_date": "2026-10-19T15:37:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The EU writes to KKR: inaccurate and misleading information on the purchase of the TIM network",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/19/news/la_ue_scrive_a_kkr_informazioni_inesatte_e_fuorvianti_sull_acquisto_della_rete_tim-425657985/?rss",
+      "published_date": "2026-10-19T15:26:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Frontex, irregular arrivals in the EU down by a third in the first nine months of 2026",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/frontex-arrivi-irregolari-in-ue-in-calo-di-un-terzo-nei-primi-nove-mesi-del_dd0974a1-703f-434d-a838-4fc6f4f0a4cf.html",
+      "published_date": "2026-10-19T15:23:24+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Government summit on security: the focus on street violence and minors",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/vertice-di-governo-sulla-sicurezza-il-punto-su-violenze-di-piazza-e-minori-3da6d843-e787-47f9-bd3a-e8618fccfd86.html",
+      "published_date": "2026-10-19T15:09:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The wait is over for San Marino, the EU association agreement has been signed",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/attesa-finita-per-san-marino-firmato-laccordo-di-associazione-allue_50dc597c-dd43-42f5-a397-5b02268af146.html",
+      "published_date": "2026-10-19T14:53:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sala visits the attacked shops: 'Delicate phase, tensions are not over'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/sala-visita-i-negozi-assaltati-fase-delicata-le-tensioni-non-sono-finite_66884ebc-8f3a-4c0a-8b07-76202b14426c.html",
+      "published_date": "2026-10-19T14:16:08+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Smaller, more fragile, lonelier: the number of unaccompanied minors in the EU is decreasing, but they are more at risk",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/19/news/minori_non_accompagnati_ue_rischio_rapporto_unicef_unhcr-425658070/?rss",
+      "published_date": "2026-10-19T11:45:25+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The summit on public order with Meloni is underway at Palazzo Chigi",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/in-corso-a-palazzo-chigi-il-vertice-sullordine-pubblico-con-meloni_d69f8272-a85d-4a3d-a460-5e18a850c9de.html",
+      "published_date": "2026-10-19T11:22:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Guerriglia a Milano, scambio di accuse tra Sala e Piantedosi. Tajani: un cdm in città",
       "source": "la Repubblica",
@@ -74,74 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Longevity Valley: the new biotech hub is born in Lazio for the science of longevity and preventive medicine",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/longevity-valley-nasce-nuovo-polo-biotech-lazio-la-scienza-longevita-e-medicina-preventiva-AJSqJZmB",
-      "published_date": "2026-10-17T09:16:00+00:00",
-      "category": "Diplomacy"
+      "title": "The guerrilla war in Milan, the courage of a girl who shouts at the violent: \"Go home, vandals!\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/la-guerriglia-a-milano-il-coraggio-di-una-ragazza-che-urla-ai-violenti-andate-a-casa-vandali-d019c344-3d29-42f8-9648-4aba44581708.html",
+      "published_date": "2026-10-19T14:51:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "More orders from Europe for Danieli",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/piu-ordini-dall-europa-danieli-AJHjLQmB",
-      "published_date": "2026-10-17T04:17:04+00:00",
-      "category": "Diplomacy"
+      "title": "The sovereignty of drones is decided in the materials. Zuccalà's analysis",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/la-sovranita-dei-droni-si-decide-nei-materiali-lanalisi-di-zuccala/",
+      "published_date": "2026-10-19T14:50:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU taking small steps forward on energy, despite the clash over the ETS",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ue-avanti-piccoli-passi-sull-energia-nonostante-scontro-ets-AJzPaRmB",
-      "published_date": "2026-10-17T04:14:00+00:00",
-      "category": "Diplomacy"
+      "title": "Antonio Russo Award for war reporting, 13th edition on Saturday",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/premio-antonio-russo-per-il-reportage-di-guerra-sabato-la-13a-edizione_b112f380-ac27-49d0-a9c5-7ebeaf6a3a59.html",
+      "published_date": "2026-10-19T12:55:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Bill decree, green light from the EU. Pass the cap on the cost of gas",
+      "title": "Destroy, terrorize, loot: the watchwords of the Milanese guerrilla war",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/distruggere-terrorizzare-saccheggiare-le-parole-dordine-della-guerriglia-di-milano-a63bb276-675f-4d73-8a30-a767a889a721.html",
+      "published_date": "2026-10-19T11:20:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Guerrilla warfare in Milan, phone shop attacked: smartphones stolen",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/guerriglia-a-milano-negozio-di-telefonia-assaltato-rubati-smartphone-2780526e-6cf2-4e4a-a794-20a46a7befaa.html",
+      "published_date": "2026-10-19T05:19:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ethiopia back at war",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/letiopia-di-nuovo-in-guerra/",
+      "published_date": "2026-10-19T00:03:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Calabresi: “Guerrilla warfare is always to be condemned, but let's listen to the protests”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/17/news/decreto_bollette_via_libera_dell_ue_consiglio_ue-425653740/?rss",
-      "published_date": "2026-10-16T23:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Paccto summit in Santo Domingo, strong Italian role in the fight against organized crime",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/17/vertice-el-paccto-a-santo-domingo-forte-ruolo-italia-su-lotta-a-crimine-organizzato_e8d390ad-239a-4365-a664-479561133d66.html",
-      "published_date": "2026-10-16T22:26:09+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meloni: \"Agreement reached with the EU Commission on the bills bill, optimistic about a greater...",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-16/meloni-energia-migranti-consiglio-ue-39571024/",
-      "published_date": "2026-10-16T19:33:16+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Von der Leyen, 'we will develop a new EU trade shield'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/von-der-leyen-svilupperemo-nuovo-scudo-commerciale-ue_30272b47-694f-450c-85f2-82a6daaec7e0.html",
-      "published_date": "2026-10-16T17:36:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meloni, 'there must be no step backwards on sanctions against Russia'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/16/meloni-su-sanzioni-alla-russia-non-si-devono-fare-passi-indietro_6e3275d8-5872-41ba-b292-fb9a31e8472d.html",
-      "published_date": "2026-10-16T17:01:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Locatelli 'regrets that G7 disability is not replicated in other countries'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/16/locatelli-rammaricata-che-g7-disabilita-non-e-replicato-in-altri-paesi_d1360b4d-9bc5-41c9-8c5d-c92e12a52765.html",
-      "published_date": "2026-10-16T14:00:54+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Students marching in Milan with photos of Meloni and Tajani upside down",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/studenti-in-corteo-a-milano-con-foto-di-meloni-e-tajani-a-testa-in-giu_71667b70-d7c7-4161-b3d3-589b95f03784.html",
-      "published_date": "2026-10-16T12:56:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.repubblica.it/politica/2026/10/19/news/mario_calabresi_guerriglia_milano_intervista-425657095/?rss",
+      "published_date": "2026-10-18T23:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Un gps nell’auto di Pierina Buffon, l’altro in casa dell’ex: “Così spiava i suoi spostamenti”",
@@ -155,6 +204,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/18/a-folgiero-fincantieri-il-premio-niaf-per-leccellenza-nellindustria-marittima_44d247c2-6b9b-4af8-944b-9ff7857db32d.html",
       "published_date": "2026-10-18T18:33:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clashes in Milan, new guerrilla warfare in the centre. Shops in Via Torino were attacked and looted",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/18/news/scontri_milano_petardi_piazza_duomo-425656584/?rss",
+      "published_date": "2026-10-18T14:58:15+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,53 @@
       "category": "Military"
     },
     {
-      "title": "Guerrilla warfare in Milan, Bologna and Turin: clashes at the “Italia in Piazza” marches",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/scontri-a-milano-bologna-e-torino-tensioni-ai-cortei-italia-in-piazza-76170fe9-277f-4e9e-8949-dd573cafa67d.html",
-      "published_date": "2026-10-17T21:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The protest over the high cost of living becomes guerrilla warfare, Milan a battlefield",
+      "title": "The price of gas moves above 88 euros after peaking at 90",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-protesta-per-il-carovita-diventa-guerriglia-milano-un-campo-di-battaglia_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-      "published_date": "2026-10-17T20:29:37+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/il-prezzo-del-gas-si-muove-sopra-88-euro-dopo-picco-a-90_d0ffa379-926d-464b-9b72-abdfe0bcc671.html",
+      "published_date": "2026-10-19T16:44:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Milano, caos totale in piazza Duomo, auto dei carabinieri distrutte",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/caos-totale-in-piazza-duomo-auto-dei-carabinieri-distrutte-1681b8a7-5e56-421c-81c4-c49e4e57f557.html",
-      "published_date": "2026-10-17T20:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Garlasco case: the Prosecutor's Office towards the request for indictment for Sempio",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/caso-garlasco-la-procura-verso-la-richiesta-di-rinvio-a-giudizio-per-sempio-f6e73a9e-dd7e-4fe3-8cbe-1de544900c12.html",
-      "published_date": "2026-10-17T18:38:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Milan, guerrilla warfare in the Duomo, shop windows destroyed",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/guerriglia-in-duomo-vetrine-dei-negozi-distrutte-video-174656e2-a25f-4771-8229-fbb333257868.html",
-      "published_date": "2026-10-17T18:11:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bucharest, two drones shot down in our airspace",
+      "title": "South African state-owned energy company prepares for post-monopoly era",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/17/bucarest-abbattuti-due-droni-nel-nostro-spazio-aereo_69b4b802-f8f1-46db-9390-e468b5ea057f.html",
-      "published_date": "2026-10-17T16:27:47+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/19/azienda-statale-sudafricana-di-energia-si-prepara-a-era-post-monopolio_10ceec2a-53b3-4b6a-89ad-a3afe6d1bb60.html",
+      "published_date": "2026-10-19T15:37:52+00:00",
+      "category": "Energy"
     },
     {
-      "title": "'Eleven civilians killed in military airstrike in Burma'",
+      "title": "Fiorello on Tg1 on truck drivers: \"They are protesting without breaking anything\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/fiorello-al-tg1-su-autotrasportatori-stanno-protestando-senza-spaccare-niente-aaccbe6a-1a4c-498b-8ed7-68168f47dd92.html",
+      "published_date": "2026-10-19T11:50:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "More protests from hauliers, risk of price increases on shelves",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/asia/2026/10/17/undici-civili-uccisi-in-un-attacco-aereo-militare-in-birmania_751743a2-a197-4213-a528-6630beb491c9.html",
-      "published_date": "2026-10-17T14:13:31+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/ancora-proteste-autotrasportatori-rischio-rincari-sugli-scaffali_30d31f44-d443-4371-82b5-5f36da0611a7.html",
+      "published_date": "2026-10-19T11:46:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Ukraine, Crosetto's alarm: \"Putin will not stop in Kiev, let's prepare for more madness\"",
+      "title": "Gas rises above 89 euros on the Amsterdam TTF market",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/il-gas-sale-sopra-gli-89-euro-sulla-piazza-ttf-di-amsterdam_eacce8e0-6c87-4734-ab6e-e6324cead05f.html",
+      "published_date": "2026-10-19T11:19:06+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Solar time and energy: how much is convenient",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/ora-solare-ed-energia-quanto-conviene-AJdsXMmB",
+      "published_date": "2026-10-19T08:53:24+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Spadacini (Energy Dome): “We are the alternative to Chinese batteries, but being European slows us down”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/17/news/ucraina_putin_follie_allarme_crosetto_bbc_intervista-425654522/?rss",
-      "published_date": "2026-10-17T13:10:42+00:00",
-      "category": "Military"
+      "url": "https://www.repubblica.it/economia/2026/10/19/news/le_nostre_batterie_uniche_al_mondo_ma_essere_europei_ora_ci_danneggia-425652335/?rss",
+      "published_date": "2026-10-19T06:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Gran finale per l'Aeronautica Militare Balloon Cup, le squadre vincitrici",
@@ -375,332 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Lagarde, impossible to ignore energy shock, ECB sees measured response",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/17/lagarde-impossibile-ignorare-shock-energetico-bce-vede-risposta-misurata_83bb3043-b45a-454a-a0b4-dbb7136397ae.html",
-      "published_date": "2026-10-17T05:35:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Fedit: «Conflict is too high in logistics, the rules must be respected»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/fedit-conflittualita-troppo-alta-logistica-si-rispettino-regole-AJZiZ8lB",
-      "published_date": "2026-10-17T04:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Compagnia Energetica Italiana: 30 million for green plants",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/compagnia-energetica-italiana-30-milioni-impianti-green-AJVwe8lB",
-      "published_date": "2026-10-17T04:03:01+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Air flights, expensive fuel causes subsidized prices to rise: increases of up to 11% on 13 routes",
+      "title": "Volkswagen freezes salaries until 2030, the unions: \"The dream of the board of directors will never come true\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/17/news/voli_aerei_prezzi_agevolati_rincari-425654511/?rss",
-      "published_date": "2026-10-17T03:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/10/19/news/volkswagen_stipendi_congelati_2030_sindacati_attacco_ad_blume-425658729/?rss",
+      "published_date": "2026-10-19T17:13:04+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Unsolicited energy contracts and transparency: the comparators' proposals",
+      "title": "Pension funds, people like the freedom to choose how to withdraw money",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/17/news/contratti_energia_non_richiesti_trasparenza_proposte_comparatori-425653565/?rss",
-      "published_date": "2026-10-17T03:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/10/19/news/fondi_pensione_piace_la_liberta_di_scegliere_come_ritirare_i_soldi-425658726/?rss",
+      "published_date": "2026-10-19T17:11:26+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Chilean president in Bolivia, 'new stage in relations'",
+      "title": "Unpaid wages, three workers on a crane 40 meters high for hours",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/16/il-presidente-cileno-in-bolivia-nuova-tappa-nelle-relazioni_4db22db4-fbf6-4cda-9949-bd0c472207d8.html",
-      "published_date": "2026-10-16T19:42:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "EU-Meloni agreement on the bills bill. Von der Leyen: 'But we won't perform miracles'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/16/intesa-ue-meloni-sul-dl-bollette.-von-der-leyen-ma-non-faremo-miracoli_5f11bc19-b502-42ac-8252-714b161eb42f.html",
-      "published_date": "2026-10-16T19:35:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "I Regeni presentano il conto: “Risarcimento subito dall’Egitto”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/19/news/giulio_regeni_morte_famiglia_ambasciatore_italiano_egitto_lettera-425657027/?rss",
-      "published_date": "2026-10-18T23:00:00+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/stipendi-non-pagati-tre-operai-da-ore-su-una-gru-a-40-metri-daltezza_12c7e280-d60b-43c0-b6a8-2ae27af3d0b4.html",
+      "published_date": "2026-10-19T17:06:24+00:00",
       "category": "Economy"
     },
     {
-      "title": "Frequenze telefoniche, il Garante difende il rinnovo senza asta: allo Stato fino a 5,5 miliardi",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/frequenze_telefoniche_il_garante_difende_il_rinnovo_senza_asta_allo_stato_fino_a_55_miliardi-425656734/?rss",
-      "published_date": "2026-10-18T16:35:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Avs leaders: \"People stop us to ask us for unity, let's take to the streets together against the high cost of living.\" Schlein's yes",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/18/news/avs_centrosinistra_fratoianni_bonelli_patrimoniale-425656437/?rss",
-      "published_date": "2026-10-18T13:29:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Protesta Tir, martedì il tavolo sull’autotrasporto. Salvini pronto a sbloccare le risorse",
+      "title": "Company income, the checks to be done in view of the 2026 declaration",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/protesta-tir-martedi-tavolo-sull-autotrasporto-salvini-pronto-sbloccare-risorse-AJzZUUnB",
-      "published_date": "2026-10-18T11:41:00+00:00",
+      "url": "https://www.ilsole24ore.com/art/redditi-societa-controlli-fare-vista-dichiarazione-2026-AJwgYUoB",
+      "published_date": "2026-10-19T16:46:29+00:00",
       "category": "Economy"
     },
     {
-      "title": "Vitaliano Borromeo Arese, the president of Kaleon, has died",
+      "title": "Ex Ilva, discussion on Cigs will continue after the meeting on 27 October",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/18/e-morto-vitaliano-borromeo-arese-era-il-presidente-di-kaleon_502dc435-9050-43ec-b502-647b38771d1f.html",
-      "published_date": "2026-10-18T11:33:57+00:00",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/ex-ilva-confronto-sulla-cigs-proseguira-dopo-lincontro-del-27-ottobre_a7a51182-7b25-4687-b4b9-b7c168d5ca04.html",
+      "published_date": "2026-10-19T16:25:12+00:00",
       "category": "Economy"
     },
     {
-      "title": "Pd, Schlein's countermaneuver: «With us healthcare spending at 7% of GDP»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/pd-contromanovra-schlein-con-noi-spesa-sanitaria-7percento-AJd92SnB",
-      "published_date": "2026-10-18T11:03:00+00:00",
+      "title": "The BTP-Bund spread widens and closes at 111.3 points",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/lo-spread-btp-bund-si-allarga-e-chiude-a-1113-punti_1343a53a-95b9-4d7c-9e67-1d793ccfe8d1.html",
+      "published_date": "2026-10-19T16:23:46+00:00",
       "category": "Economy"
     },
     {
-      "title": "Emilia-Romagna, manufacturing (29%) above the Italian average",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/emilia-romagna-manifattura-29percento-sopra-media-italiana-AJkBG6mB",
-      "published_date": "2026-10-18T11:01:12+00:00",
+      "title": "Stock market: Milan the worst in Europe, down Banco Bpm and Stellantis",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-milano-la-peggiore-in-europa-giu-banco-bpm-e-stellantis_c4e1abca-3093-4205-ad00-e39de9fc0a91.html",
+      "published_date": "2026-10-19T16:05:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "The hidden tax of small businesses: payments on average in 60 days. Risks and possible remedies",
+      "title": "Milan Stock Exchange closes lower (-1.55%)",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-milano-chiude-in-ribasso-155_a9643b34-f11f-441e-b4c6-aee1ac1bb24b.html",
+      "published_date": "2026-10-19T15:43:23+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Btp Valore raises 3.4 billion, Insieme 1 billion on the first day",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/btp-valore-raccoglie-34-miliardi-insieme-1-miliardi-il-primo-giorno_28f1067e-2879-4ee8-ac00-0a595549b99c.html",
+      "published_date": "2026-10-19T15:41:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mef-Revenue Agency, 75.8% of families live in their own homes",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/mef-agenzia-entrate-il-758-delle-famiglie-vive-in-case-di-proprieta_ebcb1386-a26e-4296-b13b-d365cb902019.html",
+      "published_date": "2026-10-19T15:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From the summit to Chigi the hypothesis of a decree tomorrow. 'Firm response from the State'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/dal-vertice-a-chigi-lipotesi-di-decreto-domani.dallo-stato-risposta-ferma_9de53914-0096-49f6-b93f-04dae534da16.html",
+      "published_date": "2026-10-19T15:20:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Btp Valore has so far raised over 3.2 billion and Insieme 1.1 billion",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/btp-valore-ha-raccolto-finora-oltre-32-miliardi-e-insieme-11-miliardi_9c0c50d4-8c86-4374-95a4-d47d0bcc3e14.html",
+      "published_date": "2026-10-19T15:00:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Business and politics. Thus Italy leads transatlantic trade in the USA",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/business-e-politica-cosi-litalia-guida-il-commercio-transatlantico-negli-usa/",
+      "published_date": "2026-10-19T14:57:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Dredging in the port, among those under investigation is also the president Marco Bucci, who could be dismissed",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/pagamenti_in_ritardo_una_zavorra_sui_piccoli-425652614/?rss",
-      "published_date": "2026-10-18T11:00:00+00:00",
+      "url": "https://genova.repubblica.it/cronaca/2026/10/19/news/dragaggi_porto_genova_inchiesta_marco_bucci_indagato_traffico_illecito_rifiuti-425658388/?rss",
+      "published_date": "2026-10-19T14:30:18+00:00",
       "category": "Economy"
     },
     {
-      "title": "He shares naked photos of his partner on social media for 12 years, convicted",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/condivide-sui-social-per-12-anni-le-foto-della-compagna-nuda-condannato_aa73cc36-36c8-47f1-b6f8-760ab2cd783b.html",
-      "published_date": "2026-10-18T09:59:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Climate damage costing Europe 915 billion since 1980, heat in 2026 a point of GDP",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/18/danni-climatici-costati-915-miliardi-per-leuropa-dal-1980-caldo_28b44006-6ac7-4b46-9a13-c805c70ad768.html",
-      "published_date": "2026-10-18T09:49:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Piacentini: «More Ai in the company and that it is managed from above»",
+      "title": "Refugees, not just costs but talents useful to the country's economy: Tatiana's story",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/piacentini-piu-in-azienda-e-che-sia-gestita-dall-alto-AJx9tPnB",
-      "published_date": "2026-10-18T08:02:00+00:00",
+      "url": "https://www.ilsole24ore.com/art/rifugiati-non-solo-costi-ma-talenti-utili-all-economia-paese-storia-tatiana-AJiHBAoB",
+      "published_date": "2026-10-19T13:57:23+00:00",
       "category": "Economy"
     },
     {
-      "title": "Turin, guerrilla scenes: the demonstration against the high cost of living degenerates, bookshop in the center is attacked",
+      "title": "Stock market: Europe remains heavy after start of Wall Street, Milan -1.7%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/borsa-leuropa-resta-pesante-dopo-avvio-di-wall-street-milano-17_614a8889-cf28-473a-a69e-1c3243ab1a12.html",
+      "published_date": "2026-10-19T13:45:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tax, with the Trova Tu app simplification for 4,700 regulations",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/fisco-l-app-trova-tu-semplificazione-4700-norme-AJFJBEoB",
+      "published_date": "2026-10-19T13:33:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Barilla, continuity of employment, fundamental prerequisite for transfer",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/barilla-continuita-occupazionale-prerequisito-fondamentale-cessione-molini_2d28c597-f8ac-49c9-a181-dc25e4e5829b.html",
+      "published_date": "2026-10-19T13:09:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Security, summit with Meloni: «The state's response will be firm». Anti-violence decree hypothesis",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/sicurezza-meloni-presiede-vertice-sull-ordine-pubblico-tavolo-nuove-misure-antiviolenti-AJyzNBoB",
+      "published_date": "2026-10-19T12:49:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tavolara, the committees and the builders' step back: \"Goodbye beach club, the territory wins\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/19/news/tavolara_cala_finanza_sardegna_stop_beach_club_glamping_lusso_battaglia_comitati_attivisti-425658159/?rss",
+      "published_date": "2026-10-19T12:39:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The death of David Rossi, the commission of inquiry names two people allegedly involved",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/la-morte-di-david-rossi-la-commissione-dinchiesta-fa-i-nomi-dei-due-presunti-coinvolti_dfbdb29a-5cd3-4d5e-ab08-04f43b9e5f6f.html",
+      "published_date": "2026-10-19T17:15:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Workers of the former Ilva of Cornigliano, occupation of Genoa airport ended",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/lavoratori-dellex-ilva-di-cornigliano-terminata-loccupazione-dellaeroporto-di-genova_d610556e-d51b-4320-971c-d7a8467dfa69.html",
+      "published_date": "2026-10-19T17:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trieste Police Headquarters, limits to guarantee assistance to migrants in safety",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/questura-trieste-limiti-per-garantire-assistenza-ai-migranti-in-sicurezza_c22730c0-28e1-4729-9b41-45f27f124876.html",
+      "published_date": "2026-10-19T17:07:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Rossi's death, the Commission names two people allegedly involved",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/morte-david-rossi-la-commissione-fa-i-nomi-di-due-presunti-coinvolti_1a75d369-924f-4eab-a693-6df8013ca7f1.html",
+      "published_date": "2026-10-19T17:06:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abodi, young people's discomfort must be listened to but the future cannot be built by destroying",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/abodi-disagio-giovani-va-ascoltato-ma-futuro-non-si-costruisce-distruggendo_d3773747-e49d-4ab1-b05a-bef0930b1f1d.html",
+      "published_date": "2026-10-19T17:06:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Ilva, occupation of Genoa airport ended",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/19/ex-ilva-terminata-loccupazione-dellaeroporto-di-genova_76ace28c-1593-44b5-b884-139d07b6d4fa.html",
+      "published_date": "2026-10-19T17:03:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Molteni-Ostellari, tomorrow in preventive detention decree for up to 24 hours",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/molteni-ostellari-domani-in-decreto-fermo-preventivo-fino-a-24-ore_f5de4885-a78b-46ea-b06b-b9d003215875.html",
+      "published_date": "2026-10-19T16:51:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Russa: \"No to Vannacci, he betrayed Salvini. The bust of Mussolini? A gift from my father\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/19/news/la_russa_fedez_pulp_podcast_alleanza_vannacci_busto_mussolini-425658692/?rss",
+      "published_date": "2026-10-19T16:50:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Council of Ministers tomorrow at 5.30pm, after the riots in the square a decree law is expected",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/cdm-domani-alle-17.30-dopo-i-disordini-di-piazza-atteso-un-decreto-legge_f4c8501a-ddfd-403f-88bb-d9ac242cd4fb.html",
+      "published_date": "2026-10-19T16:49:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: «Unacceptable violence, solidarity with the police»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/mattarella-violenze-inaccettabili-solidarieta-forze-dell-ordine-AJQUsToB",
+      "published_date": "2026-10-19T16:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bomb alert on Milan-Jeddah flight, emergency landing at Fiumicino",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/assalto-alla-feltrinelli-di-porta-nuova-4fe1b3f1-fc71-47b7-bed6-37c88599e1d5.html",
-      "published_date": "2026-10-18T07:53:00+00:00",
-      "category": "Economy"
+      "url": "https://www.rainews.it/articoli/2026/10/allarme-bomba-su-volo-milano-gedda-atterraggio-di-emergenza-a-fiumicino-171845dd-be1e-42b8-9bec-c94e8f9d8c60.html",
+      "published_date": "2026-10-19T16:42:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Apple postpones deliveries of the foldable iPhone worth over 2 thousand euros to 2027: \"Too many requests\"",
+      "title": "The Umbrian law proposal on assisted suicide arrives in the Chamber",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/approda-in-aula-la-proposta-di-legge-umbra-sul-suicidio-assistito_6143822d-dfd1-4d93-a6a5-3c6bddd7ffe2.html",
+      "published_date": "2026-10-19T16:41:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: 'Unacceptable violence, full solidarity with the police'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/mattarella-violenze-inaccettabili-piena-solidarieta-alle-forze-dellordine_36143372-a065-4fcb-a5a3-10cc96564bbf.html",
+      "published_date": "2026-10-19T16:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Healthcare, Court of Auditors alarm on waiting lists: \"Structural critical issues, the funds are not enough\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/iphone_duo_apple_rimanda_consegne_2027_preordine_prezzi-425656022/?rss",
-      "published_date": "2026-10-18T07:41:19+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/cronaca/2026/10/19/news/sanita_allarme_corte_conti_liste_attesa_criticita_strutturali-425658622/?rss",
+      "published_date": "2026-10-19T16:26:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Acquisti online, stretta Ue sull'e-commerce dalla Cina: spedizioni più care ma il modello cambierà",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/18/news/tasse_mini_pacchi_extra_ue_aumento_costo_spedizioni_online-425655208/?rss",
-      "published_date": "2026-10-18T03:00:00+00:00",
-      "category": "Economy"
+      "title": "Mattarella, getting the provinces out of limbo, a topic that cannot be set aside",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/mattarella-far-uscire-le-province-dal-limbo-tema-che-non-puo_4f9673f8-a812-4b7c-8338-deea2ba869c9.html",
+      "published_date": "2026-10-19T16:19:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Inflation in the smartphone: goodbye cheap cell phones. Here's why and how much prices increase",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/10/18/news/prezzo_smartphone_economici_aumenti_motivi_confronto-425655205/?rss",
-      "published_date": "2026-10-18T03:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver, levy on banks: the average prime minister but the 5 billion remain",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/manovra_prelievo_banche_5_miliardi_trattativa_governo-425655558/?rss",
-      "published_date": "2026-10-17T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "IMF director Georgieva: “The EU walks while the world runs, enough with internal barriers”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/georgieva_fmi_intervista_ue_crescita_debito_ia_welfare-425655404/?rss",
-      "published_date": "2026-10-17T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ilva, the redundancy fund doubles. “The dignity of workers trampled upon”",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/18/news/ilva_la_cassa_integrazione_raddoppia_calpestata_la_dignita_dei_lavoratori-425655293/?rss",
-      "published_date": "2026-10-17T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Petrucco (Icop): “Cdp evaluate our project on Trevi”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/trevi_icop_webuild_intervista_piero_petrucco-425655099/?rss",
-      "published_date": "2026-10-17T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“With Mattia and Giovanni I have a free bond, but how many prejudices against polyamory”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/18/news/poliamore_relazioni_generazione_z_amore_storia-425655639/?rss",
-      "published_date": "2026-10-17T22:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Carovita, secondo giorno di guerriglia a Milano. Saccheggi in centro, oltre 200 fermi",
+      "title": "Truck protest in the Caserta area: toll booths blocked and traffic at a standstill due to expensive fuel",
       "source": "Rai News",
-      "url": "https://www.rainews.it/maratona/2026/10/caro-vita-secondo-giorno-di-guerriglia-a-milano-nuovi-saccheggi-in-centro-dopo-gli-scontri-di-ieri-f03a282c-8ad7-411b-826e-f50b88ca9ebe.html",
-      "published_date": "2026-10-19T00:23:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/protesta-dei-tir-nel-casertano-caselli-bloccati-e-traffico-in-tilt-per-il-caro-carburante-5c9fc149-b6d2-43cf-aa04-f7f00283e258.html",
+      "published_date": "2026-10-19T16:13:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Il Rubicone di Elly Schlein: \"Mi candido a premier, con o senza primarie\"",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/il-rubicone-di-elly-schlein-mi-candido-a-premier-con-o-senza-primarie-901516a0-f064-4602-a588-7557b93f7f8a.html",
-      "published_date": "2026-10-18T23:18:00+00:00",
+      "title": "From the squares to external threats. The perfect storm over Europe told by the amb. Mattiolo",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/10/dalle-piazze-alle-minacce-esterne-la-tempesta-perfetta-sulleuropa-raccontata-dallamb-mattiolo/",
+      "published_date": "2026-10-19T15:59:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Più fermi o arresti differiti. Meloni lavora a un decreto. Verso norma per gli under 18",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/19/news/violenze_milano_melon_decreto_vertice_forze_ordine-425657117/?rss",
-      "published_date": "2026-10-18T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La sfida di Schlein, l’imprevista che rivendica la diversità: “Stavolta tocca a noi”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/19/news/sfida_elly_schlein_primarie_governo-425657085/?rss",
-      "published_date": "2026-10-18T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolletta sociale e patrimoniale, le proposte di Avs agli alleati: “Convinceremo anche Conte”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/19/news/bolletta_sociale_patrimoniale_proposte_avs-425657068/?rss",
-      "published_date": "2026-10-18T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Oggi il vertice sull'ordine pubblico convocato da Meloni",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-18/meloni-vertice-ordine-pubblico-sicurezza-manovra-39601743/",
-      "published_date": "2026-10-18T21:52:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a-milano-ancora-scontri-meloni-convoca-il-vertice-sulla-sicurezza_7945d5b5-a8b2-4eed-96ae-375261367822.html",
-      "published_date": "2026-10-18T20:34:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schlein si candida a premier: “Pronta con o senza primarie”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/18/news/elly_schlein_assemblea_pd_premier_primarie-425657073/?rss",
-      "published_date": "2026-10-18T20:30:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni non firma il Dpcm sugli aumenti ai magistrati. L'Anm: \"Lo prevede la legge\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-18/meloni-dpcm-aumenti-magistrati-39599957/",
-      "published_date": "2026-10-18T19:40:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'La Lega ha perso la sua anima', Garavaglia sfida Salvini",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/la-lega-ha-perso-la-sua-anima-garavaglia-sfida-salvini_eae2af41-0216-40ad-9564-dcf2739ed482.html",
-      "published_date": "2026-10-18T18:23:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Primarie, Ucraina e alleanze. I nodi del campo largo",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/appello-avs-ad-altre-opposizioni-ora-grande-manifestazione-unitaria_b4095164-287b-4c2c-ab4b-99cb18a013d2.html",
-      "published_date": "2026-10-18T18:16:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolletta sociale, diritti e patrimoniale. Le richieste di Avs",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/bolletta-sociale-diritti-e-patrimoniale.-le-richieste-di-avs_b9911165-0282-47b3-817a-e02036289dea.html",
-      "published_date": "2026-10-18T17:46:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aumento degli stipendi dei magistrati, è scontro tra Meloni e l'Anm",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/fonti-chigi-meloni-non-firma-il-dpcm-per-aumenti-da-1-miliardo-ai-magistrati_91f8da6f-3aa1-4323-bfcd-b3c42aac4a2c.html",
-      "published_date": "2026-10-18T17:32:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vandalismi e saccheggi a Milano: oltre 200 fermati, l’80% minorenni. Meloni convoca vertice sulla sicurezza",
+      "title": "Milan, fear remains: many shops in the center closed early. France, stolen items for sale online",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/nuovi-scontri-centro-milano-meloni-convoca-vertice-sicurezza-AJViNbnB",
-      "published_date": "2026-10-18T15:26:00+00:00",
+      "url": "https://www.ilsole24ore.com/art/milano-resta-paura-molti-negozi-centro-chiusi-anticipo-francia-vendita-online-articoli-rubati-AJKqGOoB",
+      "published_date": "2026-10-19T15:58:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Scontri di piazza, Meloni convoca per domani un vertice sull'ordine pubblico",
+      "title": "Florida, murder arrest warrant against Raul Castro",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/scontri-di-piazza-meloni-convoca-per-domani-un-vertice-sullordine-pubblico_ff55f44c-05eb-4618-a09f-4519d228aa18.html",
-      "published_date": "2026-10-18T15:00:07+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/19/florida-mandato-darresto-per-omicidio-contro-raul-castro_066c666f-a321-42ff-8f77-4a5472ac6094.html",
+      "published_date": "2026-10-19T15:57:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Approvata all'unanimità la proroga del mandato di Schlein alla guida del Pd",
+      "title": "Fear of new unrest in Milan, luxury shops close. Pm: \"Destructive actions of rare violence\"",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/approvata-allunanimita-la-proroga-del-mandato-di-schlein-alla-guida-del-pd_4c877d80-d08f-4912-a968-eec2e5bd0e40.html",
-      "published_date": "2026-10-18T14:14:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes at marches, 28 arrests. In Milan 500 thousand euros in damages. Piantedosi-Sala controversy",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/scontri-ai-cortei-piantedosi-azioni-da-professionisti-del-disordine.-crosetto-chi-crea_397d8359-98ac-4ba2-840f-a55dcb988745.html",
-      "published_date": "2026-10-18T14:08:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni on the salaries of magistrates: \"I will not sign the decree on increases\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/18/news/meloni_non_firmo_decreto_stipendi_magistrati-425656555/?rss",
-      "published_date": "2026-10-18T13:58:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ultralight crashes into a warehouse in Recanati, two seriously injured",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/ultraleggero-si-schianta-contro-un-capannone-a-recanati-due-feriti-gravi_8f39291b-1cd6-4f9a-891a-8b00cb922771.html",
-      "published_date": "2026-10-18T13:49:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni: «I am not signing a decree to give a billion euros to magistrates now, my priority is the vulnerable groups»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/meloni-non-firmo-decreto-dare-ora-1-mld-euro-magistrati-mia-priorita-fasce-deboli-AJsjNYnB",
-      "published_date": "2026-10-18T13:41:00+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/paura-di-nuovi-disordini-a-milano-chiudono-i-negozi-del-lusso_0d0d286f-7f8f-420a-9737-2566da0ba8a2.html",
+      "published_date": "2026-10-19T15:40:42+00:00",
       "category": "Local Events"
     }
   ]
