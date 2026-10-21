@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-20T15:35:50.196793+00:00",
+  "last_updated": "2026-10-21T01:10:08.536533+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "NetZero Milan vuole diventare il riferimento per la transizione e l’industria",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/netzero-milan-vuole-diventare-riferimento-la-transizione-e-l-industria-AJZA7cpB",
+      "published_date": "2026-10-20T18:22:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tajani: 'Contributo alla manovra deve venire da tutto il mondo della finanza, anche da Cdp'",
       "source": "ANSA",
@@ -29,6 +36,13 @@
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/manovra-caccia-coperture-tajani-contributo-tutta-finanza-anche-cdp-AJUT02oB",
       "published_date": "2026-10-20T08:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Campo largo, al tavolo di coalizione 4 sigle centriste: Salis valuterà di federarle dopo i gazebo",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/20/news/campo_largo_tavolo_quattro_sigle_centriste_salis_federatrice-425659211/?rss",
+      "published_date": "2026-10-19T23:00:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Today the summit on public order convened by Meloni",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-18/meloni-vertice-ordine-pubblico-sicurezza-manovra-39601743/",
-      "published_date": "2026-10-18T21:52:48+00:00",
-      "category": "Diplomacy"
+      "title": "Dubbi sulla chiamata in piazza, Crosetto: “È guerra ibrida”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/crosetto_guerra_ibrida_scontri_intelligence_cortei-425661395/?rss",
+      "published_date": "2026-10-20T23:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tajani convoca riunione Fi sulla sicurezza, rafforzare Strade Sicure e Cdm a Milano",
+      "title": "L’UCAV Airbus U740 Valkyrie decolla per il suo primo volo in Europa",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/lucav-airbus-u740-valkyrie-decolla-per-il-suo-primo-volo-in-europa/",
+      "published_date": "2026-10-20T22:20:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Stretta sui minori dopo le violenze. Meloni: 'Nessuno può minimizzare'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/18/tajani-convoca-riunione-fi-sulla-sicurezza-rafforzare-strade-sicure-e-cdm-a-milano_c5ed4e05-e431-4a3d-bead-b4ab77b0fcb3.html",
-      "published_date": "2026-10-18T18:32:59+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/via-libera-al-decreto-sicurezza-nasce-il-reato-di-partecipazione-violenta-a-una-manifestazione._b5702cd2-a73e-4734-8495-07184704c255.html",
+      "published_date": "2026-10-20T20:46:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Attore travolto dalla minicar, interrogati i due giovani",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/attore-travolto-dalla-minicar-interrogati-i-due-giovani-2958df79-5549-4b63-9254-a62ab0990047.html",
+      "published_date": "2026-10-20T17:51:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Oggi il Cdm sulla sicurezza, domani la Cgil in piazza. Crosetto: 'Colpa della guerra ibrida'",
@@ -200,6 +228,13 @@
       "category": "Military"
     },
     {
+      "title": "Il governo invia altri 500 soldati con potere di polizia a Milano. Fermo preventivo per i minori",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/20/news/governo_invia_altri_500_soldati_potere_polizia_milano_fermo_preventivo_minori-425659276/?rss",
+      "published_date": "2026-10-19T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Rummo: \"Pasta factory stopped. Granting raises to our hauliers was useless\"",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/economia/2026/10/20/news/rummo_stabilimento_fermo_protesta_tir_autostrasportatori_intervista_ad-425659217/?rss",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "The sovereignty of drones is decided in the materials. Zuccalà's analysis",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/la-sovranita-dei-droni-si-decide-nei-materiali-lanalisi-di-zuccala/",
-      "published_date": "2026-10-19T14:50:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Antonio Russo Award for war reporting, 13th edition on Saturday",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/premio-antonio-russo-per-il-reportage-di-guerra-sabato-la-13a-edizione_b112f380-ac27-49d0-a9c5-7ebeaf6a3a59.html",
-      "published_date": "2026-10-19T12:55:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Destroy, terrorize, loot: the watchwords of the Milanese guerrilla war",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/distruggere-terrorizzare-saccheggiare-le-parole-dordine-della-guerriglia-di-milano-a63bb276-675f-4d73-8a30-a767a889a721.html",
-      "published_date": "2026-10-19T11:20:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "“Costumi da eroi, meme e saccheggi per emulare la Francia. La protesta è anche content per i social”",
+      "title": "Arera, nasce l’Osservatorio permanente della regolazione",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/19/news/bianchi_meme_saccheggi_francia_protesta_italia_social-425657584/?rss",
-      "published_date": "2026-10-19T10:19:19+00:00",
-      "category": "Military"
+      "url": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/21/news/arera_nasce_l_osservatorio_permanente_della_regolazione-425661481/?rss",
+      "published_date": "2026-10-20T22:13:59+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Guerrilla warfare in Milan, phone shop attacked: smartphones stolen",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/guerriglia-a-milano-negozio-di-telefonia-assaltato-rubati-smartphone-2780526e-6cf2-4e4a-a794-20a46a7befaa.html",
-      "published_date": "2026-10-19T05:19:00+00:00",
-      "category": "Military"
+      "title": "I futures su gas corrono in discesa a 85,39 euro al megawattora",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/i-futures-su-gas-corrono-in-discesa-a-8539-euro-al-megawattora_d55e7599-e260-4474-9bdf-e6f2e921f6d4.html",
+      "published_date": "2026-10-20T16:07:16+00:00",
+      "category": "Energy"
     },
     {
       "title": "Le scorte di gas al 90% in Italia con 10 giorni d'anticipo",
@@ -410,18 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Bollette, sconto dal 2027, un nuovo decreto per fissare il tetto al gas",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/18/bollette-sconto-dal-2027-un-nuovo-decreto-per-fissare-il-tetto-al-gas_38f35727-60e4-4d21-b060-0f823a8c6eb2.html",
-      "published_date": "2026-10-18T16:52:28+00:00",
-      "category": "Energy"
+      "title": "Manovra, le banche fanno muro sui 5 miliardi. Idea taglio dell'Irpef in due fasi",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-20/manovra-stop-banche-energia-contributo-39632959/",
+      "published_date": "2026-10-20T23:22:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Mimit, petrol down slightly, diesel up on the motorway",
+      "title": "La figlia di David Rossi: 'Perchè ora i nomi?'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/18/mimit-benzina-in-lieve-calo-in-rialzo-il-diesel-in-autostrada_120a9fba-c1b6-4288-87ad-27a2be627c0a.html",
-      "published_date": "2026-10-18T11:34:00+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/la-figlia-di-david-rossi-perche-ora-i-nomi_dfbdb29a-5cd3-4d5e-ab08-04f43b9e5f6f.html",
+      "published_date": "2026-10-20T18:32:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hera inaugura a Modena il nuovo impianto per il riciclo delle plastiche rigide",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/20/news/hera_inaugura_modena_impianto_riciclo_plastiche_rigide-425660585/?rss",
+      "published_date": "2026-10-20T17:06:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Torino, la scuola del 'Libro Cuore' rinnovata coi fondi Pnrr",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/torino-la-scuola-del-libro-cuore-rinnovata-coi-fondi-pnrr_40a6bfcd-e3f5-4346-82c9-0c1ebbd0c087.html",
+      "published_date": "2026-10-20T16:29:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lo spread Btp-Bund a 112,4 punti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/lo-spread-btp-bund-a-1124-punti_41493d8b-d9bb-471a-ad5f-0add72a1256c.html",
+      "published_date": "2026-10-20T15:54:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Borsa: Milano chiude quasi invariata, Ftse Mib -0,03%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/borsa-milano-chiude-quasi-invariata-ftse-mib-003_863b734c-692e-4aa1-9626-82ea14358ba7.html",
+      "published_date": "2026-10-20T15:45:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "T. Rowe Price: i rendimenti più elevati dei bond potrebbero limitare i rialzi dei tassi",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Intesa Sanpaolo starts the capital increase for the public exchange offer on MPS",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/20/news/intesa_sanpaolo_avvia_l_aumento_di_capitale_per_l_offerta_pubblica_di_scambio_su_mps-425659257/?rss",
-      "published_date": "2026-10-19T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver: the OK is postponed in the CDM, youth and energy are the priorities",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-19/manovra-cdm-ue-giovani-priorita-39619973/",
-      "published_date": "2026-10-19T22:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ranucci chooses Rainews, decision communicated to the company",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/ranucci-sceglie-rainews-comunicata-la-decisione-allazienda_3f0c9f13-e88c-474c-a3f2-9ecab79c88ae.html",
-      "published_date": "2026-10-19T22:27:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ranucci chooses Rainews24 when the ultimatum expires",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/20/news/ranucci_sceglie_rainews24_scadenza_ultimatum-425659253/?rss",
-      "published_date": "2026-10-19T22:11:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Climate risks, Panetta stimulates governments. Bankitalia launches the new statistics portal",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/19/news/panetta_i_danni_del_clima_oltre_i_200_miliardi_raddoppiati_da_inizio_anni-425657735/?rss",
-      "published_date": "2026-10-19T20:55:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The maneuver is postponed, the Government's slalom between reduced resources and negotiations with the EU",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/la-manovra-slitta-slalom-governo-risorse-ridotte-e-negoziato-la-ue-AJTFukoB",
-      "published_date": "2026-10-19T20:36:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Conte, 'mi auguro più candidati alle primarie, non un duello rusticano'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/conte-mi-auguro-piu-candidati-alle-primarie-non-un-duello-rusticano_3cea8e4f-8ed3-458c-815b-2af57e2563aa.html",
-      "published_date": "2026-10-20T15:09:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Decreto sui cortei, nell’ultima bozza sparisce il fermo preventivo fino a 24 ore per i minorenni",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/20/news/decreto_cortei_cdm_fermo_preventivo_minorenni-425660474/?rss",
-      "published_date": "2026-10-20T15:06:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massafra, operaio perde un braccio in una cava: ricoverato a Bari, si tenta il reimpianto",
+      "title": "TIR, il governo promette aiuti. Stop ai blocchi in Sicilia, si continua in altre regioni del Sud",
       "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/massafra-operaio-perde-un-braccio-in-una-cava-ricoverato-a-bari-si-tenta-il-reimpianto-4087d69e-fc1c-4e3d-ac4a-92772a579f4d.html",
-      "published_date": "2026-10-20T14:56:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/tir-governo-promette-aiuti-stop-blocchi-in-sicilia-si-continua-in-altre-regioni-sud-caviglioli-e7e4a6bb-0b25-4866-bcf0-090edc87b30e.html",
+      "published_date": "2026-10-20T23:09:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Manovra, Messina: 'Non c'è solo un settore che deve pagare, dalle banche 25 miliardi di imposte'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/manovra-messina-non-ce-solo-un-settore-che-deve-pagare-dalle-banche_f08b924f-f967-434f-b1b7-bd704cf60d09.html",
-      "published_date": "2026-10-20T14:43:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella: “Solidarietà alle forze dell’ordine, va capito da dove emergono violenze inaccettabili”",
+      "title": "Mattarella difende i poteri della polizia. Stop alla svolta cilena",
       "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/19/news/mattarella_violenze_inaccettabili_piena_solidarieta_alle_forze_dell_ordine-425658632/?rss",
-      "published_date": "2026-10-20T13:56:53+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/mattarella_poteri_polizia_decreto_cortei_minori-425661410/?rss",
+      "published_date": "2026-10-20T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Blocco dei tir, in Campania è corsa alle scorte nei supermercati",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/blocco-dei-tir-in-campania-e-corsa-alle-scorte-nei-supermercati_ca82247b-aa03-4eb6-8af7-0684f3a7ae4b.html",
-      "published_date": "2026-10-20T13:40:46+00:00",
+      "title": "Meloni: “Province nel limbo”. Calderoli confessa: “Lei non volle rilanciarle”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/meloni_province_calderoli_upi_modifica_legge_delrio-425661350/?rss",
+      "published_date": "2026-10-20T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Autotrasportatori, prosegue la protesta nel Sud. Rixi: 'Da oggi disponibili 480 milioni'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/autotrasportatori-prosegue-la-protesta-nel-sud-italia.-salvini-subito-i-fondi-stanziati_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
-      "published_date": "2026-10-20T13:37:01+00:00",
+      "title": "I leghisti vogliono più Nord: mollano Salvini e tifano Zaia",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/sondaggi_politico_lega_nord_salvini_zaia-425661338/?rss",
+      "published_date": "2026-10-20T23:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Città più smart d’Italia: Bologna si conferma prima, Pordenone al secondo posto",
+      "title": "Conte allarga le primarie: “Non sia duello rusticano ”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/conte_primarie_larghe_no_duello_rusticano_schlein-425661369/?rss",
+      "published_date": "2026-10-20T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni a Repubblica: “Non sono contraria a divieto social agli under 14, se ne occupi il Parlamento”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/meloni_non_sono_contraria_divieto_social_under_14_parlamento-425661327/?rss",
+      "published_date": "2026-10-20T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Previsioni meteo, perturbazione sull'Italia: piogge e temperature diurne in calo, neve a 2000 metri",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/21/news/previsioni_meteo_perturbazione_piogge_temperature_diurne_calo_neve-425661388/?rss",
+      "published_date": "2026-10-20T22:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Welfare, la flessibilità è la misura più contrattata in azienda",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/citta-piu-smart-d-italia-bologna-si-conferma-prima-pordenone-secondo-posto-AJxd9FpB",
-      "published_date": "2026-10-20T13:15:14+00:00",
+      "url": "https://www.ilsole24ore.com/art/welfare-flessibilita-e-misura-piu-contrattata-azienda-AJDkxplB",
+      "published_date": "2026-10-20T19:17:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Salvini: “Su autotrasporto subito erogazione fondi stanziati, poi risorse aggiuntive”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/20/news/salvini_su_autotrasporto_subito_erogazione_fondi_stanziati_poi_risorse_aggiuntive-425659774/?rss",
-      "published_date": "2026-10-20T13:08:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Torna il maltempo in Campania e per alcune aree è allerta arancione",
+      "title": "Devastazioni, stupri e cortei fantasma, fake e falsi allarmi",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/torna-il-maltempo-in-campania-e-per-alcune-aree-e-allerta-arancione_688a0fe0-26b7-4d64-8e41-b67eac9176b2.html",
-      "published_date": "2026-10-20T12:34:09+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/devastazioni-stupri-e-cortei-fantasma-fake-e-falsi-allarmi_8681580e-40c2-4f4b-991f-f1452d7b18ca.html",
+      "published_date": "2026-10-20T19:14:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mattarella, welfare universale presidiato da Costituzione, non è confutabile",
+      "title": "Scontri al corteo a Bologna, convalidati gli arresti dei quattro minori",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/mattarella-welfare-universale-presidiato-da-costituzione-non-e-confutabile_e5b030f9-bb57-4fb4-8c32-9595abfb3cf7.html",
-      "published_date": "2026-10-20T12:16:55+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/scontri-al-corteo-a-bologna-convalidati-gli-arresti-dei-quattro-minori_23e5c230-41cf-4595-b901-3092c3d67ac9.html",
+      "published_date": "2026-10-20T18:36:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Morte avvelenate, si moltiplicano segnalazioni piante di ricino in Molise",
+      "title": "Governo promette un miliardo ai camionisti, ma i blocchi continuano",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/morte-avvelenate-si-moltiplicano-segnalazioni-piante-di-ricino-in-molise_b9046bcb-d5d5-48ea-8d81-2d7f4a496c27.html",
-      "published_date": "2026-10-20T12:11:06+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
+      "published_date": "2026-10-20T18:21:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Caro carburanti, scaffali vuoti e tir fermi: l’Italia dei rifornimenti a rischio",
+      "title": "Meloni, nessuna idea politica o disagio giustifica le devastazioni,risposta ferma",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/meloni-nessuna-idea-politica-o-disagio-giustifica-le-devastazionirisposta-ferma_e5bbea69-9e79-475a-973a-9cf561b8db26.html",
+      "published_date": "2026-10-20T17:21:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni, fermo preventivo anche per i minori",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/meloni-fermo-preventivo-anche-per-i-minori_d0c6bfbc-ab2c-47d5-907f-7d7b79faf469.html",
+      "published_date": "2026-10-20T17:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni, violenze inaccettabili, nessuno può minimizzare o giustificare",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/meloni-violenze-inaccettabili-nessuno-puo-minimizzare-o-giustificare_97be686a-afe4-4206-a013-69381b0a21da.html",
+      "published_date": "2026-10-20T17:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sicurezza, via libera al sesto decreto. Meloni: Violenze inaccettabili, nessuno giustifichi»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/via-libera-cdm-nuovo-decreto-sicurezza-e-criminalita-minorile-AJkJNYpB",
+      "published_date": "2026-10-20T16:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dl sicurezza, eccezione del Colle sui poteri di polizia giudiziaria ai militari",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/dl-sicurezza-eccezione-del-colle-sui-poteri-di-polizia-giudiziaria-ai-militari_d6ded7e4-41ea-4ba3-be1f-62e645cac8f6.html",
+      "published_date": "2026-10-20T16:07:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il governo approva l'ottavo decreto sicurezza, nasce il reato di \"partecipazione violenta ai cortei\"",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/michela-palmieritg1-d93022b3-0cf7-4457-9d2e-6fe322fb7279.html",
-      "published_date": "2026-10-20T12:06:00+00:00",
+      "url": "https://www.rainews.it/maratona/2026/10/caro-vita-secondo-giorno-di-guerriglia-a-milano-nuovi-saccheggi-in-centro-dopo-gli-scontri-di-ieri-f03a282c-8ad7-411b-826e-f50b88ca9ebe.html",
+      "published_date": "2026-10-20T16:02:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Schlein: 'Il governo ascolti il grido delle Regioni sulla sanità e trovi le risorse'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/schlein-il-governo-ascolti-il-grido-delle-regioni-sulla-sanita-e-trovi-le-risorse_40b01cbf-e548-49cd-8800-f31ff15afeb4.html",
-      "published_date": "2026-10-20T11:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella consegna un'onorificenza alla principessa della Thailandia",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-20/mattarella-principessa-thailandia-39626988/",
-      "published_date": "2026-10-20T11:20:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scontri, nelle chat falsi allarmi per creare la psicosi: “Attenti, incendi in università e stupri”",
+      "title": "Slow Food incorona il limone della piana di Bagheria",
       "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/10/20/news/scontri_milano_falsi_allarmi_chat_stupri_incendi-425659521/?rss",
-      "published_date": "2026-10-20T10:38:42+00:00",
+      "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservacibo/2026/10/20/news/slow_food_incorona_il_limone_della_piana_di_bagheria-425660648/?rss",
+      "published_date": "2026-10-20T15:48:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Autotrasportatori, vertice a Milano con Salvini: presidi e blocchi da Frosinone al Sud",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-20/protesta-autotrasportatori-salvini-39623867/",
-      "published_date": "2026-10-20T09:47:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blocco dei tir, in Campania vuoti scaffali della grande distribuzione",
+      "title": "Comitato autotrasportatori Sicilia revoca il fermo",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/blocco-dei-tir-in-campania-vuoti-scaffali-della-grande-distribuzione_0b841cda-bfb6-4f51-8be5-ad82b5243667.html",
-      "published_date": "2026-10-20T09:33:24+00:00",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/comitato-autotrasportatori-sicilia-revoca-il-fermo_93a6d14e-6e92-4ff6-bb48-e19bcc8965e9.html",
+      "published_date": "2026-10-20T15:27:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mattarella: \"Le morti sul lavoro una delle più gravi emergenze del Paese\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-20/mattarella-morti-lavoro-sicurezza-39625416/",
-      "published_date": "2026-10-20T09:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Autotrasporto, il pacchetto del governo anti-fermo: «Subito 480 milioni»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/via-vertice-salvini-e-l-autotrasporto-sbloccare-subito-risorse-AJM6C2oB",
-      "published_date": "2026-10-20T08:40:00+00:00",
+      "title": "Conte: 'Mi auguro più candidati alle primarie, non un duello rusticano'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/20/conte-mi-auguro-piu-candidati-alle-primarie-non-un-duello-rusticano_304665df-a257-4640-b15f-08a3ec52029b.html",
+      "published_date": "2026-10-20T15:25:09+00:00",
       "category": "Local Events"
     }
   ]
