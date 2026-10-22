@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-21T15:48:40.104159+00:00",
+  "last_updated": "2026-10-22T01:08:48.928732+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Kallas attacca la Turchia: «Il memorandum con la Libia viola i diritti sovrani di Stati terzi». Che cosa dice il trattato",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/kallas-attacca-turchia-il-memorandum-la-libia-viola-diritti-sovrani-stati-terzi-che-cosa-dice-trattato-AJZ1wQqB",
+      "published_date": "2026-10-21T15:29:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Alice Weidel, we are under siege, the EU needs radical reforms",
       "source": "ANSA",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "For true digital sovereignty. Ecipe suggests to the EU how to achieve it",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/per-una-vera-sovranita-digitale-lecipe-suggerisce-allue-come-raggiungerla/",
-      "published_date": "2026-10-19T15:37:17+00:00",
-      "category": "Diplomacy"
+      "title": "Social, verso il patto bipartisan sul divieto per gli under 14",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/22/news/social_verso_patto_bipartisan_divieto_under_14-425664456/?rss",
+      "published_date": "2026-10-21T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Yousef ha undici anni ed è il più giovane degli scontri: “È una scheggia impazzita”",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/10/22/news/yousef_undici_anni_piu_giovane_coinvolti_scontri_milano_racconto_quartiere_barona_scuola-425664817/?rss",
+      "published_date": "2026-10-21T23:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Leonardo Maria Del Vecchio presents the new Qn to Mattarella",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Scappa dal marito violento e si rifugia tra le tombe del cimitero di Omegna",
-      "source": "la Repubblica",
-      "url": "https://torino.repubblica.it/cronaca/2026/10/20/news/marito_violento_scappa_cimitero_di_omegna-425660202/?rss",
-      "published_date": "2026-10-20T12:34:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Axios, Witkoff dopo il vertice di Oslo andrà a Mosca",
+      "title": "Il prezzo del gas viaggia in rialzo a 86,6 euro, lente resta su Hormuz",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/20/axios-witkoff-dopo-il-vertice-di-oslo-andra-a-mosca_df9085a7-5a30-49d4-90df-a43105cdfe39.html",
-      "published_date": "2026-10-20T11:51:47+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/il-prezzo-del-gas-viaggia-in-rialzo-a-866-euro-lente-resta-su-hormuz_6bcc9f4e-2d2f-4b4f-b6eb-3c785e73a380.html",
+      "published_date": "2026-10-21T16:45:24+00:00",
+      "category": "Energy"
     },
     {
       "title": "Aviation fuel, supplies stopped or in fits and starts at five airports in the South",
@@ -347,6 +354,13 @@
       "category": "Energy"
     },
     {
+      "title": "Il Regno Unito sblocca il gas di Jackdaw nel Mare del Nord: la sicurezza energetica batte le proteste ambientaliste",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/il-regno-unito-sblocca-gas-jackdaw-mare-nord-sicurezza-energetica-batte-proteste-ambientaliste-AJ17b6pB",
+      "published_date": "2026-10-21T10:24:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Standard time or summer time? The time zone that divides Europe",
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/ora-solare-oppure-ora-legale-fuso-che-divide-l-europa-AJC6WapB",
@@ -382,6 +396,13 @@
       "category": "Energy"
     },
     {
+      "title": "Onu: temperature globali in salita di 2,8 gradi a fine secolo. Gli Stati Uniti spingono i gas serra",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/onu-temperature-globali-salita-28-gradi-fine-secolo-stati-uniti-trainano-l-aumento-gas-serra-AJLyfWpB",
+      "published_date": "2026-10-21T06:36:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Arera, nasce l’Osservatorio permanente della regolazione",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/21/news/arera_nasce_l_osservatorio_permanente_della_regolazione-425661481/?rss",
@@ -403,25 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Borsa: Milano gira in rialzo, corre Unipol",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/borsa-milano-gira-in-rialzo-corre-unipol_d002483a-f39f-4bf4-a1dc-d6488ccc50e9.html",
-      "published_date": "2026-10-20T14:39:08+00:00",
-      "category": "Energy"
+      "title": "Cybersecurity Skills Gap: l’AI evidenzia il deficit di competenze e riduce gli organici",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/cybersecurity-skills-gap-lai-evidenzia-il-deficit-di-competenze-e-riduce-gli-organici/",
+      "published_date": "2026-10-21T23:04:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Petrolio e gas senza freni, il Wti sale a 108,86 dollari",
+      "title": "Tajani ai suoi, verso taglio Irpef in due tempi, in manovra fino a 55mila euro",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/petrolio-e-gas-senza-freni-il-wti-sale-a-10886-dollari_4931bb85-40f1-4754-987a-9d180bc4bb8c.html",
-      "published_date": "2026-10-20T12:19:47+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/tajani-ai-suoi-verso-taglio-irpef-in-due-tempi-in-manovra-fino-a-55mila_eb2c3059-102b-499a-b27c-8493bce99523.html",
+      "published_date": "2026-10-21T19:05:23+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Il prezzo del gas oltre i 90 euro al megawattora",
+      "title": "Prima autorizzazione Zes unica porto di Ancona, capannone Ferretti per superyacht",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/20/il-prezzo-del-gas-oltre-i-90-euro-al-megawattora_9907bfa1-59db-4331-97b1-65a36191597f.html",
-      "published_date": "2026-10-20T11:41:04+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/prima-autorizzazione-zes-unica-porto-di-ancona-capannone-ferretti-per-superyacht_6e7cacb4-6b90-4918-ae2c-ee949bf3f3f2.html",
+      "published_date": "2026-10-21T18:33:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tassa sui mini pacchi extra Ue, il governo rinvia ancora: i 2 euro slittano al 2027",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/21/news/tassa_sui_mini_pacchi_extra_ue_il_governo_rinvia_ancora_i_2_euro_slittano_al_2027-425663917/?rss",
+      "published_date": "2026-10-21T18:07:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nascite ancora in calo, colpito soprattutto il Sud",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/nascite-ancora-in-calo-colpito-soprattutto-il-sud_b8ff3ecc-4471-464f-9787-fc25e56e71b7.html",
+      "published_date": "2026-10-21T17:37:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Blocco tir, dai rifiuti agli aliscafi, dagli aerei alle imprese di mozzarella e pasta: le attività ferme e a rischio",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/blocco-tir-rifiuti-aliscafi-aerei-imprese-mozzarella-e-pasta-attivita-ferme-e-rischio-AJZTDcqB",
+      "published_date": "2026-10-21T17:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Caro carburanti, è arrivata l’applicazione che calcola il «pieno che costa meno»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/caro-carburanti-e-arrivata-l-applicazione-che-calcola-pieno-che-costa-meno-AJtgg6oB",
+      "published_date": "2026-10-21T17:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lo spread tra Btp e Bund chiude in rialzo a 115,7 punti base",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-1157-punti-base_11c49e82-16fd-47df-9643-c9c30c4dfa57.html",
+      "published_date": "2026-10-21T16:16:27+00:00",
+      "category": "Economy"
     },
     {
       "title": "Stock market: Milan closes at +1.17% with Prysmian, Bpm, Technoprobe in the spotlight",
@@ -508,60 +564,116 @@
       "category": "Economy"
     },
     {
-      "title": "EssilorLuxottica flies to the stock market after the quarterly results, +14%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/essilorluxottica-vola-in-borsa-dopo-i-conti-del-trimestre-14_d28051d7-2204-4be3-8f69-bd11c97a42d6.html",
-      "published_date": "2026-10-21T11:45:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan advances (+0.6%), jump in Technoprobe, Tim and Prysmian",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/borsa-milano-avanza-06-balzo-di-technoprobe-tim-e-prysmian_519af48d-cbdd-4c40-9b19-e210079d7df7.html",
-      "published_date": "2026-10-21T11:35:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Truck protest: Campania and Puglia industrialists, 'companies collapsing, now answers'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/protesta-tir-industriali-campania-e-puglia-imprese-al-collasso-ora-risposte_020337b8-ec79-462c-9f2d-6d84f932c220.html",
-      "published_date": "2026-10-21T11:11:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Istat: births still decreasing, 355 thousand in '25 and '26 new decline",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/istat-nascite-ancora-in-calo-355-mila-nel-25-e-nel-26-nuova-flessione_b8ff3ecc-4471-464f-9787-fc25e56e71b7.html",
-      "published_date": "2026-10-21T10:54:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "In Italy, more and more empty cots, Istat 2025 data: six children born per thousand inhabitants",
+      "title": "Sondaggi riservati dietro la stretta, Meloni cavalca la sicurezza e per Milano ora apre a Sardone",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/21/news/italia_istat_denatalita_2025_sei_bambini_ogni_mille_abitanti-425662335/?rss",
-      "published_date": "2026-10-21T10:41:08+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/22/news/sondaggi_riservati_stretta_meloni_sicurezza_milano_sardone_candidata_sindaco-425664578/?rss",
+      "published_date": "2026-10-21T23:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Vademecum for M, ten rules for the growth of family SMEs",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/vademecum-per-lm-dieci-regole-per-la-crescita-delle-pmi-familiari_9eb5157a-0c4a-49d0-bffc-c2d743fe4a56.html",
-      "published_date": "2026-10-21T10:30:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Digital sovereignty: building technological autonomy to accelerate innovation and growth",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/sovranita-digitale-costruire-l-autonomia-tecnologica-accelerare-innovazione-e-crescita-AJxNK7pB",
-      "published_date": "2026-10-21T10:10:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Musk opens up to the merger of Tesla and SpaceX: \"special committees\" are called to make it happen",
+      "title": "Divieto social a under 14, Ascani: “Meloni ha perso 2 anni, ora serve intervenire. Non daremo alibi”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/21/news/musk_apre_alla_fusione_di_tesla_e_spacex_via_ai_comitati_speciali_per_studiarla-425661581/?rss",
-      "published_date": "2026-10-21T08:37:05+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/22/news/ascani_divieto_social_under_14_meloni_perso_due_anni_intervista-425664485/?rss",
+      "published_date": "2026-10-21T23:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il Governo sceglie la linea dura, sospesi i blocchi dei tir in Sicilia e Calabria",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/il-governo-sceglie-la-linea-dura-sospesi-i-blocchi-in-sicilia-e-calabria_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
+      "published_date": "2026-10-21T21:28:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lega, via Salvini dal simbolo. Garavaglia trova le firme e al congresso sfiderà il leader",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/lega_simbolo_senza_salvini_garavaglia_firme_congresso-425662654/?rss",
+      "published_date": "2026-10-21T20:34:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesta Tir: la priorità è rimuovere i blocchi, il Viminale garantirà i beni di prima necessità",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/protesta-tir-la-priorita-e-rimuovere-i-blocchi-il-viminale-garantira-i-beni-di-prima-necessita-78b0d654-623a-4eef-b65f-868819a52228.html",
+      "published_date": "2026-10-21T20:18:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni convoca cdm, decreto per tir e agricoltura: Viminale garantirà rifornimenti prima necessità",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/meloni_convoca_cdm_autotrasportatori_conte_schlein_informativa-425663898/?rss",
+      "published_date": "2026-10-21T20:07:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riunione a Chigi con Meloni, Viminale garantirà i rifornimenti di prima necessità",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/21/riunione-a-chigi-con-meloni-viminale-garantira-i-rifornimenti-di-prima-necessita_ce9950d9-55f8-469f-8618-3f4d3aeac24b.html",
+      "published_date": "2026-10-21T19:20:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garavaglia centra il quorum firme e sfida Salvini, nordisti riuniti in una mozione",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/21/garavaglia-centra-il-quorum-firme-e-sfida-salvini-nordisti-riuniti-in-una-mozione_e839a325-e053-41fd-a4e2-737b1950c96e.html",
+      "published_date": "2026-10-21T19:05:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Allarme guano sullo scalone di palazzo Chigi, arriva un sistema contro piccioni e gabbiani",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/palazzo_chigi_guano_scalone_sistema_anti_piccioni_gabbiani-425664001/?rss",
+      "published_date": "2026-10-21T18:31:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "L'appello di Mattarella: 'Non solo emergenza, ai giovani si guardi con ampia visione'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/21/lappello-di-mattarella-non-solo-emergenza-ai-giovani-si-guardi-con-ampia-visione_31eb8924-8c4a-4cf3-a7a5-2fe53cbc6b92.html",
+      "published_date": "2026-10-21T18:18:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: \"Non guardare i giovani con meschina sottovalutazione. Agire contro i monopoli\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/mattarella-non-guardare-i-giovani-con-meschina-sottovalutazione-agire-contro-i-monopoli-00feaf32-1c61-479c-937f-f6790efc96a2.html",
+      "published_date": "2026-10-21T17:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maltempo dal Nord al Sud, muore un militare travolto da un albero. Su il Mose a Venezia",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/maltempo-dal-nord-al-sud-muore-un-militare-travolto-da-un-albero.-su-il-mose-a-venezia_aeb15550-309a-4546-8431-b3fef3f05a32.html",
+      "published_date": "2026-10-21T17:26:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salvini all’AGI: “Se vinciamo le elezioni torno al Viminale” [INTERVISTA VIDEO]",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-21/intervista-matteo-salvini-elezioni-video-39646203/",
+      "published_date": "2026-10-21T16:30:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Stop ai social per i minori: tra l'apertura di Meloni e i ddl fermi in Parlamento",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/stop-ai-social-per-i-minori-tra-lapertura-di-meloni-e-i-ddl-fermi-in-parlamento-5fcbeb3e-a2db-43df-a19f-090dfa4d6af6.html",
+      "published_date": "2026-10-21T16:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conte: “Su Scarpinato linciaggio mediatico della destra”. L’ex pm: “Non mi intimidì neanche Riina”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/21/news/conte_scarpinato_linciaggio_mediatico_destra_commissione_antimafia_stragi-425663271/?rss",
+      "published_date": "2026-10-21T16:20:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Essilux chiude in rally in Borsa dopo i conti del trimestre, +15%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/essilux-chiude-in-rally-in-borsa-dopo-i-conti-del-trimestre-15_7deb732f-d639-4e03-ae05-f691e7506296.html",
+      "published_date": "2026-10-21T15:52:22+00:00",
+      "category": "Local Events"
     },
     {
       "title": "After the clashes, an open assembly was called by the students in Milan",
@@ -589,118 +701,6 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/nataly-uccisa-e-nascosta-in-una-valigia-ergastolo-per-il-compagno_c5f0a2d4-e6d2-4d8b-8ad3-ff154578133b.html",
       "published_date": "2026-10-21T15:17:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alice Weidel, 'Schengen doesn't work, expel migrants'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/21/alice-weidel-schengen-non-funziona-espellere-i-migranti_4e42293f-de79-4a73-8eef-bb94a6230657.html",
-      "published_date": "2026-10-21T15:09:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayors of Bari and Naples, 'Salvini advances meeting, risk of city paralysis'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/sindaci-bari-e-napoli-salvini-anticipi-incontro-rischio-paralisi-citta_7e0aeb5d-0b0f-4d23-9c37-29346b32bc4b.html",
-      "published_date": "2026-10-21T15:05:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tir protest, regular ferrying between Calabria and Sicily",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/protesta-tir-regolare-traghettamento-tra-calabria-e-sicilia_015d4c3e-9a94-4faf-a689-312b30f748e2.html",
-      "published_date": "2026-10-21T15:03:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Detained at Sharm airport by the police and forced to buy another ticket'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/trattenute-in-scalo-sharm-dalla-polizia-e-costrette-a-fare-altro-biglietto_c7862aaa-075d-4842-9531-1a9c701fa990.html",
-      "published_date": "2026-10-21T15:02:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes in Milan, rappers are divided: the reactions of Marracash, Ghali and Fedez",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/scontri-a-milano-i-rapper-si-dividono-le-reazioni-di-marracash-ghali-e-fedez-4fcd42a2-f17b-4c71-b888-9006bb9c81ef.html",
-      "published_date": "2026-10-21T14:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "With the riots in Mauritius over, the water crisis remains a threat",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/10/21/finite-le-rivolte-a-mauritius-la-crisi-dellacqua-resta-una-minaccia_b9c302aa-37ad-41df-bd5e-8c6939314abd.html",
-      "published_date": "2026-10-21T14:48:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Truck blocks, Urso: «Viminale is identifying truck drivers». Lollobrigida: «Check criminal records»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/blocchi-tir-urso-viminale-sta-identificando-camionisti-rimuovere-presidi-lollobrigida-verificare-qualche-casellario-giudiziario-AJtaFPqB",
-      "published_date": "2026-10-21T14:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Investigation into the Strait Bridge, documents acquired from MIT and Cipess",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/indagine-sul-ponte-dello-stretto-acquisiti-documenti-al-mit-e-al-cipess_190dac35-b44c-4fb9-a1cf-952f1b09ff2f.html",
-      "published_date": "2026-10-21T14:42:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vast fire in the Trapani area, some homes evacuated",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/vasto-incendio-nel-trapanese-sgomberate-alcune-abitazioni_f660fa1d-ad6e-485a-9e5c-f7cf6b35cda8.html",
-      "published_date": "2026-10-21T14:35:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes Milan: the youngest identified is 11 years old. Piantedosi: 'No evidence that they were manipulated'. The Folgore paratroopers are arriving",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/piantedosi-500-militari-a-milano-avranno-piena-mobilita.-sala-ora-controllo_e1f43aec-529c-4675-b3be-5ddca9a2283c.html",
-      "published_date": "2026-10-21T14:32:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baby with frozen embryo but it's not theirs, the legal 'Serious silence from the local health authority'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/bimba-da-embrione-congelato-ma-non-e-il-loro-il-legale-grave-silenzio-da-asl_840be713-b46f-4b17-88b4-dbaaa5719954.html",
-      "published_date": "2026-10-21T14:29:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He attacks his ex-wife at work and tries to set her on fire",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/aggredisce-lex-moglie-sul-posto-di-lavoro-e-tenta-di-darle-fuoco_a79cb7fa-6601-4975-b196-ace1787b00e5.html",
-      "published_date": "2026-10-21T14:27:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The family of the architect Onorato against the archiving: 'It was not suicide'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/i-familiari-dellarchitetto-onorato-contro-larchiviazione-non-fu-suicidio_1d4f9e13-a72a-4088-b60e-b7e6d7eaf1f3.html",
-      "published_date": "2026-10-21T14:26:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He tries to set fire to his ex: \"You die today, I'll come there and kill you.\" The woman was saved",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/tenta-di-dare-fuoco-alla-ex-tu-oggi-muori-vengo-la-e-ti-uccido-in-salvo-la-donna-f48029db-901f-42d1-8416-8cfe7eb4baec.html",
-      "published_date": "2026-10-21T14:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "3.8 magnitude earthquake on Etna, schools evacuated",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/terremoto-di-magnitudo-3.8-sulletna-evacuate-le-scuole_18de675d-84f5-4ac5-9c75-71e37a6f6f55.html",
-      "published_date": "2026-10-21T14:22:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ban on social media for under 14s, opposition: \"We are always ready to vote for him, it was Meloni who put the brakes on\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/21/news/divieto_social_under_14_opposizioni_meloni-425662810/?rss",
-      "published_date": "2026-10-21T14:09:10+00:00",
       "category": "Local Events"
     }
   ]
