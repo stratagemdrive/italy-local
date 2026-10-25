@@ -1,8 +1,22 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-25T00:39:37.792513+00:00",
+  "last_updated": "2026-10-25T14:44:00.793974+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Burnham opens to an 'honest discussion' on the restoration of GB-EU free movement",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/burnham-apre-a-una-discussione-onesta-sul-ripristino-della-libera-circolazione_8c6bb867-d9ef-4b6c-88b8-27d19bb37427.html",
+      "published_date": "2026-10-25T14:17:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fight against counterfeiting: seizures of 6.3 billion euros in the EU, 70% in Italy",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/lotta-contraffazione-nell-ue-sequestri-63-miliardi-euro-AJMcl2tB",
+      "published_date": "2026-10-25T11:23:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Farnesina, the five Italians arrested in the West Bank repatriated",
       "source": "ANSA",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU opens investigation into Booking, suspicions of scams and sponsored ads",
+      "title": "Salvini reconfirmed secretary of the League with 465 votes against Garavaglia's 146",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/21/ue-apre-indagine-su-booking-sospetti-su-truffe-e-annunci-sponsorizzati_f29c3045-c16b-47d7-9fbe-78677d927197.html",
-      "published_date": "2026-10-21T13:02:31+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-della-lega-con-465-voti-contro-i-146_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+      "published_date": "2026-10-25T14:14:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "Barachini, \"deal with the issue of relations with big tech at a European level\"",
+      "title": "October 17 Movement, Siher accused of terrorism. Telegram is empty, the hypothesis of chats on Signal",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/movimento-17-ottobre-siher-accusato-terrorismo-telegram-si-svuota-l-ipotesi-chat-signal-AJe7K2tB",
+      "published_date": "2026-10-25T14:02:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Who is Youssef Siher, the researcher believed to be the mastermind of the \"October 17 Movement\" arrested for terrorism",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/chi-e-youssef-siher-il-ricercatore-indagato-come-mente-del-movimento-17-ottobre-ecee75cd-7da6-4021-a6d5-485c86974b9f.html",
+      "published_date": "2026-10-25T13:21:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Salvini, if confirmed as secretary, I will say in the CDM stop money and weapons for Ukraine",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/21/barachini-affrontare-il-tema-dei-rapporti-con-le-big-tech-in-sede-europea_9b55d351-98c0-4b33-84ec-587756507f5a.html",
-      "published_date": "2026-10-21T12:49:55+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-se-confermato-segretario-diro-in-cdm-stop-soldi-e-armi-allucraina_9a1272aa-0e3f-43eb-a93a-15c8cc65a7ce.html",
+      "published_date": "2026-10-25T12:29:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pusher in Naples, deals cocaine but is actually table salt",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/pusher-a-napoli-spaccia-cocaina-ma-in-realta-e-sale-da-cucina_e459894c-fa19-497d-b3da-ee721d53fb12.html",
+      "published_date": "2026-10-25T10:44:19+00:00",
+      "category": "Military"
     },
     {
       "title": "Bomb on the dam, the political case explodes. Gianni Pastorino: “What controls on fillings?”",
@@ -249,39 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Post-human warfare",
-      "source": "Analisi Difesa",
-      "url": "https://www.analisidifesa.it/2026/10/la-guerra-post-umana/",
-      "published_date": "2026-10-23T23:48:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF, 'anti-terrorism operation starts in Hebron. Residents questioned, then off",
+      "title": "Italy to the EU, 'extend targeted CAP aid also to fuel price increases'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/23/idf-parte-a-hebron-operazione-antiterrorismo.-residenti-interrogati-poi-via_0f374b8d-7fd9-48de-a8f5-a83d8ddb1486.html",
-      "published_date": "2026-10-23T21:12:46+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/25/italia-allue-estendere-aiuti-mirati-pac-anche-ai-rincari-dei-carburanti_fa4f71b5-492a-4db4-8c1a-d93c184d3dc1.html",
+      "published_date": "2026-10-25T12:01:39+00:00",
+      "category": "Energy"
     },
     {
-      "title": "From Milan to Castel Volturno, the map of the squares",
+      "title": "Chemistry, from health to energy are the themes of the industrialists' assembly",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/chimica-salute-all-energia-temi-dell-assemblea-industriali-AJfS6YsB",
+      "published_date": "2026-10-25T10:04:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Standard time is back, hands set back one hour",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/da-milano-a-castel-volturno-la-mappa-delle-piazze_4b093092-5d16-474b-ad7e-21a60f02d95f.html",
-      "published_date": "2026-10-23T19:41:53+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/25/e-tornata-lora-solare-lancette-indietro-di-unora_3b0f87be-a16f-4cd2-9b08-287a81c83690.html",
+      "published_date": "2026-10-25T08:28:56+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The acting secretary of the US Navy visits Fincantieri's Wisconsin shipyards",
-      "source": "Analisi Difesa",
-      "url": "https://www.analisidifesa.it/2026/10/il-segretario-ad-interim-della-us-navy-visita-i-cantieri-del-wisconsin-di-fincantieri/",
-      "published_date": "2026-10-23T15:39:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Arsenal for peace, the strategic role of defense. The Watcher Post report",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/arsenale-per-la-pace-airpress-servizio-urania/",
-      "published_date": "2026-10-23T13:19:41+00:00",
-      "category": "Military"
+      "title": "Old and helpless trucks: the crisis of the southern owners behind the blocks",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/camion-vecchi-e-senza-aiuti-crisi-padroncini-sud-dietro-blocchi-AJ7HhmtB",
+      "published_date": "2026-10-25T07:59:15+00:00",
+      "category": "Energy"
     },
     {
       "title": "Stones and bottles against the officers, water cannon and tear gas used in Turin",
@@ -396,32 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "Fuels, Eni will maintain a cap on diesel and petrol prices until the end of the year",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/carburanti-eni-manterra-tetto-prezzi-gasolio-e-benzina-fino-fine-anno-AJDfUusB",
-      "published_date": "2026-10-23T16:19:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eni, price cap for petrol and diesel will continue until the end of the year",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_5feb1da9-6d2d-4e94-b35d-514087d29f2d.html",
-      "published_date": "2026-10-23T16:14:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Eni estende il tetto ai prezzi dei carburanti per tutto l’anno. Livelli valutati ogni mese",
+      "title": "League, Salvini reconfirmed as secretary with 465 votes against Garavaglia's 146: \"Stop money in Kiev\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/23/news/eni_tetto_carburanti_prezzi_benzina_diesel-425670580/?rss",
-      "published_date": "2026-10-23T15:30:11+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/politica/2026/10/25/news/congresso_lega_giorgetti_critiche_salvini_garavaglia_voto-425674206/?rss",
+      "published_date": "2026-10-25T13:56:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Alla Michelin di Cuneo nuovo impianto di cattura di anidride carbonica",
+      "title": "Nobel Economy alarm, 'welfare at risk, a new social pact is needed'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/alla-michelin-di-cuneo-nuovo-impianto-di-cattura-di-anidride-carbonica_80ba4a34-cee2-4862-a777-c19a9dcf3eb9.html",
-      "published_date": "2026-10-23T15:20:32+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/25/allarme-nobel-economia-welfare-a-rischio-serve-un-nuovo-patto-sociale_956ca30e-4216-40c2-95ea-abb99e167c37.html",
+      "published_date": "2026-10-25T13:16:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cosmetic revolutions: with slimming drugs, a boom in creams to combat the \"Ozempic face\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/25/news/rivoluzioni_cosmetici_con_i_farmaci_dimagranti_boom_di_creme_per_combattere_la_faccia_da_ozempic-425674313/?rss",
+      "published_date": "2026-10-25T13:16:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Giulia Bernardi: “Being a human resources manager I learned empathy”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/25/news/giulia_bernardi_facendo_la_responsabile_delle_risorse_umane_ho_imparato_l_empatia-425674261/?rss",
+      "published_date": "2026-10-25T11:52:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tax authorities, towards a new crackdown on tax credits and open-and-close companies",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/fisco-una-nuova-stretta-crediti-d-imposta-e-societa-apri-e-chiudi-AJrG7ItB",
+      "published_date": "2026-10-25T07:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, Giorgetti: \"The blanket is short\". Focus on young people and healthcare",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-25/manovra-giorgetti-coperta-corta-39697617/",
+      "published_date": "2026-10-25T00:48:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Maneuver, Giorgetti slows down the parties: “The blanket is short”. Pensions, the League pushes for Quota 100",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Which economy does Italy want to become? Culture as an industrial choice",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/quale-economia-vuole-diventare-litalia-la-cultura-come-scelta-industriale-lanalisi-di-monti/",
-      "published_date": "2026-10-24T08:05:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fuels, Italy tops in Europe for diesel taxes. On a liter of diesel, 1.08 euros goes to the state",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/carburanti-italia-top-europa-tasse-gasolio-un-litro-diesel-108-euro-vanno-stato-AJojCcsB",
-      "published_date": "2026-10-24T08:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cgia, 'in 2025 one employee for every pension paid'",
+      "title": "The \"Federal Italian League\" is born, Salvini's name disappears from the symbol",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/24/cgia-nel-2025-un-occupato-per-ogni-pensione-erogata_a3b45139-3fe4-4193-b7a3-9973411a0604.html",
-      "published_date": "2026-10-24T08:00:06+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/nasce-lega-italia-federale-nel-simbolo-va-via-il-nome-di-salvini_6fa5cba2-8033-4546-9960-0666ae4d8817.html",
+      "published_date": "2026-10-25T14:34:43+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Massive tax discounts are being planned for those who hire young people and mothers",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/in-manovra-maxisconti-fiscali-chi-assume-giovani-e-madri-AJMwsAtB",
-      "published_date": "2026-10-24T06:27:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Media, 'dozens of Palestinians arrested in IDF raids in the West Bank'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/24/media-decine-di-palestinesi-arrestati-in-blitz-dellidf-in-cisgiordania_ce4443c0-d609-4d2c-b8cb-1b3bce8d1752.html",
-      "published_date": "2026-10-24T06:17:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "In Italy, wealth belongs to the elderly. The reasons of young people and the wrong of violence",
+      "title": "Schlein accelerates: \"Hurry up, we're not starting from scratch.\" And to Meloni: \"You don't criminalize young people\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/24/news/in_italia_la_ricchezza_e_da_vecchi_le_ragioni_dei_giovani_e_il_torto_della_violenza-425669560/?rss",
-      "published_date": "2026-10-24T06:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Democratic Party prepares the road map: \"Program within the year, primaries at the beginning of February\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/25/news/pd_tempi_primarie_montepulciano_schlein-425673519/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
+      "url": "https://www.repubblica.it/politica/2026/10/25/news/schlein_montepulciano_chiusura_piazze_pd_2x1000_milioni_11-425674301/?rss",
+      "published_date": "2026-10-25T14:34:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Wide shot, off to the table. Schlein, Conte and Avs will meet this week",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/25/news/campo_largo_conte_schlein_bonelli_fratoianni_incontro_settimana-425673515/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni and the warning to the allies. Possible resignation in March after the EU council in Rome",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/25/news/meloni_ipotesi_dimissioni_marzo_consiglio_ue_roma_elezioni_anticipate-425673480/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salvini blocks the shots and sends his men forward: \"They are looking for seats\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/25/news/matteo_salvini_congresso_lega_ribelli_cercano_poltrone-425673449/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zaia the most applauded, stings but doesn't sink: \"Enough sovereignism\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/25/news/luca_zaia_congresso_lega_applaudito_cauto-425673402/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intesa Sanpaolo, president Gros-Pietro accuses the government: \"Agreements with the banks not honoured\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/25/news/intesa_sanpaolo_gros-pietro_accusa_il_governocon_le_banche_patti_non_onorati-425673359/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The faces of the squares, snapshots from the cities in procession",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/25/news/manifestanti_volti_piazze_citta_corteo-425673570/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The squares of young people, but charges and clashes from Turin to Rome",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/25/news/manifestazioni_cariche_scontri_roma_torino-425673559/?rss",
-      "published_date": "2026-10-24T23:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Youssef Siher, the mastermind of the October 17 Movement page, arrested. THE PROFILE",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/fermato-youssef-siher-la-mente-della-pagina-movimento-17-ottobre-il-profilo_7ea4ecc5-fc85-49fe-b151-c71e6855e75d.html",
-      "published_date": "2026-10-24T22:50:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lega, pressing for Zaia's entry into the political secretariat",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/lega-pressing-l-ingresso-zaia-segreteria-politica-AJTy0otB",
-      "published_date": "2026-10-24T22:36:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests and tensions, clashes in Turin. Incursion to the Colosseum. Meloni: 'Safety guaranteed'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-e-tensioni-scontri-a-torino.-incursione-al-colosseo.-meloni-sicurezza-garantita_a5328565-eeb0-4566-bf29-d289f2b330a3.html",
-      "published_date": "2026-10-24T22:31:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Processions throughout Italy. High voltage in Turin - THE STORY OF THE DAY",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/cortei-in-tutta-italia.-alta-tensione-a-torino-il-racconto-della-giornata_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-      "published_date": "2026-10-24T22:24:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Weather forecast, latest rain in the south: then good weather arrives throughout Italy",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/25/news/previsioni_meteo_ultime_piogge_sole-425673454/?rss",
-      "published_date": "2026-10-24T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes in Milan, Youssef Siher 'mastermind' of the 17 October Movement arrested",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/scontri-a-milano-fermato-youssef-siher-mente-del-movimento-17-ottobre_e18967c4-35bf-4e74-a31c-2cbdf8b34324.html",
-      "published_date": "2026-10-24T21:43:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Processions: armored cities, clashes in Turin, Rome and Bologna. In Milan the \"mind\" of October 17th stopped",
+      "title": "Sassari: stabbing in front of the club, 16-year-old boy injured by a double-bladed dagger",
       "source": "Rai News",
-      "url": "https://www.rainews.it/maratona/2026/10/piazze-blindate-e-tensioni-in-tutta-italia-scontri-da-torino-a-roma-5fb7e07d-915d-4050-9725-56cc14b50cc6.html",
-      "published_date": "2026-10-24T21:06:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/sassari-accoltellamento-minorenne-ferito-452ba5f4-3ce2-4aa8-92c6-a884f9985dc6.html",
+      "published_date": "2026-10-25T14:27:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "League, clash at the congress, northern rebels under accusation. The reply: they don't vote for us anymore",
+      "title": "Salvini re-elected secretary of the League, 465 votes against Garavaglia's 146",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-25/lega-congresso-matteo-salvini-39703078/",
+      "published_date": "2026-10-25T14:06:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salvini reconfirmed as League secretary with 465 votes",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-lega-con-465-voti_61f47561-e911-4440-a3d8-61190f98b532.html",
+      "published_date": "2026-10-25T14:00:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Nobels at the Festival of Economics: \"Welfare must be rethought, or the numbers won't add up\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-25/torino-festival-economia-welfare-39702722/",
+      "published_date": "2026-10-25T13:45:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Campobasso: mother and son found dead at home in Ururi, murder-suicide hypothesis",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/24/news/congresso_lega_attacco_romeo_diatribe_personali-425672547/?rss",
-      "published_date": "2026-10-24T20:58:07+00:00",
+      "url": "https://www.repubblica.it/cronaca/2026/10/25/news/campobasso_madre_e_figlio_trovati_morti_in_casa_a_ururi_ipotesi_omicidio-suicidio-425674227/?rss",
+      "published_date": "2026-10-25T13:42:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Protest marches from Rome to Milan ALL VIDEOS",
+      "title": "A minor stabbed during the night in Sassari, a 19-year-old arrested",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-di-protesta-da-roma-a-milano-tutti-i-video_2bb860a1-c867-4ceb-aabb-2889ee1baa7b.html",
-      "published_date": "2026-10-24T20:28:42+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/un-minorenne-accoltellato-nella-notte-a-sassari-arrestato-un-19enne_bfd0c019-5739-4fcc-be0b-cd7db225dd20.html",
+      "published_date": "2026-10-25T13:38:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "At the League congress the 'rebel' Romeo is under accusation, a role for Zaia is at stake",
+      "title": "Ambush in Calabria, perhaps tomorrow the documents at the Catanzaro DDA",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/24/attacco-a-romeo-al-congresso-lega-no-a-diatribe-personali_2df1fea2-8d5f-4ea0-a6d9-771170bc06ff.html",
-      "published_date": "2026-10-24T20:09:03+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/agguato-in-calabria-forse-domani-gli-atti-alla-dda-di-catanzaro_467460d0-47ab-41da-84aa-a89d315df971.html",
+      "published_date": "2026-10-25T13:32:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Protests in Turin, frequent throwing of objects and smoke bombs at the police",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/torino-fitto-lancio-oggetti-e-fumogeni-contro-la-polizia-da7a0418-56eb-4f32-946e-b9ae175f8b1e.html",
-      "published_date": "2026-10-24T20:04:00+00:00",
+      "title": "Thieves in the home of Napoli footballer Allison Santos, jewels stolen",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ladri-in-casa-del-calciatore-del-napoli-allison-santos-rubati-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
+      "published_date": "2026-10-25T13:26:28+00:00",
       "category": "Local Events"
     },
     {
-      "title": "I launch firecrackers and tear gas, tensions between police and protesters continue in the evening in Turin",
+      "title": "Youssef Siher, studies on political Islam and activism, until his arrest for the 17 October Movement",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/a-torino-identificate-oltre-400-persone-prima-della-manifestazione-di-oggi-video-1a4e8593-4c59-43bd-8d9d-1e09f1fa12a4.html",
-      "published_date": "2026-10-24T20:01:00+00:00",
+      "url": "https://www.rainews.it/video/2026/10/youssef-siher-gli-studi-sullislam-politico-e-lattivismo-per-gaza-fino-al-fermo-per-il-movimento-17-ottobre-43ef4845-8b40-4274-adf1-1c23d1184f53.html",
+      "published_date": "2026-10-25T13:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saturday of protests: scuffles in Rome, Turin and Bologna. Piantedosi praises the police forces",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/sabato-di-proteste-in-tutta-italia-tafferugli-a-roma-torino-e-bologna-piantedosi-loda-forze-dellordine-70a2c51a-7163-4e01-8527-8e2dd4bd4eb4.html",
+      "published_date": "2026-10-25T13:11:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Latest rain in the South and snow in the Alps, stable weather from Tuesday",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ultime-piogge-al-sud-e-neve-sulle-alpi-da-martedi-tempo-stabile_7227983c-9df3-4bbe-a8fd-a74d5d669001.html",
+      "published_date": "2026-10-25T13:10:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schlein, with the allies we will hurry, the last mile is missing",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/schlein-con-gli-alleati-faremo-in-fretta-manca-lultimo-miglio_598626db-d4d8-46f7-8dd6-934e20753907.html",
+      "published_date": "2026-10-25T13:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tomorrow the request for validation of the arrest for Youssef Siher. His wife is also under investigation",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/domani-la-richiesta-di-convalida-del-fermo-per-youssef-sehir-tra-le-accuse_dde34ca0-69ba-4c10-86ed-1c191da76dca.html",
+      "published_date": "2026-10-25T12:35:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The images of Youssef Siher's arrest in Milan, the prosecutor's office will request his custody in prison",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/milano-le-immagini-del-fermo-di-youssef-siher-la-procura-chiedera-la-convalida-carcere-f7877c35-3a62-48f7-a86d-f41c7c699b73.html",
+      "published_date": "2026-10-25T12:33:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother and son found dead at home in Molise",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/madre-e-figlio-trovati-morti-in-casa-in-molise_c9d157ce-dfb1-42c0-b028-ff9ee83bd11f.html",
+      "published_date": "2026-10-25T12:18:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Extraordinary Congress of the League, Salvini challenges Garavaglia for the secretariat",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-24/congresso-straordinario-lega-salvini-garavaglia-39681704/",
+      "published_date": "2026-10-25T12:05:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Julia 3.0 arrives, Roma Capitale's AI becomes an app",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/arriva-julia-30-l-ai-roma-capitale-diventa-un-app-AJfk42tB",
+      "published_date": "2026-10-25T12:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire in a house in Riccò del Golfo, 70 year old dies",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/incendio-in-una-casa-a-ricco-del-golfo-muore-70enne_55d23362-3410-4b22-959f-4123c9313a08.html",
+      "published_date": "2026-10-25T11:49:03+00:00",
       "category": "Local Events"
     }
   ]
