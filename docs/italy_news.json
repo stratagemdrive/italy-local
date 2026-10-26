@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-25T14:44:00.793974+00:00",
+  "last_updated": "2026-10-26T00:54:13.855119+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Leonardo Maria Del Vecchio studia un’Opa totalitaria sul Fatto quotidiano",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/25/news/leonardo_maria_del_vecchio_studia_opa_totalitaria_fatto_quotidiano-425675075/?rss",
+      "published_date": "2026-10-25T21:37:22+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Salvini reconfirmed secretary of the League with 465 votes against Garavaglia's 146",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-della-lega-con-465-voti-contro-i-146_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
@@ -169,6 +176,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-se-confermato-segretario-diro-in-cdm-stop-soldi-e-armi-allucraina_9a1272aa-0e3f-43eb-a93a-15c8cc65a7ce.html",
       "published_date": "2026-10-25T12:29:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Venezia, spari tra i turisti all’Arsenale: ferito un 35enne, fermato un uomo",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/25/news/venezia_sparatoria_arsenale_turisti-425674249/?rss",
+      "published_date": "2026-10-25T11:44:20+00:00",
       "category": "Military"
     },
     {
@@ -221,6 +235,13 @@
       "category": "Military"
     },
     {
+      "title": "Movimento 17Ottobre: origini, rivendicazioni e obiettivi – La scheda",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/10/24/news/movimento_17ottobre_origini_rivendicazioni_e_obiettivi-425672767/?rss",
+      "published_date": "2026-10-24T15:27:58+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Defence, call for 2,300 initial Army volunteers: here's who can participate and how to apply",
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/difesa-bando-2300-volontari-ferma-iniziale-dell-esercito-ecco-chi-puo-partecipare-e-come-fare-domanda-AJHAtlsB",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "World Pasta Day: in Italy the average price of pasta has fallen by almost 24% in two years",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/world-pasta-day-italia-prezzo-medio-pasta-e-sceso-quasi-24percento-due-anni-AJRn1dsB",
-      "published_date": "2026-10-24T09:02:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Francesco Macrì: «We must invest in common European defense»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/francesco-macri-bisogna-investire-difesa-comune-europea-AJ80P0sB",
-      "published_date": "2026-10-24T06:06:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Maximum alert in Milan, the shops in the center are locked down",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/massima-allerta-a-milano-i-negozi-del-centro-si-blindano-5968c14f-c993-44d3-9b54-5efb2eda06df.html",
-      "published_date": "2026-10-24T06:04:00+00:00",
-      "category": "Military"
+      "title": "Violente tempeste si abbattono sull'Europa con blackout e disagi nei trasporti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/25/violente-tempeste-si-abbattono-sulleuropa-con-blackout-e-disagi-nei-trasporti_049bef89-c79c-4f2b-ac7e-3bdecf79d234.html",
+      "published_date": "2026-10-25T17:36:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Italy to the EU, 'extend targeted CAP aid also to fuel price increases'",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "The price of gas rises to 93.21 euros per megawatt hour",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/il-prezzo-del-gas-sale-a-9321-euro-al-megawattora_02a2bde2-3a7b-4867-832b-cf6eb6c65901.html",
-      "published_date": "2026-10-23T16:51:20+00:00",
-      "category": "Energy"
+      "title": "Anziani, card da 300-500 euro per pagare ticket e spese sanitarie",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/anziani-card-300-500-euro-pagare-ticket-e-spese-sanitarie-AJYWPAtB",
+      "published_date": "2026-10-25T17:36:32+00:00",
+      "category": "Economy"
     },
     {
       "title": "League, Salvini reconfirmed as secretary with 465 votes against Garavaglia's 146: \"Stop money in Kiev\"",
@@ -452,10 +459,31 @@
       "category": "Economy"
     },
     {
+      "title": "Anche i ricchi piangono: il lusso perde 250 milioni di euro, causa fuga dei cinesi",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/25/news/anche_i_ricchi_piangono_il_lusso_perde_250_milioni_di_euro_causa_fuga_dei_cinesi-425674096/?rss",
+      "published_date": "2026-10-25T10:06:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Addestratori di robot intelligenti cercasi, un lavoro che piace ai giovani",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/25/news/addestratori_di_robot_intelligenti_cercasi_un_lavoro_che_piace_ai_giovani-425669685/?rss",
+      "published_date": "2026-10-25T09:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Tax authorities, towards a new crackdown on tax credits and open-and-close companies",
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/fisco-una-nuova-stretta-crediti-d-imposta-e-societa-apri-e-chiudi-AJrG7ItB",
       "published_date": "2026-10-25T07:39:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Caregiver, contributi economici solo per chi è sotto i 3mila euro lordi annui",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/25/news/bonus_caregiver_requisiti_reddito_3mila_euro-425672859/?rss",
+      "published_date": "2026-10-25T04:00:00+00:00",
       "category": "Economy"
     },
     {
@@ -536,32 +564,102 @@
       "category": "Economy"
     },
     {
-      "title": "Adusbef, Italy tops in the EU for diesel taxes, weighing 48%",
+      "title": "Territori e futuro, a Firenze apre il festival delle Regioni",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/24/adusbef-italia-al-top-in-ue-per-tasse-su-gasolio-pesano-il-48_804c3cf3-f520-4377-96a0-80f99d01121b.html",
-      "published_date": "2026-10-24T09:52:06+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/territori-e-futuro-a-firenze-apre-il-festival-delle-regioni_f54d642f-ee1a-47cd-b63a-07dad0e96fb8.html",
+      "published_date": "2026-10-25T19:42:47+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Processions in Turin, shops closed or with wooden panels",
+      "title": "Salvini resta leader della Lega, ma avverte: 'Stop armi all'Ucraina'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-a-torino-negozi-chiusi-o-con-pannelli-di-legno_875f545b-e9d7-4ebd-a56a-530049bae4e9.html",
-      "published_date": "2026-10-24T09:44:54+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+      "published_date": "2026-10-25T19:24:05+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Giorgetti, coverage is short, raw materials and debt rates weigh",
+      "title": "Nasce Lega Italia federale, il nuovo simbolo senza il nome di Salvini",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/24/giorgetti-coperta-e-corta-pesano-materie-prime-e-tassi-sul-debito_12227c2a-dec4-4f8f-bb11-594380e150c6.html",
-      "published_date": "2026-10-24T09:40:53+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/nasce-lega-italia-federale-il-nuovo-simbolo-senza-il-nome-di-salvini_6fa5cba2-8033-4546-9960-0666ae4d8817.html",
+      "published_date": "2026-10-25T18:31:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Killing for tourism. Ciccotti reads “The snipers of the weekend”",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/uccidere-per-turismo-ciccotti-legge-i-cecchini-del-weekend/",
-      "published_date": "2026-10-24T09:15:18+00:00",
-      "category": "Economy"
+      "title": "Salvini choc: \"Ho chiesto io di lasciare i giornalisti al piano di sotto, alcuni sono servi\"",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-ho-chiesto-io-di-lasciare-i-giornalisti-al-piano-di-sotto-alcuni-sono-servi_4631b7d5-40c5-468f-8d2e-47ba941abe8b.html",
+      "published_date": "2026-10-25T18:28:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: \"Abbiamo bisogno di riconciliazione, pace e cooperazione\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/mattarella-abbiamo-bisogno-di-riconciliazione-pace-e-cooperazione-8eacd431-fd3a-4685-b385-ad2234153915.html",
+      "published_date": "2026-10-25T18:27:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lega, Salvini rieletto per la quarta volta: sfida agli alleati sulle armi a Kiev",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/lega-salvini-rieletto-per-la-quarta-volta-sfida-agli-alleati-sulle-armi-a-kiev-6600b093-a2b0-450c-9b6d-ce37ecaf7220.html",
+      "published_date": "2026-10-25T18:23:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agguato al boss in Calabria, l'ipotesi della guerra tra cosche",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/agguato-al-boss-in-calabria-lipotesi-della-guerra-tra-cosche_467460d0-47ab-41da-84aa-a89d315df971.html",
+      "published_date": "2026-10-25T17:50:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: “Gettare semi della pace spetta ai governi, ma tutti facciano la loro parte”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/25/news/mattarella_pace_governi_messaggio_sant_egidio-425674641/?rss",
+      "published_date": "2026-10-25T17:04:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Al via a Firenze il Festival delle Regioni",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/al-via-a-firenze-il-festival-delle-regioni_9bd29cd4-371a-4338-9f3a-544ff0c0ab70.html",
+      "published_date": "2026-10-25T16:52:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La sicurezza mette alla prova il Campo largo di Schlein",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/schlein-campo-largo-sicurezza-meloni-0ba11c70-69d3-40a7-8328-05a370e1c9ed.html",
+      "published_date": "2026-10-25T16:44:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firenze aspetta il presidente Mattarella",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/firenze-aspetta-il-presidente-mattarella-b3d2fae6-bcca-4e08-821d-f9fa838bcce2.html",
+      "published_date": "2026-10-25T16:31:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firenze, capitale della politica italiana per tre giorni con il Presidente Mattarella",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/firenze-capitale-della-politica-italiana-per-giorni-festival-regioni-funaro-giani-mattarella-presidente-repubblica-fedriga-duomo-265b739a-d57e-4511-9ce9-2b8f133e0db5.html",
+      "published_date": "2026-10-25T16:25:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella, prezioso lo spirito di Assisi, non si uccida in nome di Dio",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/mattarella-prezioso-lo-spirito-di-assisi-non-si-uccida-in-nome-di-dio_b2b2cd59-4228-4383-8da3-9d4fa97bdec9.html",
+      "published_date": "2026-10-25T16:20:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "«Il neoliberalismo ha fallito»: Schlein punta a sinistra, con l’occhio al disagio sociale e ai giovani in piazza",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/il-neoliberalismo-ha-fallito-schlein-punta-sinistra-l-occhio-disagio-sociale-e-giovani-piazza-AJYb36tB",
+      "published_date": "2026-10-25T16:19:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "The \"Federal Italian League\" is born, Salvini's name disappears from the symbol",
@@ -603,104 +701,6 @@
       "source": "AGI",
       "url": "https://www.agi.it/economia/news/2026-10-25/torino-festival-economia-welfare-39702722/",
       "published_date": "2026-10-25T13:45:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Campobasso: mother and son found dead at home in Ururi, murder-suicide hypothesis",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/25/news/campobasso_madre_e_figlio_trovati_morti_in_casa_a_ururi_ipotesi_omicidio-suicidio-425674227/?rss",
-      "published_date": "2026-10-25T13:42:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A minor stabbed during the night in Sassari, a 19-year-old arrested",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/un-minorenne-accoltellato-nella-notte-a-sassari-arrestato-un-19enne_bfd0c019-5739-4fcc-be0b-cd7db225dd20.html",
-      "published_date": "2026-10-25T13:38:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ambush in Calabria, perhaps tomorrow the documents at the Catanzaro DDA",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/agguato-in-calabria-forse-domani-gli-atti-alla-dda-di-catanzaro_467460d0-47ab-41da-84aa-a89d315df971.html",
-      "published_date": "2026-10-25T13:32:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thieves in the home of Napoli footballer Allison Santos, jewels stolen",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ladri-in-casa-del-calciatore-del-napoli-allison-santos-rubati-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
-      "published_date": "2026-10-25T13:26:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Youssef Siher, studies on political Islam and activism, until his arrest for the 17 October Movement",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/youssef-siher-gli-studi-sullislam-politico-e-lattivismo-per-gaza-fino-al-fermo-per-il-movimento-17-ottobre-43ef4845-8b40-4274-adf1-1c23d1184f53.html",
-      "published_date": "2026-10-25T13:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saturday of protests: scuffles in Rome, Turin and Bologna. Piantedosi praises the police forces",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/sabato-di-proteste-in-tutta-italia-tafferugli-a-roma-torino-e-bologna-piantedosi-loda-forze-dellordine-70a2c51a-7163-4e01-8527-8e2dd4bd4eb4.html",
-      "published_date": "2026-10-25T13:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latest rain in the South and snow in the Alps, stable weather from Tuesday",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ultime-piogge-al-sud-e-neve-sulle-alpi-da-martedi-tempo-stabile_7227983c-9df3-4bbe-a8fd-a74d5d669001.html",
-      "published_date": "2026-10-25T13:10:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schlein, with the allies we will hurry, the last mile is missing",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/schlein-con-gli-alleati-faremo-in-fretta-manca-lultimo-miglio_598626db-d4d8-46f7-8dd6-934e20753907.html",
-      "published_date": "2026-10-25T13:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tomorrow the request for validation of the arrest for Youssef Siher. His wife is also under investigation",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/domani-la-richiesta-di-convalida-del-fermo-per-youssef-sehir-tra-le-accuse_dde34ca0-69ba-4c10-86ed-1c191da76dca.html",
-      "published_date": "2026-10-25T12:35:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The images of Youssef Siher's arrest in Milan, the prosecutor's office will request his custody in prison",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/milano-le-immagini-del-fermo-di-youssef-siher-la-procura-chiedera-la-convalida-carcere-f7877c35-3a62-48f7-a86d-f41c7c699b73.html",
-      "published_date": "2026-10-25T12:33:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother and son found dead at home in Molise",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/madre-e-figlio-trovati-morti-in-casa-in-molise_c9d157ce-dfb1-42c0-b028-ff9ee83bd11f.html",
-      "published_date": "2026-10-25T12:18:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Extraordinary Congress of the League, Salvini challenges Garavaglia for the secretariat",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-10-24/congresso-straordinario-lega-salvini-garavaglia-39681704/",
-      "published_date": "2026-10-25T12:05:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Julia 3.0 arrives, Roma Capitale's AI becomes an app",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/arriva-julia-30-l-ai-roma-capitale-diventa-un-app-AJfk42tB",
-      "published_date": "2026-10-25T12:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire in a house in Riccò del Golfo, 70 year old dies",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/incendio-in-una-casa-a-ricco-del-golfo-muore-70enne_55d23362-3410-4b22-959f-4123c9313a08.html",
-      "published_date": "2026-10-25T11:49:03+00:00",
       "category": "Local Events"
     }
   ]
