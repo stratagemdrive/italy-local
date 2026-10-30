@@ -1,8 +1,22 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-29T17:18:44.110263+00:00",
+  "last_updated": "2026-10-30T02:19:26.852466+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Altri 5 italiani fermati in Cisgiordania, la Farnesina chiede il rilascio",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/cinque-attivisti-italiani-fermati-in-cisgiordania-la-farnesina-chiede-chiarimenti_6f4aa2ca-7e44-42e9-ad75-0c83be3a6ca3.html",
+      "published_date": "2026-10-29T20:32:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Farnesina, '5 attivisti italiani fermati in Cisgiordania, chiesto rilascio immediato'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/farnesina-5-attivisti-italiani-fermati-in-cisgiordania-chiesto-rilascio-immediato_51851077-46ad-4c28-a2bb-dc00852a3c1d.html",
+      "published_date": "2026-10-29T19:39:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto",
       "source": "ANSA",
@@ -29,6 +43,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/meloni-tratta-con-lue-fino-allultimo-e-la-spunta-sulle-risorse-extra_bc6527df-68d8-41fc-ac69-7222256782ec.html",
       "published_date": "2026-10-28T20:02:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sì della maggioranza: \"Impegni rispettati\". Le opposizioni: \"Si spende in armi e non per i salari\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/mnovra-si-maggioranza-impegni-rispettati-opposizioni-spesa-in-armi-non-per-salari-sonia-sarno-df2ec36e-314a-4674-9ca8-09651164b3df.html",
+      "published_date": "2026-10-28T19:11:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU proposes reform of Frontex, 'operational arm for repatriations'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/27/ue-propone-riforma-di-frontex-braccio-operativo-per-i-rimpatri_366233e0-ce97-4d4c-8330-36f0d74e2a1b.html",
-      "published_date": "2026-10-27T11:43:20+00:00",
-      "category": "Diplomacy"
+      "title": "Al Copasir gli aiuti per Kiev, Guido Crosetto avvisa gli alleati: “È l’ora di metterci la faccia”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/10/30/news/guido_crosetto_copasir_aiuti_ucraina-425685635/?rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Giorgetti: 'The maneuver in the Council of Ministers tomorrow, progress made with the EU'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/giorgetti-la-manovra-in-consiglio-dei-ministri-domani-fatti-progressi-con-lue_af140783-af8a-47c0-b449-b638883598ac.html",
-      "published_date": "2026-10-27T11:29:53+00:00",
-      "category": "Diplomacy"
+      "title": "Strnad vuole comprare Delfin, ma i Del Vecchio fanno muro",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/30/news/strnad_vuole_delfin_del_vecchio_muro-425685835/?rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU climate alert, 'prepare with national plans'",
+      "title": "MADE 4: molte aziende interessate a entrare nel mercato dell’Aerospazio e Difesa",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/made-4-molte-aziende-interessate-a-entrare-nel-mercato-dellaerospazio-e-difesa/",
+      "published_date": "2026-10-29T23:26:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Leonardo Maria Del Vecchio, lavoro mio padre resti patrimonio Italia",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/allerta-ue-sul-clima-prepararsi-con-piani-nazionali_70b8a2e6-5377-4bea-8092-4261e84f2fb2.html",
-      "published_date": "2026-10-27T10:55:47+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/leonardo-maria-del-vecchio-lavoro-mio-padre-resti-patrimonio-italia_d21631cf-64f2-4be8-94e7-29de35227e77.html",
+      "published_date": "2026-10-29T21:11:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Crosetto 'dolore immenso, nessuno dei feriti rischia la vita'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/crosetto-dolore-immenso-nessuno-dei-feriti-rischia-la-vita_d8599fab-8fad-4881-bb8d-48f77c9ac9a5.html",
+      "published_date": "2026-10-29T19:49:19+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Borsa: Milano tiene con Prysmian e Leonardo, giù Campari",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-milano-tiene-con-prysmian-e-leonardo-giu-campari_f90d856d-53f8-4869-8b1c-4e62f078cc68.html",
+      "published_date": "2026-10-29T17:40:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Difesa, Leonardo con Defence Tech per proteggere i dati classificati",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Blitz anti 'ndrangheta, 41 misure, arrestato anche sindaco di Corigliano-Rossano",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/blitz-anti-ndrangheta-41-misure-arrestato-anche-sindaco-di-corigliano-rossano-9cab7766-117b-4808-bae2-e73cab6d6780.html",
-      "published_date": "2026-10-28T06:26:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Delfin, Clemente Del Vecchio first shareholder",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/28/news/delfin_clemente_del_vecchio_primo_azionista-425680278/?rss",
-      "published_date": "2026-10-28T00:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Uomo accoltellato in strada a Olbia, è in fin di vita",
+      "title": "Il gas è in calo (-2%) a 98 euro al Megawattora",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/uomo-accoltellato-in-strada-a-olbia-e-in-fin-di-vita_b619555e-9801-408a-a87d-24bc2a93c709.html",
-      "published_date": "2026-10-27T18:00:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Government working to identify new industrial initiatives for the former Ilva",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/governo-al-lavoro-per-individuare-nuove-iniziative-industriali-per-lex-ilva_4f6c9ac9-49f3-47c7-a59f-c47d19dac64d.html",
-      "published_date": "2026-10-27T15:46:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The Pope's message at the Assisi meeting: \"There is no holy war: only peace is holy\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/27/news/papa_assisi_messaggio_pace_guerra-425679077/?rss",
-      "published_date": "2026-10-27T15:17:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Corpse of a man found in a well: the trapdoor closed with a padlock",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/cadavere-di-un-uomo-trovato-in-un-pozzo-a-lecce-si-indaga-per-omicidio-6ff24a14-5718-40a1-bcb3-4b3b6e2e30fd.html",
-      "published_date": "2026-10-27T15:17:00+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/il-gas-e-in-calo-2-a-98-euro-al-megawattora_7bada1bb-e425-471d-b711-ccab1f2ff155.html",
+      "published_date": "2026-10-29T17:19:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Jorgensen, 'ci aspetta inverno difficile, prezzi elevati per gas e petrolio'",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Ex Ilva, shock investigation: plants blocked to avoid emissions",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/ex-ilva-inchiesta-choc-bloccati-gli-impianti-per-evitare-le-emissioni-a0d08500-70a7-4748-bae0-3e3d3e807984.html",
-      "published_date": "2026-10-27T18:38:00+00:00",
-      "category": "Energy"
+      "title": "Manovra, ai neonati 1.800 euro: detrazione del 19% fino a mille euro per genitori e nonni",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/30/news/manovra_pensioni_fondo_neonati_1800_euro_detrazione_per_nonni_genitori-425685787/?rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tra taglio Irpef e flat tax premiate le partite Iva: una beffa per i dipendenti",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/10/30/news/irpef_flat_tax_premiate_partite_iva_beffa_dipendenti-425685783/?rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Scintille Fdi-Lega sulla Fornero. Il fisco divide autonomi e dipendenti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/scintille-fdi-lega-sulla-fornero.-il-fisco-divide-autonomi-e-dipendenti_b2dabd79-7a26-4357-8767-9d6e322c5baf.html",
+      "published_date": "2026-10-29T19:31:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Il computer quantistico che usa la luce: la sfida di una startup di Latina con la Sapienza",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/il-computer-quantistico-che-usa-luce-sfida-una-startup-latina-la-sapienza-AJzV5UyB",
+      "published_date": "2026-10-29T18:49:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manovra: sulla Borsa il peso della Tobin Tax, Assonime: 'Ora meno competitiva'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/manovra-sulla-borsa-il-peso-della-tobin-tax-assonime-ora-meno_adb5e1b0-a298-4626-b497-8beea19f4646.html",
+      "published_date": "2026-10-29T18:14:24+00:00",
+      "category": "Economy"
     },
     {
       "title": "L'utile di Amplifon nel terzo trimestre cresce del 38,7% a 26,6 milioni euro",
@@ -529,39 +564,67 @@
       "category": "Economy"
     },
     {
-      "title": "Targhe personalizzate anche in Italia: costi e tempi della novità",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/targhe-personalizzate-anche-in-italia-costi-e-tempi-della-novita-5f4e8b2b-8ab7-4afb-bf0a-7b621648e22d.html",
-      "published_date": "2026-10-29T13:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Manovra, Meloni torna ad attaccare l’Istat. Crosetto: in 2 anni neanche un euro in più per la difesa",
+      "title": "Reintegro dei medici No vax, FdI teme lo stop del Colle. FI preme per le modifiche",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/29/news/bruno_vespa_anticipazione_libro_meloni_trump-425684202/?rss",
-      "published_date": "2026-10-29T12:32:38+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/10/30/news/medici_no_vax_legge_reintegro_stop_quirinale-425685566/?rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Più grandi, ma non più innovative: le imprese italiane giocano in difesa",
+      "title": "“Io mamma sarò in piazza, giusto stare con i ragazzi”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/29/news/istat_censimento_imprese_2025_dimensioni_intelligenza_artificiale-425684267/?rss",
-      "published_date": "2026-10-29T11:56:54+00:00",
-      "category": "Economy"
+      "url": "https://bologna.repubblica.it/cronaca/2026/10/30/news/nicoletta_cantarini_mamma_piazza_bologna_contro_violenza_polizia-425685814/?rss",
+      "published_date": "2026-10-30T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Bonus mamme, congedi parentali e fondo per la natalità: ecco le tre misure per la famiglia in manovra",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/bonus-mamme-congedi-parentali-e-fondo-la-natalita-ecco-tre-misure-la-famiglia-manovra-AJpFTtxB",
-      "published_date": "2026-10-29T11:06:00+00:00",
-      "category": "Economy"
+      "title": "Pensioni, FdI e Forza Italia all’attacco della nuova Quota 100. La Lega: decisione già presa",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/29/news/pensioni_fdi_forza_italia_attaccano_quota_100_lega-425685711/?rss",
+      "published_date": "2026-10-29T21:09:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Gdf Padova, scoperti 11 content creator sconosciuti al fisco",
+      "title": "Riunione dei leader di campo largo, confronto su manovra e roadmap",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/gdf-padova-scoperti-11-content-creator-sconosciuti-al-fisco_a5b1492d-ad28-4730-873a-31358d4c3a38.html",
-      "published_date": "2026-10-29T10:23:08+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/riunione-dei-leader-di-campo-largo-confronto-su-manovra-e-roadmap_73fbff9b-6580-46d7-9c40-6988a42843cc.html",
+      "published_date": "2026-10-29T20:44:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Allerta sicurezza per domani, il Viminale 'isoleremo i violenti'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/allerta-sicurezza-per-domani-il-viminale-isoleremo-i-violenti-_99d186a2-8b27-442f-b637-bc226fa79102.html",
+      "published_date": "2026-10-29T20:15:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": ">>>ANSA/Cateno De Luca vuol contare nel centrodestra, \"voto a maggio\"",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansacateno-de-luca-vuol-contare-nel-centrodestra-voto-a-maggio_1d932b47-d181-4679-82c8-62b8f04bf021.html",
+      "published_date": "2026-10-29T20:13:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": ">ANSA-BOX/ Vannacci lancia un segnale a Meloni, 'vuol far vincere la sinistra?'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansa-box-vannacci-lancia-un-segnale-a-meloni-vuol-far-vincere-la-sinistra_4e83c538-b12b-48ba-994f-6a3b659ad59c.html",
+      "published_date": "2026-10-29T20:13:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella, cordoglio per la morte dei militari nel tragico incidente in Bosnia",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/mattarella-cordoglio-per-la-morte-dei-militari-nel-tragico-incidente-in-bosnia_43fc45ca-e08c-4bf5-ae3f-aa1c5440dea1.html",
+      "published_date": "2026-10-29T19:13:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni, 'tragico incidente in Bosnia, profondo dolore per le vittime'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-tragico-incidente-in-bosnia-profondo-dolore-per-le-vittime_a0a4323b-f37c-4800-9428-9db04b69f592.html",
+      "published_date": "2026-10-29T19:10:16+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Meloni: 'Non mi pento di essere stata vicina a Trump, difendevo l'interesse nazionale'",
@@ -606,10 +669,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Cortei, Youssef Siher è libero. Chiesta in Csm tutela della gip che ha disposto scarcerazione",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/cortei-gip-scarcera-youssef-siher-nessuna-misura-cautelare-6b85c80f-0d93-486f-ada2-3d1cb62c3776.html",
+      "published_date": "2026-10-29T14:20:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "'La tempesta dell'election day', in arrivo forti temporali negli Usa alle midterm",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/la-tempesta-dellelection-day-in-arrivo-forti-temporali-negli-usa-alle-midterm_7c65b162-15ed-4f50-b260-c609dbafb32c.html",
       "published_date": "2026-10-29T14:12:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex Ilva, Cassazione rigetta i ricorsi: stop all’area a caldo a Taranto. Palazzo Chigi: prendiamo atto",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/ex-ilva-cassazione-rigetta-ricorsi-contro-stop-area-caldo-taranto-AJ1S54xB",
+      "published_date": "2026-10-29T13:32:00+00:00",
       "category": "Local Events"
     },
     {
@@ -624,83 +701,6 @@
       "source": "Rai News",
       "url": "https://www.rainews.it/articoli/2026/10/arrivano-le-targhe-auto-personalizzate-meloni-si-potra-fare-con-un-costo-la-d4106358-83d4-431c-8a24-dca92fdd2174.html",
       "published_date": "2026-10-29T13:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni battezza l’alleanza con Sud chiama Nord. E Cateno De Luca svela la data del voto: 9-10 maggio",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/meloni-battezza-l-alleanza-sud-chiama-nord-sindaci-eroi-politica-AJ79DrxB",
-      "published_date": "2026-10-29T11:10:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, garantire a giovani diritto di restare e di tornare",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-garantire-a-giovani-diritto-di-restare-e-di-tornare_f4b0cb14-8c42-494d-a4bf-5572f0aac2fb.html",
-      "published_date": "2026-10-29T11:07:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, sindaci eroi della politica, primo volto dello Stato",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-sindaci-eroi-della-politica-primo-volto-dello-stato_9ba64175-77c1-458d-95b7-b24a337d83f5.html",
-      "published_date": "2026-10-29T10:51:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alla presidente Semenzato l'Italian Political Awards 2026",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/alla-presidente-semenzato-litalian-political-awards-2026_fb7a4454-c247-4dbe-b308-e19d4380e709.html",
-      "published_date": "2026-10-29T09:36:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intesa Sanpaolo e Ferrari, le aziende dove sognano di lavorare gli studenti",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/intesa-sanpaolo-e-ferrari-aziende-dove-sognano-lavorare-studenti-AJ6N4svB",
-      "published_date": "2026-10-29T07:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scioperi del 30 ottobre, l’Italia si ferma. Trenitalia: “Servizio regolare dalle 21 di oggi”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/29/news/sciopero_30_ottobre_treni_aerei_trasporti_orari_motivazioni-425682227/?rss",
-      "published_date": "2026-10-29T04:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain, train collision: carriages crash, at least 68 dead. Three Italians missing",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/maratona/2026/10/cronaca-incidente-collisione-spagna-scontro-tra-treni-precipitano-vagoni-almeno-10-morti-e-numerosi-feriti-a0b68a32-ce3f-4ab6-b519-3441d9cb78c8.html",
-      "published_date": "2026-10-29T00:58:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mps: assembly today, uphill road to Lovaglio",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-29/mps-assemblea-lovaglio-39753970/",
-      "published_date": "2026-10-29T00:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fakir implorò aiuto 23 volte prima di morire: ecco il video shock",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/29/news/fakir_richieste_aiuto_video-425682865/?rss",
-      "published_date": "2026-10-29T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Farnesina, three Italians missing in train accident in Spain",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/28/farnesina-tre-le-italiane-disperse-nellincidente-ferroviario-in-spagna_e03b1f12-1a92-4548-bcd0-628395e1750e.html",
-      "published_date": "2026-10-28T21:50:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella contro i no vax: “Contrastare chi avvelena opinione su vaccini, posizioni sconcertanti”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/28/news/mattarella_no_vax_vaccini_posizioni_sconcertanti-425681259/?rss",
-      "published_date": "2026-10-28T20:56:22+00:00",
       "category": "Local Events"
     }
   ]
