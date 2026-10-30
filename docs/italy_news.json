@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-10-30T02:19:26.852466+00:00",
+  "last_updated": "2026-10-30T17:00:29.105099+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,62 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Strage di Castel D'Azzano, tre carabinieri indagati per omicidio colposo",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/strage-di-castel-dazzano-tre-carabinieri-indagati-per-omicidio-colposo_d5bcdaa5-d2d1-4763-86c0-c5150e144f46.html",
+      "published_date": "2026-10-30T16:39:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Elicottero caduto, Crosetto stringe la mano di un ferito 'l'Italia è qui'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-caduto-crosetto-stringe-la-mano-di-un-ferito-litalia-e-qui_2f8d7b15-d4aa-44ae-b30c-55b7820275bf.html",
+      "published_date": "2026-10-30T15:51:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Parto in bus a Bologna, donna aiutata dalla conducente e dalle passeggere",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/parto-in-bus-a-bologna-donna-aiutata-dalla-conducente-e-dalle-passeggere_c9810a87-68ce-45ff-aa1b-f4ba16519701.html",
+      "published_date": "2026-10-30T12:15:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Operai si arrampicano su una gru per una protesta legata alle retribuzioni",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/operai-si-arrampicano-su-una-gru-per-una-protesta-legata-alle-retribuzioni_a4f1d14e-24da-4fca-b4dc-e4737b7b2342.html",
+      "published_date": "2026-10-30T11:46:54+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Elicottero precipitato in Bosnia, a Roma uno spazio per il ricordo delle vittime",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/elicottero-precipitato-bosnia-roma-spazio-il-ricordo-vittime-AJuY9AzB",
+      "published_date": "2026-10-30T11:09:31+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sciopero ad Ancona, minuto di silenzio per gli operai morti a Fincantieri",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/sciopero-ad-ancona-minuto-di-silenzio-per-gli-operai-morti-a-fincantieri_64b1b4b1-4c25-4488-93e2-9b47fee56c78.html",
+      "published_date": "2026-10-30T10:45:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "La Ue accelera sui droni: nascono i primi hub tecnologici in Lettonia e Olanda",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/la-ue-accelera-droni-nascono-primi-hub-tecnologici-lettonia-e-olanda-AJhpn7yB",
+      "published_date": "2026-10-30T10:29:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eufor Althea, la missione di cui faceva parte l'elicottero italiano",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/althea-dal-2004-la-missione-ue-in-bosnia-a-guida-italiana-6dedea91-b2a4-4c17-9c14-6b45ddb35a61.html",
+      "published_date": "2026-10-30T05:02:00+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Al Copasir gli aiuti per Kiev, Guido Crosetto avvisa gli alleati: “È l’ora di metterci la faccia”",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/politica/2026/10/30/news/guido_crosetto_copasir_aiuti_ucraina-425685635/?rss",
@@ -228,60 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "Media, El Salvador deploys 1,300 soldiers to Haiti",
+      "title": "Borsa: Milano resta debole (-0,7%) dopo l'avvio di Wall street, corre il gas",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/media-el-salvador-schiera-1.300-militari-ad-haiti_5cc84ad2-e771-4966-9949-db8ec56d04fd.html",
-      "published_date": "2026-10-29T01:14:55+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-resta-debole-07-dopo-lavvio-di-wall-street-corre-il-gas_2f1aa1a5-64ef-464b-96dc-e2331ec58dab.html",
+      "published_date": "2026-10-30T13:53:53+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Peruvian Air Force presents Leo XIV's 'Papacopter', it is a Mi-17",
+      "title": "Borsa: l'Europa incerta attende Wall Street, Milano debole (-0,7%)",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/29/laeronautica-peruviana-presenta-il-papacottero-di-leone-xiv-e-un-mi-17_357d9a30-f9e2-4899-93ff-95be48a00724.html",
-      "published_date": "2026-10-29T00:55:48+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-leuropa-incerta-attende-wall-street-milano-debole-07_d53d9b6f-0d0f-4cbe-9911-451d6778a9cb.html",
+      "published_date": "2026-10-30T10:55:21+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Eisenkot, 'I will act for a government of Zionist change and for military conscription'",
+      "title": "Snam celebra 85 anni al servizio dell'Italia",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/28/eisenkot-agiro-per-un-governo-del-cambiamento-sionista-e-per-la-leva-militare_319d7d5b-b9ec-4f10-a35a-2f6b3c25d427.html",
-      "published_date": "2026-10-28T20:17:11+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/snam-celebra-85-anni-al-servizio-dellitalia_2aa548b6-e9db-4726-8658-dc6c787507f4.html",
+      "published_date": "2026-10-30T10:30:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "There is no defense without Europe, there is no Europe without defense. Nones writes",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/non-ce-difesa-senza-europa-non-ce-europa-senza-difesa-scrive-nones/",
-      "published_date": "2026-10-28T16:14:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mattarella: 'Senseless wars and military projects take resources away from medicine. Fake news against vaccines is destructive'",
+      "title": "Il gas corre (+5%) e supera i 100 euro al Megawattora",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_99ab9e81-544d-4f94-8bc1-666ad0386c9b.html",
-      "published_date": "2026-10-28T15:50:33+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-gas-corre-5-e-supera-i-100-euro-al-megawattora_b5eaa921-2c5c-4c66-9650-0c57b8a9c200.html",
+      "published_date": "2026-10-30T10:28:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Drones for the delivery of test tubes and urgent medicines in Niguarda",
+      "title": "Scornajenchi, 'emergenza saggia il livello della sicurezza energetica'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/a-niguarda-droni-per-la-consegna-di-provette-e-farmaci-urgenti_e15c379d-00a4-4c02-a082-51bddc39ea19.html",
-      "published_date": "2026-10-28T14:01:43+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/scornajenchi-emergenza-saggia-il-livello-della-sicurezza-energetica_de39690f-d1cf-465a-a785-bd566a8d8007.html",
+      "published_date": "2026-10-30T10:21:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Mattarella, senseless wars and military projects take resources away from medicine",
+      "title": "Borsa: Milano in calo, scivola Amplifon",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_2434bbb4-fe63-44db-a41b-77a8b16343a5.html",
-      "published_date": "2026-10-28T11:13:14+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-in-calo-scivola-amplifon_e01f5acb-539f-49f4-8adf-6910b5c19d51.html",
+      "published_date": "2026-10-30T09:07:42+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Children instead of soldiers: the revolution of the \"Knockers\" in the streets of Genoa",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/10/28/news/bambini_al_posto_dei_militari_la_rivoluzione_knockers_nelle_strade_di_genova_arci_infanzia_adolescenza_silvia_salis_matteo-425680823/?rss",
-      "published_date": "2026-10-28T08:45:38+00:00",
-      "category": "Military"
+      "title": "«Con il gas a 100 euro al MWh l’industria non regge, servono misure immediate»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/con-gas-100-euro-mwh-l-industria-non-regge-servono-misure-immediate-AJi9CayB",
+      "published_date": "2026-10-30T05:06:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Al Quirinale la cerimonia degli Eni Award 2026 con il presidente Sergio Mattarella",
+      "source": "AGI",
+      "url": "https://www.agi.it/economia/news/2026-10-29/eni-award-ricerca-energia-ambiente-39773209/",
+      "published_date": "2026-10-29T20:09:01+00:00",
+      "category": "Energy"
     },
     {
       "title": "Il gas è in calo (-2%) a 98 euro al Megawattora",
@@ -368,60 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Ismea, 40 million for mills to support the olive oil supply chain",
+      "title": "Borsa: Milano chiude in calo, Ftse Mib -1%",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/ismea-40-milioni-per-i-frantoi-a-sostegno-della-filiera-olivicola-olearia_44e830b0-1b82-486a-b5f6-329f2d9ee48f.html",
-      "published_date": "2026-10-28T14:17:38+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/borsa-milano-chiude-in-calo-ftse-mib-1_7a5244d8-18d8-477f-a5b6-e9adeada0120.html",
+      "published_date": "2026-10-30T16:40:32+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Pichetto: \"The energy challenge for Italy is greater self-sufficiency\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-28/energia-pichetto-autosufficienza-carburanti-39747529/",
-      "published_date": "2026-10-28T14:00:10+00:00",
-      "category": "Energy"
+      "title": "ELT Group tra le 70 eccellenze del Made in Italy premiate da Deloitte",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/10/elt-group-tra-le-70-eccellenze-del-made-in-italy-premiate-da-deloitte/",
+      "published_date": "2026-10-30T14:11:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Confindustria Energia celebrates 20 years, competitiveness remains at the center",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-28/confindustria-energia-anniversario-competitivita-39746821/",
-      "published_date": "2026-10-28T13:11:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The price of gas is close to 100 euros per megawatt hour",
+      "title": "Inps, ad agosto 126.363 domande di disoccupazione, +7,6%",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/il-prezzo-del-gas-sfiora-i-100-euro-al-megawattora_34500e0f-ad33-41bf-ab37-3ed722c340b8.html",
-      "published_date": "2026-10-28T12:20:29+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/inps-ad-agosto-126.363-domande-di-disoccupazione-76_686a1ae6-7ec0-4053-aabe-d429c81fc7f1.html",
+      "published_date": "2026-10-30T11:37:27+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Cruise ship suspends round-the-world trip: fuel too expensive",
+      "title": "Istat, a settembre retribuzioni +2,5%, crescita inferiore a inflazione",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-a-settembre-retribuzioni-25-crescita-inferiore-a-inflazione_606797b8-f757-4c9e-88fb-eb2b4a6b55d5.html",
+      "published_date": "2026-10-30T11:24:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Panetta, contesto incerto, Italia prosegua su strada prudenza di bilancio",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/panetta-contesto-incerto-italia-prosegua-su-strada-prudenza-di-bilancio_f0807a1b-9922-4f14-a444-ebb203a82c18.html",
+      "published_date": "2026-10-30T10:17:51+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Istat, l'inflazione a ottobre sale al 5,4%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-linflazione-a-ottobre-sale-al-54_2a756b89-ccf5-4f47-83b4-6d4d17ef4455.html",
+      "published_date": "2026-10-30T10:12:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fiumicino, accordo Adr-sindacati sul piano di sviluppo da 9 miliardi",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/nave-crociera-sospende-giro-mondo-carburante-troppo-caro-AJfjeiwB",
-      "published_date": "2026-10-28T11:20:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Brusco (Confindustria Energia): \"Inevitable transition, focus on costs\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/video/2026-10-28/confindustria-energia-brusco-presidente-39742067/",
-      "published_date": "2026-10-28T10:33:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Mimit, fuel prices have changed little, petrol at 2.015 euros",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/mimit-prezzi-carburanti-poco-mossi-benzina-a-2015-euro_8fef5105-5f8d-4c42-8196-65cfa4d5fc50.html",
-      "published_date": "2026-10-28T09:28:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The cut in excise duties returns. 4.9 cent discount on diesel from today to November 7th",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/28/news/taglio_accise_diesel_7_novembre_cent-425680678/?rss",
-      "published_date": "2026-10-28T08:13:35+00:00",
-      "category": "Energy"
+      "url": "https://www.ilsole24ore.com/art/fiumicino-accordo-adr-sindacati-piano-sviluppo-9-miliardi-AJ97fLyB",
+      "published_date": "2026-10-30T04:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Manovra, ai neonati 1.800 euro: detrazione del 19% fino a mille euro per genitori e nonni",
@@ -515,53 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "Istat, mercato del lavoro fermo a settembre. Ma crescono gli occupati a termine",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/29/news/istat_mercato_lavoro_settembre-425683757/?rss",
-      "published_date": "2026-10-29T15:26:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bce, Lagarde lascerà il 7 febbraio. La presidente verso il World Economic Forum",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/29/news/lagarde_lascia_bce_7_febbraio-425683908/?rss",
-      "published_date": "2026-10-29T15:20:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Il debito federale Usa al 100% del pil, prima volta dal 1946. Accelera l'inflazione al 3,6%",
+      "title": "Boom dell'inflazione, a ottobre a 5,4%. Mattarella: \"Tenore di vita dei cittadini aggredito\"",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/il-debito-federale-usa-al-100-del-pil-prima-volta-dal-1946_819f09da-ba0a-4c48-952f-c237e4c1a985.html",
-      "published_date": "2026-10-29T15:20:24+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/mattarella-il-tenore-di-vita-dei-cittadini-aggredito-da-inflazione-e-salari-che-non_fbf81388-8261-49c1-b8fb-51bac0327c85.html",
+      "published_date": "2026-10-30T14:56:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Firpo (Assonime), su Tobin Tax intervento pesante, Borsa meno competitiva",
+      "title": "Botta e risposta tra Meloni e Vannacci: 'Governo senza ricatti', la replica del generale: 'Mi interessa il mio partito'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/firpo-assonime-su-tobin-tax-intervento-pesante-borsa-meno-competitiva_b2725b69-4486-4109-98f0-0fd25f06a49d.html",
-      "published_date": "2026-10-29T15:05:24+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_56e01653-b4ce-40aa-a3f8-78a42410105a.html",
+      "published_date": "2026-10-30T14:39:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Borsa: l'Europa resta solida con Lagarde, lo spread a 114 punti base",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-leuropa-resta-solida-con-lagarde-lo-spread-a-114-punti-base_13ef4db5-c20f-4390-a4bc-647b929d69df.html",
-      "published_date": "2026-10-29T14:45:07+00:00",
-      "category": "Economy"
+      "title": "Mattarella: \"Il risparmio è una risorsa vitale per le famiglie e la società\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-10-30/mattarella-finanza-speculativa-39780915/",
+      "published_date": "2026-10-30T13:13:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Borsa: l'Europa positiva dopo i dati Usa e la Bce, Milano cauta (+0,3%)",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/borsa-leuropa-positiva-dopo-i-dati-usa-e-la-bce-milano-cauta-03_52da77fe-c318-4408-9a97-c6469d11a6c5.html",
-      "published_date": "2026-10-29T13:32:16+00:00",
-      "category": "Economy"
+      "title": "Sciopero generale dei sindacati di base, cortei nelle città blindate",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/sciopero-generale-dei-sindacati-di-base-cortei-nelle-citta-blindate-94a0afc2-f85f-4081-b4e7-3bbda5b53972.html",
+      "published_date": "2026-10-30T12:43:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "L'Italia guida il progetto Ue da 3 milioni di euro per le reti 6G",
+      "title": "A Bologna il corteo entra in tangenziale",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/litalia-guida-il-progetto-ue-da-3-milioni-di-euro-per-le-reti-6g_83e3c6fe-8e7d-4741-80dd-7755b8c23360.html",
-      "published_date": "2026-10-29T13:24:56+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/a-bologna-il-corteo-entra-in-tangenziale_067cdebe-6022-4320-a477-693799479ea9.html",
+      "published_date": "2026-10-30T12:28:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giorgetti, alta inflazione 'drammatica conseguenza' caro energia",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/giorgetti-alta-inflazione-drammatica-conseguenza-caro-energia_66a5e9a7-99ef-4a0a-a294-ebee55874fa0.html",
+      "published_date": "2026-10-30T12:25:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il risparmio nella società che cambia, l'evento all'Acri. Panetta: \"L'economia tiene ma rischi da prezzi e tassi\". Patuelli: \"La Manovra preoccupa\". Giorgetti: \"È prudente, più di quanto molti avrebbero voluto\"",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/il-risparmio-nella-societa-che-cambia-levento-allacri.-panetta-leconomia-tiene_b5252b0c-c7eb-4894-911f-9ac6fdd19838.html",
+      "published_date": "2026-10-30T12:24:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giorgetti, tutti devono contribuire, per le banche oneri significativi ma assorbibili",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/giorgetti-tutti-devono-contribuire-per-le-banche-oneri-significativi-ma-assorbibili_fda339ba-2b51-4bb1-8bb2-eba3fa08df7f.html",
+      "published_date": "2026-10-30T12:20:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Partorisce in bus sulla linea urbana 39 a Bologna, aiutata da autista e passeggere",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/10/partorisce-in-bus-sulla-linea-urbana-39-a-bologna-aiutata-da-autista-e-passeggere-c6a3fec3-221e-424c-a464-6ee568371758.html",
+      "published_date": "2026-10-30T12:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni chiude a Vannacci, chiederò agli italiani di governare senza ricatti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-chiude-a-vannacci-chiedero-agli-italiani-di-governare-senza-ricatti_824b9b7b-3c54-44d0-b29a-4e5886b41818.html",
+      "published_date": "2026-10-30T11:50:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messina, nessun incremento dell'offerta su Mps",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/messina-nessun-incremento-dellofferta-su-mps_d133e7ad-37c4-4209-90e5-77e75ec853eb.html",
+      "published_date": "2026-10-30T11:47:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni, l'appoggio a Kiev può avere un prezzo politico ma non cambio posizione",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-lappoggio-a-kiev-puo-avere-un-prezzo-politico-ma-non-cambio-posizione_059bfb3d-758d-4996-9d13-531f5b9c0a17.html",
+      "published_date": "2026-10-30T11:43:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: tenore di vita cittadini aggredito da inflazione e salari che non crescono",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/mattarella-tenore-vita-cittadini-aggredito-inflazione-e-salari-che-non-crescono-AJZ356yB",
+      "published_date": "2026-10-30T09:46:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella, piena integrazione europea è difesa a finanza speculativa",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/mattarella-piena-integrazione-europea-e-difesa-a-finanza-speculativa_e052ee3a-3b62-4062-99a5-a5c5889ee48b.html",
+      "published_date": "2026-10-30T09:33:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sciopero a Napoli bruciato, manifesto con Meloni e Bernini",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/sciopero-a-napoli-bruciato-manifesto-con-meloni-e-bernini_0b857f40-7f65-4387-bc19-f744d26a0f06.html",
+      "published_date": "2026-10-30T09:29:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni ricorda militari morti in Bosnia, 4 vite spezzate mentre servivano l'Italia",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/30/meloni-ricorda-militari-morti-in-bosnia-4-vite-spezzate-mentre-servivano-litalia_9ff1cc3a-9684-4367-802a-3f98f705fce4.html",
+      "published_date": "2026-10-30T09:11:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roma, il villaggio della Difesa diventa un \"spazio di raccoglimento e memoria\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/roma-il-villaggio-della-difesa-diventa-un-spazio-di-raccoglimento-e-memoria-0ac8b284-cf6c-4b1b-9b2c-460f2a6bc387.html",
+      "published_date": "2026-10-30T08:46:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "C’è anche l’italiana Roberta De Zio nel team del Nobel per la Medicina Hegemann",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/c-e-anche-l-italiana-roberta-de-zio-team-nobel-la-medicina-hegemann-AJs5hzyB",
+      "published_date": "2026-10-30T08:01:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Reintegro dei medici No vax, FdI teme lo stop del Colle. FI preme per le modifiche",
@@ -575,132 +701,6 @@
       "source": "la Repubblica",
       "url": "https://bologna.repubblica.it/cronaca/2026/10/30/news/nicoletta_cantarini_mamma_piazza_bologna_contro_violenza_polizia-425685814/?rss",
       "published_date": "2026-10-30T00:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pensioni, FdI e Forza Italia all’attacco della nuova Quota 100. La Lega: decisione già presa",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/29/news/pensioni_fdi_forza_italia_attaccano_quota_100_lega-425685711/?rss",
-      "published_date": "2026-10-29T21:09:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riunione dei leader di campo largo, confronto su manovra e roadmap",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/riunione-dei-leader-di-campo-largo-confronto-su-manovra-e-roadmap_73fbff9b-6580-46d7-9c40-6988a42843cc.html",
-      "published_date": "2026-10-29T20:44:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Allerta sicurezza per domani, il Viminale 'isoleremo i violenti'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/29/allerta-sicurezza-per-domani-il-viminale-isoleremo-i-violenti-_99d186a2-8b27-442f-b637-bc226fa79102.html",
-      "published_date": "2026-10-29T20:15:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": ">>>ANSA/Cateno De Luca vuol contare nel centrodestra, \"voto a maggio\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansacateno-de-luca-vuol-contare-nel-centrodestra-voto-a-maggio_1d932b47-d181-4679-82c8-62b8f04bf021.html",
-      "published_date": "2026-10-29T20:13:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": ">ANSA-BOX/ Vannacci lancia un segnale a Meloni, 'vuol far vincere la sinistra?'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/ansa-box-vannacci-lancia-un-segnale-a-meloni-vuol-far-vincere-la-sinistra_4e83c538-b12b-48ba-994f-6a3b659ad59c.html",
-      "published_date": "2026-10-29T20:13:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella, cordoglio per la morte dei militari nel tragico incidente in Bosnia",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/mattarella-cordoglio-per-la-morte-dei-militari-nel-tragico-incidente-in-bosnia_43fc45ca-e08c-4bf5-ae3f-aa1c5440dea1.html",
-      "published_date": "2026-10-29T19:13:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni, 'tragico incidente in Bosnia, profondo dolore per le vittime'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-tragico-incidente-in-bosnia-profondo-dolore-per-le-vittime_a0a4323b-f37c-4800-9428-9db04b69f592.html",
-      "published_date": "2026-10-29T19:10:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni: 'Non mi pento di essere stata vicina a Trump, difendevo l'interesse nazionale'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/29/meloni-non-mi-pento-di-essere-stata-vicina-a-trump-difendevo-linteresse-nazionale_79e9c780-c4d6-44a4-a4c4-6094e300f984.html",
-      "published_date": "2026-10-29T16:53:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fonti Mit, con precettazione Salvini treni regolari nonostante scioperi del venerdì",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/fonti-mit-con-precettazione-salvini-treni-regolari-nonostante-scioperi-del_041b5005-eaf7-40cd-8389-d8791eadb8d6.html",
-      "published_date": "2026-10-29T16:42:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salvini sente Musk e apre alla guida autonoma. Ma le regole italiane non lo permettono",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/29/news/asse_salvini_musk_guida_autonoma_norme_europee_italiane_ostacolo-425684703/?rss",
-      "published_date": "2026-10-29T16:14:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Il risparmio nella società che cambia”, l'evento all'Acri con Giorgetti",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/29/il-risparmio-nella-societa-che-cambia-levento-allacri-con-giorgetti_b5252b0c-c7eb-4894-911f-9ac6fdd19838.html",
-      "published_date": "2026-10-29T15:24:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Il passaporto italiano di Flavio Bolsonaro: il trisnonno veneto e quei dubbi dentro Montecitorio",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/28/news/passaporto_italiano_flavio_bolsonaro_perche_polemiche-425680979/?rss",
-      "published_date": "2026-10-29T14:56:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La filiera a imbuto della pianura padana: seicentocinquanta stalle per undici caseifici",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/native/2026/10/29/news/filiera_pianura_padana_seicentocinquanta_stalle_undici_caseifici-425681119/?rss",
-      "published_date": "2026-10-29T14:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cortei, Youssef Siher è libero. Chiesta in Csm tutela della gip che ha disposto scarcerazione",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/cortei-gip-scarcera-youssef-siher-nessuna-misura-cautelare-6b85c80f-0d93-486f-ada2-3d1cb62c3776.html",
-      "published_date": "2026-10-29T14:20:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'La tempesta dell'election day', in arrivo forti temporali negli Usa alle midterm",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/10/29/la-tempesta-dellelection-day-in-arrivo-forti-temporali-negli-usa-alle-midterm_7c65b162-15ed-4f50-b260-c609dbafb32c.html",
-      "published_date": "2026-10-29T14:12:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ex Ilva, Cassazione rigetta i ricorsi: stop all’area a caldo a Taranto. Palazzo Chigi: prendiamo atto",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ex-ilva-cassazione-rigetta-ricorsi-contro-stop-area-caldo-taranto-AJ1S54xB",
-      "published_date": "2026-10-29T13:32:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elezioni, impazza il toto-data e avanza l’ipotesi election day tra maggio e giugno",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/29/news/elezioni_2027_toto_data_maggio_giugno-425683944/?rss",
-      "published_date": "2026-10-29T13:30:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrivano le targhe auto e moto personalizzate: quanto costeranno e come averle",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/arrivano-le-targhe-auto-personalizzate-meloni-si-potra-fare-con-un-costo-la-d4106358-83d4-431c-8a24-dca92fdd2174.html",
-      "published_date": "2026-10-29T13:05:00+00:00",
       "category": "Local Events"
     }
   ]
