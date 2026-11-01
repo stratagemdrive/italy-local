@@ -1,6 +1,6 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-01T01:41:31.652795+00:00",
+  "last_updated": "2026-11-01T16:59:23.195898+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Helicopter crashed in Bosnia, the bodies will return to Italy tomorrow",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/elicottero-caduto-in-bosnia-domani-il-rientro-delle-salme-in-italia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
+      "published_date": "2026-11-01T15:41:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Pasdaran, 'we are identifying new objectives and scenarios for war operations'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/pasdaran-stiamo-individuando-nuovi-obiettivi-e-scenari-per-le-operazioni-belliche_29bd22d8-555e-455c-81a0-eb8a179f128d.html",
+      "published_date": "2026-11-01T11:55:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Assoutenti, the war makes prices skyrocket, courgettes +31% in October",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/assoutenti-la-guerra-fa-schizzare-i-prezzi-zucchine-31-a-ottobre_7b2133da-31b8-4378-9111-9db270ef23d7.html",
+      "published_date": "2026-11-01T10:42:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Central African Republic, army foils militiamen's attempt to seize power",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/01/repubblica-centrafricana-esercito-sventa-tentativo-di-presa-del-potere-dei-miliziani_7fa3dcd8-47bc-42b0-ba2e-cd891cc69c0a.html",
+      "published_date": "2026-11-01T04:06:20+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Il Pentagono invita i baltici a moderare il bellicismo russofobo",
       "source": "Analisi Difesa",
       "url": "https://www.analisidifesa.it/2026/11/il-pentagono-invita-i-baltici-a-moderare-il-bellicismo-russofobo/",
@@ -256,32 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Flowers and cards, the Defense Village becomes a place of remembrance",
+      "title": "With EU flexibility in energy aid, green restrictions are triggered for businesses",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/fiori-e-biglietti-il-villaggio-della-difesa-diventa-luogo-del-ricordo_68c96d6b-71d4-47ee-ae58-f7145206e350.html",
-      "published_date": "2026-10-30T18:37:06+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-con-flessibilita-ue-aiuti-allenergia-per-le-imprese-scatta-vincolo-green_a29c2f19-0469-4735-9f6b-22cbf831b49a.html",
+      "published_date": "2026-11-01T12:44:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Strage di Castel D'Azzano, tre carabinieri indagati per omicidio colposo",
+      "title": "Mimit, fuels decreasing, average self-service petrol price at 2.010 euros, diesel at 2.241",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/strage-di-castel-dazzano-tre-carabinieri-indagati-per-omicidio-colposo_d5bcdaa5-d2d1-4763-86c0-c5150e144f46.html",
-      "published_date": "2026-10-30T16:39:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elicottero caduto, Crosetto stringe la mano di un ferito 'l'Italia è qui'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/elicottero-caduto-crosetto-stringe-la-mano-di-un-ferito-litalia-e-qui_2f8d7b15-d4aa-44ae-b30c-55b7820275bf.html",
-      "published_date": "2026-10-30T15:51:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Helicopter crashed in Bosnia, causes still to be clarified: mechanical failure is assumed",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/elicottero-caduto-in-bosnia-ancora-da-chiarire-le-cause-si-ipotizza-guasto-meccanico-8a322e45-ae37-4a18-b502-aee4ad1fd0b8.html",
-      "published_date": "2026-10-30T13:23:00+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/mimit-carburanti-in-calo-prezzo-medio-self-benzina-a-2010-euro-gasolio_0881de2f-b3ea-44f3-a6c5-41710f016229.html",
+      "published_date": "2026-11-01T10:42:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Not just expensive fuel: record increases in technology and fresh food in October, but butter and oil are falling",
@@ -410,24 +424,136 @@
       "category": "Energy"
     },
     {
-      "title": "«Con il gas a 100 euro al MWh l’industria non regge, servono misure immediate»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/con-gas-100-euro-mwh-l-industria-non-regge-servono-misure-immediate-AJi9CayB",
-      "published_date": "2026-10-30T05:06:26+00:00",
-      "category": "Energy"
+      "title": "Maneuver, 358 million for social safety nets, 15 to the former Ilva",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-358-milioni-per-gli-ammortizzatori-sociali-15-allex-ilva_5ede8088-70aa-4a89-9838-60c45da229bf.html",
+      "published_date": "2026-11-01T16:45:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Al Quirinale la cerimonia degli Eni Award 2026 con il presidente Sergio Mattarella",
+      "title": "Maneuver: 2 million more per year for women's freedom income",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-per-il-reddito-di-liberta-delle-donne-2-milioni-in-piu-allanno_3f8f3966-a844-4abd-8dea-2982f07b2664.html",
+      "published_date": "2026-11-01T16:44:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver halves anti-seismic funds for public buildings in 2027 and 2028",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-dimezza-i-fondi-antisismici-per-gli-edifici-pubblici-nel-2027_9601cc98-a573-4f3c-ba93-87b766ce59de.html",
+      "published_date": "2026-11-01T16:42:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver: With the flexibility of EU energy aid, a green restriction is triggered for companies",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-bonus-giorgetti-confermato-piu-soldi-in-busta-paga-a-chi-rinvia_20031262-e476-45eb-82ee-0356dd37c56f.html",
+      "published_date": "2026-11-01T16:05:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver: 17 million for floods in Emilia-Romagna, Marche and Tuscany",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/manovra-17-milioni-per-le-alluvioni-in-emilia-romagna-marche-e-toscana_4faf2862-7169-46b2-a1fc-5f2356ece1f0.html",
+      "published_date": "2026-11-01T16:02:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Mini parcels, the 2 euro contribution has been abolished",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/mini-pacchi-abolito-contributo-2-euro-AJvxM90B",
+      "published_date": "2026-11-01T15:15:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver: tightening of magistrates' salary increases, criteria revised",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-stretta-sugli-aumenti-degli-stipendi-dei-magistrati-rivisti-i-criteri_92f8d3d9-313d-4e9f-8c48-8fedb07ba2b3.html",
+      "published_date": "2026-11-01T14:33:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, green light for the Quirinale. The measures: 5.8 billion from the banks, pension tightening, flat tax",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/manovra-via-libera-del-quirinale-trasmessa-alla-presidenza-della-camera-8ab054c7-006a-416a-8ad3-4e94e09f07df.html",
+      "published_date": "2026-11-01T14:10:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver: for the climate plan management at Mase and appointments in derogation, Pnrr model",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-per-il-piano-clima-regia-al-mase-e-nomine-in-deroga-modello-pnrr_3fb0911e-61f8-4c3e-ab9c-b48a66c7d5c8.html",
+      "published_date": "2026-11-01T13:09:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, it's a clash over schools and pensions",
       "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-10-29/eni-award-ricerca-energia-ambiente-39773209/",
-      "published_date": "2026-10-29T20:09:01+00:00",
-      "category": "Energy"
+      "url": "https://www.agi.it/economia/news/2026-11-01/manovra-tagli-scuola-pensioni--39807614/",
+      "published_date": "2026-11-01T12:46:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Even among small banks, fears about the impact of the maneuver, 'threshold is low'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/anche-fra-piccole-banche-timori-su-impatto-manovra-soglia-e-bassa_016d5765-b524-4baa-b253-53e9dc02ae32.html",
+      "published_date": "2026-11-01T12:45:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Conte, it's really the Halloween maneuver, money for weapons and cuts on everything. Chilling",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/conte-e-proprio-la-manovra-di-halloween-soldi-per-armi-e-tagli-su-tutto.-da-brividi_5b5f4e70-670c-4518-84ba-c6adb1b7681b.html",
+      "published_date": "2026-11-01T11:47:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, postponement for Superbonus compensations, spread over 10 years",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-rinvio-per-le-compensazioni-del-superbonus-spalmate-su-10-anni_bc3f2d8b-0070-4d02-ba7a-ecdf5dda2a42.html",
+      "published_date": "2026-11-01T10:43:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, clash over the school. Banks still under fire",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
+      "published_date": "2026-11-01T09:33:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver 2027, the 19 measures for families, young people, homes, businesses and welfare",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/manovra-2027-bonus-agevolazioni-e-incentivi-ecco-19-misure-famiglie-giovani-casa-imprese-e-welfare-AJpXyx0B",
+      "published_date": "2026-11-01T08:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Photovoltaic, 1.2 billion euros arriving to push plants up to 1 MW",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/fotovoltaico-arrivo-12-miliardi-euro-spingere-impianti-fino-1-mw-AJfUik0B",
+      "published_date": "2026-11-01T06:18:52+00:00",
+      "category": "Economy"
     },
     {
       "title": "Fumarola: “Il taglio di 7 mila posti nella scuola va ritirato. No alla flat tax allargata”",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/31/news/fumarola_cisl_no_a_taglio_scuola_flat_tax_stretta_pensioni-425690812/?rss",
       "published_date": "2026-10-31T21:51:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, the main measures in a nutshell",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-le-principali-misure-in-pillole_f5cb7876-7b38-43ac-b235-f21dc2593c8c.html",
+      "published_date": "2026-10-31T19:27:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Banks and healthcare: the political clash in Italy",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/10/banche-e-sanita-scontro-politico-in-italia-984da8e1-30e5-428e-b192-5556f235936f.html",
+      "published_date": "2026-10-31T18:21:00+00:00",
       "category": "Economy"
     },
     {
@@ -438,269 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Giovani 'cari' per le pmi, ogni 100 euro in busta paga all'azienda ne costa 180",
+      "title": "Broker killed in a car park in Arezzo, a young man arrested",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/cna-100-euro-ai-giovani-allazienda-ne-costano-oltre-180-piu-degli_4090eca8-63aa-4c41-a708-ae579c16d08c.html",
-      "published_date": "2026-10-31T16:38:40+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/broker-di-61-anni-trovato-morto-vicino-la-sua-auto-fermato-un-29enne_391c5158-866b-42b5-8df9-4b9911851a11.html",
+      "published_date": "2026-11-01T16:48:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Maneuver: flat tax up to 100 thousand euros, costs 300 million when fully operational",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-flat-tax-fino-a-100mila-euro-costa-300-milioni-a-regime_e6ecdafa-431a-4e31-8e33-c04c6277964d.html",
-      "published_date": "2026-10-31T15:46:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The real income of EU families grows by just 0.1%, prices soar",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/il-reddito-reale-delle-famiglie-ue-cresce-appena-dello-01-volano-i-prezzi_8beb2927-1129-4273-8249-39e51b5b9782.html",
-      "published_date": "2026-10-31T15:46:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver, by ministries spending cuts of 4.7 billion in three years",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-dai-ministeri-tagli-alla-spesa-per-47-miliardi-in-tre-anni_9cef3938-5e85-4b37-91e2-4455c3fa2e6e.html",
-      "published_date": "2026-10-31T15:43:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula's encore presents the interests",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/31/news/il_bis_di_lula_presenta_gli_interessi-425686292/?rss",
-      "published_date": "2026-10-31T15:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver: the distribution of funds for nursery schools is reviewed. Unions and oppositions on the attack. Ministries will cut spending by 4.7 billion over three years",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
-      "published_date": "2026-10-31T14:47:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Not just Gcap, because Brexit has not stopped trade with Rome",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/non-solo-gcap-perche-la-brexit-non-ha-fermato-gli-scambi-con-roma/",
-      "published_date": "2026-10-31T14:35:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tax on rich people who leave Italy. Here's who pays and how much",
+      "title": "Mideterm, the voting map in America: the numbers of the challenge",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/manovra-entra-anche-tassa-super-ricchi-che-lasciano-l-italia-ecco-chi-paga-e-quanto-AJAOrP0B",
-      "published_date": "2026-10-31T14:23:00+00:00",
-      "category": "Economy"
+      "url": "https://www.ilsole24ore.com/art/mideterm-mappa-voto-america-numeri-sfida-AJdnXC1B",
+      "published_date": "2026-11-01T16:47:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "School: staff cuts in progress, more funding for private schools and digital books at controlled prices",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/31/news/scuola_manovra_tagli_fondi_paritarie_libri_digitali-425689860/?rss",
-      "published_date": "2026-10-31T14:20:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Valle d'Aosta, Bovard: viticulture and our work risk changing",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/valle-d-aosta-bovard-viticoltura-e-nostro-lavoro-rischiano-cambiare-AJ9AdQ0B",
-      "published_date": "2026-10-31T14:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From inflation to AI: Halloween ghosts for savers",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/diritti-e-consumi/risparmio/2026/10/31/news/dall_inflazione_all_ia_i_fantasmi_di_halloween_per_i_risparmiatori-425689911/?rss",
-      "published_date": "2026-10-31T14:01:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "VAT numbers, the tax discount on sales agents' cars increases",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/partite-iva-sale-sconto-fiscale-auto-agenti-commercio-AJPChIzB",
-      "published_date": "2026-10-31T13:52:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "One hundred euros in the piggy bank of newborns is not enough: it is better to select poor families",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/31/news/cento_euro_nel_salvadanaio_dei_nuovi_nati_sono_pochi_meglio_selezionare_le_famiglie_povere-425689866/?rss",
-      "published_date": "2026-10-31T13:30:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "It's already expensive for Christmas flights, 430 euros to fly from Milan to Reggio Calabria. Ping pong flights to save money",
+      "title": "Found dead in a swimming pool in the Como area, ex-husband arrested",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/e-gia-caro-voli-di-natale-430-euro-per-volare-da-milano-a-reggio_46a93fbe-b91c-4b50-9e06-1eab612d0808.html",
-      "published_date": "2026-10-31T13:29:02+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/morta-nella-piscina-di-casa-nel-comasco-arrestato-lex-marito_4ca017c1-3daa-4120-b2ad-789d90ed8fb7.html",
+      "published_date": "2026-11-01T16:39:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Manovra, via libera del Quirinale. Le misure: 5,8 miliardi da banche, stretta pensioni, flat tax",
+      "title": "Bloody Halloween in Texas, 4 dead and 15 injured in three shootings in Dallas",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/halloween-di-sangue-in-texas-4-morti-e-15-feriti-in-tre-sparatorie-a-dallas_9b40ff7c-7100-4f20-9ddc-77e9f300ab9c.html",
+      "published_date": "2026-11-01T16:36:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "GB, five teenagers stabbed to death at a Halloween party",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/gb-cinque-adolescenti-feriti-a-coltellate-a-una-festa-di-halloween_42e8de35-6f3a-419c-8176-cb6ab56ce0fe.html",
+      "published_date": "2026-11-01T16:11:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ancona, gunshot at the police station: 26-year-old officer wounded in the abdomen",
       "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/10/manovra-via-libera-del-quirinale-trasmessa-alla-presidenza-della-camera-8ab054c7-006a-416a-8ad3-4e94e09f07df.html",
-      "published_date": "2026-10-31T13:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "First home mortgages for under 36s, young couples and families: the guarantee fund reaches 2029",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/mutui-prima-casa-under-36-giovani-coppie-e-famiglie-fondo-garanzia-arriva-2029-AJaryL0B",
-      "published_date": "2026-10-31T12:16:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Donne sotto i 15mila euro di reddito: a chi andrà il bonus genitori separati",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/donne-sotto-15mila-euro-reddito-chi-andra-bonus-genitori-separati-AJnJKQzB",
-      "published_date": "2026-10-31T12:10:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tax credits, a lost treasure worth 35 billion",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/31/news/i_crediti_del_fisco_un_tesoro_perduto_da_35_miliardi-425687199/?rss",
-      "published_date": "2026-10-31T12:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Modena, auto sulla folla: non fu terrorismo. La legale della vittima accusa: “Pm di centrosinistra”",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/31/news/modena_el_koudri_no_terrorismo_legale_vittima_attacca_la_pm-425690713/?rss",
-      "published_date": "2026-10-31T20:46:25+00:00",
+      "url": "https://www.rainews.it/articoli/2026/11/ancona-colpo-di-pistola-in-questura-agente-di-26-anni-ferita-alladdome-ee09a567-ec09-4308-afe2-d92cdba03a20.html",
+      "published_date": "2026-11-01T16:10:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "“Da Almasri torture e crudeltà”: bandito da Trump. L’opposizione: “Meloni persino peggio del tycoon”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/31/news/almasri_torture_crudelta_bandito_trump_avs_attacca_governo-425689689/?rss",
-      "published_date": "2026-10-31T20:02:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dopo l'intesa parte la sfida Conte-Schlein, dal M5s paletti su Renzi e Kiev",
+      "title": "Crans families fear the mockery of compensation: 'Make the Municipality Commissioner'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/conte-a-schlein-su-renzi-no-veti-personali-ma-senza-garanzie-non-ci-stiamo_fae9e782-6c12-41a5-90ab-88c433b07260.html",
-      "published_date": "2026-10-31T19:31:03+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/crans-montana-24-familiari-vittime-chiedono-il-commissariamento-del-comune_5ebd88d8-48ec-4b3d-b1a0-a341ca496ed2.html",
+      "published_date": "2026-11-01T15:59:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mattarella: \"In questo periodo è importante ribadire il senso della comunità\"",
+      "title": "Maneuver: Uil, 'school cuts weaken the country, they must be cancelled'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-uil-i-tagli-alla-scuola-indeboliscono-il-paese-vanno-cancellati_329500e0-e27f-402b-80fc-9db30df146ec.html",
+      "published_date": "2026-11-01T14:43:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murder on Halloween night: 61-year-old found dead with his head smashed in a parking lot",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/10/mattarella-in-questo-periodo-e-importante-ribadire-il-senso-della-comunita-60face97-1e14-45ce-9708-3735624574af.html",
-      "published_date": "2026-10-31T18:20:00+00:00",
+      "url": "https://www.rainews.it/articoli/2026/11/omicidio-ad-arezzo-61enne-trovato-morto-accanto-alla-sua-auto-colpito-alla-testa-c38318f4-e8af-42cd-9d8c-b5ba3427915f.html",
+      "published_date": "2026-11-01T14:33:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Salvini, io non pagherei per avere la targa personalizzata",
+      "title": "Family in the woods, mother Catherine finds a job: she will be a teacher in Rome",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/famiglia-nel-bosco-mamma-catherine-trova-lavoro-sara-docente-a-roma-4539f1b5-a1a0-4997-a18d-11c57318f970.html",
+      "published_date": "2026-11-01T13:49:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "USA, Minnesota exception in the midterms: double female challenge for Senate and governor",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/usa-alle-midterm-leccezione-minnesota-doppia-sfida-al-femminile-per-senato-e-governatore-1ec3987d-16f6-4855-b6b7-082655173e51.html",
+      "published_date": "2026-11-01T13:45:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National USB demonstration on 12 December against the cost of life and the Meloni government",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-io-non-pagherei-per-avere-la-targa-personalizzata_2253ee2f-15ff-4728-8413-38cd957cc788.html",
-      "published_date": "2026-10-31T17:46:50+00:00",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manifestazione-nazionale-usb-il-12-dicembre-contro-caro-vita-e-governo-meloni_4e6b2dab-57a1-4403-8d70-e92a3694b937.html",
+      "published_date": "2026-11-01T12:43:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Il parto sul bus, l'autista racconta 'un abbraccio di umanità'",
+      "title": "Cateno De Luca relaunches on the date of the political elections: \"Voting in May would be a ...",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-11-01/elezioni-cateno-de-luca-maggio-39814944/",
+      "published_date": "2026-11-01T12:40:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A gunshot goes off, a policewoman is injured at the police station in Ancona",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/il-parto-sul-bus-lautista-racconta-un-abbraccio-di-umanita_b4627c5c-04d2-4f71-88a3-39ad3f7e5360.html",
-      "published_date": "2026-10-31T17:40:16+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/parte-un-colpo-di-pistola-poliziotta-ferita-in-questura-ad-ancona_b374b0a2-f2d7-47cc-af90-a788734a0bf0.html",
+      "published_date": "2026-11-01T12:34:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Conte, primarie aperte, chi siamo io e Schlein per decidere chi partecipa?",
+      "title": "Clashes in the square, balaclavas, truncheons and hammers seized: 60 searches",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/scontri-in-piazza-sequestrati-passamontagna-manganelli-e-martelli-60-perquisizioni-be2a1c13-e51b-4372-b997-693abd94a01f.html",
+      "published_date": "2026-11-01T12:26:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Media, 'United list will recommend Eisenkot as prime minister to Herzog'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/conte-primarie-aperte-chi-siamo-io-e-schlein-per-decidere-chi-partecipa_b7e3d324-9201-40f3-b145-8b9c70fe4fac.html",
-      "published_date": "2026-10-31T17:32:34+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/01/media-lista-unita-raccomandera-eisenkot-come-premier-a-herzog_e8003668-a3bc-4b79-ac20-9bb53ca0357a.html",
+      "published_date": "2026-11-01T12:05:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Salvini, se il Parlamento vuole un contributo maggiore dalle banche è sovrano",
+      "title": "Political elections in Serbia repeated today in 53 seats",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/salvini-se-il-parlamento-vuole-un-contributo-maggiore-dalle-banche-e-sovrano_9639469c-8c6e-405c-9c2e-0d1b50371871.html",
-      "published_date": "2026-10-31T17:31:25+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/elezioni-politiche-in-serbia-ripetute-oggi-in-53-seggi_4fe30dd3-df1d-4d76-9006-9fab0afdcbfa.html",
+      "published_date": "2026-11-01T11:56:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mattarella: “In tempi di incertezza il futuro va disegnato dai giovani”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/10/31/news/mattarella_discorso_giovani_futuro-425690157/?rss",
-      "published_date": "2026-10-31T17:00:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella, in tempi non facili il futuro va disegnato dai giovani",
+      "title": "Toledo train accident, 56 of the 69 victims identified, searches continue",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/mattarella-in-tempi-non-facili-il-futuro-va-disegnato-dai-giovani_15b6b292-fbc5-4699-ab1f-95d53ebd6047.html",
-      "published_date": "2026-10-31T16:58:03+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/01/incidente-ferroviario-toledo-identificate-56-delle-69-vittime-proseguono-ricerche_ee28250c-77fa-48de-89fc-6f2aa082e626.html",
+      "published_date": "2026-11-01T11:53:55+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The girl who collected waste from the procession on the ring road: \"It's what I teach as a scout leader\"",
-      "source": "la Repubblica",
-      "url": "https://bologna.repubblica.it/cronaca/2026/10/31/news/ragazza_raccolta_rifiuti_corteo_tangenziale_maria_vittoria_terrosi_intervista-425690049/?rss",
-      "published_date": "2026-10-31T15:48:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Todo way of the new CSM. Between struggle, self-government and currents",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/10/il-todo-modo-del-nuovo-csm-tra-lotta-autogoverno-e-correnti/",
-      "published_date": "2026-10-31T15:38:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Construction worker who fell from the roof of a school died after two days",
+      "title": "Quarrel at the station ends in stabbings, caused by a late tire change",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/morto-dopo-due-giorni-operaio-edile-caduto-dal-tetto-di-una_3176e2c9-e8d1-4071-97a5-193c02d1ecea.html",
-      "published_date": "2026-10-31T15:27:55+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/01/lite-in-stazione-finisce-a-coltellate-38enne-arrestato-per-omicidio_fb596364-c915-46ef-8b31-4a06c2eacfe5.html",
+      "published_date": "2026-11-01T11:51:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Processions, seven reported and 369 identified in Rome",
+      "title": "Meloni, Rai reform seems well underway to me. We will remove the topic of the ridiculous left",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/cortei-a-roma-sette-denunciati-e-369-identificati_31d5f1be-206e-48ab-8efc-fd2ac813c33c.html",
-      "published_date": "2026-10-31T15:15:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Violent protests in Tirana, stones and Molotov cocktails against the police",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/31/violente-proteste-a-tirana-sassi-e-molotov-contro-la-polizia_699d7fbd-81e6-48c0-a74e-e6f06c4ef787.html",
-      "published_date": "2026-10-31T15:14:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schlein, part of the establishment does not want the left in government",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/31/schlein-parte-dellestablishment-non-vuole-la-sinistra-al-governo_08f75907-7083-4b48-8b49-86de1594dbfd.html",
-      "published_date": "2026-10-31T15:07:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'We feel the cost of life on our skin', the voices from the camp at the Imperial Forums",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/31/sentiamo-il-caro-vita-sulla-pelle-le-voci-dallaccampamento-ai-fori-imperiali_3ade6a27-fc84-4f59-9f4e-af2ce5093ade.html",
-      "published_date": "2026-10-31T15:03:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Sweets and money for children who don't celebrate Halloween and say a prayer.” The idea of a bartender",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/31/news/halloween_dolci_soldi_bimbi_preghiera_bar_cadore-425689979/?rss",
-      "published_date": "2026-10-31T14:49:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Killed with insulin, Jessica could have been saved: a nurse's alarm to the doctors was ignored",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/10/31/news/jessica_dalla_chiara_indagini_allarme_ignorato_infermiera-425689245/?rss",
-      "published_date": "2026-10-31T14:22:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The responsibility of the ruling classes in Italian decline",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/10/31/news/la_responsabilita_delle_classi_dirigenti_nel_declino_italiano-425689934/?rss",
-      "published_date": "2026-10-31T14:18:52+00:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/01/meloni-riforma-rai-mi-sembra-a-buon-punto.-toglieremo-argomento-a-sinistra-ridicola_abd4f31d-b1ee-47c9-ac62-916883f96c8e.html",
+      "published_date": "2026-11-01T11:48:35+00:00",
       "category": "Local Events"
     }
   ]
