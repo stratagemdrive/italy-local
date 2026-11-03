@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-02T20:37:36.715509+00:00",
+  "last_updated": "2026-11-03T03:47:16.619327+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Refrigerators hacked in half of Europe, the EU warns: \"Attack on consumer confidence\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/frigoriferi-hackrati-europa-allarme-ue-attacco-fiducia-consumatori-giliberti-da-bruxelles-68156f8b-93d0-49ec-93e0-d52889492a96.html",
+      "published_date": "2026-11-03T00:20:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Daniel like Tom Hanks in The Terminal, has been living in Capodichino for weeks",
       "source": "ANSA",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Meloni negotiates with the EU until the end and wins on the extra resources",
+      "title": "Riccardo Ricciardi: “We need a new income, stop talking about weapons all the time”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/03/news/riccardo_ricciardi_m5s_intervista_reddito_armi_ucraina-425694932/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "State of emergency in Belize due to escalation of gang violence",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/28/meloni-tratta-con-lue-fino-allultimo-e-la-spunta-sulle-risorse-extra_bc6527df-68d8-41fc-ac69-7222256782ec.html",
-      "published_date": "2026-10-28T20:02:06+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/02/stato-di-emergenza-in-belize-per-escalation-di-violenza-delle-gang_231d0533-190f-4fab-860d-03bb019db3f3.html",
+      "published_date": "2026-11-02T21:24:52+00:00",
+      "category": "Military"
     },
     {
       "title": "Leonardo Maria Del Vecchio raises, 22 billion from Citi for the Delfin shares. No from four partners",
@@ -267,20 +281,6 @@
       "source": "la Repubblica",
       "url": "https://firenze.repubblica.it/cronaca/2026/11/01/news/bersani_angelo_del_fango_firenze_sessan_anni_alluvione_primarie_pd-425690837/?rss",
       "published_date": "2026-11-01T05:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Central African Republic, army foils militiamen's attempt to seize power",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/01/repubblica-centrafricana-esercito-sventa-tentativo-di-presa-del-potere-dei-miliziani_7fa3dcd8-47bc-42b0-ba2e-cd891cc69c0a.html",
-      "published_date": "2026-11-01T04:06:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Conte prepares the committees: \"Primaries at the beginning of February\". Doubts about the double shift",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/11/01/news/centrosinistra_primarie_conte_dubbi_doppio_turno-425690752/?rss",
-      "published_date": "2026-11-01T00:00:00+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,41 @@
       "category": "Energy"
     },
     {
+      "title": "5-star Botteghe Oscure, six hundred euros to sleep in Berlinguer's office",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/03/news/botteghe_oscure_hotel_pci_berlinguer_angelucci-425695058/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Never say patrimonial, but the broad field studies the tax on the super rich",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/03/news/centrosinistra_patrimoniale_tassa_super_ricchi-425694909/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, mess adopted excluded from the 100 euro Fund. The associations: “A son is a son”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/03/news/manovra_pasticcio_adottati_fondo_100_euro_reazione_delle_associazioni-425694828/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pensions, Northern League fury. “Giorgetti sticks to the terms, we want 4 billion”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/03/news/manovra_pensioni_lega_salvini_giorgetti-425694922/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The judges: \"Oil extra profits, fair tax: those 15 million Iplom remain with the State\"",
+      "source": "la Repubblica",
+      "url": "https://genova.repubblica.it/cronaca/2026/11/03/news/i_giudici_corte_tributaria_fisco_extraprofitti_petrolio_iplom_tassa_contributo_straordinario_2023_15_milioni-425694455/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Sardinia, Aeroitalia wants to abandon three routes to Rome and Milan: there is a clash over public aid",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/economia/2026/11/02/news/aeroitalia_lascia_rotta_sardegna_cagliari_roma_olbia_milano-425694624/?rss",
@@ -529,39 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Maneuver, the front of discontent expands to schools and healthcare",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/manovra-il-fronte-del-malcontento-si-allarga-alla-scuola-e-alla-sanita-c3e61db2-efc5-4c7c-8642-23b3cb571060.html",
-      "published_date": "2026-11-02T16:25:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Europe runs with the collapse of oil, Milan +1.2%",
+      "title": "Bolivia, Rodrigo Paz declares national emergency due to the El Niño phenomenon",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/borsa-europa-corre-col-crollo-del-petrolio-milano-12_01fc1023-59dd-4b8f-8791-5c1208bfbd10.html",
-      "published_date": "2026-11-02T15:56:51+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/bolivia-rodrigo-paz-dichiara-emergenza-nazionale-per-il-fenomeno-el-nino_b0a9089c-713f-4066-ad45-de0fc3ddfc06.html",
+      "published_date": "2026-11-03T00:37:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Maxi deal on AI, Marvell buys Lumentum's optical technology for 115 billion",
+      "title": "Hacker attack on supermarkets, Italy also affected. And the Agency summons large-scale distribution",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/02/news/marvell_technology_acquisizione_lumentum_accordo_ia-425694123/?rss",
-      "published_date": "2026-11-02T15:40:40+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/03/news/italia_attacchi_hacker_agenzia_cybersicurezza_distribuzione-425695006/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Quad ties economic security and shipping lanes into the Indo-Pacific strategy",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/il-quad-lega-sicurezza-economica-e-rotte-marittime-nella-strategia-per-lindo-pacifico/",
-      "published_date": "2026-11-02T15:23:54+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Young people, from the maneuver just over 600 million. But most of them are indirect benefits",
+      "title": "Lega, Romeo in the crosshairs and Garavaglia threatens to tear up the secretariat",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/02/news/manovra_misure_giovani_agevolazioni_sgravi_cosa_cambia-425694043/?rss",
-      "published_date": "2026-11-02T15:06:07+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/03/news/lega_romeo_garavaglia_salvini_segreteria-425694942/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cdp Venture, stalled appointments and funds in the balance",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/03/news/cdp_venture_nomine_in_stallo_fondi_rischio-425695083/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Healthcare, Bertolaso warns: \"Unsustainable cuts\". CGIL: hospitals at risk",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/03/news/sanita_manovra_bertolaso_tagli_insostenibili_cgil-425695077/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School, unions towards strike",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/03/news/scuola_manovra_tagli_sindacati_sciopero-425694964/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "School cuts. “After years of fighting for tenure, we precarious workers risk losing everything”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/03/news/scuola_tagli_anni_di_lotte_per_la_cattedra_noi_precari_rischiamo_di_perdere_tutto-425694903/?rss",
+      "published_date": "2026-11-03T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather forecast, latest showers and strong winds on the Adriatic and southern sides. It will improve from Wednesday",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/03/news/previsioni_meteo_ultimi_rovesci_forte_vento-425695034/?rss",
+      "published_date": "2026-11-02T23:01:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Narrow down on car insurance, cross-referencing of data to find those who do not comply with the obligation",
@@ -571,10 +627,24 @@
       "category": "Local Events"
     },
     {
+      "title": "Hacker attacks on supermarkets: refrigerators down in Emilia Romagna, Tuscany and Sicily",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/attacchi-hacker-ai-supermercati-frigoriferi-in-tilt-in-emilia-romagna-toscana-e-sicilia-8be75884-b245-4402-a30b-d76c651f6080.html",
+      "published_date": "2026-11-02T19:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Hacker attacks on supermarkets, Copasir also moves",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/attacchi-hacker-ai-supermercati-si-muove-anche-il-copasir_c475b1b2-184c-4001-b904-2a40ac6fd530.html",
       "published_date": "2026-11-02T19:40:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The lieutenant who survived in Bosnia: \"I'm on the helicopter, the pain doesn't go away\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/il-tenente-sopravvissuto-in-bosnia-io-sullelicottero-il-dolore-non-passa-54e6f672-4900-434e-b890-58a1ca8ab01a.html",
+      "published_date": "2026-11-02T19:37:00+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "AGI",
       "url": "https://www.agi.it/economia/news/2026-11-02/auto-mercato-immatricolazioni-dati-39838052/",
       "published_date": "2026-11-02T18:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Flames in a house in Rome, elderly couple killed by smoke",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/fiamme-in-una-casa-a-roma-coppia-di-anziani-uccisa-dal-fumo_342934ee-a5d0-4ed1-9750-865746c03c5f.html",
-      "published_date": "2026-11-02T18:45:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Woman dead after discharge from hospital, four under investigation in Trani",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/donna-morta-dopo-dimissioni-da-ospedale-quattro-indagati-a-trani_8e009c33-c1db-4494-9804-b18dad813fb4.html",
-      "published_date": "2026-11-02T18:14:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Threatening letter to the police director injured in the clashes in Milan",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/lettera-di-minacce-al-dirigente-della-polizia-ferito-negli-scontri-a-milano_2c966993-9b55-434c-b0b1-c5c9e47acd66.html",
-      "published_date": "2026-11-02T18:03:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The prosecutor of Florence: 'Sentence Salvatore Baiardo to eight years'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/il-pm-di-firenze-condannare-salvatore-baiardo-a-otto-anni_db39d310-6315-4dac-8cb4-8f900be93e54.html",
-      "published_date": "2026-11-02T17:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arrested for the murder of his wife, killed with insulin: the request for house arrest rejected",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/02/news/uccisa_insulina_respinta_istanza_domiciliari-425694316/?rss",
-      "published_date": "2026-11-02T17:34:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Serbia, financial entrepreneur Macura arrested after the Alta Banka crack",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/serbia-arrestato-proprietario-alta-banka-privata-licenza-AJsVfC2B",
-      "published_date": "2026-11-02T17:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 17 year old injured with a compressed air weapon during a robbery",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/un-17enne-ferito-con-arma-ad-aria-compressa-durante-una-rapina_f67a4cab-a05e-4dc7-a7a0-de44967186f2.html",
-      "published_date": "2026-11-02T17:33:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fight against youth crime, 644 arrests across Utakua",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/contrasto-alla-criminalita-giovanile-644-arresti-in-tutta-utakua_db556012-898f-436a-be31-d9e57d4e9ccc.html",
-      "published_date": "2026-11-02T17:24:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BYD accelerates in Italy, in October it is seventh among the brands",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/byd-accelera-in-italia-a-ottobre-e-settima-tra-i-marchi_54ad8926-8e5e-4764-8823-01a52ea17c63.html",
-      "published_date": "2026-11-02T17:11:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Discounted flights to Sardinia, Aeroitalia announces farewell",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/voli-agevolati-sardegna-aeroitalia-annuncia-laddio_8bb075e1-1f80-4023-a85e-42fefded9fc7.html",
-      "published_date": "2026-11-02T17:00:24+00:00",
       "category": "Local Events"
     }
   ]
