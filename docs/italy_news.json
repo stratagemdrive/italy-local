@@ -1,8 +1,57 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-04T02:49:44.158485+00:00",
+  "last_updated": "2026-11-04T18:22:53.233921+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Environmental permits, the EU sets a limit of 300 days to speed up projects",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/11/04/news/permessi_ambientali_l_ue_fissa_un_tetto_di_300_giorni_per_accelerare_i_progetti-425699482/?rss",
+      "published_date": "2026-11-04T17:38:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cars, the 2035 taboo falls: the EU opens up to thermal engines",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/rapporti/energitalia/mobilita/2026/11/04/news/auto_cade_il_tabu_del_2035_l_ue_apre_ai_motori_termici-425699462/?rss",
+      "published_date": "2026-11-04T17:31:06+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ets, «Loss of up to 892 million in annual revenues in EU transhipment ports»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/ets-perdita-fino-892-milioni-ricavi-annui-porti-trasbordo-ue-AJRFlR4B",
+      "published_date": "2026-11-04T13:51:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU, 'we respect the US vote, we remain close allies'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/04/ue-rispettiamo-il-voto-usa-restiamo-stretti-alleati_ef49dc0e-cf3b-4f1e-808e-af1035a581a4.html",
+      "published_date": "2026-11-04T13:44:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tajani, 'a gesture of great solidarity and closeness from Switzerland'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/04/tajani-da-svizzera-gesto-di-grande-solidarieta-e-vicinanza_d6d30636-2229-4a4f-942e-7b6eafb1c243.html",
+      "published_date": "2026-11-04T11:19:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tajani, we respect the wishes of the Americans, the relationship with the USA does not change",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/tajani-rispettiamo-volonta-degli-americani-il-rapporto-con-gli-usa-non_6427c95d-477a-4c14-bc6d-9d408ef479bf.html",
+      "published_date": "2026-11-04T11:04:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peace summits in Kiev: hostility from Paris and frost with Trump, so Meloni stays away from the table",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/04/news/meloni_vertici_ue_conflitto_ucraina_russia-425697404/?rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "SiGMA World opens in Rome, the gaming summit is worth 100 million",
       "source": "Il Sole 24 Ore",
@@ -95,53 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Amerigo Vespucci ship in Tunis, also on board 15 Tunisian officer cadets",
+      "title": "Crushed by a crane, worker dies. It's the fifth in one day",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/31/nave-amerigo-vespucci-a-tunisi-a-bordo-anche-15-allievi-ufficiali-tunisini_67341976-82c6-4d37-9a48-fa74ad9f8a53.html",
-      "published_date": "2026-10-31T09:14:57+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/schiacciato-da-una-gru-muore-operaio.-e-il-quinto-in-un-giorno_3e1891b9-86e6-400b-9c46-e49c201d2e84.html",
+      "published_date": "2026-11-04T18:06:34+00:00",
+      "category": "Military"
     },
     {
-      "title": "Manovra: Tajani, giusto contribuire ma punire chi produce ricchezza sarebbe errore",
+      "title": "Garlasco, two more investigations in Pavia. 'Sempio favourite, Stasi damaged'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-tajani-giusto-contribuire-ma-punire-chi-produce-ricchezza-sarebbe-errore_57bc7d68-ca5d-43e6-b1f2-0f9d31356aba.html",
-      "published_date": "2026-10-31T09:11:42+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/garlasco-altre-due-indagini-a-pavia.-sempio-favorito-stasi-danneggiato_0831b1de-6d5e-435c-a355-44cdb674ab2d.html",
+      "published_date": "2026-11-04T17:51:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Kallas, 'lies from Lavrov to the G20, no sign of opening'",
+      "title": "Schumer, 'the days of the Senate supine to Trump are over, we will end the war in Iran'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/30/kallas-da-lavrov-menzogne-al-g20-nessun-segnale-di-apertura_1486eea4-38b4-4568-8825-e8cb62eccb9c.html",
-      "published_date": "2026-10-30T22:10:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/schumer-i-giorni-del-senato-supino-a-trump-finiti-finiremo-la-guerra-in-iran_218fe111-cc6f-4b26-a44c-6dc26ba467a3.html",
+      "published_date": "2026-11-04T16:48:53+00:00",
+      "category": "Military"
     },
     {
-      "title": "Illness at the summit, 71 year old hiker dies in Carnia",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/malore-in-vetta-escursionista-di-71-anni-muore-in-carnia_87b56cc6-162d-4fe7-99df-1964146258d0.html",
-      "published_date": "2026-10-30T14:50:40+00:00",
-      "category": "Diplomacy"
+      "title": "Leo XIV: “War is a failure of politics, taking care of the wounds of peoples”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/04/news/leone_xiv_la_guerra_e_un_fallimento_della_politica_prendersi_cura_delle_ferite_dei_popoli-425698693/?rss",
+      "published_date": "2026-11-04T14:27:30+00:00",
+      "category": "Military"
     },
     {
-      "title": "Altri 5 italiani fermati in Cisgiordania, la Farnesina chiede il rilascio",
+      "title": "Sergio Mattarella in Florence for the Armed Forces Day ceremony",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/cinque-attivisti-italiani-fermati-in-cisgiordania-la-farnesina-chiede-chiarimenti_6f4aa2ca-7e44-42e9-ad75-0c83be3a6ca3.html",
-      "published_date": "2026-10-29T20:32:34+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/sergio-mattarella-a-firenze-per-la-cerimonia-della-giornata-delle-forze-armate_f0b144f2-dfe2-4fe7-85e1-1d69bb4fdbde.html",
+      "published_date": "2026-11-04T13:44:54+00:00",
+      "category": "Military"
     },
     {
-      "title": "Farnesina, '5 attivisti italiani fermati in Cisgiordania, chiesto rilascio immediato'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/29/farnesina-5-attivisti-italiani-fermati-in-cisgiordania-chiesto-rilascio-immediato_51851077-46ad-4c28-a2bb-dc00852a3c1d.html",
-      "published_date": "2026-10-29T19:39:17+00:00",
-      "category": "Diplomacy"
+      "title": "Mattarella: \"A common European defense is urgent\"",
+      "source": "AGI",
+      "url": "https://www.agi.it/politica/news/2026-11-04/difesa-mattarella-ue-39877177/",
+      "published_date": "2026-11-04T13:09:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tajani, il prossimo pacchetto di aiuti all'Ucraina è quasi pronto",
+      "title": "++ Worker taken ill dies in the Fincantieri shipyard in Marghera ++",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/tajani-il-prossimo-pacchetto-di-aiuti-allucraina-e-quasi-pronto_7ae7e593-27c0-43ad-9a61-e249f75e0e58.html",
-      "published_date": "2026-10-29T16:25:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/-operaio-colto-da-malore-muore-nel-cantiere-fincantieri-di-marghera-_cabc40ca-03fb-46e6-b094-b216556abdcb.html",
+      "published_date": "2026-11-04T12:40:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Center-right cold on midterms, Northern League supporters dump Trump: \"He must go back to being Maga\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/04/news/centrodestra_reazioni_midterm_trump_lega_fdi_fi-425698442/?rss",
+      "published_date": "2026-11-04T12:17:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "4 November, Mattarella: «Armed forces faithful to constitutional values». Meloni: «Never take for granted the courage of those who serve Italy»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/4-novembre-mattarella-forze-armate-fedeli-valori-costituzionali-meloni-mai-scontato-coraggio-chi-serve-l-italia-AJfgNJ4B",
+      "published_date": "2026-11-04T10:42:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Competitions, stop to the huge Defense tender: everything needs to be redone for the selection of 1,100 assistants",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/04/news/concorsi_difesa_bando_discriminatorio_rifare_selezione_assistenti-425697308/?rss",
+      "published_date": "2026-11-04T04:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mattarella insists on EU defense: \"Strengthening it is essential\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/04/news/mattarella_sforzo_europeo_difesa_comune-425697418/?rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The European Union raises the alert: \"Let's prepare for war\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/esteri/2026/11/04/news/commissione_ue_attacchi_hacker_conflitto_armato-425697412/?rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine, peace summits but Italy is excluded. Maxi attack on Moscow",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/04/news/diplomazia_guerra_ucraina_russia_vertice_pace-425697394/?rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Garlasco, Stasi's defense: 'Sempio's lawyers should defend him without attacking Alberto'",
@@ -193,95 +284,74 @@
       "category": "Military"
     },
     {
-      "title": "Garlasco, Sempio: 'My innocence will be proven'. The defense is ready to request the suspension of the preliminary hearing",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/garlasco-sempio-sara-dimostrata-la-mia-innocenza.-la-difesa-pronta-a-chiedere-la-sospensione_c8d43a07-055b-4df6-8d7a-4f4748afd56a.html",
-      "published_date": "2026-11-03T17:21:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "False bomb alarm, Air Force 'immediate take-off of two Eurofighters'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/falso-allarme-bomba-aeronautica-decollo-immediato-di-due-eurofighter_d345c392-a96f-472a-9a25-f7a465072fd2.html",
-      "published_date": "2026-11-03T16:50:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Euronaval 2026, thus the Italian industry strengthens its presence in naval defense",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/euronaval-fincantieri-leonardo-elt-mbda/",
-      "published_date": "2026-11-03T16:16:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Italian soldiers dead in Bosnia, the Rome prosecutor's office will analyze the helicopter's black box",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/militari-italiani-morti-in-bosnia-la-procura-di-roma-analizzera-la-scatola-nera-dellelicottero_73914b50-19f1-4636-90a7-ca2842b1fd2e.html",
-      "published_date": "2026-11-03T16:15:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Conte: 'We will recognize Palestine and tear up the military agreement with Israel'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/conte-riconosceremo-la-palestina-e-stracceremo-laccordo-militare-con-israele_3fec33d0-d84b-42d5-a42a-7d1907a18073.html",
-      "published_date": "2026-11-03T16:13:08+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Death of David Rossi, the Commission: 'We will send photos to the Prosecutor's Office and the Carabinieri to identify the man on the phone that evening'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/morte-di-david-rossi-la-commissione-trasmetteremo-foto-alle-procure-e-ai-carabinieri-per_41b27c82-ec50-446b-94e9-bd0084fadcae.html",
-      "published_date": "2026-11-03T15:32:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "In the town hall of Orvieto the funeral home for Claudio Marchesi",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/nel-municipio-di-orvieto-la-camera-ardente-per-claudio-marchesi_0bdd9f44-747a-4cdc-875d-ffa7e46edef7.html",
-      "published_date": "2026-11-03T15:18:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "From the Air Force to Virgin Galactic, this is who Villadei is, the astronaut in pole position in a new private mission in space",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/dall-aeronautica-virgin-galactic-ecco-chi-e-villadei-l-astronauta-pole-una-nuova-missione-privata-spazio-AJHqCz1B",
-      "published_date": "2026-11-03T14:28:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Fincantieri-Leonardo agreement to strengthen the Orizzonte naval systems jv",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/intesa-fincantieri-leonardo-per-rafforzare-la-jv-orizzonte-sistemi-navali_aaf3b77a-6930-4aae-af09-0b29a7b075c0.html",
-      "published_date": "2026-11-03T14:08:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mattarella to the military: \"Your ethics are expressed with the Constitution\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/mattarella-ai-militari-con-la-costituzione-si-esprime-la-vostra-etica_40e4cb7d-9452-4872-ad6f-3982a0a63655.html",
-      "published_date": "2026-11-03T13:45:12+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Helicopter crash, Crosetto: \"In Bosnia a monument for the 4 soldiers\". Mattarella was moved",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/maratona/2026/11/schianto-dellelicottero-in-bosnia-oggi-i-funerali-di-stato--60b2aa50-09d2-4dad-9036-dab5fc30f8c7.html",
-      "published_date": "2026-11-03T12:41:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The farewell to the soldiers who died in Bosnia: the coffins wrapped in the Tricolore",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/laddio-ai-militari-morti-in-bosnia-i-feretri-avvolti-nel-tricolore-a615faaa-e71f-4b1d-b7cb-7e320200809b.html",
-      "published_date": "2026-11-03T12:40:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "“The announcement from the Ministry of Defense is discriminatory”, the competition has reopened to foreigners",
+      "title": "Electricity companies against the government: \"No to energy populism, a bill of 7 billion for us\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/03/news/bando_ministero_difesa_discriminatorio_concorso_stranieri-425696048/?rss",
-      "published_date": "2026-11-03T12:09:24+00:00",
-      "category": "Military"
+      "url": "https://www.repubblica.it/economia/2026/11/04/news/elettricita_futura_manovra_decreto_bollette_tetto_gas-425699018/?rss",
+      "published_date": "2026-11-04T17:42:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Data centers, from Amazon to OpenAi: 27 billion investments in the pipeline in Italy",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/data-center-amazon-openai-cantiere-investimenti-27-miliardi-italia-AJVmAh4B",
+      "published_date": "2026-11-04T17:29:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Final green light from the Chamber for the fuel bill, 137 yes",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/via-libera-definitivo-della-camera-al-dl-carburanti-137-si_f4e58a8e-b3e2-4604-aa84-c117f56c3c53.html",
+      "published_date": "2026-11-04T17:25:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Natural gas futures collapse to 85.32 euros",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-futures-su-gas-naturale-crollano-a-8532-euro_952ff938-0dc4-44a6-904d-9d8e63ba41fd.html",
+      "published_date": "2026-11-04T17:21:51+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil down 4%, Brent drops below 100 dollars",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/petrolio-in-calo-del-4-brent-scende-sotto-100-dollari_30ef4d4d-a132-4db0-a42f-c915b0ed38de.html",
+      "published_date": "2026-11-04T16:18:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Cars: first yes in the EU Parliament to flexibility on the emissions cut target for 2035",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/auto-primo-si-parlamento-ue-flessibilita-target-taglio-emissioni-2035-AJwKji4B",
+      "published_date": "2026-11-04T16:15:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Italy is among the EU countries with the most expensive electricity for businesses",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/litalia-e-tra-paesi-ue-con-lelettricita-piu-cara-per-le-imprese_a1a89842-fa8d-45c2-8360-3ce5a28509cd.html",
+      "published_date": "2026-11-04T13:58:47+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Inflation rose to 4% in the Eurozone in October. In Italy +5.6%. Energy +20.8%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/linflazione-e-salita-al-4-nelleurozona-a-ottobre_322a1cda-fea3-4327-b408-42a920c45bfc.html",
+      "published_date": "2026-11-04T13:39:49+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Influenza, the data blackout: this is why the network that monitors cases has been stopped for eight months",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/04/news/influenza_monitoraggio_casi_sistema_bloccato-425698606/?rss",
+      "published_date": "2026-11-04T11:18:20+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Exit from Confindustria Energia, Eni criticizes Elettricità Futura",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/04/news/confindustria_energia_eni_critica_elettricita_futura-425697225/?rss",
+      "published_date": "2026-11-04T00:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "More deaths at work, the victims are two workers. Two burn victims in a refinery",
@@ -354,353 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Gas falls below 90 euros on the Amsterdam TTF market",
+      "title": "Maneuver: hearings starting on Monday 9th, Giorgetti in commission on Thursday 12th",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/il-gas-scende-sotto-i-90-euro-sulla-piazza-ttf-di-amsterdam_4be30862-519d-4469-a4bc-4dc8a97c0a60.html",
-      "published_date": "2026-11-03T14:01:52+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/manovra-audizioni-al-via-da-lunedi-9-giorgetti-in-commissione-giovedi-12_5b85877c-31e0-4b3a-a53c-052dc7d7b8da.html",
+      "published_date": "2026-11-04T18:13:57+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europe's digital autonomy begins with the electricity grid",
+      "title": "Skip the mandatory discount on digital books, publishers and booksellers applaud",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/salta-lo-sconto-obbligatorio-sui-libri-digitali-plaudono-editori-e-librai_c9650c9c-338a-4027-b781-5ffd52f8d920.html",
+      "published_date": "2026-11-04T18:13:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fabio Fava (Ecomondo): “The Italian leadership in recycling becomes an industrial advantage”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/03/news/l_autonomia_digitale_dell_europa_comincia_dalla_rete_elettrica-425696291/?rss",
-      "published_date": "2026-11-03T13:59:13+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/11/04/news/fabio_fava_ecomondo_il_primato_italiano_nel_riciclo_diventi_un_vantaggio_industriale-425699516/?rss",
+      "published_date": "2026-11-04T17:56:56+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Q8, 20% discount on fuel for agriculture and fishing until December",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/q8-sconto-20percento-carburanti-agricoltura-e-pesca-fino-dicembre-AJra642B",
-      "published_date": "2026-11-03T12:12:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Electricity, CO2 emissions down by 30% in OECD countries in 25 years",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/11/02/news/elettricita_nei_paesi_ocse_emissioni_di_co2_giu_del_30_in_25_anni-425693952/?rss",
-      "published_date": "2026-11-02T14:34:20+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil plummets (-6.7%), Khamenei ok to negotiate with the USA",
+      "title": "Ueno Bank crisis in Paraguay, Peña reassures account holders after the dissolution",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/petrolio-a-picco-67-ok-di-khamenei-a-trattare-con-gli-usa_f973409f-328f-40e6-8c2c-e707c924c60c.html",
-      "published_date": "2026-11-02T14:18:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Stock market: Europe reduces the rise, crude oil and gas fall, Milan +0.2%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/borsa-leuropa-riduce-il-rialzo-calano-greggio-e-gas-milano-02_297d17cf-e943-49a4-aaf0-8c54b88bb013.html",
-      "published_date": "2026-11-02T13:06:19+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Ryanair, falling profits and more expensive fuel: wage increases at risk and fewer crews per plane",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/02/news/ryanair_stipendi_congelati_utili_aerei-425692982/?rss",
-      "published_date": "2026-11-02T09:48:16+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Debris rains from the sky. NASA telescope free falling to Earth",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/02/news/telescopio_nasa_swift_caduta_terra_detriti_spaziali-425692673/?rss",
-      "published_date": "2026-11-02T00:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "With EU flexibility in energy aid, green restrictions are triggered for businesses",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/manovra-con-flessibilita-ue-aiuti-allenergia-per-le-imprese-scatta-vincolo-green_a29c2f19-0469-4735-9f6b-22cbf831b49a.html",
-      "published_date": "2026-11-01T12:44:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Mimit, fuels decreasing, average self-service petrol price at 2.010 euros, diesel at 2.241",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/01/mimit-carburanti-in-calo-prezzo-medio-self-benzina-a-2010-euro-gasolio_0881de2f-b3ea-44f3-a6c5-41710f016229.html",
-      "published_date": "2026-11-01T10:42:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Electrolux, the agreement in the night: redundancies halved and the Cerreto factory does not close",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/04/news/electrolux_l_accordo_nella_notte_dimezzati_gli_esuberi_e_la_fabbrica_di_cerreto_non_chiude-425697721/?rss",
-      "published_date": "2026-11-03T23:53:58+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/crisi-ueno-bank-in-paraguay-pena-rassicura-i-correntisti-dopo-la-dissoluzione_7c407ee4-72b4-4401-a54a-e8ececd6f58c.html",
+      "published_date": "2026-11-04T17:45:25+00:00",
       "category": "Economy"
     },
     {
-      "title": "You play and the state collects. Over 2.6 billion more in three years with the new Maneuver rules",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rubriche/outlook/2026/11/04/news/tu_giochi_e_lo_stato_incassa_oltre_26_miliardi_in_piu_in_tre_anni_con_le_nuove_regole_in_manovra-425697035/?rss",
-      "published_date": "2026-11-03T23:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "West Bank, the teacher arrested by Israel will be in Italy on the 5th. His sister: \"He suffered violence\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/03/news/cisgiordania_prof_arrestato_rientro_israele_intervista_sorella-425697214/?rss",
-      "published_date": "2026-11-03T19:57:07+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Paraguay, the central bank starts the liquidation of Ueno Bank",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/03/paraguay-la-banca-centrale-avvia-la-liquidazione-di-ueno-bank_decbd1a2-0e53-45f0-82a0-4edb0a6042e2.html",
-      "published_date": "2026-11-03T19:56:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hackers threaten food safety",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/hacker-minacciano-la-sicurezza-alimentare-2f8de7a5-d349-4c1c-8f36-719e72a98009.html",
-      "published_date": "2026-11-03T19:39:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hacker attacks on refrigerators of catering companies in Florence",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/attacchi-hacker-ai-frigoriferi-di-societa-di-ristorazione-a-firenze_621feb83-1d71-4216-a593-aca9210ace16.html",
-      "published_date": "2026-11-03T19:14:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver, FdI is working on a package of amendments on building amnesty",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/manovra-fdi-lavoro-emendamento-riaprire-condono-edilizio-campania-AJIC5e3B",
-      "published_date": "2026-11-03T18:47:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hypothetical FdI amendment in maneuver to reopen the building amnesty for Campania",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/ipotesi-emendamento-fdi-in-manovra-per-riaprire-il-condono-edilizio-per-la-campania_5038fa26-6ec1-4ad6-8e1f-1c1900ba39d5.html",
-      "published_date": "2026-11-03T18:40:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nagel, 'interest rate increase likely in December'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/nagel-probabile-un-aumento-dei-tassi-dinteresse-a-dicembre_9e20de08-3f99-4936-925a-82c425c84dae.html",
-      "published_date": "2026-11-03T18:38:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Strategic partnership between Cy4Gate and Easynet Group",
-      "source": "Analisi Difesa",
-      "url": "https://www.analisidifesa.it/2026/11/partnership-strategica-tra-cy4gate-ed-easynet-group/",
-      "published_date": "2026-11-03T18:35:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Cyberattacks, the \"black October\" of Italian logistics: NoName hits MIT and companies for two weeks",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/cyberattacchi-l-ottobre-nero-logistica-italiana-noname-colpisce-mit-e-aziende-due-settimane-AJZ0IR3B",
-      "published_date": "2026-11-03T18:13:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New business horizons, strategies to increase the global value of Made in Italy",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/nuovi-orizzonti-imprese-strategie-per-accrescere-il-valore-globale-del-made_2ce1844e-899e-4a54-ba6d-0d2ed5058bb8.html",
-      "published_date": "2026-11-03T17:55:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Heat pumps are struggling to spread in Italian businesses: the main obstacle is the cost",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/sostenibilita/2026/11/03/news/le_pompe_di_calore_faticano_a_diffondersi_nelle_imprese_italiane_l_ostacolo_principale_e_il_costo-425696915/?rss",
-      "published_date": "2026-11-03T17:46:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Intesa Sanpaolo, record profits of 8.2 billion. Messina: \"Mps, operation well underway\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-11-03/utili-intesa-mps-39857480/",
-      "published_date": "2026-11-03T17:34:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan almost breaks even, Ferrari flies, Cucinelli slips",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/borsa-milano-chiude-quasi-in-pareggio-vola-ferrari-scivola-cucinelli_87901c44-cea8-4922-8ef1-405edfdd57cd.html",
-      "published_date": "2026-11-03T17:14:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver, the building amnesty returns. Fratelli d'Italia challenges Salvini on the house",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/03/news/condono_edilizio_manovra_emendamento_fdi_proposta_2003-425696778/?rss",
-      "published_date": "2026-11-03T16:40:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan closes almost at parity, -0.01%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/borsa-milano-chiude-quasi-in-parita-001_15d6f6ab-d834-4e8e-9441-96fcc66fc9fd.html",
-      "published_date": "2026-11-03T16:40:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Societe Generale, Claudio d'Eletto appointed Senior Banker for Italy",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/societe-generale-claudio-deletto-nominato-senior-banker-per-litalia_b8c0b466-0f16-456a-aa89-6d3936f8f6ac.html",
-      "published_date": "2026-11-03T16:26:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Intesa runs on the accounts and accelerates on the industrial level. All the numbers",
+      "title": "“New cinema (in) Paradise”, from subsidization to the industrial politics of the imagination",
       "source": "Formiche",
-      "url": "https://formiche.net/2026/11/intesa-conti-messina-banche-manovra-mps/",
-      "published_date": "2026-11-03T16:23:51+00:00",
+      "url": "https://formiche.net/2026/11/nuovo-cinema-in-paradiso-dal-sovvenzionismo-alla-politica-industriale-dellimmaginario/",
+      "published_date": "2026-11-04T17:36:42+00:00",
       "category": "Economy"
     },
     {
-      "title": "Stock market: Europe cautious in the final with Wall Street, Milan +0.3%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/03/borsa-europa-cauta-nel-finale-con-wall-street-milano-03_8a9dff66-fa02-485e-9d34-6ca2dc643f04.html",
-      "published_date": "2026-11-03T16:16:20+00:00",
+      "title": "Maneuver, all Regions on the attack: \"Insufficient funds for healthcare. The government meets us\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/04/news/manovra_regioni_fondi_insufficienti_sanita_governo-425699475/?rss",
+      "published_date": "2026-11-04T17:35:41+00:00",
       "category": "Economy"
     },
     {
-      "title": "Bolivia, the Supreme Court orders an investigation into Evo Morales",
+      "title": "Tourists leave thousands of headphones hanging from the Forum, the removal begins",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/04/bolivia-il-tribunale-supremo-ordina-unindagine-su-evo-morales_8e8040e7-c29e-4dcc-a5b9-f5e29132654b.html",
-      "published_date": "2026-11-04T01:04:31+00:00",
-      "category": "Local Events"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/turisti-lasciano-migliaia-di-cuffiette-appese-ai-fori-scatta-la-rimozione_ec45249f-1a78-4a4e-85d9-2d777107267e.html",
+      "published_date": "2026-11-04T17:22:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Angela Verdecchia: \"The government should invest more. We students are also in the streets for the professors\"",
+      "title": "The BTP-Bund spread narrows to 104.2 points",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/lo-spread-btp-bund-si-stringe-a-1042-punti_267446e3-23a5-4453-baa9-21654148678c.html",
+      "published_date": "2026-11-04T17:09:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stock market: Milan closes higher, Ftse Mib +2.18%",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/borsa-milano-chiude-in-rialzo-ftse-mib-218_e222bcc8-1a86-42c6-b6a3-ca910a01ef3c.html",
+      "published_date": "2026-11-04T17:03:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, stop digital books for students. Valditara: “We are working to eliminate cuts”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/scuola/2026/11/04/news/scuola_tagli_manovra_studenti_intervista_angela_verdecchia-425697677/?rss",
-      "published_date": "2026-11-04T00:00:00+00:00",
-      "category": "Local Events"
+      "url": "https://www.repubblica.it/economia/2026/11/04/news/manovra_stop_ai_libri_digitali_per_gli_studenti_valditara_lavoriamo_per_eliminare_i_tagli-425699187/?rss",
+      "published_date": "2026-11-04T16:43:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Pressure from Salvini and Valditara to avoid school cuts",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/scuola/2026/11/05/news/tagli_scuola_salvini_valditara_giorgetti-425697670/?rss",
-      "published_date": "2026-11-04T00:00:00+00:00",
-      "category": "Local Events"
+      "title": "FI, 'the maneuver must be improved, the MEF must also do its part'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/fi-la-manovra-va-migliorata-anche-il-mef-faccia-la-sua-parte_cbbd6cc8-4575-47e2-b7b4-9d14c244c189.html",
+      "published_date": "2026-11-04T16:39:25+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Flood of 1966, the best of youth in Florence",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/04/news/alluvione_firenze_60_anni_fa_storie-425697442/?rss",
-      "published_date": "2026-11-04T00:00:00+00:00",
-      "category": "Local Events"
+      "title": "POS and receipts, the IRS bans speed-up software",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/pos-e-scontrini-fisco-mette-bando-software-velocizzatori-AJ03cg4B",
+      "published_date": "2026-11-04T16:03:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Died after the AstraZeneca vaccine: the judge invites Asl4 to negotiate with the family",
-      "source": "la Repubblica",
-      "url": "https://genova.repubblica.it/cronaca/2026/11/04/news/camilla_canepa_vaccino_astrazeneca_vit_causa_civile_risarcimento-425697090/?rss",
-      "published_date": "2026-11-04T00:00:00+00:00",
-      "category": "Local Events"
+      "title": "Credit and intelligence, here is the kit for SMEs to conquer global markets",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/11/intesa-made-in-italy-imprese-confindustria-parco-dei-principi-mercosur/",
+      "published_date": "2026-11-04T15:43:56+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Weather forecast, bad weather arriving for Thursday: first rainfall in Piedmont and the major islands",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/04/news/previsioni_meteo_maltempo_giovedi_piemonte_isole_maggiori-425697502/?rss",
-      "published_date": "2026-11-03T23:01:00+00:00",
-      "category": "Local Events"
+      "title": "From Milan to Wall Street, because the markets toast the results of the midterms",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/11/mercati-report-midterm-borse-wall-street-piazza-affari-trump/",
+      "published_date": "2026-11-04T15:40:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Garlasco case, Stasi sees the revision approaching: he and the general prosecutor's office are asking for it",
-      "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/11/03/news/garlasco_stasi_revisione_cosa_succede_adesso-425697451/?rss",
-      "published_date": "2026-11-03T21:17:44+00:00",
-      "category": "Local Events"
+      "title": "Worker fell on construction site in Piceno, died after five days",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/operaio-precipitato-in-cantiere-del-piceno-morto-dopo-cinque-giorni_eb51cc04-8ba2-4742-86f1-5430a02ec8e7.html",
+      "published_date": "2026-11-04T15:28:41+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Midterm, three astronauts vote from the ISS",
+      "title": "Electrolux, 'investments of over 100 million euros for Italian activities'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/electrolux-investimenti-oltre-100-milioni-euro-per-le-attivita-italiane_c4f96bf1-2c1e-44f9-a9c4-fe2dc61762bd.html",
+      "published_date": "2026-11-04T15:25:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ce Industries will not participate in the tender for the former Ilva",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/04/ce-industries-non-partecipera-alla-gara-per-lex-ilva_d1b66b57-cdea-4382-beac-cf570a847e9d.html",
+      "published_date": "2026-11-04T15:13:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Four fatal accidents at work in one day: in Marghera, Piacenza, Salento and Sannio",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/astronauta-della-iss-che-vota-nello-spazio-49bfbc8d-da11-4887-ab27-d2591cd9520f.html",
-      "published_date": "2026-11-03T20:43:00+00:00",
-      "category": "Local Events"
+      "url": "https://www.rainews.it/articoli/2026/11/incidente-sul-lavoro-in-salento-muore-titolare-ditta-schiacciato-da-un-cancello-96067210-a70b-47e9-a5b0-b05f71b5d521.html",
+      "published_date": "2026-11-04T15:06:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Garlasco, prosecutors: 'Andrea Sempio on trial, killed Chiara Poggi with cruelty and hatred'",
+      "title": "Meloni, Electrolux agreement, important step for the protection of Italian industry",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/garlasco-i-pm-andrea-sempio-a-processo-ha-ucciso-chiara-poggi-con-crudelta-e-odio_a73d09f5-8f8b-4b07-bdd1-1d957ccdd478.html",
-      "published_date": "2026-11-03T20:36:42+00:00",
-      "category": "Local Events"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/meloni-intesa-electrolux-passo-importante-per-la-tutela-dellindustria-italiana_1e97e64e-9bfe-4866-8cc8-85a7c3d65b9a.html",
+      "published_date": "2026-11-04T15:03:25+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Sources, the Italian arrested by Ice in the USA has been released on bail",
+      "title": "Italy-USA, global competition passes through fiscal leverage",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/italia-usa-competizione-globale-passa-leva-fiscale-AJ0Sve4B",
+      "published_date": "2026-11-04T15:01:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cyber agency, 'urgent to protect the cold chain'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/03/fonti-rilasciato-su-cauzione-litaliano-arrestato-dallice-in-usa_d4c71fbd-4a16-4b9f-9fb4-972f2b4acf6b.html",
-      "published_date": "2026-11-03T20:19:24+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/agenzia-cyber-urgente-proteggere-la-catena-del-freddo_bca208e9-03d0-4149-b140-33b64e9cc95b.html",
+      "published_date": "2026-11-04T18:16:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "School and pensions, tension rises in the majority. And an amnesty appears",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-11-03/manovra-scuola-pensioni-condono-edilizio-39861260/",
-      "published_date": "2026-11-03T20:15:08+00:00",
+      "title": "Florence flood, 60 years later. Mattarella: \"Don't forget lessons from young people\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/alluvione-di-firenze-60-anni-dopo-il-presidente-mattarella-alle-commemorazioni-8c6cf156-b64d-4be2-a4fe-1ecc14323c62.html",
+      "published_date": "2026-11-04T18:12:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Plantedosi in Turin and Cirio offers the skyscraper to students: \"50 block 17 thousand\"",
+      "title": "Rome, thousands of caps hanging from the Imperial Forums: stop to the tourist trend",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/roma-migliaia-di-cuffiette-appese-ai-fori-imperiali-stop-alla-moda-dei_04f1fcc0-2ddb-4ad0-933f-abbf1f15a2ba.html",
+      "published_date": "2026-11-04T18:09:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "100 thousand euros raised for the victims of the attack in the center of Modena",
       "source": "la Repubblica",
-      "url": "https://torino.repubblica.it/cronaca/2026/11/03/news/piantedosi_a_torino-425696172/?rss",
-      "published_date": "2026-11-03T20:03:17+00:00",
+      "url": "https://bologna.repubblica.it/cronaca/2026/11/04/news/attentato_modena_raccolti_100mila_euro-425699542/?rss",
+      "published_date": "2026-11-04T18:04:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Healthcare cuts in progress, extraordinary meeting of the Regions",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/03/tagli-alla-sanita-in-manovra-riunione-straordinaria-delle-regioni_7cdaa1d1-eb50-4b15-b477-81428d29baa6.html",
-      "published_date": "2026-11-03T19:57:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sentenced to 22 and 17 years for murder of transporter in Prato",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/condannati-a-22-e-17-anni-per-omicidio-di-trasportatore-a-prato_9b8b293c-7809-4d41-8966-ad16664152a0.html",
-      "published_date": "2026-11-03T19:49:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Garlasco crime, Sempio towards the trial: the defense strategy",
+      "title": "Mattarella in Florence: \"Solidarity of young people is a lesson not to be forgotten\"",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/delitto-di-garlasco-sempio-verso-il-processo-la-strategia-della-difesa-7809013e-8c94-4924-a571-62c20a0115a7.html",
-      "published_date": "2026-11-03T19:47:00+00:00",
+      "url": "https://www.rainews.it/video/2026/11/anniversario-alluvione-presidente-repubblica-mattarella-a-firenze-solidarieta-dei-giovani-e-lezione-da-non-dimenticare-ad8ac746-8199-4717-978f-9b3e9e4ce3dd.html",
+      "published_date": "2026-11-04T18:02:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Palazzo Chigi: \"In Italy the impact of the hacker attack is limited only to obsolete systems\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-11-03/attacco-hacker-palazzo-chigi-39850560/",
-      "published_date": "2026-11-03T19:44:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Florence flood, 60 years later the mud angels return",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/alluvione-di-firenze-60-anni-dopo-tornano-gli-angeli-del-fango-4b11417b-c97c-4cbe-b72a-45d577bd201c.html",
-      "published_date": "2026-11-03T19:43:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Between memory and nostalgia, the right and Maceratini's 'lessons'",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-11-03/giulio-maceratini-destra-memoria-39859582/",
-      "published_date": "2026-11-03T19:24:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "More bombs exploded in Rome, four in the space of 24 hours",
+      "title": "Switzerland will pay the medical expenses of those injured in Crans-Montana",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ancora-ordigni-esplosi-a-roma-quattro-nel-giro-di-24-ore_0277b7ba-0bff-4553-aff2-e449c8c4b861.html",
-      "published_date": "2026-11-03T19:18:49+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/la-svizzera-paghera-le-spese-mediche-dei-feriti-di-crans-montana_f4521456-de88-429a-9286-6ca82525a4d8.html",
+      "published_date": "2026-11-04T17:56:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "'Commando' attacks jewelery shop in the Milan area, one shot in the air, no one injured",
+      "title": "Garlasco, the Sempio file assigned to the preliminary hearing judge. The timing and possible scenarios of the review for Stasi",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/commando-assalta-gioielleria-nel-milanese-un-colpo-in-aria-nessuno-ferito_acf877c1-69a2-43c6-893d-0604a9c73152.html",
-      "published_date": "2026-11-03T19:15:10+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/garlasco-assegnato-al-gup-il-fascicolo-su-sempio.-i-tempi-e-i-possibili-scenari-della-revisione_add6088f-b6cb-40a9-8415-ae3aef53cf07.html",
+      "published_date": "2026-11-04T17:52:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Florence flood, Mattarella: \"Environmental protection is a challenge but also a duty for the institutions\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/04/news/mattarella_alluvione_firenze_protezione_ambientale_istituzioni-425699449/?rss",
+      "published_date": "2026-11-04T17:43:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Refund scam for the blue car, trial requested for Roberto Occhiuto",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/truffa-sui-rimborsi-per-lauto-blu-chiesto-il-processo-per-roberto_57a0868a-4e6e-4b80-ab82-36c405e932f3.html",
+      "published_date": "2026-11-04T17:40:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella: 'Flood flood symbol of the country's unity in emergencies'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/04/mattarella-alluvione-di-firenze-simbolo-dellunita-del-paese-nelle-emergenze_a94b94b9-8c0a-4afe-91a3-213f8d38ce2b.html",
+      "published_date": "2026-11-04T17:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gastrointestinal disorders in Rsa in Prato, 7 in hospital and one death",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/disturbi-gastrointestinali-in-rsa-a-prato-7-in-ospedale-e-un-decesso_ed56217b-599b-4601-834f-3517c295c35e.html",
+      "published_date": "2026-11-04T17:38:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother with pancreatic cancer, Lombardy's commitment to getting the treatment from the USA",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/mamma-con-tumore-al-pancreas-impegno-lombardia-per-farle-arrivare-la-cura_a72d25b1-51f3-4072-abca-3910d48b3625.html",
+      "published_date": "2026-11-04T17:12:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Promoted jihadist propaganda on social media, 27-year-old arrested",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/faceva-propaganda-jihadista-sui-social-arrestato-27enne_274dc751-5f75-4fee-b59f-8e855731c4be.html",
+      "published_date": "2026-11-04T16:42:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After the defeat, Trump will seek a victory: Iran or Cuba? Kupchan's version",
+      "source": "Formiche",
+      "url": "https://formiche.net/2026/11/voto-contro-trump-democratici-kupchan-midterm-usa/",
+      "published_date": "2026-11-04T16:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Regions unanimously, 'insufficient resources for healthcare being maneuvered'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/regioni-allunanimita-in-manovra-risorse-insufficienti-per-la-sanita_4b49e5c7-8fdd-49fe-aff5-a45f437cea28.html",
+      "published_date": "2026-11-04T16:38:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Once the Garlasco file has been assigned to the Gup, the judge will be Luigi Riganti",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/assegnato-al-gup-il-fascicolo-su-garlasco-il-giudice-sara-luigi-riganti_88828107-083d-45b2-9dec-f7374d57c608.html",
+      "published_date": "2026-11-04T16:17:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schillaci, Health Fund at the highest level and continues to grow",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/schillaci-fondo-sanitario-al-livello-piu-alto-e-continua-a-crescere_bc032c6f-4032-436a-aa34-ace83198eb7c.html",
+      "published_date": "2026-11-04T16:14:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Piacenza, 54 year old worker dies hit by a car while inside a manhole on the road",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/11/04/news/piacenza_operaio_tombino_investito_auto-425699136/?rss",
+      "published_date": "2026-11-04T15:59:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baiardo fell ill during the trial and was hospitalized in Domodossola",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/baiardo-accusa-malore-durante-processo-ricoverato-in-ospedale-a-domodossola_b764b26c-0258-4dc7-a423-83f3a8aeac0f.html",
+      "published_date": "2026-11-04T15:48:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lega, Salvini convenes the federal government: new secretariat and showdown on Giorgetti",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/04/news/lega_federale_salvini_giorgetti_segreteria-425698783/?rss",
+      "published_date": "2026-11-04T15:40:48+00:00",
       "category": "Local Events"
     }
   ]
