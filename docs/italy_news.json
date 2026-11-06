@@ -1,8 +1,22 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-05T18:26:40.010214+00:00",
+  "last_updated": "2026-11-06T02:57:54.105276+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "New black smoke for the bill decree: no approval for discounts",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/06/news/decreto_bollette_nuova_fumata_nera_cdm_sconti-425702930/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Intesa-Mps, the Antitrust says yes but Generali calls Brussels",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/06/news/antitrust_chiude_istruttoria_intesa_mps_generali-425702918/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tajani launches the national strategy for science diplomacy. «ASI and the Calabria Region collaborate with NASA on the Artemis project»",
       "source": "Il Sole 24 Ore",
@@ -130,18 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Piantedosi: 'The hacking of supermarkets is an initiative coordinated at EU level'. Meeting at Palazzo Chigi",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/piantedosi-lhackeraggio-dei-supermercati-iniziativa-coordinata-a-livello-ue.-riunione-a-palazzo_0956464f-20d8-42c8-bfee-90ff08126b4b.html",
-      "published_date": "2026-11-03T17:41:42+00:00",
-      "category": "Diplomacy"
+      "title": "Fastweb, new tug-of-war with Inwit",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/06/news/fastweb_conti_vodafone_torri_inwit_accordo-425702694/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Chinese parcels. The EU tax convinces Italy, goodbye to the tightening of maneuvers",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/cina-pacchi-italia-europa-tassa-ecommerce-manovra/",
-      "published_date": "2026-11-03T15:54:18+00:00",
-      "category": "Diplomacy"
+      "title": "The mystery of the pilot hijacked in France: he didn't want to land, the prosecutor's office investigates",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/06/news/pilota_volo_dublino_roma_allarme_bomba_intervista-425702806/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "He shot ANPI activists with an airsoft weapon and was sentenced to 4 months",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/con-arma-softair-sparo-agli-attivisti-dellanpi-condannato-a-4-mesi_dcee8489-3662-43ce-a790-eac058c7a993.html",
+      "published_date": "2026-11-05T19:38:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "He shot ANPI activists with an airsoft weapon and was sentenced to four months",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/con-unarma-softair-sparo-agli-attivisti-dellanpi-condannato-a-quattro-mesi_bd3a1f17-76e4-42f4-8369-90909f503b34.html",
+      "published_date": "2026-11-05T19:02:15+00:00",
+      "category": "Military"
     },
     {
       "title": "Chaos in European skies: bomb alert on at least 25 flights. At least ten cases in Italy",
@@ -256,32 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Crushed by a crane, worker dies. It's the fifth in one day",
+      "title": "Wall Street crash, 3,200 billion burned with the escape from AI",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/schiacciato-da-una-gru-muore-operaio.-e-il-quinto-in-un-giorno_3e1891b9-86e6-400b-9c46-e49c201d2e84.html",
-      "published_date": "2026-11-04T18:06:34+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/tonfo-wall-street-bruciati-3.200-miliardi-con-la-fuga-dallia_1d27144f-fe8d-4247-a1b7-88f65339fa89.html",
+      "published_date": "2026-11-05T22:57:22+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Garlasco, two more investigations in Pavia. 'Sempio favourite, Stasi damaged'",
+      "title": "The Bills decree is still postponed, controversy over the appointments to Consob and Anac",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/04/garlasco-altre-due-indagini-a-pavia.-sempio-favorito-stasi-danneggiato_0831b1de-6d5e-435c-a355-44cdb674ab2d.html",
-      "published_date": "2026-11-04T17:51:54+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/il-decreto-bollette-slitta-ancora-polemiche-sulle-nomine-a-consob-e-anac_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
+      "published_date": "2026-11-05T20:04:44+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Schumer, 'the days of the Senate supine to Trump are over, we will end the war in Iran'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/04/schumer-i-giorni-del-senato-supino-a-trump-finiti-finiremo-la-guerra-in-iran_218fe111-cc6f-4b26-a44c-6dc26ba467a3.html",
-      "published_date": "2026-11-04T16:48:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Leo XIV: “War is a failure of politics, taking care of the wounds of peoples”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/04/news/leone_xiv_la_guerra_e_un_fallimento_della_politica_prendersi_cura_delle_ferite_dei_popoli-425698693/?rss",
-      "published_date": "2026-11-04T14:27:30+00:00",
-      "category": "Military"
+      "title": "Hybrid warfare and attacks to fuel tension",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/la-guerra-ibrida-e-gli-attacchi-per-alimentare-la-tensione-a7cd653f-c082-44e0-8510-044120cf9fc3.html",
+      "published_date": "2026-11-05T18:35:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Lagarde: 'In December we will understand whether we will have to raise rates further'",
@@ -293,8 +314,8 @@
     {
       "title": "Gas increasing (+1.5%) to 89.4 euros per megawatt hour",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-gas-in-aumento-15-a-894-euro-al-megawattora_cc7beb6c-a28e-4f59-91d8-498a4e864c73.html",
-      "published_date": "2026-11-05T17:12:46+00:00",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-gas-in-aumento-15-a-894-euro-al-megawattora_f6aad1b0-6292-4150-b90f-cd6c760152dd.html",
+      "published_date": "2026-11-05T17:21:54+00:00",
       "category": "Energy"
     },
     {
@@ -403,25 +424,81 @@
       "category": "Energy"
     },
     {
-      "title": "Influenza, the data blackout: this is why the network that monitors cases has been stopped for eight months",
+      "title": "Stock markets pay for uncertainty: wave of sales on Big Tech",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/04/news/influenza_monitoraggio_casi_sistema_bloccato-425698606/?rss",
-      "published_date": "2026-11-04T11:18:20+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/2026/11/05/news/wall_street_affonda_vendite_tech_nasdaq-425702913/?rss",
+      "published_date": "2026-11-06T01:39:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Exit from Confindustria Energia, Eni criticizes Elettricità Futura",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/04/news/confindustria_energia_eni_critica_elettricita_futura-425697225/?rss",
-      "published_date": "2026-11-04T00:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "More deaths at work, the victims are two workers. Two burn victims in a refinery",
+      "title": "Paraguay, refunds to Ueno Bank account holders from November 6th",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/03/ancora-morti-sul-lavoro-le-vittime-sono-due-operai.-due-ustionati_ac7d8e59-a04e-489a-bb04-692df473379b.html",
-      "published_date": "2026-11-03T18:53:45+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/paraguay-dal-6-novembre-i-rimborsi-ai-correntisti-di-ueno-bank_0aa3a05d-0ed3-4c18-a3f9-b7960f8c1a09.html",
+      "published_date": "2026-11-06T01:08:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Italian Maga gathering in Ferrara: no vax, sovereignists, anti-euro. “We believe in Trump”",
+      "source": "la Repubblica",
+      "url": "https://bologna.repubblica.it/cronaca/2026/11/05/news/maga_italiani_raduno_ferrara_trump_no_vax_chi_sono-425702968/?rss",
+      "published_date": "2026-11-05T23:00:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Paraguay, Peña announces that he will defend himself from impeachment proceedings",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/paraguay-pena-annuncia-che-si-difendera-dalla-procedura-di-impeachment_af2f454a-c057-4cce-a647-c91b0ce6b34d.html",
+      "published_date": "2026-11-05T22:56:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "USA, the victory of the Democrats and the nightmare of the chip manufacturers: goodbye to the AI factories",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/05/news/nasdaq_affondano_costruttori_chip_societa_neocloud-425702896/?rss",
+      "published_date": "2026-11-05T21:57:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nightmare Paraguay, half the country wakes up with no more money in the bank. The president resigns",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/esteri/2026/11/05/news/paraguay_senza_piu_soldi_in_banca_per_il_crac_della_ueno-425701871/?rss",
+      "published_date": "2026-11-05T21:10:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver under attack. Unions summoned to Palazzo Chigi on 13 November",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/manovra-sotto-attacco.-in-piazza-i-sindacati-della-scuola-anche-la-polizia-pronta_7136b486-1b4a-422b-b16f-d6d38f61c9b5.html",
+      "published_date": "2026-11-05T20:45:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Paraguay, President Peña resigns after the Ueno Bank chaos",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/paraguay-presidente-pena-si-dimette-il-caos-ueno-bank-AJ9OSV6B",
+      "published_date": "2026-11-05T20:13:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Economic manoeuvre, unions summoned to Palazzo Chigi on 13 November",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/maratona/2026/11/manovra-economica-iter-parlamentare-legge-bilancio-2027-pensioni-tagli-scuola-difesa-nodi-nella-maggioranza-opposizione-69400351-ad30-4540-ae2e-780a0f717d41.html",
+      "published_date": "2026-11-05T19:55:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The progressive program takes shape, but the patrimonial divide still divides",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/sabato-si-apre-il-tavolo-progressista-per-il-programma-sara-una-call_1d65aeef-3ffa-4f49-8aab-e9439160291c.html",
+      "published_date": "2026-11-05T19:28:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "United on the minimum wage but divided on assets: wide field, technical tests of the program",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/05/news/salario_minimo_patrimoniale_campo_largo_programma_landini_cgil-425702376/?rss",
+      "published_date": "2026-11-05T18:34:48+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pordenonelegge, every euro invested generates 18 in the area",
@@ -487,81 +564,123 @@
       "category": "Economy"
     },
     {
-      "title": "Schlein, completely wrong maneuver",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/schlein-manovra-completamente-sbagliata_a76049e4-4339-4f60-9bc7-5e7049cc06ca.html",
-      "published_date": "2026-11-05T15:35:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Cybersecurity Agency: \"Hacker attacks on fridges favored by outdated software\"",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/lagenzia-per-la-cybersicurezza-gli-attacchi-hacker-ai-frigo-favoriti-da-software-non_4fba4e05-6c60-4229-b452-d361a91e23be.html",
-      "published_date": "2026-11-05T15:33:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Europe worsens with Wall Street, Milan -1%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-leuropa-peggiora-con-wall-street-milano-1_60af24a6-8c5b-45f1-a230-7729c678552a.html",
-      "published_date": "2026-11-05T15:30:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stock market: Milan holds with Europe after Wall Street, Tenaris runs",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/borsa-milano-tiene-con-leuropa-dopo-wall-street-corre-tenaris_c51dbce2-9972-44be-9a05-0961eddff19b.html",
-      "published_date": "2026-11-05T14:45:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Over 600 young people in Piazza Affari to meet Christine Lagarde",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/oltre-600-ragazzi-in-piazza-affari-per-incontrare-christine-lagarde_197d12cc-e654-4e02-bdf4-66b109894ee3.html",
-      "published_date": "2026-11-05T14:43:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The law is there, the resources are not. The crux of obesity treatments",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/legge-di-bilancio-obesita-appello-pazienti/",
-      "published_date": "2026-11-05T14:26:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Increased use of Glp-1 drugs: the impact on consumer habits",
+      "title": "The ANAC guide to the Apulian Northern League: \"Very serious decision\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/11/05/news/aumenta_l_uso_di_farmaci_glp-1_l_impatto_sulle_abitudini_dei_consumatori-425701051/?rss",
-      "published_date": "2026-11-05T13:33:19+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/economia/2026/11/06/news/anac_trifone_nuccio_altieri_presidente_leghista_chi_e-425702946/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Confindustria-Bdi-Medef, strengthen European public spending towards businesses",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/confindustria-bdi-medef-rafforzare-spesa-pubblica-europea-imprese-AJqF1t5B",
-      "published_date": "2026-11-05T13:26:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The cost of treatment will not be indicated in the medical record. The eliminated rule of the maneuver",
+      "title": "Governor Fontana tries to help Giorgetti. The Salvinians attack Bertolaso",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/05/news/costo_cure_cartella_clinica_sensibilizzare_pazienti-425701388/?rss",
-      "published_date": "2026-11-05T13:12:45+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/economia/2026/11/06/news/lega_attilio_fontana_difende_giorgetti_salvini_bertolaso-425702886/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Banks and insurance companies under attack: hackers go through emails",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/banche-e-assicurazioni-sotto-attacco-hacker-passano-email-AJhE8q5B",
-      "published_date": "2026-11-05T13:10:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Brembo, accounts growing in the nine months. 2026 targets confirmed",
+      "title": "The judge threatened for having released Youssef Siher is under protection",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/05/news/brembo_conti_in_crescita_nei_nove_mesi_confermati_i_target_2026-425701503/?rss",
-      "published_date": "2026-11-05T13:04:24+00:00",
-      "category": "Economy"
+      "url": "https://milano.repubblica.it/cronaca/2026/11/06/news/tutela_giudice_landoni_siher_scarcerato_scontri_milano-425702674/?rss",
+      "published_date": "2026-11-06T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather forecast, disturbance with rain until Saturday, snow in the Alps above 1500 metres",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/06/news/previsioni_meteo_piogge_sabato_neve_alpi-425702822/?rss",
+      "published_date": "2026-11-05T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garlasco case, Alberto Stasi's lawyers will ask for the trial to be reviewed",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/caso-garlasco-i-legali-di-alberto-stasi-chiederanno-la-revisione-del-processo-2922f04c-e514-42e4-9f75-602792b9bc52.html",
+      "published_date": "2026-11-05T21:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Chilean government reduces the sentences of 115 foreign narcos",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/05/il-governo-cileno-riduce-le-condanne-a-115-narcos-stranieri_9f744dd3-07d5-4ef9-89fb-aff348b221b2.html",
+      "published_date": "2026-11-05T21:11:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The new National Newspaper launches, 'pact with readers: free to blame us'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/al-via-il-nuovo-quotidiano-nazionale-patto-con-i-lettori-liberi-di-darci-torto_57a56134-e87c-49c9-91db-76680420fb6c.html",
+      "published_date": "2026-11-05T21:10:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marguerettaz president of Valle d'Aosta, 'autonomy and dialogue with Rome'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/aurelio-marguerettaz-nuovo-presidente-della-valle-daosta_a5aea730-8a21-4592-b908-1c43d90d7455.html",
+      "published_date": "2026-11-05T20:47:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aurelio Marguerettaz new president of Valle d'Aosta",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/aurelio-marguerettaz-nuovo-presidente-della-valle-daosta_89885ed2-eb96-4b49-afbc-f6400e54997a.html",
+      "published_date": "2026-11-05T20:15:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Having challenged the Veneto law on the end of life, the government is divided",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
+      "published_date": "2026-11-05T20:05:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Migrants, medical advice will no longer be binding to avoid CPR",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/piantedosi-il-parere-medico-non-sara-vincolante-per-evitare-il-cpr_72c62fe8-08dc-4099-89a8-5e6d931b4809.html",
+      "published_date": "2026-11-05T19:57:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cpr, Piantedosi eliminates the medical certificate of suitability: no longer binding for detaining migrants",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/05/news/cpr_migranti_piantedosi_elimina_certificato_medico_idoneita_non_piu_vincolante-425702553/?rss",
+      "published_date": "2026-11-05T19:21:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Villa Pamphili murders, Kaufmann sentenced to life imprisonment: he killed his partner and daughter",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/femminicidi-di-villa-pamphili-madre-figlia-per-kaufmann-ergastolo-la-sentenza-c3e8a5bd-9c05-4ecf-bdcc-9e6f20854568.html",
+      "published_date": "2026-11-05T19:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three former Bra footballers convicted for abusing a student",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/tre-ex-calciatori-del-bra-condannati-per-gli-abusi-su-una-studentessa_052bb245-f359-4172-b027-3e3614d8aa45.html",
+      "published_date": "2026-11-05T19:00:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mattarella's Southern alarm: 'Make those born here stay or return'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/mattarella-chi-nasce-al-sud-possa-restare-o-tornare-e-interesse-nazionale_61b4159f-b7b8-4648-90fa-b533c7aacb82.html",
+      "published_date": "2026-11-05T18:58:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The government challenges the Veneto law on the end of life",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/governo-impugna-la-legge-del-veneto-sul-fine-vita-87343237-78a7-4a5d-912a-5b12929d1f14.html",
+      "published_date": "2026-11-05T18:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "On Dublin-Roma: 'When we saw the jets we thought the worst'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/sul-dublino-roma-quando-abbiamo-visto-i-jet-abbiamo-pensato-al-peggio_02016d9e-7e22-4ef2-b94d-2f90023d7e85.html",
+      "published_date": "2026-11-05T18:19:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Clashes in Milan, six minors are freed and one is released from prison",
@@ -582,125 +701,6 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/cinque-trapianti-di-fegato-in-36-ore-alle-molinette-di-torino_339fe23a-06c0-46d5-b723-1b79bbe75cb9.html",
       "published_date": "2026-11-05T18:13:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Askatasuna clashes, the prosecutor asks for four years for the first accused",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/scontri-askatasuna-per-il-primo-imputato-il-pm-chiede-quattro-anni_fe897f35-a575-4b9e-9aba-4abba68aa84a.html",
-      "published_date": "2026-11-05T18:11:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "End of life, the government challenges the Veneto law. Calderoli against, Salvini deserts",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/?rss",
-      "published_date": "2026-11-05T18:10:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Piazza Loggia, second no to the arrest of Marco Toffaloni",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/piazza-loggia-secondo-no-allarresto-di-marco-toffaloni_40e9006d-a51e-4f6c-8ae1-b666d85a6e1a.html",
-      "published_date": "2026-11-05T18:06:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Insults to Liliana Segre, one hater settles for 4 months, another 1000 euros",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/insulti-a-liliana-segre-un-hater-patteggia-4-mesi-un-altro-1000-euro_fe2d7fc4-c8db-42a0-8029-d10d4983dcf9.html",
-      "published_date": "2026-11-05T18:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hungarian ultras in Milan with Mussolini t-shirts and banners",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/ultras-ungheresi-in-piazza-duomo-con-t-shirt-di-mussolini-e-striscioni_51ff3c60-1b60-4657-ac8f-39adaca8f159.html",
-      "published_date": "2026-11-05T18:04:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Collision between trucks on the A14 between Pesaro and Fano, a truck driver dies",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/tamponamento-tra-tir-in-a14-tra-pesaro-e-fano-morto-un-camionista_78c63147-9559-4ea3-965b-677e48130651.html",
-      "published_date": "2026-11-05T18:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government challenges the Veneto law on the end of life, Salvini does not vote in the Council of Ministers",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/il-governo-impugna-la-legge-del-veneto-sul-fine-vita-salvini-non_1a4520b4-1790-46bc-bb6c-6a8087285d0f.html",
-      "published_date": "2026-11-05T18:01:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Municipality-Region clash in Genoa. Salis: 'Tired of Bucci explaining life to us'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/a-genova-scontro-comune-regione.-salis-stufi-che-bucci-ci-spieghi-la-vita_e46f4b72-330a-4a42-b308-3670a9730713.html",
-      "published_date": "2026-11-05T18:01:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Having killed her father, Rosa Capuano confesses and is sentenced to 25 years",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/uccise-il-padre-rosa-capuano-confessa-e-viene-condannata-a-25-anni_a2bfd30c-2f12-4d89-a404-7b5ca4804a90.html",
-      "published_date": "2026-11-05T18:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Worker dies struck by a round bale in Molise",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/lavoratore-muore-travolto-da-una-rotoballa-in-molise_37ff7fbb-f6f5-4df6-b00f-b2e5b2682c25.html",
-      "published_date": "2026-11-05T17:53:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The approval of the Bills decree is still postponed in the Council of Ministers",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/in-cdm-slitta-ancora-lapprovazione-del-decreto-bollette_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
-      "published_date": "2026-11-05T17:50:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government challenges the Veneto law on the end of life. Zaia: \"I respect, but I claim our...",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-11-05/fine-vita-governo-impugna-legge-veneto-39901166/",
-      "published_date": "2026-11-05T17:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagarde: \"In December we will understand whether to raise rates. Midterm? It will take time to review duties\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/05/news/lagarde_a_dicembre_capiremo_se_alzare_i_tassi-425702141/?rss",
-      "published_date": "2026-11-05T17:33:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bernini, average student cost is 400-500 euros per month, 20 thousand free",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/bernini-costo-medio-studentati-e-di-400-500-euro-al-mese-20-mila-gratis_7a0907fe-4ee8-4b2a-8321-734f92943502.html",
-      "published_date": "2026-11-05T17:29:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "End of life, the government challenges the Veneto law: Salvini does not vote in the Council of Ministers",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/fine-vita-governo-impugna-legge-veneto-salvini-non-vota-cdm-calderoli-contrario-AJHFDG6B",
-      "published_date": "2026-11-05T17:24:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Slaps and beatings of children in a kindergarten, the director arrested",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/schiaffi-e-percosse-ai-bambini-di-un-asilo-arrestata-la-direttrice_75c51ff0-b603-467d-b611-4dcf696a02e8.html",
-      "published_date": "2026-11-05T17:21:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monoxide leak discovered thanks to the cat's meow: a couple and a family saved",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/scoperta-la-fuga-di-monossido-grazie-al-miagolio-del-gatto-salvata-una-coppia-nel-trevigiano-e23a4bc5-a671-4c6a-a629-9f9d1c897e84.html",
-      "published_date": "2026-11-05T16:42:00+00:00",
       "category": "Local Events"
     }
   ]
