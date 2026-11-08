@@ -1,8 +1,29 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-07T16:43:41.826385+00:00",
+  "last_updated": "2026-11-08T01:56:47.850273+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Brenner and Smartbox in the crosshairs of the pro-Russians: \"Sensitive data stolen\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/08/news/guerra_ibrida_attacchi_hacker_tunnel_brennero-425707614/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Krakow, mother of a student 'during the shooting everyone took shelter where they could'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-madre-di-uno-studente-durante-spari-ognuno-si-e-riparato-dove-poteva_1b766d0b-13f1-448e-bebe-cd026238c2cc.html",
+      "published_date": "2026-11-07T22:20:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Web threats and hybrid warfare: Tajani reports a bounty against him",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/callusotg1-minacce-tajani-dbd57a84-43f2-4318-9776-78c6c051961c.html",
+      "published_date": "2026-11-07T19:17:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Meloni, solidarity with Tajani for pro-Russian hackers, great concern",
       "source": "ANSA",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ita Airways, agreement with unions: support for up to 180 voluntary exits",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ita-airways-accordo-i-sindacati-sostegni-fino-180-uscite-volontarie-AJ5qlB6B",
-      "published_date": "2026-11-06T09:32:52+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meloni's move on Ukraine, pushes Costa as EU envoy: \"Otherwise we are irrelevant\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/11/06/news/meloni_ucraina_costa_inviato_ue-425702922/?rss",
-      "published_date": "2026-11-06T00:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New black smoke for the bill decree: no approval for discounts",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/06/news/decreto_bollette_nuova_fumata_nera_cdm_sconti-425702930/?rss",
-      "published_date": "2026-11-06T00:00:00+00:00",
-      "category": "Diplomacy"
+      "title": "Tusk, 'we have never had such brutal cases of terrorism before'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tusk-non-abbiamo-mai-avuto-casi-di-terrorismo-cosi-efferati-prima_2c68fef1-3cce-4a51-ae46-55f403d0f29f.html",
+      "published_date": "2026-11-07T21:39:40+00:00",
+      "category": "Military"
     },
     {
       "title": "Carabinieri serve notice and find dog in cage, 3 people reported",
@@ -277,11 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Flight alerts, the inevitable escalation of a fear strategy against which we have no defense",
+      "title": "Fire in the Trino nuclear power plant, investigations into the causes. Sogin: “No environmental risk”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/06/news/allarmi_voli_chi_c_e_dietro_come_difendersi-425704208/?rss",
-      "published_date": "2026-11-06T14:44:34+00:00",
-      "category": "Military"
+      "url": "https://torino.repubblica.it/cronaca/2026/11/07/news/treino_centrale_nucleare_incendio_nella_centrale_nucleare_di_trino_indagini_sulle_cause_sogin_nessun_rischio_ambientale-425707676/?rss",
+      "published_date": "2026-11-07T20:31:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Recovering data on the dark web is impossible, as on the open network",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/recuperare-i-dati-su-dark-web-impossibile-come-sulla-rete-aperta_62e40be1-a29f-46e1-a9bf-7579ffcd5d57.html",
+      "published_date": "2026-11-07T19:33:06+00:00",
+      "category": "Energy"
     },
     {
       "title": "Procession in Turin, bills burned against the high cost of living",
@@ -410,18 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "Dl Bills, the green light in the Council of Ministers is still delayed",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/dl-bollette-slitta-ancora-via-libera-consiglio-ministri-AJnStC6B",
-      "published_date": "2026-11-05T16:43:00+00:00",
-      "category": "Energy"
+      "title": "Participate, bodies and ministries as employment centres: 70 placed, League record",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/08/news/lega_partecipate_enti_ministeri_record-425707771/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "He shot two Anpi activists, sentenced to 4 months",
+      "title": "Growth and markets hanging on AI, the bet that shakes the world",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/08/news/intelligenza_artificiale_mercati_bolla_investimenti-425707753/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Superbonus, exemption idea for small businesses",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/08/news/superbonus_manovra_stretta_crediti_fiscali-425707555/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Pharmacies, companies, power plants. Here are the other violated objectives: \"This is how they blackmail companies\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/08/news/hacker_obiettivi_violati_ricatti_alle_aziende-425707730/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ueno Bank crash in Paraguay, charges against the former president formalized",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/crack-ueno-bank-in-paraguay-formalizzate-le-imputazioni-contro-lex-presidente_efef2809-3fc8-4cb8-8f4a-cfc876b89c02.html",
+      "published_date": "2026-11-07T19:24:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "No extension on excise duties, risk of increases in diesel prices",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/rischio-rincari-per-il-gasolio-da-domani-in-gu-non-ce-proroga-taglio-accise_d507854b-172b-4e83-b142-79fdc1bc11ac.html",
+      "published_date": "2026-11-07T18:56:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver under siege. Also CISL and insurance against",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/manovra-sotto-assedio.-anche-cisl-e-assicurazioni-contro_2efcbae9-1991-46ee-9bc2-974537302281.html",
+      "published_date": "2026-11-07T18:55:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Turin returns to the streets against the high cost of living. Processions also in Milan, Cremona, Genoa and Bologna",
       "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/sparo-a-due-attivisti-dellanpi-condannato-a-4-mesi-61b72a5d-3d74-4076-b568-d2241948ddda.html",
-      "published_date": "2026-11-05T14:50:30+00:00",
-      "category": "Energy"
+      "url": "https://www.rainews.it/articoli/2026/11/torino-torna-in-piazza-contro-il-carovita-cortei-anche-a-milano-cremona-genova-e-bologna-25025eb6-a479-48f9-80ac-b3995a100612.html",
+      "published_date": "2026-11-07T18:24:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fdi: «Professionals are the country's strategic resource»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/fdi-i-professionisti-sono-risorsa-strategica-paese-AJ935a8B",
+      "published_date": "2026-11-07T17:16:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Maneuver, Fumarola 'flat tax up to 100 thousand euros is not acceptable'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/manovra-fumarola-flat-tax-fino-a-100mila-euro-non-e-accettabile_fe72b950-e034-4e74-9096-9bd8bc9ca1ef.html",
+      "published_date": "2026-11-07T16:51:13+00:00",
+      "category": "Economy"
     },
     {
       "title": "Excise duties, the government does not renew the discounts on diesel: prices will increase from tomorrow",
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "AI towards the reckoning. The warning from the midterm vote: those who want to stop data centers have won",
+      "title": "Altieri case, the fight over the successor of the Northern League currents, Meloni: no mistakes",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/11/07/news/ia_verso_la_resa_dei_conti_il_monito_del_voto_di_midterm_ha_vinto_chi_vuol_stoppare_i_data_center-425706365/?rss",
-      "published_date": "2026-11-07T11:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/08/news/altieri_anac_successore_lega_meloni-425707757/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "US, debt and ratings tested by agencies after the midterm vote",
+      "title": "Anac, the opposition attacks: \"Another fool of the government\", Salvini: \"New name tomorrow\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/07/news/debito_usa_e_rating_al_test_delle_agenzie-425703904/?rss",
-      "published_date": "2026-11-07T11:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/08/news/anac_altieri_opposizioni_salvini_lunedi_nuovo_nome-425707743/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Brenner tunnel, hacker attack on the management company Bbt Se",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/tunnel-brennero-attacco-hacker-societa-gestione-bbt-se-AJzwRL8B",
-      "published_date": "2026-11-07T10:29:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Discussions on the renewal of banking contracts, the Maneuver issue, restart on Monday",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/lunedi-riparte-confronto-su-rinnovo-contratto-bancari-il-nodo-manovra_31b2f5b1-ded7-4eb3-bacd-65028dd9b091.html",
-      "published_date": "2026-11-07T10:26:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tourism in luxury hotels is worth 10.4 billion, attendance has more than doubled since 2008",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/il-turismo-alberghi-lusso-vale-104-miliardi-2008-presenze-piu-che-raddoppiate-AJxLhJ8B",
-      "published_date": "2026-11-07T09:44:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "From Cortina to Campiglio, KFC's fried chicken on the ski slopes. It's controversy: “Save the shelters”",
+      "title": "Cassese: “Authorities used to place former politicians, more independence is needed”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/07/news/da_cortina_a_campiglio_il_pollo_fritto_di_kfc_sulle_piste_da_sci_e_polemica_salvate_i_rifugi-425706231/?rss",
-      "published_date": "2026-11-07T09:05:25+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/08/news/sabino_cassese_authority_ex_politici_altieri_intervista-425707723/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "After the vote: Trump discounts inflation, the stock market fears the AI bubble",
+      "title": "Ex Ilva, Jindal in pole but Mittal's shadow weighs heavily: government pressing on Arvedi",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/09/news/dopo_il_voto_trump_sconta_l_inflazione_la_borsa_teme_la_bolla_ia-425704256/?rss",
-      "published_date": "2026-11-07T09:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/economia/2026/11/08/news/ex_ilva_jindal_in_pole_pesa_il_precedente_mittal_pressing_su_arvedi-425707369/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sesto San Giovanni, FdI councilor advertises for a real estate agency: question from the Democratic Party",
+      "title": "“I, a recognized trans woman without expertise: it is a historical turning point, now let's change the law”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/11/07/news/antonio_lamiranda_assessore_fdi_pubblicita_interrogazione_pd-425706325/?rss",
-      "published_date": "2026-11-07T08:50:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Maneuver, a busy week of hearings and meetings: the calendar and who will be listened to by the Government",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/manovra-settimana-fuoco-audizioni-e-incontri-calendario-e-chi-verra-ascoltato-governo-AJG5io7B",
-      "published_date": "2026-11-07T08:11:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sirti, plan for 430 redundancies and the unions bring the dossier to Mimit",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/sirti-piano-430-esuberi-e-sindacati-portano-dossier-mimit-AJlRBs7B",
-      "published_date": "2026-11-07T08:02:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Salvini, Altieri had the requirements for the Anac, another name in the CDM on Monday",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/salvini-altieri-aveva-i-requisiti-per-lanac-un-altro-nome-lunedi-in-cdm_6806e662-49c4-4385-9cba-62d84eb65180.html",
-      "published_date": "2026-11-07T16:30:11+00:00",
+      "url": "https://firenze.repubblica.it/cronaca/2026/11/08/news/jasmine_piattelli_intervista_trans_sentenza-425707811/?rss",
+      "published_date": "2026-11-08T00:00:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Don Bosco Institute of Cairo turns 100 years old, excellence in Egypt speaks Italian",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/istituto-don-bosco-del-cairo-compie-100-anni-parla-italiano_31157bb6-4f7c-4bc4-9900-fa2d706f34c3.html",
-      "published_date": "2026-11-07T16:21:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government is moving forward with the Bill Decree, no substantial changes",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/07/il-governo-va-avanti-sul-decreto-bollette-nessuna-modifica-sostanziale_b690280f-b604-45c9-906c-3a070568f47c.html",
-      "published_date": "2026-11-07T16:19:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vannacci inaugurates an FnV branch in Coverciano, protests and clashes",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/vannacci-inaugura-una-sede-di-fnv-a-coverciano-contestazioni-e-scontri_011c5b4a-75b0-49ef-9335-b9367fb45128.html",
-      "published_date": "2026-11-07T16:12:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man opens fire from a car in Krakow square, five dead",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/uomo-apre-il-fuoco-da-unauto-nella-piazza-di-cracovia-cinque-morti_914884c5-73e9-4844-ade4-7a7a3375c127.html",
-      "published_date": "2026-11-07T15:36:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Policeman killed, family lawyers: 'It's a case of relational femicide'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/vigilessa-uccisa-gli-avvocati-dei-familiari-e-un-caso-di-femminicidio-relazionale_cdd8ea0d-3a59-4a60-bfb9-6bc3f25b279b.html",
-      "published_date": "2026-11-07T14:59:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Only one doctor for 2,300 inhabitants, protests begin in Molise",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/un-solo-medico-per-2.300-abitanti-scatta-la-protesta-in-molise_e479d047-ef44-4d93-971c-86253c7941cf.html",
-      "published_date": "2026-11-07T14:56:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gualtieri is running again for the Capitol with a very wide field",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/gualtieri-si-ricandida-al-campidoglio-con-il-campo-larghissimo_0f4fc042-27c3-44be-a704-866450fec849.html",
-      "published_date": "2026-11-07T14:21:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meloni against the opposition for a fake photo of Bonaccini on Tajani, the author removes the post",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/meloni-contro-le-opposizioni-per-una-foto-falsa-di-bonaccini-su-tajani-lautore_b1633ef8-9762-4035-b9a1-399a0396d526.html",
-      "published_date": "2026-11-07T13:43:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He breaks his partner's skull, attempted femicide in Vicenza: an arrest",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/rompe-il-cranio-alla-compagna-tentato-femminicidio-a-vicenza-un-arresto-c6064637-55ae-4d8f-bac7-55993a6e28f7.html",
-      "published_date": "2026-11-07T13:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saturday with rain, Sunday improves",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/sabato-con-piogge-domenica-migliora_9adbe2ce-2fee-44e3-875f-5b5faf6848a1.html",
-      "published_date": "2026-11-07T13:38:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gualtieri launches his candidacy for mayor of Rome: \"Home and safety are the priorities\"",
-      "source": "AGI",
-      "url": "https://www.agi.it/politica/news/2026-11-07/gualtieri-candidatura-sindacoi-roma-39925031/",
-      "published_date": "2026-11-07T13:36:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He stabs his partner and fractures her skull, arrested",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/accoltella-la-compagna-e-le-frattura-il-cranio-arrestato-_590ddfe2-a77b-4b7c-a32c-c1891b0c88c0.html",
-      "published_date": "2026-11-07T13:10:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attempted feminicide in Vicenza: he stabs his partner and fractures her skull",
+      "title": "Weather forecast, anticyclonic truce on Sunday but autumn disturbances return during the week",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/07/news/tentato_femminicidio_a_vicenza_accoltella_la_compagna_e_le_frattura_il_cranio-425706725/?rss",
-      "published_date": "2026-11-07T12:50:20+00:00",
+      "url": "https://www.repubblica.it/cronaca/2026/11/08/news/previsioni_meteo_domenica_tregua_anticiclonica_ma_in_settimana_tornano_le_perturbazioni_autunnali-425707782/?rss",
+      "published_date": "2026-11-07T23:01:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Cut NoName hacker, the mayor of Aviano 'I'm amazed'",
+      "title": "Thousands at the LGBT+ Pride in Buenos Aires before the Pope's visit",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/taglia-hacker-di-noname-il-sindaco-di-aviano-sono-stupito_cf32c02c-8b94-4f33-a8f1-372a9454b50e.html",
-      "published_date": "2026-11-07T12:37:13+00:00",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_c6c215a2-31f7-4fef-b158-81e75755fd1d.html",
+      "published_date": "2026-11-07T22:44:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "From Tg5 to the town, I return home to build the Happy Village and combat depopulation",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/dal-tg5-paese-ritorno-casa-costruire-l-happy-village-e-contrastare-spopolamento-AJphmH7B",
-      "published_date": "2026-11-07T12:31:12+00:00",
+      "title": "Goodbye to Cesare Vaciago, the reformist manager from the Railways to the Municipality of Turin",
+      "source": "la Repubblica",
+      "url": "https://torino.repubblica.it/cronaca/2026/11/07/news/cesare_vaciago_morto_manager_riformista_ferrovie_comune_torino-425707845/?rss",
+      "published_date": "2026-11-07T22:00:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "On Sunday, 56 historic homes and Italian farms open to the public",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/domenica-aprono-pubblico-56-dimore-storiche-e-aziende-agricole-italiane-AJmTNa7B",
-      "published_date": "2026-11-07T12:29:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After the planes, the roads: hacker attack aimed at the Brenner tunnel, but without repercussions",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/dopo-gli-aerei-le-strade-attacco-mirato-alla-galleria-del-brennero-ma-senza-ripercussioni-e49fab71-212b-470b-a989-cf37f397aa54.html",
-      "published_date": "2026-11-07T12:21:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rome, Gualtieri is running for mayor again and opens the doors to M5s and Action",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/roma-gualtieri-si-ricandida-sindaco-e-apre-porte-m5s-e-azione-AJZnnO8B",
-      "published_date": "2026-11-07T12:06:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dog left in the sun dies of starvation, owner goes to trial",
+      "title": "Tension between anti-fascist march and CasaPound in Gorizia, three policemen injured",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cane-lasciato-al-sole-mori-di-stenti-la-padrona-va-a-processo_155dba1f-d826-4348-94aa-3e45d520d7e3.html",
-      "published_date": "2026-11-07T12:01:21+00:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/tensione-tra-corteo-antifascista-e-casapound-a-gorizia-feriti-tre-poliziotti_b78cb1c8-6bfb-487f-b5cb-ad3fff239a96.html",
+      "published_date": "2026-11-07T21:21:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Krakow, Italian students 'we are terrified but we are fine'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
+      "published_date": "2026-11-07T20:33:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salvini dismisses Romeo as group leader, 'the senators' idea is clear..'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/salvini-liquida-romeo-da-capogruppo-lidea-dei-senatori-e-chiara.._b34a289e-6c09-4a87-9b15-426888edfb01.html",
+      "published_date": "2026-11-07T20:29:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The story of an Italian in Krakow, 'Save for a minute'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/il-racconto-di-un-italiano-a-cracovia-salvi-per-un-minuto_b717da75-e6ca-4e11-9e99-76f79e2d3500.html",
+      "published_date": "2026-11-07T20:11:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New demonstration planned in Trieste but Piazza Libertà is deserted",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/prevista-nuova-manifestazione-a-trieste-ma-piazza-liberta-e-deserta_7d8f0a22-5469-4bb2-b09e-8f800a1e9e94.html",
+      "published_date": "2026-11-07T20:06:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Also on the mayor of Aviano the bounty of the hackers, 'I'm amazed'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/anche-sul-sindaco-di-aviano-la-taglia-degli-hacker-sono-stupito_37c97ed7-1f6d-4671-8f04-2cfa8b31614b.html",
+      "published_date": "2026-11-07T20:04:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Herzog entrusts the government to Eisenkot, appointment tomorrow at 5pm",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_86419f21-d671-4ecb-9ca2-81397837ec60.html",
+      "published_date": "2026-11-07T19:33:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Noname, the Moscow hackers hidden among the proselytes' servers",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/i-noname-gli-hacker-di-mosca-nascosti-tra-i-server-dei-proseliti_5c46cfd4-ee0a-4f2a-b6cd-06329c4c536c.html",
+      "published_date": "2026-11-07T19:31:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot's party invites Likud to join next government 'but without extremists'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/partito-di-eisenkot-invita-il-likud-a-unirsi-al-prossimo-governo-ma-senza-estremisti_fe25ccae-0dfd-48c4-8ddb-d5183db23383.html",
+      "published_date": "2026-11-07T19:28:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian high school students in the square in Krakow during the shooting, saved by the embassy",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_569a8e5c-df27-46c3-a0ee-cac3c13e10b2.html",
+      "published_date": "2026-11-07T19:25:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Neo-fascist attack in Rome', night attack on an occupied high school",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/aggressione-neofascista-a-romaassalto-notturno-a-liceo-occupato_62901bc3-bd2b-46ed-aa65-57bb2b29e615.html",
+      "published_date": "2026-11-07T19:02:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Controversy between La Russa and Majorino: \"He insults me, I don't.\" And he replies: “I'm just saying he's a fascist”",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/11/07/news/polemica_tra_la_russa_e_majorino_fascista-425707393/?rss",
+      "published_date": "2026-11-07T18:55:57+00:00",
       "category": "Local Events"
     }
   ]
