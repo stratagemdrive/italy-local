@@ -1,8 +1,29 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-08T01:56:47.850273+00:00",
+  "last_updated": "2026-11-08T16:57:48.025797+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Cyber-attacchi,Tajani: “Domani l’emergenza al G7”. Martedì vertice al Viminale",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/08/news/emergenza_cybersicurezza_piantedosi_convoca_per_martedi_il_comitato_nazionale_per_la_sicurezza-425708322/?rss",
+      "published_date": "2026-11-08T16:45:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attacchi informatici, Piantedosi convoca il Comitato di sicurezza pubblica",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
+      "published_date": "2026-11-08T16:40:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tajani, guerra ibrida colpisce sistema democratico, serve segnale forte G7",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/tajani-guerra-ibrida-colpisce-sistema-democratico-serve-segnale-forte-g7_d8b8fcb3-820a-4cf6-b3f3-f47cf34255d7.html",
+      "published_date": "2026-11-08T16:33:14+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brenner and Smartbox in the crosshairs of the pro-Russians: \"Sensitive data stolen\"",
       "source": "la Repubblica",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tajani 'building peace because it creates well-being'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/06/tajani-costruire-pace-perche-crea-benessere_d335e1e9-6d5c-438b-90e1-dde9e4658d31.html",
-      "published_date": "2026-11-06T15:02:12+00:00",
-      "category": "Diplomacy"
+      "title": "Donna di 71 anni uccisa in casa a Palosco: fermato il figlio di Emilia Bianchi",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/11/08/news/donna_uccisa_in_casa_a_palosco_aggredita_da_suo_figlio-425708543/?rss",
+      "published_date": "2026-11-08T16:25:19+00:00",
+      "category": "Military"
     },
     {
-      "title": "EU against TikTok, content harmful to users on the 'For You' feed",
+      "title": "In gruppo aggrediscono un 50enne a Trani, la vittima è in coma farmacologico",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/ue-contro-tiktok-sul-feed-per-te-contenuti-dannosi-per-gli-utenti_873aefbb-baf6-4c1a-a988-08cb9e3433dc.html",
-      "published_date": "2026-11-06T13:13:51+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/in-gruppo-aggrediscono-un-50enne-a-trani-la-vittima-e-in-coma-farmacologico_15e49d8e-03ac-43b2-8972-a7915c3e213b.html",
+      "published_date": "2026-11-08T11:01:27+00:00",
+      "category": "Military"
     },
     {
-      "title": "From Consob simpler rules on quotations, takeover bids and financial research",
+      "title": "Un 19enne pestato a sangue da tre minorenni a Sassari",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/06/da-consob-norme-piu-semplici-su-quotazioni-opa-e-ricerca-finanziaria_56ac32a5-bc51-4063-a7f7-4772bcbf79f3.html",
-      "published_date": "2026-11-06T12:40:25+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/un-19enne-pestato-a-sangue-da-tre-minorenni-a-sassari_2540c5fd-b240-4d5f-bf1d-2f14affb909d.html",
+      "published_date": "2026-11-08T09:16:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A Napoli 14enne con tirapugni in piazza del Plebiscito, 'era solo per un selfie'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/a-napoli-14enne-con-tirapugni-in-piazza-del-plebiscito-era-solo-per_12ce4690-744d-4bcb-bb81-ae6cd416cbc6.html",
+      "published_date": "2026-11-08T09:15:36+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Chi ha paura della pace in Ucraina? Gaiani a “La Penna nel fianco”",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/11/chi-ha-paura-della-pace-in-ucraina-gaiani-a-la-penna-nel-fianco/",
+      "published_date": "2026-11-08T02:15:43+00:00",
+      "category": "Military"
     },
     {
       "title": "Tusk, 'we have never had such brutal cases of terrorism before'",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "The students of Florence: 'The carabinieri pointed their guns in our faces'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/gli-studenti-di-firenze-i-carabinieri-ci-hanno-puntato-le-armi-in-faccia_be13fa73-98c0-4a90-8496-8435e32fad83.html",
-      "published_date": "2026-11-06T17:56:33+00:00",
-      "category": "Military"
+      "title": "Anthropic, accordo da 3,4 miliardi per alimentare i data center con il gas",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/anthropic-accordo-34-miliardi-alimentare-data-center-il-gas-AJhZ8L9B",
+      "published_date": "2026-11-08T15:02:04+00:00",
+      "category": "Energy"
     },
     {
-      "title": "National Anti-Mafia and Anti-Terrorism Prosecutor's Office investigates bomb scares",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/procura-nazionale-antimafia-e-antiterrorismo-indaga-sugli-allarmi-bomba_e60b5ffa-14c8-4e05-bd59-b81d4585cfb5.html",
-      "published_date": "2026-11-06T16:21:36+00:00",
-      "category": "Military"
+      "title": "Da oggi stop allo sconto sulle accise del gasolio: ecco come cambiano i prezzi",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/da-oggi-stop-sconto-accise-gasolio-ecco-come-cambiano-prezzi-AJWPd98B",
+      "published_date": "2026-11-08T10:49:58+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Bomb alerts on flights. Meloni, Crosetto and Tajani raise their guard against hybrid warfare",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/allarmi-bomba-sui-voli-meloni-crosetto-e-tajani-alzano-la-guardia-sulla-guerra-ibrida/",
-      "published_date": "2026-11-06T16:11:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cessna lost in the mountains in the Bergamo area, only the pilot on board",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/cessna-disperso-sui-monti-nel-bergamasco-a-bordo-soltanto-il-pilota_97b1178e-3a5a-4943-8f91-5b5194ab0389.html",
-      "published_date": "2026-11-06T15:09:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The strategy of chaos and European vulnerabilities, why we need a Democratic Shield. Lombardo speaks",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/la-strategia-del-caos-e-le-vulnerabilita-europee-perche-serve-uno-scudo-democratico-parla-lombardo/",
-      "published_date": "2026-11-06T14:45:43+00:00",
-      "category": "Military"
+      "title": "Quanto costa lo smart working: tra luce e gas quasi 500 euro di spese in più all’anno",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/08/news/quanto_costa_lo_smart_working_luce_gas-425707636/?rss",
+      "published_date": "2026-11-08T04:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Fire in the Trino nuclear power plant, investigations into the causes. Sogin: “No environmental risk”",
@@ -389,6 +410,13 @@
       "category": "Energy"
     },
     {
+      "title": "Nuovo rinvio tra nodi tecnici e scontro sulle nomine: la Lega fa il pieno, insorgono le opposizioni",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/nuovo-rinvio-tra-nodi-tecnici-e-scontro-sulle-nomine-la-lega-fa-il-pieno-insorgono-le-opposizioni-bb69aebb-bff8-43a7-a6bc-b88e84de4324.html",
+      "published_date": "2026-11-06T03:02:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Wall Street crash, 3,200 billion burned with the escape from AI",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/tonfo-wall-street-bruciati-3.200-miliardi-con-la-fuga-dallia_1d27144f-fe8d-4247-a1b7-88f65339fa89.html",
@@ -396,32 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "The Bills decree is still postponed, controversy over the appointments to Consob and Anac",
+      "title": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/05/il-decreto-bollette-slitta-ancora-polemiche-sulle-nomine-a-consob-e-anac_8d67ddb9-4bd5-4ec2-bcd1-c3d360b2e537.html",
-      "published_date": "2026-11-05T20:04:44+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/mimit-prezzi-carburanti-fermi-malgrado-stop-taglio-accise-gasolio-a-223_3a4e4aa5-2d2a-4119-bd93-63dba8a9828c.html",
+      "published_date": "2026-11-08T14:10:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Hybrid warfare and attacks to fuel tension",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/la-guerra-ibrida-e-gli-attacchi-per-alimentare-la-tensione-a7cd653f-c082-44e0-8510-044120cf9fc3.html",
-      "published_date": "2026-11-05T18:35:00+00:00",
-      "category": "Energy"
+      "title": "La Sicilia punta a costruire un sistema regionale dell’innovazione",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/la-sicilia-punta-costruire-sistema-regionale-dell-innovazione-AJGK5B6B",
+      "published_date": "2026-11-08T09:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Lagarde: 'In December we will understand whether we will have to raise rates further'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/lagarde-a-dicembre-capiremo-se-dovremo-alzare-ancora-i-tassi_b56dd0c3-738f-4e14-8246-ce1812ffc86d.html",
-      "published_date": "2026-11-05T18:09:39+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Gas increasing (+1.5%) to 89.4 euros per megawatt hour",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/il-gas-in-aumento-15-a-894-euro-al-megawattora_f6aad1b0-6292-4150-b90f-cd6c760152dd.html",
-      "published_date": "2026-11-05T17:21:54+00:00",
-      "category": "Energy"
+      "title": "Liguria, 10 milioni d’investimenti in turismo dalla Regione e presenze a +3,16%",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/liguria-10-milioni-d-investimenti-turismo-regione-e-presenze-316percento-AJInWY7B",
+      "published_date": "2026-11-08T07:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Participate, bodies and ministries as employment centres: 70 placed, League record",
@@ -543,25 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Ponti (Federvini): \"Dazi, a boomerang for Trump. Double-digit contractions for Italian wine\"",
+      "title": "Dipiazza: “Se lanciano bombe carta a Trieste, io gli sparo in testa”. Le opposizioni: “Si dimetta”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/07/news/ponti_federvini_dazi_un_boomerang_per_trump_per_il_vino_italiano_contrazioni_a_due_cifre-425706745/?rss",
-      "published_date": "2026-11-07T13:28:28+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/08/news/roberto_dipiazza_sindaco_trieste_forza_italia_scontri-425708529/?rss",
+      "published_date": "2026-11-08T16:30:01+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A 500 thousand euro drug can extend your life, the story of Jessica Scarpa",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/un-farmaco-da-500mila-euro-puo-allungarle-la-vita-la-storia-di-jessica-scarpa--968acc35-dc95-46e5-9bf8-7a68eeb10c90.html",
-      "published_date": "2026-11-07T13:06:00+00:00",
-      "category": "Economy"
+      "title": "Mattarella, rifuggire l'odio attraverso il dialogo tra comunità di diverse culture",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/mattarella-rifuggire-lodio-attraverso-il-dialogo-tra-comunita-di-diverse-culture_3905b5df-d5cf-4dfb-93a9-f700cd1ea5eb.html",
+      "published_date": "2026-11-08T13:17:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "More tax pressure, little attention to savings: the accounts on the 2027-29 Budget Law",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/07/news/piu_pressione_fiscale_poca_attenzione_ai_risparmi_i_conti_sulla_legge_di_bilancio_2027-29-425706644/?rss",
-      "published_date": "2026-11-07T12:00:00+00:00",
-      "category": "Economy"
+      "title": "Schlein, non faremo più il favore alle destre di dividerci",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/schlein-non-faremo-piu-il-favore-alle-destre-di-dividerci_6d408079-b2fc-442d-b2ab-77e14d4417fe.html",
+      "published_date": "2026-11-08T12:53:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pagliaccio di 'It' per le strade di un borgo veneto, ma forse è un fake",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/pagliaccio-di-it-per-le-strade-di-un-borgo-veneto-ma-forse-e-un-fake_7d307fa4-3086-44d5-8c73-333ee514dee6.html",
+      "published_date": "2026-11-08T09:42:23+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Altieri case, the fight over the successor of the Northern League currents, Meloni: no mistakes",
@@ -610,6 +638,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_c6c215a2-31f7-4fef-b158-81e75755fd1d.html",
       "published_date": "2026-11-07T22:44:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Addio a Cesare Vaciago, lo storico \"city manager\" della rinascita olimpica",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/addio-a-cesare-vaciago-lo-storico-city-manager-della-rinascita-olimpica-1c7f1c15-07a5-4602-80c6-b0d95e496206.html",
+      "published_date": "2026-11-07T22:07:00+00:00",
       "category": "Local Events"
     },
     {
@@ -666,41 +701,6 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_86419f21-d671-4ecb-9ca2-81397837ec60.html",
       "published_date": "2026-11-07T19:33:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Noname, the Moscow hackers hidden among the proselytes' servers",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/i-noname-gli-hacker-di-mosca-nascosti-tra-i-server-dei-proseliti_5c46cfd4-ee0a-4f2a-b6cd-06329c4c536c.html",
-      "published_date": "2026-11-07T19:31:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot's party invites Likud to join next government 'but without extremists'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/partito-di-eisenkot-invita-il-likud-a-unirsi-al-prossimo-governo-ma-senza-estremisti_fe25ccae-0dfd-48c4-8ddb-d5183db23383.html",
-      "published_date": "2026-11-07T19:28:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italian high school students in the square in Krakow during the shooting, saved by the embassy",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/liceali-italiani-in-piazza-a-cracovia-durante-gli-sparimessi-in-salvo-dallambasciata_569a8e5c-df27-46c3-a0ee-cac3c13e10b2.html",
-      "published_date": "2026-11-07T19:25:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Neo-fascist attack in Rome', night attack on an occupied high school",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/aggressione-neofascista-a-romaassalto-notturno-a-liceo-occupato_62901bc3-bd2b-46ed-aa65-57bb2b29e615.html",
-      "published_date": "2026-11-07T19:02:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Controversy between La Russa and Majorino: \"He insults me, I don't.\" And he replies: “I'm just saying he's a fascist”",
-      "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/11/07/news/polemica_tra_la_russa_e_majorino_fascista-425707393/?rss",
-      "published_date": "2026-11-07T18:55:57+00:00",
       "category": "Local Events"
     }
   ]
