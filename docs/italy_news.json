@@ -1,8 +1,29 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-08T16:57:48.025797+00:00",
+  "last_updated": "2026-11-09T02:15:34.856319+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Pasticcio Anac, si tratta: Salvini vuole il suo legale, l’opposizione fa muro",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/09/news/anac_trattativa_salvini_suo_legale_opposizione_muro-425709258/?rss",
+      "published_date": "2026-11-09T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attacchi hacker, vertice al G7. E ora si temono ingerenze sul voto",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/09/news/attacchi_hacker_g7_tajani_piantedosi_allarme_voto-425709210/?rss",
+      "published_date": "2026-11-09T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "G7 a Parigi, Tajani: \"Al centro la sicurezza informatica\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/g7-parigi-tajani-al-centro-la-sicurezza-informatica-240584f6-1283-457e-9fcc-43a5ec48267c.html",
+      "published_date": "2026-11-08T16:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cyber-attacchi,Tajani: “Domani l’emergenza al G7”. Martedì vertice al Viminale",
       "source": "la Repubblica",
@@ -15,6 +36,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
       "published_date": "2026-11-08T16:40:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tajani denuncia: attacchi cyber minacciano democrazie e chiede risposta unitaria",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/tajani-denuncia-attacchi-cyber-minacciano-democrazie-e-chiede-risposta-unitaria-604bd32d-adaa-42e9-af7c-96ac647b3b4b.html",
+      "published_date": "2026-11-08T16:34:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -113,34 +141,6 @@
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/tajani-il-cappellino-maga-forza-italia-contro-bonaccini-foto-falsa-AJJFiI8B",
       "published_date": "2026-11-07T09:30:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian hackers, money for information on Tajani, Lo Voi and Gabrielli: private data already on the darkweb",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/hacker-russi-soldi-informazioni-tajani-voi-e-gabrielli-dati-privati-gia-darkweb-AJJzMe7B",
-      "published_date": "2026-11-07T06:58:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spatial sustainability, the Italian Embassy in Brasilia leads the international debate",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/06/sostenibilita-spaziale-ambasciata-ditalia-a-brasilia-guida-dibattito-internazionale_1ace1833-7cf9-4e2b-9947-4cf50e778a56.html",
-      "published_date": "2026-11-06T19:52:05+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dublin, 'threats appear to be coordinated, security protocols for the EU summit'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/06/dublino-minacce-sembrano-coordinate-protocolli-sicurezza-per-il-summit-ue_f68a03b9-f53b-4cb9-906e-3763920a15e3.html",
-      "published_date": "2026-11-06T15:03:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Farnesina, expulsion procedures for the 6 arrested Italians expected tomorrow",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/06/farnesina-domani-previste-procedure-di-espulsione-dei-6-italiani-fermati_8a71b31c-68a2-4607-818e-af00f9b5c6e7.html",
-      "published_date": "2026-11-06T15:02:24+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,27 @@
       "category": "Military"
     },
     {
+      "title": "Dl Bollette, pagano le imprese energetiche. Sconto ai consumatori",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/09/news/decreto_bollette_tetto_gas-425709323/?rss",
+      "published_date": "2026-11-09T00:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aiea, ripristinata l'alimentazione elettrica alla centrale nucleare di Zaporizhzhia",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/aiea-ripristinata-lalimentazione-elettrica-alla-centrale-nucleare-di-zaporizhzhia_d87fdf46-0849-4263-b4b8-c3804ae78874.html",
+      "published_date": "2026-11-08T19:35:27+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "In Cdm dopo i rinvii: tetto al prezzo del gas a 58,9 euro, ma stop risparmio accise",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/al-cdm-dopo-i-rinvii-tetto-al-prezzo-del-gas-a-589-euro-ma-stop-risparmio-accise-7261b848-6f6d-4f82-88a5-922e0e52ce3d.html",
+      "published_date": "2026-11-08T18:37:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Anthropic, accordo da 3,4 miliardi per alimentare i data center con il gas",
       "source": "Il Sole 24 Ore",
       "url": "https://www.ilsole24ore.com/art/anthropic-accordo-34-miliardi-alimentare-data-center-il-gas-AJhZ8L9B",
@@ -403,25 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "For the bills, the green light is still delayed. Little margin for other corrective measures",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/dl-bollette-slitta-ancora-via-libera-pochi-margini-altri-correttivi-AJdt0v6B",
-      "published_date": "2026-11-06T07:50:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Nuovo rinvio tra nodi tecnici e scontro sulle nomine: la Lega fa il pieno, insorgono le opposizioni",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/nuovo-rinvio-tra-nodi-tecnici-e-scontro-sulle-nomine-la-lega-fa-il-pieno-insorgono-le-opposizioni-bb69aebb-bff8-43a7-a6bc-b88e84de4324.html",
-      "published_date": "2026-11-06T03:02:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Wall Street crash, 3,200 billion burned with the escape from AI",
+      "title": "Paraguay, Alliana vara la linea dura e ringrazia gli Stati Uniti",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/05/tonfo-wall-street-bruciati-3.200-miliardi-con-la-fuga-dallia_1d27144f-fe8d-4247-a1b7-88f65339fa89.html",
-      "published_date": "2026-11-05T22:57:22+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/paraguay-alliana-vara-la-linea-dura-e-ringrazia-gli-stati-uniti_61817f56-a5ce-4851-a49b-d9b43835eace.html",
+      "published_date": "2026-11-09T00:55:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Exit tax, il governo alza la soglia. Nel mirino soltanto i milionari",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/09/news/manovra_exit_tax_paperoni_ricchi-425709308/?rss",
+      "published_date": "2026-11-09T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Piazza Affari, da Saipem a Stellantis, ecco le azioni più vendute dai fondi internazionali",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/09/news/fondi_short_ribassisti_corti_piazza_affari_stellantis_saipem_dovalue-425704796/?rss",
+      "published_date": "2026-11-08T23:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Prezzi carburanti fermi malgrado lo stop al taglio delle accise, gasolio a 2,23 euro",
@@ -543,31 +564,80 @@
       "category": "Economy"
     },
     {
-      "title": "LIVE - Turin returns to the streets against the high cost of living, a procession opened by a tractor",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/torino-torna-in-piazza-contro-il-carovita-corteo-aperto-da-un-trattore-25025eb6-a479-48f9-80ac-b3995a100612.html",
-      "published_date": "2026-11-07T15:21:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New crisis: and state help returns for Ita. The company: “Support provided by law”",
+      "title": "Lega, la fronda continua: Salvini sconfitto a Varese",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/07/news/ita_airways_esuberi_disoccupazione_stato-425706548/?rss",
-      "published_date": "2026-11-07T15:16:31+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/09/news/lega_fronda_salvini_sconfitto_varese-425709185/?rss",
+      "published_date": "2026-11-09T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The future of the former Ilva will be decided on Sunday, who participates in the tender for the Steelworks",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-11-07/ex-ilva-gara-jindal-39925782/",
-      "published_date": "2026-11-07T14:31:04+00:00",
-      "category": "Economy"
+      "title": "Schlein, Salis e il nodo centrista, con Renzi sullo sfondo: a Genova l’assemblea con vista sul voto",
+      "source": "la Repubblica",
+      "url": "https://genova.repubblica.it/cronaca/2026/11/09/news/schlein_salis_centro_renzi_volt-425709108/?rss",
+      "published_date": "2026-11-08T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renzi a gamba tesa lancia Silvia Salis per il 'centro', ma lei si sfila",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/silvia-salis-basta-con-i-distinguo-e-i-veti-nel-campo-progressista_b3534a87-629c-486d-a2f0-d25518aa231c.html",
+      "published_date": "2026-11-08T19:59:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Schlein benedice le primarie ma non si sbilancia: “Avanti a Milano con tante figure valide”",
+      "source": "la Repubblica",
+      "url": "https://milano.repubblica.it/cronaca/2026/11/08/news/schlein_primarie_milano_candidati-425709088/?rss",
+      "published_date": "2026-11-08T19:47:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Lega cerca un nome 'sicuro' per l'Anac, attesa la nomina al Cdm",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/08/la-lega-cerca-un-nome-sicuro-per-lanac-attesa-la-nomina-al-cdm_8b4265a7-1c07-4a60-9bb0-4cf53b920284.html",
+      "published_date": "2026-11-08T19:33:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Il sindaco di Trieste: 'Se lanciano bombe carta nella mia città gli sparo in testa'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/sindaco-trieste-se-lanciano-bombe-carta-nella-mia-citta-gli-sparo_6b41211c-2917-4e18-b9ad-29ca0e7572ee.html",
+      "published_date": "2026-11-08T18:51:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex Ilva: scade il termine per le offerte, Flacks si sfila",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/ex-ilva-scade-il-termine-per-le-offerte-flacks-si-sfila_d6889385-e4fe-42af-85c4-a6d6ef0ad901.html",
+      "published_date": "2026-11-08T18:48:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "++ Fonti Flacks, offerta per l'ex Ilva solo dopo un incontro con Meloni ++",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/08/fonti-flacks-offerta-per-lex-ilva-solo-dopo-un-incontro-con_6eaa43a7-6528-4cd9-bdbe-8fc562f21063.html",
+      "published_date": "2026-11-08T18:15:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In un giorno aggrediti 4 infermieri, fenomeno in aumento",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/in-un-giorno-aggrediti-4-infermieri-fenomeno-in-aumento_68d9ae75-27f0-4bbb-a54d-6a815f683953.html",
+      "published_date": "2026-11-08T17:55:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Dipiazza: “Se lanciano bombe carta a Trieste, io gli sparo in testa”. Le opposizioni: “Si dimetta”",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/politica/2026/11/08/news/roberto_dipiazza_sindaco_trieste_forza_italia_scontri-425708529/?rss",
       "published_date": "2026-11-08T16:30:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Export, per l’Italia +53% in dieci anni: battuti i concorrenti europei",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/export-l-italia-53percento-dieci-anni-battuti-concorrenti-europei-AJIHkO9B",
+      "published_date": "2026-11-08T16:21:00+00:00",
       "category": "Local Events"
     },
     {
@@ -631,76 +701,6 @@
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/cronaca/2026/11/08/news/previsioni_meteo_domenica_tregua_anticiclonica_ma_in_settimana_tornano_le_perturbazioni_autunnali-425707782/?rss",
       "published_date": "2026-11-07T23:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands at the LGBT+ Pride in Buenos Aires before the Pope's visit",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/07/in-migliaia-al-pride-lgbt-di-buenos-aires-prima-della-visita-del-papa_c6c215a2-31f7-4fef-b158-81e75755fd1d.html",
-      "published_date": "2026-11-07T22:44:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Addio a Cesare Vaciago, lo storico \"city manager\" della rinascita olimpica",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/addio-a-cesare-vaciago-lo-storico-city-manager-della-rinascita-olimpica-1c7f1c15-07a5-4602-80c6-b0d95e496206.html",
-      "published_date": "2026-11-07T22:07:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Goodbye to Cesare Vaciago, the reformist manager from the Railways to the Municipality of Turin",
-      "source": "la Repubblica",
-      "url": "https://torino.repubblica.it/cronaca/2026/11/07/news/cesare_vaciago_morto_manager_riformista_ferrovie_comune_torino-425707845/?rss",
-      "published_date": "2026-11-07T22:00:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tension between anti-fascist march and CasaPound in Gorizia, three policemen injured",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/tensione-tra-corteo-antifascista-e-casapound-a-gorizia-feriti-tre-poliziotti_b78cb1c8-6bfb-487f-b5cb-ad3fff239a96.html",
-      "published_date": "2026-11-07T21:21:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Krakow, Italian students 'we are terrified but we are fine'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/cracovia-studenti-italiani-siamo-terrorizzati-ma-stiamo-bene_3a497981-0da9-409d-b4f8-53bcda9daad5.html",
-      "published_date": "2026-11-07T20:33:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salvini dismisses Romeo as group leader, 'the senators' idea is clear..'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/07/salvini-liquida-romeo-da-capogruppo-lidea-dei-senatori-e-chiara.._b34a289e-6c09-4a87-9b15-426888edfb01.html",
-      "published_date": "2026-11-07T20:29:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The story of an Italian in Krakow, 'Save for a minute'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/il-racconto-di-un-italiano-a-cracovia-salvi-per-un-minuto_b717da75-e6ca-4e11-9e99-76f79e2d3500.html",
-      "published_date": "2026-11-07T20:11:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "New demonstration planned in Trieste but Piazza Libertà is deserted",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/prevista-nuova-manifestazione-a-trieste-ma-piazza-liberta-e-deserta_7d8f0a22-5469-4bb2-b09e-8f800a1e9e94.html",
-      "published_date": "2026-11-07T20:06:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Also on the mayor of Aviano the bounty of the hackers, 'I'm amazed'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/anche-sul-sindaco-di-aviano-la-taglia-degli-hacker-sono-stupito_37c97ed7-1f6d-4671-8f04-2cfa8b31614b.html",
-      "published_date": "2026-11-07T20:04:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Herzog entrusts the government to Eisenkot, appointment tomorrow at 5pm",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/07/herzog-affida-il-governo-a-eisenkot-incarico-domani-alle-17_86419f21-d671-4ecb-9ca2-81397837ec60.html",
-      "published_date": "2026-11-07T19:33:51+00:00",
       "category": "Local Events"
     }
   ]
