@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-09T21:15:00.271130+00:00",
+  "last_updated": "2026-11-10T04:25:17.814402+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Hybrid warfare on the G7 table: “More unity is needed”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/esteri/2026/11/10/news/g7_ministri_esteri_attacchi_hacker_guerra_ibrida_parigi-425711873/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Paris accuses: 'Tehran is behind the attacks on refrigerators'",
       "source": "ANSA",
@@ -137,11 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Brenner and Smartbox in the crosshairs of the pro-Russians: \"Sensitive data stolen\"",
+      "title": "Crosetto: \"Rome sends fewer resources to Kiev than Berlin. Stop the fire or it gets here\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/cronaca/2026/11/08/news/guerra_ibrida_attacchi_hacker_tunnel_brennero-425707614/?rss",
-      "published_date": "2026-11-08T00:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.repubblica.it/politica/2026/11/10/news/crosetto_ucraina_armi_aiuti_italia_intervista-425711737/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Messori: “Bpm-Agricole is strategic, the government cannot intervene. Golden power blunt weapon”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/10/news/bpm_agricole_governo_golden_power_arma_spuntata-425711833/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The League's anger over the weapons decree, Giorgetti does not sign it",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/lira-della-lega-sul-decreto-armi-giorgetti-non-lo-firma_bd84e8d5-bb54-4f9e-ab20-c050f5ae3632.html",
+      "published_date": "2026-11-09T23:41:24+00:00",
+      "category": "Military"
     },
     {
       "title": "Cyberattacks, the expert: AI and hybrid warfare the causes of the escalation",
@@ -263,25 +284,39 @@
       "category": "Military"
     },
     {
-      "title": "Tusk, 'we have never had such brutal cases of terrorism before'",
+      "title": "El Salvador freezes fuel prices until November 23rd",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/07/tusk-non-abbiamo-mai-avuto-casi-di-terrorismo-cosi-efferati-prima_2c68fef1-3cce-4a51-ae46-55f403d0f29f.html",
-      "published_date": "2026-11-07T21:39:40+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/el-salvador-congela-i-prezzi-dei-carburanti-fino-al-23-novembre_34c1c604-3fba-4bfa-9e5f-cbb3b95d674e.html",
+      "published_date": "2026-11-10T01:23:05+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Carabinieri serve notice and find dog in cage, 3 people reported",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/carabinieri-notificano-atto-e-trovano-cane-in-gabbia-denunciate-3-persone_b78b94a9-8a8c-4afd-a461-cc3a7dc1c788.html",
-      "published_date": "2026-11-07T15:45:44+00:00",
-      "category": "Military"
+      "title": "Decree bills, declarations and obscure points",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/decreto-bollette-taglio-gas-15-euro-megawattora-dichiarazioni-e-punti-oscuri-marchetti-806b735c-5088-4b45-bc65-92ea71994789.html",
+      "published_date": "2026-11-10T00:32:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "He breaks down the door and tries to strangle his wife in front of their children",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/07/sfonda-la-porta-e-tenta-di-strangolare-la-moglie-davanti-ai-figli_5aad1401-e48c-4296-a5ef-5249632da078.html",
-      "published_date": "2026-11-07T14:07:22+00:00",
-      "category": "Military"
+      "title": "Bills, mini and temporary discounts. Meloni: “Interests affected”. New diesel cut: 4.8 cents less until November 23rd",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/10/news/bollette_sconti_famiglie_imprese_governo-425711945/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Bill decree, miserable savings: for families a couple of euros a month",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/10/news/decreto_bollette_risparmi_imprese_famiglie-425711929/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Emissions are falling in Europe, but Italy is being slammed: it is the worst",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/10/news/emissioni_calo_europa_italia_peggiore_bacchettata-425711856/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "From the CDM ok to the Bill Decree, '15 euros less per megawatt hour'",
@@ -389,39 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "The bills of discord. Companies divided within Confindustria",
+      "title": "The smart bins created in Florence land in New York",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/09/news/bollette_elettricita_futura_imprese_divise_confindustria_energia-425705061/?rss",
-      "published_date": "2026-11-09T07:00:00+00:00",
-      "category": "Energy"
+      "url": "https://firenze.repubblica.it/cronaca/2026/11/10/news/firenze_cassonetti_smart_sbarcano_a_new_york-425711962/?rss",
+      "published_date": "2026-11-10T04:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The lowest common denominator of the Midterms",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/09/news/il_minimo_comune_denominatore_delle_midterm-425704634/?rss",
-      "published_date": "2026-11-09T07:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dl Bollette, pagano le imprese energetiche. Sconto ai consumatori",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/09/news/decreto_bollette_tetto_gas-425709323/?rss",
-      "published_date": "2026-11-09T00:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Aiea, ripristinata l'alimentazione elettrica alla centrale nucleare di Zaporizhzhia",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/08/aiea-ripristinata-lalimentazione-elettrica-alla-centrale-nucleare-di-zaporizhzhia_d87fdf46-0849-4263-b4b8-c3804ae78874.html",
-      "published_date": "2026-11-08T19:35:27+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "In Cdm dopo i rinvii: tetto al prezzo del gas a 58,9 euro, ma stop risparmio accise",
+      "title": "Economic manoeuvre, criticism from the Court of Auditors: \"One-off measures at 70%\"",
       "source": "Rai News",
-      "url": "https://www.rainews.it/video/2026/11/al-cdm-dopo-i-rinvii-tetto-al-prezzo-del-gas-a-589-euro-ma-stop-risparmio-accise-7261b848-6f6d-4f82-88a5-922e0e52ce3d.html",
-      "published_date": "2026-11-08T18:37:00+00:00",
-      "category": "Energy"
+      "url": "https://www.rainews.it/articoli/2026/11/manovra-economica-le-critiche-della-corte-dei-conti-al-70-misure-una-tantum-4b772cf6-c70c-47df-9332-d5a0b854741b.html",
+      "published_date": "2026-11-10T01:20:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Italy in Mexico with 58 authors for the Guadalajara Book Fair",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/litalia-in-messico-con-58-autori-per-la-fiera-del-libro-di-guadalajara_14377f18-184f-46d8-8cdc-18a4c26ce783.html",
+      "published_date": "2026-11-10T00:47:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "“Maneuver full of one-offs”, the rejection of the Court of Auditors",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/manovra-finanziaria-legge-di-bilancio-2026/2026/11/10/news/manovra_corte_dei_conti_audizioni-425711638/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Russian-affiliated Italian NoNames targeting planes, ports and banks",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/10/news/noname_italiani_affiliati_russi_chi_sono-425711869/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Paraguay, Schreiner appointed to head the Central Bank",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/paraguay-schreiner-nominato-alla-guida-della-banca-centrale_450e181f-cd99-4ae8-a101-ed4d160f3327.html",
+      "published_date": "2026-11-09T23:27:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fuels, mobile excise duties are back: 4.9 cent cut on diesel until November 23rd",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/carburanti-tornano-accise-mobili-taglio-49-centesimi-gasolio-fino-23-novembre-AJJWJvAC",
+      "published_date": "2026-11-09T21:52:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Another record for Unicredit. Orcel snubs the risk: “In Italy we are stronger without acquisitions”",
@@ -515,53 +564,60 @@
       "category": "Economy"
     },
     {
-      "title": "Stock market: Milan closes strongly with banks, Ftse Mib +2.69%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/borsa-milano-chiude-in-forte-rialzo-ftse-mib-269_715fcd25-4783-4993-8dc4-a2270981ec05.html",
-      "published_date": "2026-11-09T16:53:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Banco Bpm finishes on the run in Piazza Affari, +10%",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/banco-bpm-conclude-in-corsa-in-piazza-affari-10_ef3b642f-a8a9-4413-8dcc-4ba3de13e161.html",
-      "published_date": "2026-11-09T16:45:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ania, new measures not shared, predictability of rules concerns the country's credibility",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/ania-nuove-misure-non-condivise-prevedibilita-regole-riguarda-credibilita-paese_ebc98611-5af2-47b8-891c-e376b45658ba.html",
-      "published_date": "2026-11-09T16:32:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "the work-automation dilemma: how can we \"tax\" robots without discouraging their adoption",
+      "title": "Italian intelligence warns: \"No to the market of fear\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/09/news/il_dilemma_lavoro-automazione_come_possiamo_tassare_i_robot_senza_scoraggiarne_l_adozione-425704520/?rss",
-      "published_date": "2026-11-09T15:00:00+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/10/news/hacker_attacchi_italia_intelligence_mercato_paura-425711902/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Crédit Agricole-Bpm, the French close the risk with the most coveted prey in Northern Italy",
+      "title": "Anac, Meloni slows down Salvini's blitz: \"We're not running\"",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/09/news/credit_agricole_bpm_i_francesi_chiudono_il_risiko-425710310/?rss",
-      "published_date": "2026-11-09T14:57:07+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/10/news/anac_presidente_meloni_salvini-425711863/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Maneuver, Court of Auditors: «So Irpef diverges from progressivity, it is categorical»",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/manovra-corte-conti-cosi-irpef-diverge-progressivita-e-categoriale-AJbijPAC",
-      "published_date": "2026-11-09T14:57:00+00:00",
-      "category": "Economy"
+      "title": "Arvedi-Jindal duel in Taranto with a mini Ilva",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/10/news/sfida_a_due_arvedi-jindal_a_taranto_una_mini_ilva-425711519/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Liguria, moderate growth in the first half of the year",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/liguria-crescita-moderata-primo-semestre-dell-anno-AJGWXMAC",
-      "published_date": "2026-11-09T14:55:58+00:00",
-      "category": "Economy"
+      "title": "The Atlantic storm arrives. “Rain and gale force winds for eighteen hours straight”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/10/news/tempesta_atlantica_pioggia_diciotto_ore-425711883/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Father of three children, Red Cross volunteer: who was the worker who died on duty on the A11",
+      "source": "la Repubblica",
+      "url": "https://firenze.repubblica.it/cronaca/2026/11/10/news/firenze_lavoratore_morto_autostrada-425711838/?rss",
+      "published_date": "2026-11-10T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The former Iena Ismaele La Vardera wants Sicily: \"With the wide field I'm worth 55%\"",
+      "source": "la Repubblica",
+      "url": "https://palermo.repubblica.it/politica/2026/11/10/news/ismaele_la_vardera_elezioni_sicilia_campo_largo-425711956/?rss",
+      "published_date": "2026-11-09T23:04:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Weather forecast, instability until Saturday: heavy rain in the Tyrrhenian and North-East regions",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/10/news/previsioni_meteo_instabilita_sabato_weekend-425711890/?rss",
+      "published_date": "2026-11-09T23:01:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ecuador, anti-mafia law approved, sentences of up to 60 years",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/09/ecuador-approvata-la-legge-antimafia-pene-fino-a-60-anni_1f7fa3f8-2d40-4cf5-b3be-ebd6e559c600.html",
+      "published_date": "2026-11-09T21:32:49+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Traffic jam in Parliament, invitation from Minister Ciriani to the Council of Ministers to 'hold back on the decrees'",
@@ -645,62 +701,6 @@
       "source": "Rai News",
       "url": "https://www.rainews.it/video/2026/11/basta-monopattini-senza-regole-il-dolore-delle-figlie-di-cervellati-94fd9eac-0703-4428-b101-b4261232056b.html",
       "published_date": "2026-11-09T18:52:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cirio: \"The end of the occupation at the Einaudi Campus is good news",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/09/cirio-la-fine-delloccupazione-al-campus-einaudi-e-una-buona-notizia_165ab4cb-9843-4167-a37b-1ad08b67bfc6.html",
-      "published_date": "2026-11-09T18:32:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Physically overwhelmed in Rome, the driver of the scooter turned himself in",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/si-e-costituito-il-conducente-del-monopattino-che-ha-investito-il-fisico-cervellati_f8f14bf1-e335-45b1-b82b-13cf8a4929c1.html",
-      "published_date": "2026-11-09T18:31:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Hacker threat and the government cuts cyber', the opposition attacks",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/09/minaccia-hacker-e-il-governo-taglia-il-cyber-lopposizione-attacca_31f21c46-07ed-48a7-af7d-521be9175675.html",
-      "published_date": "2026-11-09T18:27:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government and Salvini are taking time for the appointment to the Anac",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/il-governo-e-salvini-prendono-tempo-per-la-nomina-allanac-a28678a4-9132-4511-bafd-720f632fe8e3.html",
-      "published_date": "2026-11-09T18:26:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Councilor Puglia reports to cancer patient MRI scheduled for March 2028",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/09/consigliere-puglia-denuncia-a-malata-di-tumore-risonanza-fissata-nel-marzo-2028_e210a8c9-59f7-4751-b89c-b7b9df74445a.html",
-      "published_date": "2026-11-09T18:21:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On Bpm the last round of risk, the issue of the government and the assembly",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/su-bpm-lultimo-giro-di-risiko-il-nodo-del-governo-e-dellassemblea_03cc3439-63d4-4f03-bc8f-058798dd24f8.html",
-      "published_date": "2026-11-09T18:17:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Freedom-killing measures by the government', the controversy returns to a history text",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/misure-liberticide-del-governo-torna-la-polemica-su-testo-di-storia_558bfcb8-8c67-4833-8684-8402d93f8fde.html",
-      "published_date": "2026-11-09T18:08:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palermo, funeral with firecrackers and roaring scooters for the boss Emanuele Rubino",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/pregiudicato-morto-a-palermo-funerale-con-petardi-e-motorini-rombanti-49d9ca3a-955e-4f87-90c2-f210f01772cb.html",
-      "published_date": "2026-11-09T18:01:00+00:00",
       "category": "Local Events"
     }
   ]
