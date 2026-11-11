@@ -1,8 +1,29 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-10T18:25:09.081746+00:00",
+  "last_updated": "2026-11-11T02:25:34.526752+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Viminale: “ Gli hacker puntano al caos, difendere strutture e servizi essenziali”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/12/news/attacchi_hacker_italia_tajani_piantedosi_vertice_viminale-425714136/?rss",
+      "published_date": "2026-11-11T00:02:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Verso un nuovo vertice maggioranza sulla manovra per fare il punto sulle modifiche",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_5a86a332-6d2c-420b-aeb5-6bd2eb586258.html",
+      "published_date": "2026-11-10T19:37:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Libero su cauzione il 15enne italiano da quasi sei mesi in cella a Malta",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/libero-su-cauzione-il-15enne-italiano-da-quasi-sei-mesi-in-cella-a-malta_a3e01cb3-adca-4aed-aa6b-3509d87456a8.html",
+      "published_date": "2026-11-10T18:59:35+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Ilva, no agreement with the unions on layoffs",
       "source": "AGI",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hacker alert, tightening of protocols for those discovered",
+      "title": "Media, minaccia a spazio aereo Baltici dalla Bielorussia, in volo caccia Nato",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/allarme-hacker-stretta-sui-protocolli-per-chi-e-scoperto_217a25ea-2d5f-432d-98ba-51fd3560f4ca.html",
-      "published_date": "2026-11-09T20:45:50+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/media-minaccia-a-spazio-aereo-baltici-dalla-bielorussia-in-volo-caccia-nato_920e4d3d-8666-4091-8e1a-ae3274b72ff5.html",
+      "published_date": "2026-11-11T00:10:40+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tajani, 'hybrid attacks from Iran? Those against Italy are pro-Russian hackers'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-attacchi-ibridi-da-iran-quelli-contro-italia-sono-di-hacker-filorussi_7ac25056-1510-46cf-998b-97dbec48cf0c.html",
-      "published_date": "2026-11-09T17:54:41+00:00",
-      "category": "Diplomacy"
+      "title": "L'ex BR Leonardo Bertulazzi fugge dai domiciliari a Buenos Aires, è caccia all'uomo",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/lex-br-leonardo-bertulazzi-fugge-dai-domiciliari-a-buenos-aires-e-caccia-alluomo-6223bc09-4e0a-40fc-903e-1c462d7e4f59.html",
+      "published_date": "2026-11-11T00:05:00+00:00",
+      "category": "Military"
     },
     {
-      "title": "Tajani at G7, 'united to give a strong signal to those seeking chaos in Europe'",
+      "title": "Civitavecchia: al COMVIE la “Future Defence Conference”",
+      "source": "Analisi Difesa",
+      "url": "https://www.analisidifesa.it/2026/11/civitavecchia-al-comvie-la-future-defence-conference/",
+      "published_date": "2026-11-10T23:07:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "L’ex Br Leonardo Bertulazzi, in attesa di estradizione, fugge dai domiciliari a Buenos Aires",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/cronaca/2026/11/10/news/l_ex_br_leonardo_bertulazzi_in_attesa_di_estradizione_fugge_dai_domiciliari_a_buenos_aires-425714350/?rss",
+      "published_date": "2026-11-10T22:06:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "L'ex Br Leonardo Bertulazzi scappa dai domiciliari a Buenos Aires",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/tajani-a-g7-uniti-per-dare-un-segnale-forte-a-chi-cerca-il-caos-in-europa_9ba4fbe2-238e-42c1-a730-991f1bc472cf.html",
-      "published_date": "2026-11-09T17:13:37+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/10/lex-br-leonardo-bertulazzi-scappa-dai-domiciliari-a-buenos-aires_3c929020-b6a5-4ca2-9b63-a0c90710cba0.html",
+      "published_date": "2026-11-10T21:04:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Scappano in auto dai carabinieri e si schiantano, un fermato e due in fuga",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/scappano-in-auto-dai-carabinieri-e-si-schiantano-un-fermato-e-due-in-fuga_8163dda3-bd43-45a0-8d2a-139724939bf0.html",
+      "published_date": "2026-11-10T18:41:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Come cambierà la Difesa italiana? AI e nuove tecnologie al centro della Future Defence Conference",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/come-cambiera-la-difesa-italiana-ai-e-nuove-tecnologie-al-centro-della-future-defence-conference-a9ecff06-17e0-4140-8d46-e398b86e950b.html",
+      "published_date": "2026-11-10T18:28:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Tension over weapons in Kiev, the League warns the allies",
@@ -169,6 +218,13 @@
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/politica/2026/11/10/news/copasir_aiuti_kiev_borghi_lega-425712391/?rss",
       "published_date": "2026-11-10T15:19:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tensione nel governo su Kiev, Meloni sente Giorgetti. Crosetto: \"Mandare gli Aster? Non ne abbiamo\"",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/10/news/tensione_governo_kiev_meloni_giorgetti_crosetto-425713303/?rss",
+      "published_date": "2026-11-10T14:56:22+00:00",
       "category": "Military"
     },
     {
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Republican Massie formalizes a motion to impeach Hegseth in the House",
+      "title": "A2A, frena l’utile nei nove mesi. “Manovra e decreto bollette pesano sugli investimenti del 2027”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/10/news/a2a_risultati_nove_mesi_idroelettrico_energia_prezzi-425712908/?rss",
+      "published_date": "2026-11-10T18:37:08+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Auto diesel Euro 5, via libera della Camera al decreto che rinvia lo stop nella Pianura Padana: cosa cambia",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/il-repubblicano-massie-formalizza-camera-mozione-impeachment-hegseth-AJTISoAC",
-      "published_date": "2026-11-09T19:35:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense of poker champion Camosci, 'victim of unjustified attack'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/difesa-del-campione-di-poker-camosci-vittima-di-attacco-ingiustificato_cbbee23a-4a4f-48b3-8cf9-3696440325d2.html",
-      "published_date": "2026-11-09T18:09:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hunter found lifeless in a forest in Asiago",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/cacciatore-trovato-senza-vita-in-un-bosco-di-asiago_dd93937f-0390-4f72-84ce-dbf352116ed7.html",
-      "published_date": "2026-11-09T17:39:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cyber, what is in the Defense bill for the response to cyber threats. The details",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/cyber-cosa-ce-nel-ddl-difesa-per-la-risposta-alle-minacce-informatiche-i-dettagli/",
-      "published_date": "2026-11-09T15:56:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Cyber, Europe is needed but without vetoes. Us? Ready to work with the government. Rosato speaks",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/cyber-europa-senza-veti-pronti-lavorare-governo-rosato/",
-      "published_date": "2026-11-09T15:46:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "AI versus AI. The technology that helps hackers is also the weapon to stop them",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/ai-contro-ai-la-tecnologia-che-aiuta-gli-hacker-e-anche-larma-per-fermarli/",
-      "published_date": "2026-11-09T14:22:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kushner, 'direct dialogue between Russia and Europe is needed for peace in Ukraine'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/09/kushner-per-la-pace-in-ucraina-serve-un-dialogo-diretto-tra-russia-e-europa_40569845-9de0-4351-9eac-ec3504e0a964.html",
-      "published_date": "2026-11-09T14:08:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine, the Multinational Force exercise begins in Poland. Italy does not participate",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/ucraina-via-l-esercitazione-forza-multinazionale-polonia-l-italia-non-partecipa-AJ5R9DAC",
-      "published_date": "2026-11-09T13:54:00+00:00",
-      "category": "Military"
+      "url": "https://www.ilsole24ore.com/art/auto-diesel-euro-5-via-libera-camera-decreto-che-rinvia-stop-pianura-padana-cosa-cambia-AJdFYmBC",
+      "published_date": "2026-11-10T18:25:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Free discounts, doggy bags, telemarketing: new features arriving in the competition bill",
@@ -410,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "From the CDM ok to the Bill Decree, '15 euros less per megawatt hour'",
+      "title": "Interscambio Italia-Messico in espansione, +8,6% tra gennaio e settembre",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
-      "published_date": "2026-11-09T20:09:24+00:00",
-      "category": "Energy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/11/interscambio-italia-messico-in-espansione-86-tra-gennaio-e-settembre_329ff19a-3f22-4ebb-af3f-075a4727f90b.html",
+      "published_date": "2026-11-11T00:48:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "New measures to cut the cost of electricity. Meloni: \"We defend the interests of...",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-11-09/energia-dl-bollette-aiuti-famiglie-39953285/",
-      "published_date": "2026-11-09T20:04:20+00:00",
-      "category": "Energy"
+      "title": "Giovani in fuga, paghe ridotte: il Sud spreca l’occasione Pnrr. “Disuguaglianze inaccettabili”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/11/news/giovani_fuga_paghe_basse_sud_pnrr_disuguaglianze_svimez-425714441/?rss",
+      "published_date": "2026-11-11T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manovra, banche verso la Consulta. E i sindacati bocciano la flat tax",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/11/news/manovra_banche_verso_la_consulta_sindacati_bocciano_la_manovra-425714436/?rss",
+      "published_date": "2026-11-11T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Emanuele Felice: “Serve una regia nazionale per evitare spopolamento e declino nel Mezzogiorno”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/11/news/emanuele_felice_serve_una_regia_nazionale_per_evitare_spopolamento_e_declino_nel_mezzogiorno-425714247/?rss",
+      "published_date": "2026-11-11T00:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Lmdv Capital, profit doubled to 59.9 million in 2025",
@@ -470,6 +498,13 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/economia/2026/11/10/san-benedetto-licenzia-120-dipendenti-su-mille-nella-casa-madre-veneziana_df513fbd-76f4-431a-8ebe-804081a91055.html",
       "published_date": "2026-11-10T17:26:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Torna il Premio Invernizzi per la ricerca scientifica",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/torna-il-premio-invernizzi-per-la-ricerca-scientifica_62d0568f-0ee5-44d4-8ec6-3dec811c5ed0.html",
+      "published_date": "2026-11-10T17:14:26+00:00",
       "category": "Economy"
     },
     {
@@ -522,46 +557,53 @@
       "category": "Economy"
     },
     {
-      "title": "Svimez, the South's run-up at risk of stopping. And in 5 years the South has lost 154 thousand young people",
+      "title": "Regione Lazio, 'tagli all'addizionale Irpef e sull'Irap'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/regione-lazio-tagli-alladdizionale-irpef-e-sullirap_2faae5bb-7603-445e-954f-fd8a8e40d80c.html",
+      "published_date": "2026-11-10T16:27:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Energia, stop all’acciaio: “Situazione drammatica”. E Meloni difende il decreto bollette",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/10/news/svimez_rapporto_2026_sud_nord_sorpasso-425712762/?rss",
-      "published_date": "2026-11-10T16:17:32+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/economia/2026/11/11/news/energia_acciaio_rincari_industria_meloni_decreto_bollette-425714447/?rss",
+      "published_date": "2026-11-11T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Emilia-Romagna, cooperation accelerates: revenues growing by 4.4%",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/emilia-romagna-cooperazione-accelera-ricavi-crescita-44percento-AJgNTfBC",
-      "published_date": "2026-11-10T16:16:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Italy dresses in history, 110 initiatives for the 2nd day of historical clothes",
+      "title": "Tensione sulle armi all'Ucraina, la Lega avvisa gli alleati",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/10/litalia-si-veste-di-storia-110-iniziative-per-la-2a-giornata-degli-abiti-storici_989b65a0-281c-44e0-a21c-dcd03c007a5d.html",
-      "published_date": "2026-11-10T15:35:37+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/tensione-sulle-armi-allucraina-la-lega-avvisa-gli-alleati_83808254-a528-4178-aee1-ade2f46fc15d.html",
+      "published_date": "2026-11-10T23:09:44+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rediscovering the origins, root tourism as an instrument of cultural diplomacy",
+      "title": "Il sigillo del governo Meloni sulla mostra-omaggio a Rauti alla Camera: c’è il patrocinio del Mic",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/10/news/mostra_omaggio_pino_rauti_msi_meloni_governo_mic-425713319/?rss",
+      "published_date": "2026-11-10T20:38:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni all'Eima difende il dl Bollette e punge la sinistra: \"Abbiamo toccato interessi mai toccati\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/meloni-alleima-difende-il-dl-bollette-e-punge-la-sinistra-abbiamo-toccato-interessi-mai-toccati-b3cf268e-b2d1-4c78-862e-7dd48c20357b.html",
+      "published_date": "2026-11-10T19:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fonti Lega, stupore di Salvini per le banche, possibile ulteriore contributo",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/riscoprire-le-origini-il-turismo-delle-radici-strumento-di-diplomazia-culturale_d99b5be1-ba96-4a23-b3d6-98b4e8f9d29a.html",
-      "published_date": "2026-11-10T15:27:31+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/fonti-lega-stupore-di-salvini-per-le-banche-possibile-ulteriore-contributo_37c40699-6e19-4dc4-b056-78342fe0f0ca.html",
+      "published_date": "2026-11-10T19:38:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Stock market: Milan slows down (+1%) with Europe after the start of Wall Street",
+      "title": "Mattarella difende l'indipendenza delle toghe, 'gli altri poteri non devono condizionarli'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/10/borsa-milano-rallenta-1-con-leuropa-dopo-lavvio-di-wall-street_821a848f-d17c-496d-ad2f-57f55b4f79fd.html",
-      "published_date": "2026-11-10T14:51:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The prosecutor's office is investigating Pregis, a leader in large-scale restaurant distribution, for tax evasion",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/la-procura-indaga-evasione-fiscale-pregis-leader-grande-distribuzione-ristorazione-AJRWdTBC",
-      "published_date": "2026-11-10T14:45:00+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/mattarella-toghe-non-devono-avere-soggezione-di-tipo-gerarchico_e1de678a-708c-4d26-b7a5-f23e92faf14a.html",
+      "published_date": "2026-11-10T18:53:21+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Arrested at 15 for false bomb alarm at school: released on bail in Malta after 5 months",
@@ -659,48 +701,6 @@
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/scuola/2026/11/10/news/scontro_manuale_storia_laterza_valditara-425713365/?rss",
       "published_date": "2026-11-10T17:35:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mattarella: \"Magistrates must not be influenced by other powers. No to the improper use of social media\"",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/11/10/news/mattarella_magistrati_imparzialita_social_giustizia-425713679/?rss",
-      "published_date": "2026-11-10T17:32:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Femicide of Cinzia Pinna, the trial against the confessed criminal Ragnedda begins",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/femminicidio-di-cinzia-pinna-parte-il-processo-contro-il-reo-confesso-ragnedda_c9425782-51b7-4fb7-8488-5315d2880eb1.html",
-      "published_date": "2026-11-10T17:32:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'She received a message from a friend and I killed Martina'",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/le-e-arrivato-il-messaggio-di-un-amico-e-ho-ucciso-martina_7ec330b9-6d3b-425d-b6bf-d38488194298.html",
-      "published_date": "2026-11-10T17:30:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Molise is the only region with fewer inhabitants since the unification of Italy",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/il-molise-e-lunica-regione-con-meno-abitanti-dallunita-ditalia_dd92df11-8092-42f3-870a-2bde94f644a6.html",
-      "published_date": "2026-11-10T17:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake investigation, Review reserves the decision at the end of the river hearing",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/inchiesta-sisma-riesame-si-riserva-la-decisione-al-termine-di-udienza-fiume_c38105c9-3621-4b23-93bb-e6cc0dd5c167.html",
-      "published_date": "2026-11-10T17:27:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government speeds up F-35 fighters and asks for another 7.8 billion. The opposition: “Crosetto report”",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/politica/2026/11/10/news/caccia_f35_governo_spesa_7_miliardi-425712254/?rss",
-      "published_date": "2026-11-10T17:20:47+00:00",
       "category": "Local Events"
     }
   ]
