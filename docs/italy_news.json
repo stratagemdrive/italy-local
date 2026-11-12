@@ -1,8 +1,15 @@
 {
   "country": "Italy",
-  "last_updated": "2026-11-11T18:17:14.111338+00:00",
+  "last_updated": "2026-11-12T03:33:15.411983+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Il Gabinetto Viesseux stringe nuovi rapporti con istituzioni culturali lituane",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/il-gabinetto-viesseux-stringe-nuovi-rapporti-con-istituzioni-culturali-lituane_7c7e3d68-f24f-4b90-8858-93f2197ec053.html",
+      "published_date": "2026-11-11T19:47:36+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The majority summit on the maneuver with Meloni and Giorgetti is underway at Palazzo Chigi",
       "source": "ANSA",
@@ -88,6 +95,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Tajani: 'Fi non vuole vessare le banche, la nostra posizione è diversa dalla Lega'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/tajani-fi-non-vuole-vessare-le-banche-la-nostra-posizione-e-diversa-dalla-lega_02f7edf5-bea9-4d3f-ab18-7b8f3facd2b5.html",
+      "published_date": "2026-11-11T08:52:41+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Forza Italia and Noi moderates, single Tajani-Lupi list idea in the elections",
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/politica/2026/11/11/news/forza_italia_noi_moderati_idea_lista_unica_tajani_lupi_elezioni-425714838/?rss",
@@ -130,24 +144,31 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Libero su cauzione il 15enne italiano da quasi sei mesi in cella a Malta",
+      "title": "Nuovo allarme nei cieli baltici, si alzano i jet della Nato",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/libero-su-cauzione-il-15enne-italiano-da-quasi-sei-mesi-in-cella-a-malta_a3e01cb3-adca-4aed-aa6b-3509d87456a8.html",
-      "published_date": "2026-11-10T18:59:35+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/11/nuovo-allarme-nei-cieli-baltici-si-alzano-i-jet-della-nato_eecd1cc9-00fb-432f-bd42-f0d1bc1895ce.html",
+      "published_date": "2026-11-11T19:02:32+00:00",
+      "category": "Military"
     },
     {
-      "title": "Former Ilva, no agreement with the unions on layoffs",
-      "source": "AGI",
-      "url": "https://www.agi.it/economia/news/2026-11-10/ilva-cassa-integrazione-39967892/",
-      "published_date": "2026-11-10T17:14:41+00:00",
-      "category": "Diplomacy"
+      "title": "\"Mi ha lasciato\", una donna minaccia di suicidarsi in diretta su TikTok, la salvano",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/mi-ha-lasciato-una-donna-minaccia-di-suicidarsi-in-diretta-su-tiktok-la-salvano-73157ce2-ecd0-4a75-8cdb-b8ed6d521fd8.html",
+      "published_date": "2026-11-11T18:31:00+00:00",
+      "category": "Military"
     },
     {
       "title": "Liberman appointed head of the Knesset Defense and Foreign Affairs Committee",
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/11/liberman-nominato-capo-commissione-difesa-e-esteri-della-knesset_5cd1b45a-4b86-432f-88a8-cd5acedbe337.html",
       "published_date": "2026-11-11T15:31:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Uomo trovato morto lungo la statale, caccia al pirata della strada",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/uomo-trovato-morto-lungo-statale-caccia-a-pirata-della-strada_79275767-e152-4a07-b5af-1e5234b73f30.html",
+      "published_date": "2026-11-11T14:39:56+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "Come cambierà la Difesa italiana? AI e nuove tecnologie al centro della Future Defence Conference",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/come-cambiera-la-difesa-italiana-ai-e-nuove-tecnologie-al-centro-della-future-defence-conference-a9ecff06-17e0-4140-8d46-e398b86e950b.html",
-      "published_date": "2026-11-10T18:28:00+00:00",
-      "category": "Military"
+      "title": "Energia, Orsini lancia l’allarme:“Costi fuori scala, gas a 120 euro”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/12/news/energia_acciaio_orsini_allarme_prezzo_gas-425716827/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Tension over weapons in Kiev, the League warns the allies",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/10/ucraina-meloni-sempre-trovata-una-sintesi-la-posizione-dellitalia-non-cambiera_83808254-a528-4178-aee1-ade2f46fc15d.html",
-      "published_date": "2026-11-10T18:08:50+00:00",
-      "category": "Military"
+      "title": "I big pubblici battono le imprese private: Eni, Enel e Gse prime per ricavi, Poste per occupati",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/12/news/i_big_pubblici_battono_le_imprese_private_eni_enel_e_gse_prime_per_ricavi_poste_per_occupati-425716663/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Media, 'Abbas towards recognition of Hamas as a terrorist group'",
+      "title": "L’Onu alla Cop31: petrolio, gas e carbone «sono come i dinosauri, devono scomparire»",
+      "source": "Il Sole 24 Ore",
+      "url": "https://www.ilsole24ore.com/art/l-onu-cop31-petrolio-gas-e-carbone-sono-come-dinosauri-devono-scomparire-AJWQ0hCC",
+      "published_date": "2026-11-11T18:26:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Allarme energia dal Mef alle imprese, 'così impossibile competere'",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/10/media-abbas-verso-riconoscimento-di-hamas-come-gruppo-terroristico_ddb7cdb3-e8bc-40a1-94a4-89b77f46e3af.html",
-      "published_date": "2026-11-10T17:07:35+00:00",
-      "category": "Military"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/11/allarme-energia-dal-mef-alle-imprese-cosi-impossibile-competere_981290b4-d2fc-46df-ae6f-3f25a8b2c77a.html",
+      "published_date": "2026-11-11T18:18:33+00:00",
+      "category": "Energy"
     },
     {
       "title": "The price of gas is rising to 86.5 euros",
@@ -396,32 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Free discounts, doggy bags, telemarketing: new features arriving in the competition bill",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/10/sconti-liberi-doggy-bag-telemarketing-novita-in-arrivo-nel-ddl-concorrenza_179dc0a2-4a31-443c-8ffb-92a187d2293d.html",
-      "published_date": "2026-11-10T17:30:44+00:00",
-      "category": "Energy"
+      "title": "Manovra, coro di critiche. L'Istat: \"Perdite per 3 milioni di famiglie\"",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/video/2026/11/manovra-coro-di-critiche-istat-perdite-per-3-milioni-di-famiglie-salsano-b81f4706-c445-4c98-b7a8-aeef489ef28f.html",
+      "published_date": "2026-11-12T00:31:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Energy, for Plures the Tuscan mayors choose Lanzetta as new CEO",
+      "title": "Decaro: “Il Sud preoccupa e con l’autonomia della Lega, il divario crescerà ancora”",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/10/news/energia_plures_sindaci_toscana_lanzetta_nuovo_ad-425713699/?rss",
-      "published_date": "2026-11-10T17:23:16+00:00",
-      "category": "Energy"
+      "url": "https://bari.repubblica.it/cronaca/2026/11/12/news/decaro_sud_preoccupa_con_autonomia_lega_divario_crescera-425716756/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The price of gas is rising to 85 euros",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/10/il-prezzo-del-gas-e-in-crescita-a-85-euro_757e93bb-fd6c-4ca4-86aa-ca94a9c8334f.html",
-      "published_date": "2026-11-10T17:18:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "New nuclear power, up to 46 billion market for the Italian supply chain",
+      "title": "Pensioni, ecco perché l’Inps ha fatto retromarcia sui tempi della rivalutazione",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/rapporti/energitalia/trasformazione/2026/11/10/news/nuovo_nucleare_fino_a_46_miliardi_di_mercato_per_la_filiera_italiana-425713628/?rss",
-      "published_date": "2026-11-10T16:47:58+00:00",
-      "category": "Energy"
+      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/12/news/pensioni_ecco_perche_inps_ha_fatto_retromarcia_su_rivalutazione-425716557/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Con la flat tax 8mila euro di calo delle tasse, dal taglio Irpef 450 euro",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/11/con-la-flat-tax-8mila-euro-di-calo-delle-tasse-dal-taglio_1cdb337a-67bc-484f-9ac1-be18d2a68df2.html",
+      "published_date": "2026-11-11T19:46:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Manovra, audizioni in Parlamento e vertice di rifinitura a Palazzo Chigi",
+      "source": "Rai News",
+      "url": "https://www.rainews.it/articoli/2026/11/manovra-audizioni-in-parlamento-e-vertice-di-rifinitura-a-palazzo-chigi-dfc3900d-90ae-4d5c-bd47-312f00d1a6e0.html",
+      "published_date": "2026-11-11T18:19:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Pier Silvio Berlusconi: 'Neither I nor Marina will go into politics'. They keep the accounts of Mfe",
@@ -463,6 +498,13 @@
       "source": "la Repubblica",
       "url": "https://www.repubblica.it/cronaca/2026/11/11/news/fuga_br_leonardo_bertulazzi_cosa_e_successo-425714782/?rss",
       "published_date": "2026-11-11T16:08:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La fuga di Bertulazzi in un video, messa una taglia da 11mila euro",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/la-fuga-di-bertulazzi-in-un-video-messa-una-taglia-da-11mila-euro_b32065cd-f0ab-4689-a7bd-44e2ffc4f484.html",
+      "published_date": "2026-11-11T15:57:38+00:00",
       "category": "Economy"
     },
     {
@@ -522,46 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Maneuver, Istat: \"For 3.5 million pensioners 510 euros less on average compared to current rules\"",
+      "title": "“Sei qui e non avvisi”, “E tu mi boicotti”: in Forza Italia è rissa continua",
       "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/2026/11/11/news/manovra_istat_confindustria_audizioni-425715661/?rss",
-      "published_date": "2026-11-11T14:37:09+00:00",
-      "category": "Economy"
+      "url": "https://www.repubblica.it/politica/2026/11/12/news/forza_italia_rissa_zangrillo_martusciello-425716819/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Origins tourism, Sarli 'greater confidence in the sector from Roots-In 2026'",
+      "title": "Allarme bombe nelle scuole, Meloni: “Vogliono creare panico”. E convoca per oggi le opposizioni",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/12/news/meloni_vogliono_creare_panico_convoca_opposizioni-425716813/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meloni teme l’escalation: nel mirino stazioni e ospedali. Salvini avvia le simulazioni di crisi",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/politica/2026/11/12/news/meloni_teme_escalation_stazioni_ospedali_salvini_avvia_simulazioni_crisi-425716807/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manovra, sì alle modifiche. “Solo ritocchi mirati, senza alterare i conti”",
+      "source": "la Repubblica",
+      "url": "https://www.repubblica.it/economia/2026/11/12/news/manovra_governo_vertice_meloni-425716833/?rss",
+      "published_date": "2026-11-12T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Giorgetti firma il decreto sugli aiuti per l'Ucraina",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/turismo-delle-origini-sarli-dal-roots-in-2026-maggiore-fiducia-nel_daf45ae1-ae4f-4202-aa91-37b8248d2616.html",
-      "published_date": "2026-11-11T14:31:39+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/11/giorgetti-firma-il-decreto-sugli-aiuti-per-lucraina_b648dcea-dfe2-46ea-a32a-cd39a42789cb.html",
+      "published_date": "2026-11-11T22:09:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Maneuver, Confindustria: 43% of coverage by companies. Istat: savings of 8 thousand euros with Flat tax",
+      "title": "'Non cambieranno il calendario delle scuole', e Meloni chiama le opposizioni",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/non-cambieranno-il-calendario-delle-scuole-e-meloni-chiama-le-opposizioni_777ad9b7-5940-4f12-a318-bab5b8c213c7.html",
+      "published_date": "2026-11-11T20:34:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Vi annienteremo', l'allarme bomba in 6.000 scuole italiane. Meloni: 'Strategia per il caos'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/vi-annienteremo-lallarme-bomba-in-6.000-scuole-italiane.-meloni-strategia-per-il-caos_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
+      "published_date": "2026-11-11T20:20:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cegeka investe nel basso Lazio: nuovo centro IT con 100 assunzioni",
       "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/manovra-confindustria-43percento-coperture-imprese-istat-risparmi-8mila-euro-flat-tax-AJDE3mCC",
-      "published_date": "2026-11-11T14:29:00+00:00",
-      "category": "Economy"
+      "url": "https://www.ilsole24ore.com/art/cegeka-investe-basso-lazio-nuovo-centro-it-100-assunzioni-AJZEl79B",
+      "published_date": "2026-11-11T20:09:13+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Pension funds at 273 billion, less than 20% invested in Italy",
+      "title": "Meloni, non permetteremo a una mail anonima di decidere il calendario scolastico",
       "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/11/fondi-pensione-a-273-miliardi-meno-del-20-investito-in-italia_646c8471-5e26-46be-9ccc-f407b3d39c53.html",
-      "published_date": "2026-11-11T14:26:39+00:00",
-      "category": "Economy"
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/meloni-non-permetteremo-a-una-mail-anonima-di-decidere-il-calendario-scolastico_31ae6deb-ae3f-45c2-9a32-86db9fb760a9.html",
+      "published_date": "2026-11-11T19:07:54+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tax, inflation eats up discounts: 1,100 euros lost versus 1,000 returned",
-      "source": "la Repubblica",
-      "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/11/news/fisco_istat_fiscal_drag_si_mangia_sconti_manovra-425715760/?rss",
-      "published_date": "2026-11-11T14:21:05+00:00",
-      "category": "Economy"
+      "title": "Il centrosinistra alla prova dell'Ucraina. Schlein: 'Troveremo l'intesa'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/il-centrosinistra-alla-prova-dellucraina.-schlein-troveremo-lintesa_06a72812-8097-48da-b03b-23be17be0087.html",
+      "published_date": "2026-11-11T18:59:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A lot of work and few words. So Fitto has cashed in on Pnrr and flexibility",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/molto-lavoro-e-poche-parole-cosi-fitto-ha-incassato-pnrr-e-flessibilita/",
-      "published_date": "2026-11-11T14:15:47+00:00",
-      "category": "Economy"
+      "title": "Futuro nazionale, 'arrivato ora l'invito al tavolo di P.Chigi sugli attacchi hacker'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/futuro-nazionale-arrivato-ora-linvito-al-tavolo-di-p.chigi-sugli-attacchi-hacker_ad3dd630-59f2-47ae-9d38-dac40a21eeea.html",
+      "published_date": "2026-11-11T18:31:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niente allarmi in Alto Adige e Valle d'Aosta, 'mail diversa'",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/niente-allarmi-in-alto-adige-e-valle-daosta-mail-diversa_9c0be9b9-b771-4d7b-bb3f-fda0733f56cd.html",
+      "published_date": "2026-11-11T18:13:52+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Two workers died in the L'Aquila area, renovating a historic building damaged by the 2009 earthquake",
@@ -617,90 +701,6 @@
       "source": "ANSA",
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/confessa-in-aula-il-femminicidio-della-compagna-lho-uccisa-io_3e9d6fdf-b855-43ef-836f-7f92517e43ed.html",
       "published_date": "2026-11-11T17:21:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Home, by 2050 for 3.7 million families housing that is too expensive or in the wrong place",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/casa-2050-37-milioni-famiglie-alloggi-troppo-cari-o-posto-sbagliato-AJAJewBC",
-      "published_date": "2026-11-11T17:11:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomb scare, the anxiety of students forced to leave their cell phones in class",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-lansia-degli-studenti-costretti-a-lasciare-in-cellulare-in-classe_bef17e2d-39df-4503-b461-03418f8b9b1a.html",
-      "published_date": "2026-11-11T17:08:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meeting at Palazzo Chigi on bomb scares in schools",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/11/riunione-a-palazzo-chigi-sugli-allarmi-bomba-nelle-scuole_bbfe404b-b4bf-4df3-b225-a8694c190f74.html",
-      "published_date": "2026-11-11T16:54:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "S.Egidio mourns the death of Juvencio, a young peace activist killed in Mozambique",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/11/s.egidio-piange-la-morte-di-juvencio-giovane-per-la-pace-ucciso-in-mozambico_4a64671f-94a5-48d6-8031-42e1a8415fbc.html",
-      "published_date": "2026-11-11T16:45:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miba Levante, the construction supply chain meets in Bari",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/miba-levante-filiera-costruzioni-incontra-bari-AJrDOxCC",
-      "published_date": "2026-11-11T16:32:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bad weather, the wave of the Atlantic storm on Italy: heavy rain and snow in the Alps",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/articoli/2026/11/lallerta-meteo-maltempo-londa-della-tempesta-atlantica-sullitalia-forti-piogge-e-neve-sulle-alpi-dd1a6bb5-d089-442a-9039-4d5bdfa6bef7.html",
-      "published_date": "2026-11-11T16:29:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomb alerts in 6 thousand schools, students evacuated throughout Italy. Meloni calls summit",
-      "source": "Rai News",
-      "url": "https://www.rainews.it/maratona/2026/11/allarmi-bomba-in-oltre-cento-scuole-in-tutta-italia-mail-agli-istituti-studenti-evacuati-6fdcb91e-5ac8-48bf-85e9-8ab4fecf3e5c.html",
-      "published_date": "2026-11-11T16:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The case of Trentino Alto Agide, no school involved in the bomb threat",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/il-caso-del-trentino-alto-agide-nessuna-scuola-coinvolta-nellallarme-bomba_b243072e-a068-43d3-be5e-cdc1a5411dc0.html",
-      "published_date": "2026-11-11T16:02:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Femicide of Ramona Rinaldi, her partner Daniele Re confesses in court: \"I'm guilty\"",
-      "source": "la Repubblica",
-      "url": "https://milano.repubblica.it/cronaca/2026/11/11/news/femminicidio_ramona_rinaldi_compagno_daniele_re_confessa_in_aula-425715441/?rss",
-      "published_date": "2026-11-11T15:54:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red alert for bad weather in Tuscany, orange in three regions",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allerta-rossa-per-maltempo-in-toscana-arancione-in-tre-regioni_8e24ea9c-68bc-4518-aeea-5487ea4ee781.html",
-      "published_date": "2026-11-11T15:53:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Italy responds to Russia: pizza is democratic and of high quality",
-      "source": "Il Sole 24 Ore",
-      "url": "https://www.ilsole24ore.com/art/l-italia-risponde-russia-pizza-e-democratica-e-elevata-qualita-AJK1V0BC",
-      "published_date": "2026-11-11T15:52:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National security, Meloni calls the opposition to Palazzo Chigi. Picierno's applause",
-      "source": "Formiche",
-      "url": "https://formiche.net/2026/11/sicurezza-nazionale-meloni-chiama-le-opposizioni-a-palazzo-chigi-il-plauso-di-picierno/",
-      "published_date": "2026-11-11T15:43:49+00:00",
       "category": "Local Events"
     }
   ]
